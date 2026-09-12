@@ -113,7 +113,7 @@ export const families = [
     "citation": "WHO Regional Office for Europe. Well-Being Measures in Primary Health Care: The DepCare Project. 1998.",
     "identifier": "WHO/EURO报告 E60246",
     "sourceUrl": "https://www.who.int/publications/m/item/WHO-UCN-MSD-MHE-2024.01",
-    "chinese": "WHO于2024年发布Chinese PR官方语言版；另有大陆人群验证",
+    "chinese": "WHO网站收录2007年9月中文译本；具体译文与验证研究匹配待核查",
     "copyrightRisk": "低",
     "verification": "非商业校内使用可依CC BY-NC-SA 3.0 IGO展示官方材料并署名；原始分0–25与百分制0–100须分开；筛查阈值绑定人群和用途",
     "status": "家族首轮核验完成"
@@ -1144,7 +1144,7 @@ export const versions = [
     "relation": "基准",
     "population": "一般人群、患者及青少年研究",
     "scoring": "非商业校内使用可依CC BY-NC-SA 3.0 IGO展示官方材料并署名；原始分0–25与百分制0–100须分开；筛查阈值绑定人群和用途",
-    "chinese": "WHO于2024年发布Chinese PR官方语言版；另有大陆人群验证",
+    "chinese": "WHO网站收录2007年9月中文译本；具体译文与验证研究匹配待核查",
     "copyrightRisk": "低",
     "status": "家族首轮核验完成"
   },

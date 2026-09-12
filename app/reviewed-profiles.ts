@@ -5,6 +5,52 @@ const p=(text:string,path:string,label:string):EvidenceParagraph=>({text,source:
 const scope=p('抑郁维度关注情绪低落、兴趣或愉悦感减少、自我贬低与缺乏主动性；焦虑维度侧重自主神经唤起、躯体紧张及恐惧体验；压力维度关注难以放松、持续紧绷、易激惹及不耐烦。三个维度相关，但测量内容不同。','over.htm','开发者对测量构念的定义');
 const restriction=p('本页用于研究者选表和获取施测资料，不提供公众自测或自动诊断。开发者对开放网站施测、结果反馈有专门要求；正式实施调查前应核对。','DASSFAQ.htm','官方FAQ第9、21项');
 export const reviewedProfiles:Record<string,ReviewedProfile>={
+ 'VR-PH-007-BASE':{
+  "reviewed": "2026-09-12",
+  "definition": [
+    {
+      "text": "WHO-5（世界卫生组织五项心理幸福感指数）是一份5题自评工具，询问过去两周的积极心理状态，包括愉快、平静、活力、醒后恢复感和日常兴趣。它帮助研究者描述心理幸福感水平及其变化；不直接诊断抑郁症，也不覆盖健康相关生活质量的全部领域。",
+      "source": "https://cdn.who.int/media/docs/default-source/mental-health/who-5_english-original4da539d6ed4b49389e3afe47cda2326a.pdf?download=true&sfvrsn=ed43f352_11",
+      "label": "WHO 2024英文原件"
+    },
+    {
+      "text": "该工具由Per Bech及其所在中心于20世纪90年代发展。2024年WHO接受版权并重新出版；2024是本文件的再版年份，不能当作量表最初开发年份。",
+      "source": "https://cdn.who.int/media/docs/default-source/mental-health/who-5_english-original4da539d6ed4b49389e3afe47cda2326a.pdf?download=true&sfvrsn=ed43f352_11",
+      "label": "WHO 2024英文原件"
+    }
+  ],
+  "scoring": [
+    {
+      "text": "每题按正式六级选项计0–5分，5题相加为0–25原始分，再乘4得到0–100分。分数越高表示心理幸福感越好；五题均正向表述，无需反向计分。报告必须说明采用原始分还是转换分。",
+      "source": "https://cdn.who.int/media/docs/default-source/mental-health/who-5_english-original4da539d6ed4b49389e3afe47cda2326a.pdf?download=true&sfvrsn=ed43f352_11",
+      "label": "WHO 2024英文原件"
+    },
+    {
+      "text": "当前英文说明建议原始总分低于13分时进一步评估心理健康状况；这不是确诊抑郁症的标准。旧中文表另列任一题0分或1分的进一步评估建议，使用时应明确采用哪份说明，不能将不同文件的规则混合后称为统一标准。",
+      "source": "https://cdn.who.int/media/docs/default-source/mental-health/who-5_english-original4da539d6ed4b49389e3afe47cda2326a.pdf?download=true&sfvrsn=ed43f352_11",
+      "label": "WHO 2024英文原件"
+    },
+    {
+      "text": "当前英文文件未给出缺失题目的统一计分算法。若有漏答，应预先规定处理办法并说明依据，不应直接将漏答计为0分。",
+      "source": "https://cdn.who.int/media/docs/default-source/mental-health/who-5_english-original4da539d6ed4b49389e3afe47cda2326a.pdf?download=true&sfvrsn=ed43f352_11",
+      "label": "WHO 2024英文原件"
+    }
+  ],
+  "translations": [
+    {
+      "label": "WHO网站收录的中文译本（2007年9月，标注1998年版）",
+      "url": "https://cdn.who.int/media/docs/default-source/mental-health/who-5_chinese.pdf?download=true&sfvrsn=ed43f352_11",
+      "note": "由Xu等翻译、Volinn协调。WHO附加说明指出该翻译早于2024年版权转让，不保证译文准确性，冲突以英文为准。具体译文与中文验证研究的对应关系仍在核查。"
+    }
+  ],
+  "limits": [
+    {
+      "text": "英文2024版采用CC BY-NC-SA 3.0 IGO许可，要求非商业使用、适当署名及适用的相同方式共享；不得使用WHO标志或暗示WHO背书。旧中文译本的具体转载条件仍需单独确认，当前提供原件链接。",
+      "source": "https://cdn.who.int/media/docs/default-source/mental-health/who-5_english-original4da539d6ed4b49389e3afe47cda2326a.pdf?download=true&sfvrsn=ed43f352_11",
+      "label": "WHO 2024英文原件"
+    }
+  ]
+},
  'VR-PH-003-006':{
   reviewed:'2026-09-12',
   definition:[p('DASS-42是由42个自评条目组成的抑郁—焦虑—压力量表，分别量化过去一周三类负性情绪状态的程度，每个维度14题。它适用于描述症状水平及其变化，不直接判定某一种精神障碍。','over.htm','官方概述'),scope],
