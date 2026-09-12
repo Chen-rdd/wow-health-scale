@@ -2329,5 +2329,521 @@ export const verifiedForms:VerifiedForm[] = [
     "translationEvidence": "香港卫生署学生健康服务译本；原件已核对，匹配的独立验证证据仍待补充。",
     "usage": "保留正式题文和本译本选项。三个维度各0–21分，不乘2，不套成人常模。此处供研究者查阅，不提供公众答题或诊断。",
     "exportReady": false
+  },
+  {
+    "id": "phq-9-en",
+    "versionId": "VR-PH-001-BASE",
+    "label": "PHQ-9：官方英文表",
+    "language": "en",
+    "itemCount": 9,
+    "sourceUrl": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/PHQ-9_English.pdf",
+    "sourceSha256": "e3fb5b8853e3530c9025c822b99fd4f4bc17da49eefda5ed689c49238c132a46",
+    "scoringSource": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+    "rightsSource": "https://www.phqscreeners.com/select-screener",
+    "instructions": "Over the last 2 weeks, how often have you been bothered by any of the following problems? (Use “✔” to indicate your answer)",
+    "options": [
+      {
+        "label": "Not at all",
+        "value": 0
+      },
+      {
+        "label": "Several days",
+        "value": 1
+      },
+      {
+        "label": "More than half the days",
+        "value": 2
+      },
+      {
+        "label": "Nearly every day",
+        "value": 3
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "text": "Little interest or pleasure in doing things",
+        "dimension": "total",
+        "originalItem": 1,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 2,
+        "text": "Feeling down, depressed, or hopeless",
+        "dimension": "total",
+        "originalItem": 2,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 3,
+        "text": "Trouble falling or staying asleep, or sleeping too much",
+        "dimension": "total",
+        "originalItem": 3,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 4,
+        "text": "Feeling tired or having little energy",
+        "dimension": "total",
+        "originalItem": 4,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 5,
+        "text": "Poor appetite or overeating",
+        "dimension": "total",
+        "originalItem": 5,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 6,
+        "text": "Feeling bad about yourself — or that you are a failure or have let yourself or your family down",
+        "dimension": "total",
+        "originalItem": 6,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 7,
+        "text": "Trouble concentrating on things, such as reading the newspaper or watching television",
+        "dimension": "total",
+        "originalItem": 7,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 8,
+        "text": "Moving or speaking so slowly that other people could have noticed? Or the opposite — being so fidgety or restless that you have been moving around a lot more than usual",
+        "dimension": "total",
+        "originalItem": 8,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 9,
+        "text": "Thoughts that you would be better off dead or of hurting yourself in some way",
+        "dimension": "total",
+        "originalItem": 9,
+        "sourcePage": 1,
+        "reverse": false
+      }
+    ],
+    "dimensions": {
+      "total": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "rawSubscaleRange": [
+      0,
+      27
+    ],
+    "comparisonMultiplier": 1,
+    "review": {
+      "text": "visually-checked-against-official-pdf",
+      "scoring": "official-manual-verified",
+      "translationValidation": "original-study-pending"
+    },
+    "respondentScoringEnabled": false,
+    "verifiedAt": "2026-09-12",
+    "translationEvidence": "PHQ Screeners官方目录所列具体表单。目录收录与获得转载许可不等于在所有人群完成验证；中文研究的具体题文匹配仍在核查。",
+    "usage": "保留官方题文与选项。开发者允许复制、翻译、展示及分发；评分用于症状评估或筛查，不能单凭总分确诊。",
+    "exportReady": false,
+    "supplementaryItems": [
+      {
+        "text": "If you checked off any problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?",
+        "options": [
+          "Not difficult at all",
+          "Somewhat difficult",
+          "Very difficult",
+          "Extremely difficult"
+        ],
+        "scored": false
+      }
+    ]
+  },
+  {
+    "id": "phq-9-zh-mainland",
+    "versionId": "VR-PH-001-BASE",
+    "label": "PHQ-9：官方目录大陆简体中文表",
+    "language": "zh-Hans",
+    "itemCount": 9,
+    "sourceUrl": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/PHQ9_Simplified%20Chinese%20for%20Mainland%20China.pdf",
+    "sourceSha256": "09a8afdec1546b54162850faae7b9bc43d53879e9cbe8b8e1263e67ff254b095",
+    "scoringSource": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+    "rightsSource": "https://www.phqscreeners.com/select-screener",
+    "instructions": "在过去两周，您经常受到以下问题的困扰吗？（请用“✔”勾选您的答案）",
+    "options": [
+      {
+        "label": "从来沒有",
+        "value": 0
+      },
+      {
+        "label": "有几天",
+        "value": 1
+      },
+      {
+        "label": "刚超过一半天数",
+        "value": 2
+      },
+      {
+        "label": "接近每天",
+        "value": 3
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "text": "做任何事都觉得沉闷或者根本不想做任何事",
+        "dimension": "total",
+        "originalItem": 1,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 2,
+        "text": "情绪低落、抑郁或绝望",
+        "dimension": "total",
+        "originalItem": 2,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 3,
+        "text": "难于入睡；半夜会醒，或相反，睡觉时间过多",
+        "dimension": "total",
+        "originalItem": 3,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 4,
+        "text": "觉得疲倦或沒有活力",
+        "dimension": "total",
+        "originalItem": 4,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 5,
+        "text": "胃口极差或饮食过量",
+        "dimension": "total",
+        "originalItem": 5,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 6,
+        "text": "不喜欢自己──觉得自己做得不好、对自己失望或有负家人期望",
+        "dimension": "total",
+        "originalItem": 6,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 7,
+        "text": "难于集中精神做事，例如看报纸或看电视",
+        "dimension": "total",
+        "originalItem": 7,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 8,
+        "text": "其它人反映你行动或说话迟缓；或者相反，你比平常活动更多──坐立不安、停不下来",
+        "dimension": "total",
+        "originalItem": 8,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 9,
+        "text": "想到自己最好去死或者自残",
+        "dimension": "total",
+        "originalItem": 9,
+        "sourcePage": 1,
+        "reverse": false
+      }
+    ],
+    "dimensions": {
+      "total": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "rawSubscaleRange": [
+      0,
+      27
+    ],
+    "comparisonMultiplier": 1,
+    "review": {
+      "text": "visually-checked-against-official-pdf",
+      "scoring": "official-manual-verified",
+      "translationValidation": "pending-exact-text-study-match"
+    },
+    "respondentScoringEnabled": false,
+    "verifiedAt": "2026-09-12",
+    "translationEvidence": "PHQ Screeners官方目录所列具体表单。目录收录与获得转载许可不等于在所有人群完成验证；中文研究的具体题文匹配仍在核查。",
+    "usage": "保留官方题文与选项。开发者允许复制、翻译、展示及分发；评分用于症状评估或筛查，不能单凭总分确诊。",
+    "exportReady": false,
+    "supplementaryItems": [
+      {
+        "text": "如果你选出以上任何问题，这些问题对你的工作、处理家中事务或与人相处时来说造成多大困难？",
+        "options": [
+          "完全沒有困难",
+          "有一些困难",
+          "非常困难",
+          "极度困难"
+        ],
+        "scored": false
+      }
+    ]
+  },
+  {
+    "id": "gad-7-en",
+    "versionId": "VR-PH-002-BASE",
+    "label": "GAD-7：官方英文表",
+    "language": "en",
+    "itemCount": 7,
+    "sourceUrl": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/GAD-7_English.pdf",
+    "sourceSha256": "180538a8e3f2f3cb012f9991d1b307d3d14720e82bf0593f8853f4885740ce48",
+    "scoringSource": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+    "rightsSource": "https://www.phqscreeners.com/select-screener",
+    "instructions": "Over the last 2 weeks, how often have you been bothered by the following problems? (Use “✔” to indicate your answer)",
+    "options": [
+      {
+        "label": "Not at all",
+        "value": 0
+      },
+      {
+        "label": "Several days",
+        "value": 1
+      },
+      {
+        "label": "More than half the days",
+        "value": 2
+      },
+      {
+        "label": "Nearly every day",
+        "value": 3
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "text": "Feeling nervous, anxious or on edge",
+        "dimension": "total",
+        "originalItem": 1,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 2,
+        "text": "Not being able to stop or control worrying",
+        "dimension": "total",
+        "originalItem": 2,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 3,
+        "text": "Worrying too much about different things",
+        "dimension": "total",
+        "originalItem": 3,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 4,
+        "text": "Trouble relaxing",
+        "dimension": "total",
+        "originalItem": 4,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 5,
+        "text": "Being so restless that it is hard to sit still",
+        "dimension": "total",
+        "originalItem": 5,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 6,
+        "text": "Becoming easily annoyed or irritable",
+        "dimension": "total",
+        "originalItem": 6,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 7,
+        "text": "Feeling afraid as if something awful might happen",
+        "dimension": "total",
+        "originalItem": 7,
+        "sourcePage": 1,
+        "reverse": false
+      }
+    ],
+    "dimensions": {
+      "total": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "rawSubscaleRange": [
+      0,
+      21
+    ],
+    "comparisonMultiplier": 1,
+    "review": {
+      "text": "visually-checked-against-official-pdf",
+      "scoring": "official-manual-verified",
+      "translationValidation": "original-study-pending"
+    },
+    "respondentScoringEnabled": false,
+    "verifiedAt": "2026-09-12",
+    "translationEvidence": "PHQ Screeners官方目录所列具体表单。目录收录与获得转载许可不等于在所有人群完成验证；中文研究的具体题文匹配仍在核查。",
+    "usage": "保留官方题文与选项。开发者允许复制、翻译、展示及分发；评分用于症状评估或筛查，不能单凭总分确诊。",
+    "exportReady": false
+  },
+  {
+    "id": "gad-7-zh-mainland",
+    "versionId": "VR-PH-002-BASE",
+    "label": "GAD-7：官方目录大陆简体中文表",
+    "language": "zh-Hans",
+    "itemCount": 7,
+    "sourceUrl": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/GAD7_Simplified%20Chinese%20for%20Mainland%20China.pdf",
+    "sourceSha256": "d5ce79b071f5648876bf23a5640236746bd567571c6c5095046a76806884557f",
+    "scoringSource": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+    "rightsSource": "https://www.phqscreeners.com/select-screener",
+    "instructions": "在过去两周，您经常受到以下问题的困扰吗？（请用“✔”勾选您的答案）",
+    "options": [
+      {
+        "label": "从来没有",
+        "value": 0
+      },
+      {
+        "label": "有几天",
+        "value": 1
+      },
+      {
+        "label": "刚超过一半天数",
+        "value": 2
+      },
+      {
+        "label": "接近每天",
+        "value": 3
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "text": "感觉心神不安、焦虑或高度紧张",
+        "dimension": "total",
+        "originalItem": 1,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 2,
+        "text": "不能停止或控制担心",
+        "dimension": "total",
+        "originalItem": 2,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 3,
+        "text": "为各种各样的事情过度担心",
+        "dimension": "total",
+        "originalItem": 3,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 4,
+        "text": "难以放松",
+        "dimension": "total",
+        "originalItem": 4,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 5,
+        "text": "非常不安静以至于难以坐定",
+        "dimension": "total",
+        "originalItem": 5,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 6,
+        "text": "变得易恼火或易急躁",
+        "dimension": "total",
+        "originalItem": 6,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 7,
+        "text": "害怕发生可怕的事情",
+        "dimension": "total",
+        "originalItem": 7,
+        "sourcePage": 1,
+        "reverse": false
+      }
+    ],
+    "dimensions": {
+      "total": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "rawSubscaleRange": [
+      0,
+      21
+    ],
+    "comparisonMultiplier": 1,
+    "review": {
+      "text": "visually-checked-against-official-pdf",
+      "scoring": "official-manual-verified",
+      "translationValidation": "pending-exact-text-study-match"
+    },
+    "respondentScoringEnabled": false,
+    "verifiedAt": "2026-09-12",
+    "translationEvidence": "PHQ Screeners官方目录所列具体表单。目录收录与获得转载许可不等于在所有人群完成验证；中文研究的具体题文匹配仍在核查。",
+    "usage": "保留官方题文与选项。开发者允许复制、翻译、展示及分发；评分用于症状评估或筛查，不能单凭总分确诊。",
+    "exportReady": false
   }
 ];

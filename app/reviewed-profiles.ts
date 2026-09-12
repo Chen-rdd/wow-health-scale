@@ -5,6 +5,108 @@ const p=(text:string,path:string,label:string):EvidenceParagraph=>({text,source:
 const scope=p('抑郁维度关注情绪低落、兴趣或愉悦感减少、自我贬低与缺乏主动性；焦虑维度侧重自主神经唤起、躯体紧张及恐惧体验；压力维度关注难以放松、持续紧绷、易激惹及不耐烦。三个维度相关，但测量内容不同。','over.htm','开发者对测量构念的定义');
 const restriction=p('本页用于研究者选表和获取施测资料，不提供公众自测或自动诊断。开发者对开放网站施测、结果反馈有专门要求；正式实施调查前应核对。','DASSFAQ.htm','官方FAQ第9、21项');
 export const reviewedProfiles:Record<string,ReviewedProfile>={
+"VR-PH-002-BASE":{
+  "reviewed": "2026-09-12",
+  "definition": [
+    {
+      "text": "GAD-7（广泛性焦虑障碍七项量表）是一份自评症状工具，最初面向基层医疗中的广泛性焦虑问题开发。内容包括紧张、难以控制担忧、过度担忧、难以放松、坐立不安、易激惹及害怕不良事情发生，用于筛查和量化焦虑症状；不能单凭分数确诊某一种焦虑障碍。",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/16717171/",
+      "label": "Spitzer等，2006开发研究"
+    },
+    {
+      "text": "GAD-7在PHQ之后独立开发，后来纳入PHQ-SADS组合；它不是完整PHQ中旧焦虑模块的直接同名复制。GAD-2取其前两题形成超短筛查形式。",
+      "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "label": "开发者使用手册"
+    }
+  ],
+  "scoring": [
+    {
+      "text": "评估过去两周，七题各0–3分，总分0–21分，无反向题。5、10、15是常用严重程度分界，需结合研究人群解释。功能影响信息不能擅自加入七题总分。",
+      "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "label": "开发者使用手册"
+    }
+  ],
+  "translations": [
+    {
+      "label": "GAD-7：官方英文表",
+      "url": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/GAD-7_English.pdf",
+      "note": "已对照官方原件核对题目和选项。"
+    },
+    {
+      "label": "GAD-7：官方目录大陆简体中文表",
+      "url": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/GAD7_Simplified%20Chinese%20for%20Mainland%20China.pdf",
+      "note": "已对照官方目录大陆简体表核对；香港、台湾等其他译本已取得，尚未完成逐题审核。"
+    }
+  ],
+  "limits": [
+    {
+      "text": "中文版本应按具体地区和正式题文选择。官方提供译本不意味着已在所有目标人群验证。未确定漏答规则时，不进行自动插补或生成诊断。",
+      "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "label": "开发者使用手册"
+    },
+    {
+      "text": "开发者允许复制、翻译、展示和分发官网量表，保留开发者署名及具体来源。",
+      "source": "https://www.phqscreeners.com/select-screener",
+      "label": "官方使用说明"
+    }
+  ]
+},
+"VR-PH-001-BASE":{
+  "reviewed": "2026-09-12",
+  "definition": [
+    {
+      "text": "PHQ-9（患者健康问卷九项抑郁量表）是完整PHQ中的抑郁模块，采用自评方式量化抑郁症状严重程度。九题对应抑郁相关症状，涉及兴趣、情绪、睡眠、精力、食欲、自我评价、注意力、精神运动变化及死亡或自伤想法。它可用于筛查和追踪症状，但分数本身不能完成临床诊断。",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11556941/",
+      "label": "Kroenke等，2001原始验证研究"
+    },
+    {
+      "text": "原始研究包括基层医疗和妇产科就诊者。将其用于儿童、其他特定人群或不同语言时，应另核对适用性；成人PHQ-9也不能与PHQ-A或其他青少年改编表混称。",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11556941/",
+      "label": "原始研究样本"
+    }
+  ],
+  "scoring": [
+    {
+      "text": "回顾过去两周，每题按频率计0–3分，九题相加为0–27分；高分表示症状更重。原表的功能受影响附加题不计入总分。",
+      "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "label": "开发者使用手册"
+    },
+    {
+      "text": "5、10、15、20是原始研究所用症状严重程度分界；阈值表现依人群和用途而变，不等于确诊。",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11556941/",
+      "label": "原始研究评分解释"
+    }
+  ],
+  "translations": [
+    {
+      "label": "PHQ-9：官方英文表",
+      "url": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/PHQ-9_English.pdf",
+      "note": "已对照官方原件核对题目和选项。"
+    },
+    {
+      "label": "PHQ-9：官方目录大陆简体中文表",
+      "url": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/PHQ9_Simplified%20Chinese%20for%20Mainland%20China.pdf",
+      "note": "已对照官方目录大陆简体表核对；香港、台湾等其他译本已取得，尚未完成逐题审核。"
+    }
+  ],
+  "limits": [
+    {
+      "text": "第9题阳性需要进一步评估，不能仅凭该题或总分判断自伤风险。调查实施前应安排相应的专业评估和转介流程。",
+      "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "label": "开发者使用手册"
+    },
+    {
+      "text": "本目录中文原件已取得并核对；具体译文与中文验证研究的逐项对应尚未完成。未设定有来源的漏答规则前，不自动补零或插补。",
+      "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "label": "开发者使用手册"
+    },
+    {
+      "text": "开发者允许复制、翻译、展示和分发官网量表，保留开发者署名及具体来源。",
+      "source": "https://www.phqscreeners.com/select-screener",
+      "label": "官方使用说明"
+    }
+  ]
+},
  'VR-PH-007-BASE':{
   "reviewed": "2026-09-12",
   "definition": [

@@ -6,4 +6,5 @@ export type VerifiedForm={
  dimensions:Record<string,number[]>;rawSubscaleRange:number[];comparisonMultiplier:number;
  review:{text:string;scoring:string;translationValidation:string};
  respondentScoringEnabled:boolean;verifiedAt:string;translationEvidence:string;usage:string;exportReady:boolean;
+ supplementaryItems?:{text:string;options:string[];scored:false}[];
 };
