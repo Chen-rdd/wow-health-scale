@@ -41,13 +41,13 @@ export const families = [
     "plannedVersions": "DASS-42与DASS-21为核心；其他短版和DASS-Y分别建档",
     "priority": "核心",
     "target": "抑郁、焦虑和压力",
-    "population": "成人；DASS-Y面向7–18岁",
+    "population": "成人版与青年版分别选择；DASS-Y开发者当前说明为8–17岁",
     "citation": "Lovibond SH, Lovibond PF. Manual for the Depression Anxiety Stress Scales. 2nd ed. 1995.",
     "identifier": "ISBN/手册",
     "sourceUrl": "https://dass.psy.unsw.edu.au/",
-    "chinese": "存在官方中文下载及多项验证研究",
+    "chinese": "已取得多个官方中文译本；部分已完成题目核对，目标人群验证按具体译本记录",
     "copyrightRisk": "低至中",
-    "verification": "中文版文本来源需按简繁体和地区记录；新短版不可默认沿用DASS-21计分或阈值",
+    "verification": "逐译本核对；DASS-21成人短版与DASS-Y均为21题但不能混用计分和常模",
     "status": "家族首轮核验完成"
   },
   {
@@ -2204,11 +2204,11 @@ export const versions = [
     "itemCount": "42题",
     "parent": "",
     "relation": "开发",
-    "population": "成人",
-    "scoring": "三个14题分量表",
-    "chinese": "官方中文存在",
+    "population": "成人；用于其他年龄和特殊人群须核对理解能力与验证研究",
+    "scoring": "每题0–3；抑郁、焦虑、压力各14题，分量表各0–42；按正式评分键分别计算",
+    "chinese": "Zuo/Chang简体、Calais Chan繁体、Lu及Su台湾译本分别记录",
     "copyrightRisk": "低至中",
-    "status": "已核验"
+    "status": "原版与部分译本资料已核对；具体缺口见页面"
   },
   {
     "id": "VR-PH-003-007",
@@ -2222,11 +2222,11 @@ export const versions = [
     "itemCount": "21题",
     "parent": "DASS-42",
     "relation": "缩短",
-    "population": "成人",
-    "scoring": "三个7题分量表；是否乘2须注明",
-    "chinese": "官方中文存在",
+    "population": "成人短版；用于青少年需核对该人群证据，不能与DASS-Y互换",
+    "scoring": "每题0–3；各7题原始和0–21；官方常模比较分为原始和×2，须注明报告口径",
+    "chinese": "官方Taouk Moussa等繁体21题及专用评分键；大陆验证研究的具体施测文本仍需匹配",
     "copyrightRisk": "低至中",
-    "status": "已核验"
+    "status": "原版与部分译本资料已核对；具体缺口见页面"
   },
   {
     "id": "VR-PH-003-008",
@@ -2240,11 +2240,11 @@ export const versions = [
     "itemCount": "21题",
     "parent": "DASS家族",
     "relation": "年龄适配",
-    "population": "7–18岁",
-    "scoring": "专用计分与解释",
-    "chinese": "中文版本待核验",
+    "population": "开发者当前建议8–17岁；译本的人群证据分别核对",
+    "scoring": "三个7题分量表各0–21；不乘2，不沿用成人常模",
+    "chinese": "Luo/Tian、Cao/Chen、Xie简体及香港卫生署繁体分别建档",
     "copyrightRisk": "低至中",
-    "status": "已核验"
+    "status": "原版与部分译本资料已核对；具体缺口见页面"
   },
   {
     "id": "VR-PH-004-009",
