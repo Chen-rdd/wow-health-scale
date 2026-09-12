@@ -75,10 +75,11 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
   reviewed:'2026-09-12',
   definition:[p('DASS-Y是针对儿童青少年语言和体验开发的21题自评工具，评估过去一周的抑郁、焦虑及压力症状。开发者当前页面标注适用年龄为8–17岁。它是独立的青年版，不是给儿童直接填写成人DASS-21。','DASSY.htm','青年版官方说明')],
   scoring:[p('三个分量表各7题，每题0–3分，分别相加后各为0–21分。DASS-Y不乘2，不直接套用成人DASS或DASS-21的常模。','DASSY.htm','青年版评分说明'),p('官方青年版严重程度分界来自原开发样本的分位数，用于描述，不等于诊断阈值；用于其他地区或译本时需另核对。','DASS-Y%20cutoffs.htm','青年版分界值来源')],
-  translations:[{label:'简体中文：Luo 与 Tian',url:base+'DASS-Y%20Chinese%20(simplified)/Luo%20Tian%20simplified%20Chinese.htm',note:'官方收录；译本原件已取得，逐题与研究匹配核验进行中。'},
+  translations:[{label:'简体中文：Luo 与 Tian',url:base+'DASS-Y%20Chinese%20(simplified)/Luo%20Tian%20simplified%20Chinese.htm',note:'官方收录；21题与四级选项已对照原件整理。具体译文与验证研究匹配仍在核查。'},
    {label:'简体中文：Cao 与 Chen',url:base+'DASS-Y%20Chinese%20(simplified)/Cao%20Chen%20simplified%20Chinese.htm',note:'入口同时提供译本及2023年验证论文。原件选项为频率表述，与其他译本措辞不同，不自动互换。'},
    {label:'简体中文：Xie',url:base+'DASS-Y%20Chinese%20(simplified)/Xie%20simplified%20Chinese.htm',note:'官方目录列出，当前获取未成功，尚未核对完整表单。'},
-   {label:'繁体中文：香港卫生署学生健康服务',url:base+'DASS-Y%20Chinese%20(traditional)/Hong%20Kong%20Health/Hong%20Kong%20Health%20traditional%20Chinese%20translation%20of%20DASS-Y.htm',note:'官方收录，原件已取得；按该译本原题序核对。'}],
+   {label:'繁体中文：香港卫生署学生健康服务',url:base+'DASS-Y%20Chinese%20(traditional)/Hong%20Kong%20Health/Hong%20Kong%20Health%20traditional%20Chinese%20translation%20of%20DASS-Y.htm',note:'官方收录；21题及选项已对照原件整理，保留香港用语。匹配的独立验证证据尚待补充。'},
+   {label:'Cao等2023年验证研究',url:'https://doi.org/10.1186/s13034-023-00655-2',note:'研究分析对部分条目合并了回答类别。该研究处理不能直接替代原表0–3四级评分，也不能将修正后的测量结果直接归于未修正版本。'}],
   limits:[restriction]
  }
 };

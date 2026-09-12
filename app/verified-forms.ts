@@ -1353,5 +1353,981 @@ export const verifiedForms:VerifiedForm[] = [
     "verifiedAt": "2026-09-12",
     "translationEvidence": "官网2001年翻译报告；Wang等2016年研究说明采用Taouk等来源，具体施测文本匹配仍需补充材料核对。",
     "exportReady": true
+  },
+  {
+    "id": "dassy-en",
+    "versionId": "VR-PH-003-008",
+    "label": "英文：DASS-Y 原版",
+    "language": "en",
+    "itemCount": 21,
+    "sourceUrl": "https://dass.psy.unsw.edu.au/Download%20files/DASS-Y.pdf",
+    "sourceSha256": "437307a1dcc7eac78b3ff2aa4d307bc2ba4a002227320efb8620d9da31cd4799",
+    "scoringSource": "https://dass.psy.unsw.edu.au/DASSY.htm",
+    "rightsSource": "https://dass.psy.unsw.edu.au/DASSY.htm",
+    "instructions": "We would like to find out how you have been feeling in THE PAST WEEK. There are some sentences below. Please circle the number which best shows how TRUE each sentence was of you during the past week. There are no right or wrong answers.",
+    "options": [
+      {
+        "label": "NOT TRUE",
+        "value": 0
+      },
+      {
+        "label": "A LITTLE TRUE",
+        "value": 1
+      },
+      {
+        "label": "FAIRLY TRUE",
+        "value": 2
+      },
+      {
+        "label": "VERY TRUE",
+        "value": 3
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "text": "I got upset about little things",
+        "dimension": "S",
+        "originalItem": 1,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 2,
+        "text": "I felt dizzy, like I was about to faint",
+        "dimension": "A",
+        "originalItem": 2,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 3,
+        "text": "I did not enjoy anything",
+        "dimension": "D",
+        "originalItem": 3,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 4,
+        "text": "I had trouble breathing (e.g. fast breathing), even though I wasn't exercising and I was not sick.",
+        "dimension": "A",
+        "originalItem": 4,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 5,
+        "text": "I hated my life",
+        "dimension": "D",
+        "originalItem": 5,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 6,
+        "text": "I found myself over-reacting to situations",
+        "dimension": "S",
+        "originalItem": 6,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 7,
+        "text": "My hands felt shaky",
+        "dimension": "A",
+        "originalItem": 7,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 8,
+        "text": "I was stressing about lots of things",
+        "dimension": "S",
+        "originalItem": 8,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 9,
+        "text": "I felt terrified",
+        "dimension": "A",
+        "originalItem": 9,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 10,
+        "text": "There was nothing nice I could look forward to",
+        "dimension": "D",
+        "originalItem": 10,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 11,
+        "text": "I was easily irritated",
+        "dimension": "S",
+        "originalItem": 11,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 12,
+        "text": "I found it difficult to relax",
+        "dimension": "S",
+        "originalItem": 12,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 13,
+        "text": "I could not stop feeling sad",
+        "dimension": "D",
+        "originalItem": 13,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 14,
+        "text": "I got annoyed when people interrupted me",
+        "dimension": "S",
+        "originalItem": 14,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 15,
+        "text": "I felt like I was about to panic",
+        "dimension": "A",
+        "originalItem": 15,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 16,
+        "text": "I hated myself",
+        "dimension": "D",
+        "originalItem": 16,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 17,
+        "text": "I felt like I was no good",
+        "dimension": "D",
+        "originalItem": 17,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 18,
+        "text": "I was easily annoyed",
+        "dimension": "S",
+        "originalItem": 18,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 19,
+        "text": "I could feel my heart beating really fast, even though I hadn't done any hard exercise",
+        "dimension": "A",
+        "originalItem": 19,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 20,
+        "text": "I felt scared for no good reason",
+        "dimension": "A",
+        "originalItem": 20,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 21,
+        "text": "I felt that life was terrible",
+        "dimension": "D",
+        "originalItem": 21,
+        "sourcePage": 1,
+        "reverse": false
+      }
+    ],
+    "dimensions": {
+      "D": [
+        3,
+        5,
+        10,
+        13,
+        16,
+        17,
+        21
+      ],
+      "A": [
+        2,
+        4,
+        7,
+        9,
+        15,
+        19,
+        20
+      ],
+      "S": [
+        1,
+        6,
+        8,
+        11,
+        12,
+        14,
+        18
+      ]
+    },
+    "rawSubscaleRange": [
+      0,
+      21
+    ],
+    "comparisonMultiplier": 1,
+    "review": {
+      "text": "visually-checked-against-official-pdf",
+      "scoring": "official-key-verified",
+      "translationValidation": "original"
+    },
+    "respondentScoringEnabled": false,
+    "verifiedAt": "2026-09-12",
+    "translationEvidence": "英文原版；开发研究为Szabo与Lovibond（2022）。",
+    "usage": "保留正式题文和本译本选项。三个维度各0–21分，不乘2，不套成人常模。此处供研究者查阅，不提供公众答题或诊断。",
+    "exportReady": false
+  },
+  {
+    "id": "dassy-zh-luo-tian",
+    "versionId": "VR-PH-003-008",
+    "label": "简体中文：Luo 与 Tian",
+    "language": "zh-Hans",
+    "itemCount": 21,
+    "sourceUrl": "https://dass.psy.unsw.edu.au/DASS-Y%20Chinese%20(simplified)/DASS-Y-C.pdf",
+    "sourceSha256": "c493370a7d0a1b9d2b379b136b354112ef0ee77777917f509b2106aa1ae37fdb",
+    "scoringSource": "https://dass.psy.unsw.edu.au/DASSY.htm",
+    "rightsSource": "https://dass.psy.unsw.edu.au/DASSY.htm",
+    "instructions": "我们想知道你在过去一周的感受。请在下列句子后圈出最符合你在过去一周感受的数字。答案没有对错之分。",
+    "options": [
+      {
+        "label": "不符合",
+        "value": 0
+      },
+      {
+        "label": "有点符合",
+        "value": 1
+      },
+      {
+        "label": "比较符合",
+        "value": 2
+      },
+      {
+        "label": "非常符合",
+        "value": 3
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "text": "我为一些琐事感到心烦意乱",
+        "dimension": "S",
+        "originalItem": 1,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 2,
+        "text": "我感到头晕，好像要晕倒了",
+        "dimension": "A",
+        "originalItem": 2,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 3,
+        "text": "我对任何东西都提不起兴致",
+        "dimension": "D",
+        "originalItem": 3,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 4,
+        "text": "尽管我没在运动，也没有生病，我也会呼吸困难(例如呼吸急促)",
+        "dimension": "A",
+        "originalItem": 4,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 5,
+        "text": "我讨厌我的生活",
+        "dimension": "D",
+        "originalItem": 5,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 6,
+        "text": "我发现自己对有些事情反应过度",
+        "dimension": "S",
+        "originalItem": 6,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 7,
+        "text": "我感到手发抖",
+        "dimension": "A",
+        "originalItem": 7,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 8,
+        "text": "我对很多事情感到有压力",
+        "dimension": "S",
+        "originalItem": 8,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 9,
+        "text": "我感到恐惧",
+        "dimension": "A",
+        "originalItem": 9,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 10,
+        "text": "我没有什么美好的期待",
+        "dimension": "D",
+        "originalItem": 10,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 11,
+        "text": "我很容易恼怒",
+        "dimension": "S",
+        "originalItem": 11,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 12,
+        "text": "我发现很难放松",
+        "dimension": "S",
+        "originalItem": 12,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 13,
+        "text": "我一直感到很难过",
+        "dimension": "D",
+        "originalItem": 13,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 14,
+        "text": "当有人打断我时，我会生气",
+        "dimension": "S",
+        "originalItem": 14,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 15,
+        "text": "我觉得我就要慌乱了",
+        "dimension": "A",
+        "originalItem": 15,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 16,
+        "text": "我恨我自己",
+        "dimension": "D",
+        "originalItem": 16,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 17,
+        "text": "我觉得自己一无是处",
+        "dimension": "D",
+        "originalItem": 17,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 18,
+        "text": "我很容易生气",
+        "dimension": "S",
+        "originalItem": 18,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 19,
+        "text": "尽管我没有剧烈运动，我也能感觉到我的心跳很快",
+        "dimension": "A",
+        "originalItem": 19,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 20,
+        "text": "我无缘无故感到害怕",
+        "dimension": "A",
+        "originalItem": 20,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 21,
+        "text": "我觉得生活很糟糕",
+        "dimension": "D",
+        "originalItem": 21,
+        "sourcePage": 1,
+        "reverse": false
+      }
+    ],
+    "dimensions": {
+      "D": [
+        3,
+        5,
+        10,
+        13,
+        16,
+        17,
+        21
+      ],
+      "A": [
+        2,
+        4,
+        7,
+        9,
+        15,
+        19,
+        20
+      ],
+      "S": [
+        1,
+        6,
+        8,
+        11,
+        12,
+        14,
+        18
+      ]
+    },
+    "rawSubscaleRange": [
+      0,
+      21
+    ],
+    "comparisonMultiplier": 1,
+    "review": {
+      "text": "visually-checked-against-official-pdf",
+      "scoring": "official-key-verified",
+      "translationValidation": "partial"
+    },
+    "respondentScoringEnabled": false,
+    "verifiedAt": "2026-09-12",
+    "translationEvidence": "官方收录的Luo/Tian译本。验证研究与本表逐项匹配仍在核查。",
+    "usage": "保留正式题文和本译本选项。三个维度各0–21分，不乘2，不套成人常模。此处供研究者查阅，不提供公众答题或诊断。",
+    "exportReady": false
+  },
+  {
+    "id": "dassy-zh-cao-chen",
+    "versionId": "VR-PH-003-008",
+    "label": "简体中文：Cao 与 Chen",
+    "language": "zh-Hans",
+    "itemCount": 21,
+    "sourceUrl": "https://dass.psy.unsw.edu.au/DASS-Y%20Chinese%20(simplified)/Dass-Y%20simplified%20Chinese%20Cao%20Chen.pdf",
+    "sourceSha256": "e9ef2bc8ab32b338fde6504549ec599611e899fb67efec52344e01f32fb0c55a",
+    "scoringSource": "https://dass.psy.unsw.edu.au/DASSY.htm",
+    "rightsSource": "https://dass.psy.unsw.edu.au/DASSY.htm",
+    "instructions": "我们想要了解你在过去一周的感受。下面是一些句子。请为每个句子圈出最符合你在过去一周内真实感受的数字。答案没有对错之分。",
+    "options": [
+      {
+        "label": "不符合",
+        "value": 0
+      },
+      {
+        "label": "有时符合",
+        "value": 1
+      },
+      {
+        "label": "常常符合",
+        "value": 2
+      },
+      {
+        "label": "总是符合",
+        "value": 3
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "text": "因为一些小事，我感到烦恼。",
+        "dimension": "S",
+        "originalItem": 1,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 2,
+        "text": "我感觉头晕，好像要晕倒了。",
+        "dimension": "A",
+        "originalItem": 2,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 3,
+        "text": "我什么都没有享受（到）。",
+        "dimension": "D",
+        "originalItem": 3,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 4,
+        "text": "我不做运动、也没有生病的时候，我也呼吸困难。",
+        "dimension": "A",
+        "originalItem": 4,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 5,
+        "text": "我讨厌我的生活。",
+        "dimension": "D",
+        "originalItem": 5,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 6,
+        "text": "我发现自己对事情会反应过度。",
+        "dimension": "S",
+        "originalItem": 6,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 7,
+        "text": "我感觉手发抖。",
+        "dimension": "A",
+        "originalItem": 7,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 8,
+        "text": "我对很多事情都感到有压力。",
+        "dimension": "S",
+        "originalItem": 8,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 9,
+        "text": "我感到恐惧。",
+        "dimension": "A",
+        "originalItem": 9,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 10,
+        "text": "我没有什么期待的（好事）。",
+        "dimension": "D",
+        "originalItem": 10,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 11,
+        "text": "我很容易被激怒。",
+        "dimension": "S",
+        "originalItem": 11,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 12,
+        "text": "我发现很难放松。",
+        "dimension": "S",
+        "originalItem": 12,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 13,
+        "text": "我一直感觉伤心",
+        "dimension": "D",
+        "originalItem": 13,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 14,
+        "text": "当有人打断我，我觉得难以忍受。",
+        "dimension": "S",
+        "originalItem": 14,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 15,
+        "text": "我感到快恐慌了。",
+        "dimension": "A",
+        "originalItem": 15,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 16,
+        "text": "我讨厌我自己。",
+        "dimension": "D",
+        "originalItem": 16,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 17,
+        "text": "我觉得我没用。",
+        "dimension": "D",
+        "originalItem": 17,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 18,
+        "text": "我很容易感觉烦躁。",
+        "dimension": "S",
+        "originalItem": 18,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 19,
+        "text": "即使没有做任何剧烈运动，我也能感觉到我的心跳非常快。",
+        "dimension": "A",
+        "originalItem": 19,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 20,
+        "text": "没有什么原因，(但)我感到害怕。",
+        "dimension": "A",
+        "originalItem": 20,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 21,
+        "text": "我觉得生活很糟糕。",
+        "dimension": "D",
+        "originalItem": 21,
+        "sourcePage": 1,
+        "reverse": false
+      }
+    ],
+    "dimensions": {
+      "D": [
+        3,
+        5,
+        10,
+        13,
+        16,
+        17,
+        21
+      ],
+      "A": [
+        2,
+        4,
+        7,
+        9,
+        15,
+        19,
+        20
+      ],
+      "S": [
+        1,
+        6,
+        8,
+        11,
+        12,
+        14,
+        18
+      ]
+    },
+    "rawSubscaleRange": [
+      0,
+      21
+    ],
+    "comparisonMultiplier": 1,
+    "review": {
+      "text": "visually-checked-against-official-pdf",
+      "scoring": "official-key-verified",
+      "translationValidation": "partial"
+    },
+    "respondentScoringEnabled": false,
+    "verifiedAt": "2026-09-12",
+    "translationEvidence": "Cao等2023研究使用此译本；Rasch分析曾合并部分条目的回答类别。该处理不能直接取代原表四级选项，也不意味着所有人群均应重编码。",
+    "usage": "保留正式题文和本译本选项。三个维度各0–21分，不乘2，不套成人常模。此处供研究者查阅，不提供公众答题或诊断。",
+    "exportReady": false
+  },
+  {
+    "id": "dassy-zh-hk",
+    "versionId": "VR-PH-003-008",
+    "label": "繁体中文：香港卫生署学生健康服务",
+    "language": "zh-Hant",
+    "itemCount": 21,
+    "sourceUrl": "https://dass.psy.unsw.edu.au/DASS-Y%20Chinese%20(traditional)/Hong%20Kong%20Health/DASS-Y%20(Traditional%20Chinese%20Characters).pdf",
+    "sourceSha256": "a279282d300dc84893d1cada20ad195061d6a6bf141640cfd25880be782de319",
+    "scoringSource": "https://dass.psy.unsw.edu.au/DASSY.htm",
+    "rightsSource": "https://dass.psy.unsw.edu.au/DASSY.htm",
+    "instructions": "我們想了解你在過去一星期的感受。下面有些句子，請在其右方最能真確地表示你在過去一星期狀況的數字圈出來。答案沒有對與錯。",
+    "options": [
+      {
+        "label": "不真確",
+        "value": 0
+      },
+      {
+        "label": "有少少真確",
+        "value": 1
+      },
+      {
+        "label": "頗為真確",
+        "value": 2
+      },
+      {
+        "label": "十分真確",
+        "value": 3
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "text": "我為小事而煩惱",
+        "dimension": "S",
+        "originalItem": 1,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 2,
+        "text": "我感到頭暈眼花，就好像我快要暈倒",
+        "dimension": "A",
+        "originalItem": 2,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 3,
+        "text": "我對任何事都不感到興趣",
+        "dimension": "D",
+        "originalItem": 3,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 4,
+        "text": "我有呼吸困難（例如呼吸急促），即使我不是正在做運動及沒有生病",
+        "dimension": "A",
+        "originalItem": 4,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 5,
+        "text": "我討厭自己的生活",
+        "dimension": "D",
+        "originalItem": 5,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 6,
+        "text": "我覺得自己對事情反應過大",
+        "dimension": "S",
+        "originalItem": 6,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 7,
+        "text": "我感到手震",
+        "dimension": "A",
+        "originalItem": 7,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 8,
+        "text": "我對很多事情感到有壓力",
+        "dimension": "S",
+        "originalItem": 8,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 9,
+        "text": "我感到恐懼",
+        "dimension": "A",
+        "originalItem": 9,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 10,
+        "text": "沒有什麼好事情是我可以期待的",
+        "dimension": "D",
+        "originalItem": 10,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 11,
+        "text": "我很容易煩燥不安",
+        "dimension": "S",
+        "originalItem": 11,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 12,
+        "text": "我覺得很難放鬆下來",
+        "dimension": "S",
+        "originalItem": 12,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 13,
+        "text": "我無法停止感到傷心難過",
+        "dimension": "D",
+        "originalItem": 13,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 14,
+        "text": "當別人打擾我時，我很生氣",
+        "dimension": "S",
+        "originalItem": 14,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 15,
+        "text": "我感到自己快要恐慌了",
+        "dimension": "A",
+        "originalItem": 15,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 16,
+        "text": "我討厭自己",
+        "dimension": "D",
+        "originalItem": 16,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 17,
+        "text": "我覺得自己一無是處",
+        "dimension": "D",
+        "originalItem": 17,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 18,
+        "text": "我很容易生氣",
+        "dimension": "S",
+        "originalItem": 18,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 19,
+        "text": "我能感覺到我的心跳得非常快，即使我沒有做任何劇烈運動",
+        "dimension": "A",
+        "originalItem": 19,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 20,
+        "text": "我無緣無故感到害怕",
+        "dimension": "A",
+        "originalItem": 20,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 21,
+        "text": "我覺得生活很痛苦",
+        "dimension": "D",
+        "originalItem": 21,
+        "sourcePage": 1,
+        "reverse": false
+      }
+    ],
+    "dimensions": {
+      "D": [
+        3,
+        5,
+        10,
+        13,
+        16,
+        17,
+        21
+      ],
+      "A": [
+        2,
+        4,
+        7,
+        9,
+        15,
+        19,
+        20
+      ],
+      "S": [
+        1,
+        6,
+        8,
+        11,
+        12,
+        14,
+        18
+      ]
+    },
+    "rawSubscaleRange": [
+      0,
+      21
+    ],
+    "comparisonMultiplier": 1,
+    "review": {
+      "text": "visually-checked-against-official-pdf",
+      "scoring": "official-key-verified",
+      "translationValidation": "partial"
+    },
+    "respondentScoringEnabled": false,
+    "verifiedAt": "2026-09-12",
+    "translationEvidence": "香港卫生署学生健康服务译本；原件已核对，匹配的独立验证证据仍待补充。",
+    "usage": "保留正式题文和本译本选项。三个维度各0–21分，不乘2，不套成人常模。此处供研究者查阅，不提供公众答题或诊断。",
+    "exportReady": false
   }
 ];
