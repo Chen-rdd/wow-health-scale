@@ -3,7 +3,7 @@ export const verifiedForms:VerifiedForm[] = [
   {
     "id": "dass42-en",
     "versionId": "VR-PH-003-006",
-    "label": "英文原版",
+    "label": "DASS-42：英文原版",
     "language": "en",
     "itemCount": 42,
     "sourceUrl": "https://dass.psy.unsw.edu.au/Download%20files/Dass42.pdf",
@@ -436,7 +436,7 @@ export const verifiedForms:VerifiedForm[] = [
   {
     "id": "dass21-en",
     "versionId": "VR-PH-003-007",
-    "label": "英文短版",
+    "label": "DASS-21：英文短版",
     "language": "en",
     "itemCount": 21,
     "sourceUrl": "https://dass.psy.unsw.edu.au/Download%20files/Dass21.pdf",
@@ -680,7 +680,7 @@ export const verifiedForms:VerifiedForm[] = [
   {
     "id": "dass42-zh-zuo-chang",
     "versionId": "VR-PH-003-006",
-    "label": "Zuo 与 Chang 简体中文译本",
+    "label": "DASS-42：Zuo 与 Chang 简体中文译本",
     "language": "zh-Hans",
     "itemCount": 42,
     "sourceUrl": "https://dass.psy.unsw.edu.au/Chinese/DASS42%20simplified%20Chinese.pdf",
@@ -1113,7 +1113,7 @@ export const verifiedForms:VerifiedForm[] = [
   {
     "id": "dass21-zh-tm",
     "versionId": "VR-PH-003-007",
-    "label": "Taouk Moussa 等繁体中文译本",
+    "label": "DASS-21：Taouk Moussa 等繁体中文译本",
     "language": "zh-Hant",
     "itemCount": 21,
     "sourceUrl": "https://dass.psy.unsw.edu.au/Chinese/Chinese%20DASS21.pdf",
@@ -1601,7 +1601,7 @@ export const verifiedForms:VerifiedForm[] = [
   {
     "id": "dassy-zh-luo-tian",
     "versionId": "VR-PH-003-008",
-    "label": "简体中文：Luo 与 Tian",
+    "label": "DASS-Y：简体中文：Luo 与 Tian",
     "language": "zh-Hans",
     "itemCount": 21,
     "sourceUrl": "https://dass.psy.unsw.edu.au/DASS-Y%20Chinese%20(simplified)/DASS-Y-C.pdf",
@@ -1845,7 +1845,7 @@ export const verifiedForms:VerifiedForm[] = [
   {
     "id": "dassy-zh-cao-chen",
     "versionId": "VR-PH-003-008",
-    "label": "简体中文：Cao 与 Chen",
+    "label": "DASS-Y：简体中文：Cao 与 Chen",
     "language": "zh-Hans",
     "itemCount": 21,
     "sourceUrl": "https://dass.psy.unsw.edu.au/DASS-Y%20Chinese%20(simplified)/Dass-Y%20simplified%20Chinese%20Cao%20Chen.pdf",
@@ -2089,7 +2089,7 @@ export const verifiedForms:VerifiedForm[] = [
   {
     "id": "dassy-zh-hk",
     "versionId": "VR-PH-003-008",
-    "label": "繁体中文：香港卫生署学生健康服务",
+    "label": "DASS-Y：繁体中文：香港卫生署学生健康服务",
     "language": "zh-Hant",
     "itemCount": 21,
     "sourceUrl": "https://dass.psy.unsw.edu.au/DASS-Y%20Chinese%20(traditional)/Hong%20Kong%20Health/DASS-Y%20(Traditional%20Chinese%20Characters).pdf",

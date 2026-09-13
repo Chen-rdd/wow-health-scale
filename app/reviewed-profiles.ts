@@ -5,6 +5,161 @@ const p=(text:string,path:string,label:string):EvidenceParagraph=>({text,source:
 const scope=p('抑郁维度关注情绪低落、兴趣或愉悦感减少、自我贬低与缺乏主动性；焦虑维度侧重自主神经唤起、躯体紧张及恐惧体验；压力维度关注难以放松、持续紧绷、易激惹及不耐烦。三个维度相关，但测量内容不同。','over.htm','开发者对测量构念的定义');
 const restriction=p('本页用于研究者选表和获取施测资料，不提供公众自测或自动诊断。开发者对开放网站施测、结果反馈有专门要求；正式实施调查前应核对。','DASSFAQ.htm','官方FAQ第9、21项');
 export const reviewedProfiles:Record<string,ReviewedProfile>={
+"VR-PH-002-005":{
+  "reviewed": "2026-09-13",
+  "definition": [
+    {
+      "text": "GAD-2由GAD-7前两题组成，关注过去两周紧张焦虑及难以控制担忧，用于简短的焦虑初筛。它的直接来源为GAD-7，并非完整PHQ旧焦虑模块的缩写。",
+      "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "label": "开发者手册 第2至3页"
+    }
+  ],
+  "scoring": [
+    {
+      "text": "两题各0–3分，总分0–6。手册建议达到3分时进一步使用GAD-7并作临床评估；两题分数不能代替完整症状和病程评估。",
+      "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "label": "开发者手册 第2至3页"
+    }
+  ],
+  "translations": [
+    {
+      "label": "官方译本与短版派生说明",
+      "url": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "note": "手册第7页允许从正式译本选择对应条目形成短版。必须保留所用译本和题号；这不自动证明短版在目标人群的效度。"
+    }
+  ],
+  "limits": [
+    {
+      "text": "本条已核对结构与计分关系，完整施测材料和具体中文验证证据仍在整理。未核实的题目或缺失规则不以推测补全。",
+      "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "label": "开发者手册 第2至3页"
+    }
+  ]
+},
+"VR-PH-001-004":{
+  "reviewed": "2026-09-13",
+  "definition": [
+    {
+      "text": "PHQ-4由PHQ-2与GAD-2组合，分别覆盖抑郁和焦虑的两个核心症状。它有两个直接来源，不能称为从PHQ-9选出的四题短版。",
+      "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "label": "开发者手册 第2至3页"
+    }
+  ],
+  "scoring": [
+    {
+      "text": "四题各0–3分；抑郁与焦虑两部分各0–6分，总和0–12分。应区分分量表和总分，不能套用PHQ-9或GAD-7阈值。",
+      "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "label": "开发者手册 第2至3页"
+    }
+  ],
+  "translations": [
+    {
+      "label": "官方译本与短版派生说明",
+      "url": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "note": "手册第7页允许从正式译本选择对应条目形成短版。必须保留所用译本和题号；这不自动证明短版在目标人群的效度。"
+    }
+  ],
+  "limits": [
+    {
+      "text": "本条已核对结构与计分关系，完整施测材料和具体中文验证证据仍在整理。未核实的题目或缺失规则不以推测补全。",
+      "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "label": "开发者手册 第2至3页"
+    }
+  ]
+},
+"VR-PH-001-003":{
+  "reviewed": "2026-09-13",
+  "definition": [
+    {
+      "text": "PHQ-8从PHQ-9删除第9题，即死亡或自伤想法题，保留其他八题，评估过去两周抑郁症状。它可用于人群研究，但不包含这一风险信息。",
+      "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "label": "开发者手册 第2至3页"
+    }
+  ],
+  "scoring": [
+    {
+      "text": "八题各0–3分，总分0–24，不应报告为PHQ-9的0–27分。缺少第9题的回答不能被解释为该风险不存在。",
+      "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "label": "开发者手册 第2至3页"
+    }
+  ],
+  "translations": [
+    {
+      "label": "官方译本与短版派生说明",
+      "url": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "note": "手册第7页允许从正式译本选择对应条目形成短版。必须保留所用译本和题号；这不自动证明短版在目标人群的效度。"
+    }
+  ],
+  "limits": [
+    {
+      "text": "本条已核对结构与计分关系，完整施测材料和具体中文验证证据仍在整理。未核实的题目或缺失规则不以推测补全。",
+      "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "label": "开发者手册 第2至3页"
+    }
+  ]
+},
+"VR-PH-001-002":{
+  "reviewed": "2026-09-13",
+  "definition": [
+    {
+      "text": "PHQ-2是PHQ-9前两题组成的抑郁初筛工具，询问过去两周兴趣或愉悦减少、情绪低落。直接来源是PHQ-9，更早来源为完整PHQ的抑郁模块。它减少施测负担，同时减少症状覆盖。",
+      "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "label": "开发者手册 第2至3页"
+    }
+  ],
+  "scoring": [
+    {
+      "text": "两题各0–3分，总分0–6。手册建议达到3分时进一步使用PHQ-9并作临床评估；它不直接确诊抑郁症。",
+      "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "label": "开发者手册 第2至3页"
+    }
+  ],
+  "translations": [
+    {
+      "label": "官方译本与短版派生说明",
+      "url": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "note": "手册第7页允许从正式译本选择对应条目形成短版。必须保留所用译本和题号；这不自动证明短版在目标人群的效度。"
+    }
+  ],
+  "limits": [
+    {
+      "text": "本条已核对结构与计分关系，完整施测材料和具体中文验证证据仍在整理。未核实的题目或缺失规则不以推测补全。",
+      "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "label": "开发者手册 第2至3页"
+    }
+  ]
+},
+"VR-PH-001-001":{
+  "reviewed": "2026-09-13",
+  "definition": [
+    {
+      "text": "完整PHQ由PRIME-MD发展为患者自填问卷，涵盖抑郁、焦虑、躯体症状、饮酒和进食问题。PHQ-9是其中的抑郁模块，完整PHQ不能按PHQ-9总分解释。",
+      "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "label": "开发者手册 第2至3页"
+    }
+  ],
+  "scoring": [
+    {
+      "text": "各模块按自身题型和算法处理，不相加形成一个统一的“心理疾病总分”。其旧诊断算法依据DSM-IV，不能当作现行诊断标准的完整替代。",
+      "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "label": "开发者手册 第2至3页"
+    }
+  ],
+  "translations": [
+    {
+      "label": "官方译本与短版派生说明",
+      "url": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "note": "手册第7页允许从正式译本选择对应条目形成短版。必须保留所用译本和题号；这不自动证明短版在目标人群的效度。"
+    }
+  ],
+  "limits": [
+    {
+      "text": "本条已核对结构与计分关系，完整施测材料和具体中文验证证据仍在整理。未核实的题目或缺失规则不以推测补全。",
+      "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+      "label": "开发者手册 第2至3页"
+    }
+  ]
+},
 "VR-PH-002-BASE":{
   "reviewed": "2026-09-12",
   "definition": [
