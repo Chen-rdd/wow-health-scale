@@ -5,6 +5,114 @@ const p=(text:string,path:string,label:string):EvidenceParagraph=>({text,source:
 const scope=p('抑郁维度关注情绪低落、兴趣或愉悦感减少、自我贬低与缺乏主动性；焦虑维度侧重自主神经唤起、躯体紧张及恐惧体验；压力维度关注难以放松、持续紧绷、易激惹及不耐烦。三个维度相关，但测量内容不同。','over.htm','开发者对测量构念的定义');
 const restriction=p('本页用于研究者选表和获取施测资料，不提供公众自测或自动诊断。开发者对开放网站施测、结果反馈有专门要求；正式实施调查前应核对。','DASSFAQ.htm','官方FAQ第9、21项');
 export const reviewedProfiles:Record<string,ReviewedProfile>={
+"VR-PH-005-014":{
+  "reviewed": "2026-09-13",
+  "definition": [
+    {
+      "text": "K6或K10含补充问题的表单，在核心情绪症状之外询问持续性、功能影响等信息。它直接扩展相应核心版本；补充问题不是新的核心症状条目。",
+      "source": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
+      "label": "作者官方说明"
+    }
+  ],
+  "scoring": [
+    {
+      "text": "核心分数仍按K6或K10计算，附加问题不加入核心总分。访谈版与自填版分别提供，访谈跳转需依原件。",
+      "source": "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Scoring_K6_K10.pdf",
+      "label": "作者评分FAQ"
+    },
+    {
+      "text": "部分官方表单所印1–5是回答代码，顺序从“全部时间”到“无”。计算0–4症状分时需反向重编码，不能直接相加。缺失处理没有唯一官方算法，应事先确定研究规则。",
+      "source": "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Scoring_K6_K10.pdf",
+      "label": "评分与缺失FAQ"
+    }
+  ],
+  "translations": [
+    {
+      "label": "作者官网 普通话及粤语译本",
+      "url": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
+      "note": "普通话K6/K10、粤语K6已取得；具体题文、访谈跳转及中文验证研究仍在核对。"
+    }
+  ],
+  "limits": [
+    {
+      "text": "作者允许免费使用，要求保留版权并引用指定文献。网站收录或免费使用不等于已完成目标人群验证。",
+      "source": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
+      "label": "作者官方说明"
+    }
+  ]
+},
+"VR-PH-005-013":{
+  "reviewed": "2026-09-13",
+  "definition": [
+    {
+      "text": "K6从K10删去四题，是六项心理困扰短版；直接来源为K10。它缩短施测时间，并非把K10分数按比例换算。",
+      "source": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
+      "label": "作者官方说明"
+    }
+  ],
+  "scoring": [
+    {
+      "text": "六题重编码后各0–4分，总分0–24；另一套1–5编码总分为6–30。13分及以上的常见筛查界点对应0–24体系及特定校准背景，不是普遍诊断标准。",
+      "source": "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Scoring_K6_K10.pdf",
+      "label": "作者评分FAQ"
+    },
+    {
+      "text": "部分官方表单所印1–5是回答代码，顺序从“全部时间”到“无”。计算0–4症状分时需反向重编码，不能直接相加。缺失处理没有唯一官方算法，应事先确定研究规则。",
+      "source": "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Scoring_K6_K10.pdf",
+      "label": "评分与缺失FAQ"
+    }
+  ],
+  "translations": [
+    {
+      "label": "作者官网 普通话及粤语译本",
+      "url": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
+      "note": "普通话K6/K10、粤语K6已取得；具体题文、访谈跳转及中文验证研究仍在核对。"
+    }
+  ],
+  "limits": [
+    {
+      "text": "作者允许免费使用，要求保留版权并引用指定文献。网站收录或免费使用不等于已完成目标人群验证。",
+      "source": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
+      "label": "作者官方说明"
+    }
+  ]
+},
+"VR-PH-005-012":{
+  "reviewed": "2026-09-13",
+  "definition": [
+    {
+      "text": "K10以十项情绪相关症状评估非特异性心理困扰，官网表单回顾过去30天。它用于筛查和描述困扰程度，不把抑郁、焦虑等疾病分别确诊。",
+      "source": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
+      "label": "作者官方说明"
+    }
+  ],
+  "scoring": [
+    {
+      "text": "十题重编码后各0–4分，总分0–40。澳大利亚另有每题1–5分、总分10–50的体系，必须注明所用体系。",
+      "source": "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Scoring_K6_K10.pdf",
+      "label": "作者评分FAQ"
+    },
+    {
+      "text": "部分官方表单所印1–5是回答代码，顺序从“全部时间”到“无”。计算0–4症状分时需反向重编码，不能直接相加。缺失处理没有唯一官方算法，应事先确定研究规则。",
+      "source": "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Scoring_K6_K10.pdf",
+      "label": "评分与缺失FAQ"
+    }
+  ],
+  "translations": [
+    {
+      "label": "作者官网 普通话及粤语译本",
+      "url": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
+      "note": "普通话K6/K10、粤语K6已取得；具体题文、访谈跳转及中文验证研究仍在核对。"
+    }
+  ],
+  "limits": [
+    {
+      "text": "作者允许免费使用，要求保留版权并引用指定文献。网站收录或免费使用不等于已完成目标人群验证。",
+      "source": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
+      "label": "作者官方说明"
+    }
+  ]
+},
 "VR-PH-002-005":{
   "reviewed": "2026-09-13",
   "definition": [
