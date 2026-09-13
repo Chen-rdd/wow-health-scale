@@ -2845,5 +2845,271 @@ export const verifiedForms:VerifiedForm[] = [
     "translationEvidence": "PHQ Screeners官方目录所列具体表单。目录收录与获得转载许可不等于在所有人群完成验证；中文研究的具体题文匹配仍在核查。",
     "usage": "保留官方题文与选项。开发者允许复制、翻译、展示及分发；评分用于症状评估或筛查，不能单凭总分确诊。",
     "exportReady": false
+  },
+  {
+    "id": "k6-zh-mandarin-core",
+    "versionId": "VR-PH-005-013",
+    "label": "K6：普通话中文核心6题（黄悦勤、刘平译）",
+    "language": "zh-CN",
+    "itemCount": 6,
+    "sourceUrl": "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Chinese_Mandarin_K6.pdf",
+    "sourceSha256": "704770d98ca5aee2621a7b7ccc032a16b9ab5c8792fb3260b0711a56597bd46d",
+    "scoringSource": "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Scoring_K6_K10.pdf",
+    "rightsSource": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
+    "instructions": "下面的问题是询问您过去30天中的情绪。回答每一个问题时，请圈出最能描述这种情绪的出现频率的号码。问1. 在过去30天中，您经常会感到…",
+    "options": [
+      {
+        "label": "全部时间",
+        "printedCode": 1,
+        "value": 4
+      },
+      {
+        "label": "大部分时间",
+        "printedCode": 2,
+        "value": 3
+      },
+      {
+        "label": "一部分时间",
+        "printedCode": 3,
+        "value": 2
+      },
+      {
+        "label": "偶尔",
+        "printedCode": 4,
+        "value": 1
+      },
+      {
+        "label": "无",
+        "printedCode": 5,
+        "value": 0
+      }
+    ],
+    "scoringNote": "原表答案编号1—5与分数不同：得分=5−原表编号；核心6题合计0—24分。这里采用开发者0—4分体系，不能套用澳大利亚1—5分体系的总分范围或界值。未确定漏答处理时不自动补零。",
+    "items": [
+      {
+        "number": 1,
+        "text": "…紧张?",
+        "dimension": "心理困扰",
+        "originalItem": 2,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 2,
+        "text": "…绝望?",
+        "dimension": "心理困扰",
+        "originalItem": 4,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 3,
+        "text": "…不安或烦躁?",
+        "dimension": "心理困扰",
+        "originalItem": 5,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 4,
+        "text": "…太沮丧以至于什么都不能让您愉快起来?",
+        "dimension": "心理困扰",
+        "originalItem": 8,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 5,
+        "text": "…做每一件事情都很费劲?",
+        "dimension": "心理困扰",
+        "originalItem": 9,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 6,
+        "text": "…无价值?",
+        "dimension": "心理困扰",
+        "originalItem": 10,
+        "sourcePage": 1,
+        "reverse": false
+      }
+    ],
+    "dimensions": {
+      "心理困扰": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "rawSubscaleRange": [
+      0,
+      24
+    ],
+    "comparisonMultiplier": 1,
+    "review": {
+      "text": "核心题及选项已对照官方PDF第一页逐题视觉核对；核心短长版映射已比较",
+      "scoring": "开发者评分FAQ核对；原表编号与评分值分开保存",
+      "translationValidation": "尚未匹配本份译文与对应中文验证研究"
+    },
+    "respondentScoringEnabled": false,
+    "verifiedAt": "2026-09-13",
+    "translationEvidence": "译者署名：Yueqin Huang、Ping Liu，北京大学精神卫生研究所。开发者网站公开提供此普通话译本；尚未逐字匹配本份译文与对应中文验证研究，不能将其他译本或人群的效度直接套用于本表。",
+    "usage": "这里预览的是K6+原件第一页的核心6题，不是完整“+”表。第二页关于相对平时的变化、受损天数及就诊次数等附加问题不参与核心总分；完整题文及跳答请看原件。Copyright © Ronald C. Kessler, PhD. All rights reserved. 使用时保留版权并引用Kessler等（2003），Archives of General Psychiatry, 60(2), 184–189。",
+    "exportReady": false
+  },
+  {
+    "id": "k10-zh-mandarin-core",
+    "versionId": "VR-PH-005-012",
+    "label": "K10：普通话中文核心10题（黄悦勤、刘平译）",
+    "language": "zh-CN",
+    "itemCount": 10,
+    "sourceUrl": "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Chinese_Mandarin_K10.pdf",
+    "sourceSha256": "bb04e2b59dd949222aa89f49e87b6d3f83ede853d2d73e398f04fdef19ec730e",
+    "scoringSource": "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Scoring_K6_K10.pdf",
+    "rightsSource": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
+    "instructions": "下面的问题是询问您过去30天中的情绪。回答每一个问题时，请圈出最能描述这种情绪出现频率的号码。问1. 上个月中，您经常会感到…",
+    "options": [
+      {
+        "label": "全部时间",
+        "printedCode": 1,
+        "value": 4
+      },
+      {
+        "label": "大部分时间",
+        "printedCode": 2,
+        "value": 3
+      },
+      {
+        "label": "一部分时间",
+        "printedCode": 3,
+        "value": 2
+      },
+      {
+        "label": "偶尔",
+        "printedCode": 4,
+        "value": 1
+      },
+      {
+        "label": "无",
+        "printedCode": 5,
+        "value": 0
+      }
+    ],
+    "scoringNote": "原表答案编号1—5与分数不同：得分=5−原表编号；核心10题合计0—40分。这里采用开发者0—4分体系，不能套用澳大利亚1—5分体系的总分范围或界值。未确定漏答处理时不自动补零。",
+    "items": [
+      {
+        "number": 1,
+        "text": "…无法解释的筋疲力尽?",
+        "dimension": "心理困扰",
+        "originalItem": 1,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 2,
+        "text": "…紧张?",
+        "dimension": "心理困扰",
+        "originalItem": 2,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 3,
+        "text": "…太紧张以至于什么都不能让您平静下来?",
+        "dimension": "心理困扰",
+        "originalItem": 3,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 4,
+        "text": "…绝望?",
+        "dimension": "心理困扰",
+        "originalItem": 4,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 5,
+        "text": "…不安或烦躁?",
+        "dimension": "心理困扰",
+        "originalItem": 5,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 6,
+        "text": "…太不安以至于静坐不能?",
+        "dimension": "心理困扰",
+        "originalItem": 6,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 7,
+        "text": "…沮丧的?",
+        "dimension": "心理困扰",
+        "originalItem": 7,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 8,
+        "text": "…太沮丧以至于什么都不能让您愉快起来?",
+        "dimension": "心理困扰",
+        "originalItem": 8,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 9,
+        "text": "…做每一件事情都很费劲?",
+        "dimension": "心理困扰",
+        "originalItem": 9,
+        "sourcePage": 1,
+        "reverse": false
+      },
+      {
+        "number": 10,
+        "text": "…无价值?",
+        "dimension": "心理困扰",
+        "originalItem": 10,
+        "sourcePage": 1,
+        "reverse": false
+      }
+    ],
+    "dimensions": {
+      "心理困扰": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "rawSubscaleRange": [
+      0,
+      40
+    ],
+    "comparisonMultiplier": 1,
+    "review": {
+      "text": "核心题及选项已对照官方PDF第一页逐题视觉核对；核心短长版映射已比较",
+      "scoring": "开发者评分FAQ核对；原表编号与评分值分开保存",
+      "translationValidation": "尚未匹配本份译文与对应中文验证研究"
+    },
+    "respondentScoringEnabled": false,
+    "verifiedAt": "2026-09-13",
+    "translationEvidence": "译者署名：Yueqin Huang、Ping Liu，北京大学精神卫生研究所。开发者网站公开提供此普通话译本；尚未逐字匹配本份译文与对应中文验证研究，不能将其他译本或人群的效度直接套用于本表。",
+    "usage": "这里预览的是K10+原件第一页的核心10题，不是完整“+”表。第二页关于相对平时的变化、受损天数及就诊次数等附加问题不参与核心总分；完整题文及跳答请看原件。Copyright © Ronald C. Kessler, PhD. All rights reserved. 使用时保留版权并引用Kessler等（2003），Archives of General Psychiatry, 60(2), 184–189。",
+    "exportReady": false
   }
 ];
