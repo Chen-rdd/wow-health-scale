@@ -4,6 +4,7 @@ import {verifiedForms} from './verified-forms';
 import {createQuestionnairePackage} from './questionnaire-package';
 import {createQuestionnaireDocx} from '../lib/questionnaire-docx.mjs';
 import {loadDocx} from '../lib/load-docx';
+import {renderQuestionnairePrint} from './questionnaire-print';
 
 export default function QuestionnaireDownloads({draft}:{draft:QuestionnaireDraft}){
  const [busy,setBusy]=useState(false),[error,setError]=useState(''),[files,setFiles]=useState<string[]>([]);
@@ -17,6 +18,7 @@ export default function QuestionnaireDownloads({draft}:{draft:QuestionnaireDraft
    const data=createQuestionnairePackage(draft,verifiedForms,new Date().toISOString());
    const library=await loadDocx();
    const blobs=await Promise.all(['questionnaire','instructions'].map(kind=>library.Packer.toBlob(createQuestionnaireDocx(data,kind,library))));
+   for(const kind of ['questionnaire','instructions'] as const)blobs.push(new Blob([renderQuestionnairePrint(data,kind)],{type:'text/html;charset=utf-8'}));
    if(!alive.current)return;
    const next:string[]=[];
    try{for(const blob of blobs)next.push(URL.createObjectURL(blob));}catch(e){next.forEach(URL.revokeObjectURL);throw e;}
@@ -29,5 +31,6 @@ export default function QuestionnaireDownloads({draft}:{draft:QuestionnaireDraft
  <button type="button" disabled={!draft.formIds.length||blocked.length>0||busy} onClick={()=>void generate()}>{busy?'正在生成两份文件…':'生成问卷与使用说明'}</button>
  <p role="status">{error|| (files.length?'两份文件已生成，请分别下载保存。':'')}</p>
  {files.length>0&&<div className="builder-actions"><a href={files[0]} download="调查问卷.docx">下载当前问卷 Word</a><a href={files[1]} download="量表使用说明.docx">下载当前使用说明 Word</a></div>}
- <p>组合 PDF 导出仍在完善；可用 Word 打开文件后另存为 PDF。</p></section>;
+ {files.length>0&&<><div className="builder-actions"><a href={files[2]} target="_blank" rel="noopener noreferrer">打开当前问卷打印版</a><a href={files[3]} target="_blank" rel="noopener noreferrer">打开当前使用说明打印版</a></div><p>保存 PDF：分别打开两份打印版，使用浏览器的“打印”，将目标打印机选为“另存为 PDF”。建议使用 Letter 纸张、默认缩放并关闭页眉页脚；保存前检查预览。打印版与本次 Word 使用同一份方案快照。</p></>}
+ </section>;
 }
