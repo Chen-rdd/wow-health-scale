@@ -269,7 +269,7 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
   ]
 },
 "VR-PH-002-BASE":{
-  "reviewed": "2026-09-12",
+  "reviewed": "2026-09-15",
   "definition": [
     {
       "text": "GAD-7（广泛性焦虑障碍七项量表）是一份自评症状工具，最初面向基层医疗中的广泛性焦虑问题开发。内容包括紧张、难以控制担忧、过度担忧、难以放松、坐立不安、易激惹及害怕不良事情发生，用于筛查和量化焦虑症状；不能单凭分数确诊某一种焦虑障碍。",
@@ -302,6 +302,7 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
     }
   ],
   "limits": [
+    {"text":"何筱衍等2010年研究采用自行组织翻译和回译的版本，调查600名成人普通门诊患者，其中96人接受SCID诊断访谈。研究采用既有的10分阈值，未通过ROC重新确定本地最佳界值；其研究译本与本目录现存大陆简体表的完整题文对应仍待核对。","source":"https://www.researchgate.net/publication/281360109_Reliability_and_validity_of_a_generalized_anxiety_scale_in_general_hospital_outpatients","label":"何筱衍等，2010：作者公开全文，方法与讨论"},
     {
       "text": "中文版本应按具体地区和正式题文选择。官方提供译本不意味着已在所有目标人群验证。未确定漏答规则时，不进行自动插补或生成诊断。",
       "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
@@ -353,6 +354,7 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
     }
   ],
   "limits": [
+    {"text":"Wang等2014年在上海一个社区1045名参与者中，以MINI访谈为诊断对照，报告PHQ-9≥7的筛查阈值。此结果有具体样本和译本背景，不应替代所有人群的适用性核对；本目录题本与该研究施测中文题文尚未完成逐项匹配。","source":"https://pubmed.ncbi.nlm.nih.gov/25023953/","label":"Wang等，2014：中文社区验证研究"},
     {
       "text": "第9题阳性需要进一步评估，不能仅凭该题或总分判断自伤风险。调查实施前应安排相应的专业评估和转介流程。",
       "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
@@ -448,3 +450,4 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
   limits:[restriction]
  }
 };
+
