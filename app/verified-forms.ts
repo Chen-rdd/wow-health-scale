@@ -3111,5 +3111,253 @@ export const verifiedForms:VerifiedForm[] = [
     "translationEvidence": "译者署名：Yueqin Huang、Ping Liu，北京大学精神卫生研究所。开发者网站公开提供此普通话译本；尚未逐字匹配本份译文与对应中文验证研究，不能将其他译本或人群的效度直接套用于本表。",
     "usage": "这里预览的是K10+原件第一页的核心10题，不是完整“+”表。第二页关于相对平时的变化、受损天数及就诊次数等附加问题不参与核心总分；完整题文及跳答请看原件。Copyright © Ronald C. Kessler, PhD. All rights reserved. 使用时保留版权并引用Kessler等（2003），Archives of General Psychiatry, 60(2), 184–189。",
     "exportReady": false
+  },
+  {
+    "id": "phq8-zh-mainland",
+    "versionId": "VR-PH-001-003",
+    "label": "PHQ-8：官方大陆简体中文表",
+    "language": "zh-Hans",
+    "itemCount": 8,
+    "sourceUrl": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/PHQ-8_Simplified%20Chinese-Mainland%20China.pdf",
+    "sourceSha256": "f69ead7708e63dc46e8467bf9adef9ec8f18d745d3882f46f49f4347562c95df",
+    "scoringSource": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+    "rightsSource": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/PHQ-8_Simplified%20Chinese-Mainland%20China.pdf",
+    "instructions": "在过去两周，您经常受到以下问题的困扰吗？（请用“✔”勾选您的答案）",
+    "options": [
+      {
+        "label": "从来沒有",
+        "value": 0
+      },
+      {
+        "label": "有几天",
+        "value": 1
+      },
+      {
+        "label": "超过一半天数",
+        "value": 2
+      },
+      {
+        "label": "接近每天",
+        "value": 3
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "text": "做任何事都觉得沉闷或者根本不想做任何事",
+        "originalItem": 1,
+        "sourcePage": 1,
+        "dimension": "depression",
+        "reverse": false
+      },
+      {
+        "number": 2,
+        "text": "情绪低落、抑郁或绝望",
+        "originalItem": 2,
+        "sourcePage": 1,
+        "dimension": "depression",
+        "reverse": false
+      },
+      {
+        "number": 3,
+        "text": "难于入睡；半夜会醒，或相反，睡觉时间过多",
+        "originalItem": 3,
+        "sourcePage": 1,
+        "dimension": "depression",
+        "reverse": false
+      },
+      {
+        "number": 4,
+        "text": "觉得疲倦或沒有活力",
+        "originalItem": 4,
+        "sourcePage": 1,
+        "dimension": "depression",
+        "reverse": false
+      },
+      {
+        "number": 5,
+        "text": "胃口极差或饮食过量",
+        "originalItem": 5,
+        "sourcePage": 1,
+        "dimension": "depression",
+        "reverse": false
+      },
+      {
+        "number": 6,
+        "text": "不喜欢自己──觉得自己做得不好、对自己失望或有负家人期望",
+        "originalItem": 6,
+        "sourcePage": 1,
+        "dimension": "depression",
+        "reverse": false
+      },
+      {
+        "number": 7,
+        "text": "难于集中精神做事，例如看报纸或看电视",
+        "originalItem": 7,
+        "sourcePage": 1,
+        "dimension": "depression",
+        "reverse": false
+      },
+      {
+        "number": 8,
+        "text": "其它人反映你行动或说话迟缓；或者相反，你比平常活动更多──坐立不安、停不下来",
+        "originalItem": 8,
+        "sourcePage": 1,
+        "dimension": "depression",
+        "reverse": false
+      }
+    ],
+    "dimensions": {
+      "depression": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "rawSubscaleRange": [
+      0,
+      24
+    ],
+    "comparisonMultiplier": 1,
+    "scoringNote": "八题分别计0–3分，相加为0–24分；无反向题。此题本不含PHQ-9第9题，不能据此判断不存在死亡或自伤想法。漏答处理规则尚待核实，不自动补零。",
+    "review": {
+      "text": "两轮对照官方PDF核对题文和选项，保留地区措辞",
+      "scoring": "官方开发者手册核对八题合计0–24分",
+      "translationValidation": "具体施测译文与中文验证研究仍待匹配"
+    },
+    "respondentScoringEnabled": false,
+    "verifiedAt": "2026-09-16",
+    "translationEvidence": "PHQ Screeners官方地区译本；题文与选项已核对，具体译本的人群验证研究仍待匹配。不能直接继承PHQ-9的验证结论。",
+    "usage": "由Robert L. Spitzer、Janet B.W. Williams、Kurt Kroenke及同事开发，Pfizer Inc.教育基金支持。原件注明无需许可即可复制、翻译、展示或分发；使用时保留开发者署名和具体来源。",
+    "exportReady": false
+  },
+  {
+    "id": "phq8-zh-taiwan",
+    "versionId": "VR-PH-001-003",
+    "label": "PHQ-8：官方台湾繁体中文表",
+    "language": "zh-Hant-TW",
+    "itemCount": 8,
+    "sourceUrl": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/PHQ-8_Traditional%20Chinese-Taiwan.pdf",
+    "sourceSha256": "e0e768e9dee268df3e457bebf74743e3161e9c6ac038f394fda6eec2d7056192",
+    "scoringSource": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+    "rightsSource": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/PHQ-8_Traditional%20Chinese-Taiwan.pdf",
+    "instructions": "在過去兩個星期，有多少時候您受到以下任何問題所困擾？（請用「✔」勾選您的答案）",
+    "options": [
+      {
+        "label": "完全沒有",
+        "value": 0
+      },
+      {
+        "label": "幾天",
+        "value": 1
+      },
+      {
+        "label": "一半以上的天數",
+        "value": 2
+      },
+      {
+        "label": "幾乎每天",
+        "value": 3
+      }
+    ],
+    "items": [
+      {
+        "number": 1,
+        "text": "做事時提不起勁或沒有樂趣",
+        "originalItem": 1,
+        "sourcePage": 1,
+        "dimension": "depression",
+        "reverse": false
+      },
+      {
+        "number": 2,
+        "text": "感到心情低落、沮喪或絕望",
+        "originalItem": 2,
+        "sourcePage": 1,
+        "dimension": "depression",
+        "reverse": false
+      },
+      {
+        "number": 3,
+        "text": "入睡困難、睡不安穩或睡眠過多",
+        "originalItem": 3,
+        "sourcePage": 1,
+        "dimension": "depression",
+        "reverse": false
+      },
+      {
+        "number": 4,
+        "text": "感覺疲倦或沒有活力",
+        "originalItem": 4,
+        "sourcePage": 1,
+        "dimension": "depression",
+        "reverse": false
+      },
+      {
+        "number": 5,
+        "text": "食慾不振或吃太多",
+        "originalItem": 5,
+        "sourcePage": 1,
+        "dimension": "depression",
+        "reverse": false
+      },
+      {
+        "number": 6,
+        "text": "覺得自己很糟—或覺得自己很失敗，或讓自己或家人失望",
+        "originalItem": 6,
+        "sourcePage": 1,
+        "dimension": "depression",
+        "reverse": false
+      },
+      {
+        "number": 7,
+        "text": "對事物專注有困難，例如閱讀報紙或看電視時",
+        "originalItem": 7,
+        "sourcePage": 1,
+        "dimension": "depression",
+        "reverse": false
+      },
+      {
+        "number": 8,
+        "text": "動作或說話速度緩慢到別人已經察覺，或正好相反—煩躁或坐立不安、動來動去的情況更勝於平常",
+        "originalItem": 8,
+        "sourcePage": 1,
+        "dimension": "depression",
+        "reverse": false
+      }
+    ],
+    "dimensions": {
+      "depression": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "rawSubscaleRange": [
+      0,
+      24
+    ],
+    "comparisonMultiplier": 1,
+    "scoringNote": "八题分别计0–3分，相加为0–24分；无反向题。此题本不含PHQ-9第9题，不能据此判断不存在死亡或自伤想法。漏答处理规则尚待核实，不自动补零。",
+    "review": {
+      "text": "两轮对照官方PDF核对题文和选项，保留地区措辞",
+      "scoring": "官方开发者手册核对八题合计0–24分",
+      "translationValidation": "具体施测译文与中文验证研究仍待匹配"
+    },
+    "respondentScoringEnabled": false,
+    "verifiedAt": "2026-09-16",
+    "translationEvidence": "PHQ Screeners官方地区译本；题文与选项已核对，具体译本的人群验证研究仍待匹配。不能直接继承PHQ-9的验证结论。",
+    "usage": "由Robert L. Spitzer、Janet B.W. Williams、Kurt Kroenke及同事开发，Pfizer Inc.教育基金支持。原件注明无需许可即可复制、翻译、展示或分发；使用时保留开发者署名和具体来源。",
+    "exportReady": false
   }
 ];
