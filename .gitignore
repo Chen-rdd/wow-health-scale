@@ -4,3 +4,14 @@ dist/
 *.pem
 *.key
 .vite/
+audit/source-files/
+audit/source-pages/
+audit/exports/
+audit/render*/
+audit/contact*/
+audit/fontconfig/
+audit/forms-original.json
+public/review/
+audit/html-review/
+audit/forms-snapshot.json
+audit/references-snapshot.json

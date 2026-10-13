@@ -1,0 +1,14 @@
+import {registerHooks}from'node:module';
+import {existsSync,mkdirSync,writeFileSync}from'node:fs';
+registerHooks({resolve(s,c,next){if(s.startsWith('.')&&c.parentURL&&!/\.[a-z]+$/i.test(s)){const u=new URL(s+'.ts',c.parentURL);if(existsSync(u))return next(u.href,c);}return next(s,c);}});
+const {families,versions}=await import('../app/data.ts');
+const {familyIntroductions,versionIntroductions}=await import('../app/introduction-data.ts');
+const {administration}=await import('../app/administration-data.ts');
+const {versionReferences}=await import('../app/references.ts');
+const {verifiedForms}=await import('../app/verified-forms.ts');
+mkdirSync('audit',{recursive:true});
+const records=families.map(f=>({id:f.id,name:f.name,abbreviation:f.abbreviation,versions:versions.filter(v=>v.familyId===f.id).map(v=>({id:v.id,name:v.name,selectable:v.selectable,sources:versionIntroductions[v.id]?.sources??[]})),sources:[{label:'目录原始来源',url:f.sourceUrl},...(familyIntroductions[f.id]?.sources??[]),...(administration[f.id]?.resources??[])],administration:administration[f.id]??null}));
+writeFileSync('audit/catalog-inventory.json',JSON.stringify(records,null,2));
+writeFileSync('audit/references-snapshot.json',JSON.stringify(versionReferences,null,2));
+writeFileSync('audit/forms-snapshot.json',JSON.stringify(verifiedForms,null,2));
+console.log(`${families.length} families, ${versions.length} records inventoried. This does not approve research claims or exports.`);

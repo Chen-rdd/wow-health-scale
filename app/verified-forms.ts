@@ -429,9 +429,18 @@ export const verifiedForms:VerifiedForm[] = [
     "scoringSource": "https://dass.psy.unsw.edu.au/Download%20files/Dass_template.pdf",
     "rightsSource": "https://dass.psy.unsw.edu.au/DASSFAQ.htm",
     "usage": "用于研究方案与纸面问卷准备，保留正式措辞；不得出售量表本身。公开网站不提供DASS答题、自动计分或诊断。",
-    "verifiedAt": "2026-09-12",
+    "verifiedAt": "2026-10-13",
     "translationEvidence": "英文官方表单。",
-    "exportReady": true
+    "exportReady": true,
+    "studyEvidence": [],
+    "audit": {
+      "date": "2026-10-13",
+      "source": "重新下载官方PDF，SHA256与登记值一致。",
+      "items": "逐题文本比较并视觉核对原件；题号、页码、指导语、选项及附加题已核对。",
+      "scoring": "按对应官方评分键或手册核对；缺失规则无明确依据时不补零、不自动插补。",
+      "rights": "DASS/DASS-Y按官方禁止修改或出售条件；PHQ/GAD按原件转载说明，保留署名与来源。",
+      "layout": "配套Word已转为PDF并检查全部页面；中文字体、表格分页及PHQ-9附加题已修正。HTML内容与同一快照一致；浏览器打印预览因自动安全检查拦截而未完成。"
+    }
   },
   {
     "id": "dass21-en",
@@ -673,9 +682,18 @@ export const verifiedForms:VerifiedForm[] = [
     "scoringSource": "https://dass.psy.unsw.edu.au/Download%20files/Dass_template.pdf",
     "rightsSource": "https://dass.psy.unsw.edu.au/DASSFAQ.htm",
     "usage": "用于研究方案与纸面问卷准备，保留正式措辞；不得出售量表本身。公开网站不提供DASS答题、自动计分或诊断。",
-    "verifiedAt": "2026-09-12",
+    "verifiedAt": "2026-10-13",
     "translationEvidence": "英文官方表单。",
-    "exportReady": true
+    "exportReady": true,
+    "studyEvidence": [],
+    "audit": {
+      "date": "2026-10-13",
+      "source": "重新下载官方PDF，SHA256与登记值一致。",
+      "items": "逐题文本比较并视觉核对原件；题号、页码、指导语、选项及附加题已核对。",
+      "scoring": "按对应官方评分键或手册核对；缺失规则无明确依据时不补零、不自动插补。",
+      "rights": "DASS/DASS-Y按官方禁止修改或出售条件；PHQ/GAD按原件转载说明，保留署名与来源。",
+      "layout": "配套Word已转为PDF并检查全部页面；中文字体、表格分页及PHQ-9附加题已修正。HTML内容与同一快照一致；浏览器打印预览因自动安全检查拦截而未完成。"
+    }
   },
   {
     "id": "dass42-zh-zuo-chang",
@@ -1106,9 +1124,25 @@ export const verifiedForms:VerifiedForm[] = [
     "scoringSource": "https://dass.psy.unsw.edu.au/Download%20files/Dass_template.pdf",
     "rightsSource": "https://dass.psy.unsw.edu.au/DASSFAQ.htm",
     "usage": "用于研究方案与纸面问卷准备，保留正式措辞；不得出售量表本身。公开网站不提供DASS答题、自动计分或诊断。",
-    "verifiedAt": "2026-09-12",
-    "translationEvidence": "官网Zuo/Chang简体42题表；2016年论文回顾其与Chan等2012年验证的联系，直接原文核对待补。",
-    "exportReady": true
+    "verifiedAt": "2026-10-13",
+    "translationEvidence": "原始研究摘要包括605名大学生、138名地震经历者、86名北京居民。Wang等2016正文第3页将其关联至Zuo/Chang译本，但本轮未获得2012完整施测题本，逐字一致性尚未确认。",
+    "exportReady": true,
+    "studyEvidence": [
+      {
+        "label": "Chan等 2012 研究记录",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22921506/",
+        "status": "尚未确认",
+        "note": "原始研究摘要包括605名大学生、138名地震经历者、86名北京居民。Wang等2016正文第3页将其关联至Zuo/Chang译本，但本轮未获得2012完整施测题本，逐字一致性尚未确认。"
+      }
+    ],
+    "audit": {
+      "date": "2026-10-13",
+      "source": "重新下载官方PDF，SHA256与登记值一致。",
+      "items": "逐题文本比较并视觉核对原件；题号、页码、指导语、选项及附加题已核对。",
+      "scoring": "按对应官方评分键或手册核对；缺失规则无明确依据时不补零、不自动插补。",
+      "rights": "DASS/DASS-Y按官方禁止修改或出售条件；PHQ/GAD按原件转载说明，保留署名与来源。",
+      "layout": "配套Word已转为PDF并检查全部页面；中文字体、表格分页及PHQ-9附加题已修正。HTML内容与同一快照一致；浏览器打印预览因自动安全检查拦截而未完成。"
+    }
   },
   {
     "id": "dass21-zh-tm",
@@ -1350,9 +1384,25 @@ export const verifiedForms:VerifiedForm[] = [
     "scoringSource": "https://dass.psy.unsw.edu.au/Chinese/Chinese%20DASS21%20scoring%20template.pdf",
     "rightsSource": "https://dass.psy.unsw.edu.au/DASSFAQ.htm",
     "usage": "用于研究方案与纸面问卷准备，保留正式措辞；不得出售量表本身。公开网站不提供DASS答题、自动计分或诊断。",
-    "verifiedAt": "2026-09-12",
-    "translationEvidence": "官网2001年翻译报告；Wang等2016年研究说明采用Taouk等来源，具体施测文本匹配仍需补充材料核对。",
-    "exportReady": true
+    "verifiedAt": "2026-10-13",
+    "translationEvidence": "官网将本题本与报告直接关联。报告第9–11页描述356名澳大利亚华语成人及翻译流程，另比较香港样本；没有提供全部中文施测题文，不能声称研究题本已逐字匹配。",
+    "exportReady": true,
+    "studyEvidence": [
+      {
+        "label": "Moussa等 2001 官方翻译报告",
+        "url": "https://dass.psy.unsw.edu.au/Chinese/Chinese%20DASS21%20Paper.pdf",
+        "status": "译本来源已关联",
+        "note": "官网将本题本与报告直接关联。报告第9–11页描述356名澳大利亚华语成人及翻译流程，另比较香港样本；没有提供全部中文施测题文，不能声称研究题本已逐字匹配。"
+      }
+    ],
+    "audit": {
+      "date": "2026-10-13",
+      "source": "重新下载官方PDF，SHA256与登记值一致。",
+      "items": "逐题文本比较并视觉核对原件；题号、页码、指导语、选项及附加题已核对。",
+      "scoring": "按对应官方评分键或手册核对；缺失规则无明确依据时不补零、不自动插补。",
+      "rights": "DASS/DASS-Y按官方禁止修改或出售条件；PHQ/GAD按原件转载说明，保留署名与来源。",
+      "layout": "配套Word已转为PDF并检查全部页面；中文字体、表格分页及PHQ-9附加题已修正。HTML内容与同一快照一致；浏览器打印预览因自动安全检查拦截而未完成。"
+    }
   },
   {
     "id": "dassy-en",
@@ -1593,10 +1643,20 @@ export const verifiedForms:VerifiedForm[] = [
       "translationValidation": "original"
     },
     "respondentScoringEnabled": false,
-    "verifiedAt": "2026-09-12",
+    "verifiedAt": "2026-10-13",
     "translationEvidence": "英文原版；开发研究为Szabo与Lovibond（2022）。",
     "usage": "保留正式题文和本译本选项。三个维度各0–21分，不乘2，不套成人常模。此处供研究者查阅，不提供公众答题或诊断。",
-    "exportReady": false
+    "exportReady": false,
+    "studyEvidence": [],
+    "audit": {
+      "date": "2026-10-13",
+      "source": "重新下载官方PDF，SHA256与登记值一致。",
+      "items": "逐题文本比较并视觉核对原件；题号、页码、指导语、选项及附加题已核对。",
+      "scoring": "按对应官方评分键或手册核对；缺失规则无明确依据时不补零、不自动插补。",
+      "rights": "DASS/DASS-Y按官方禁止修改或出售条件；PHQ/GAD按原件转载说明，保留署名与来源。",
+      "layout": "配套Word已转为PDF并检查全部页面；中文字体、表格分页及PHQ-9附加题已修正。HTML内容与同一快照一致；浏览器打印预览因自动安全检查拦截而未完成。"
+    },
+    "exportBlockReason": "原件与Word输出已核对；浏览器打印分页及另存PDF仍待人工检查，暂不开放正式导出。"
   },
   {
     "id": "dassy-zh-luo-tian",
@@ -1834,13 +1894,30 @@ export const verifiedForms:VerifiedForm[] = [
     "review": {
       "text": "visually-checked-against-official-pdf",
       "scoring": "official-key-verified",
-      "translationValidation": "partial"
+      "translationValidation": "21-items-matched-to-2025-supplement-S1;response-anchors-not-in-supplement"
     },
     "respondentScoringEnabled": false,
-    "verifiedAt": "2026-09-12",
-    "translationEvidence": "官方收录的Luo/Tian译本。验证研究与本表逐项匹配仍在核查。",
+    "verifiedAt": "2026-10-13",
+    "translationEvidence": "官方题本21题与研究补充表S1的中文列逐题匹配。研究为苏州404名14–17岁高职学生，不能外推至所有8–17岁儿童。补充表未列完整指导语与回答锚点，选项仍以官网原件为准。",
     "usage": "保留正式题文和本译本选项。三个维度各0–21分，不乘2，不套成人常模。此处供研究者查阅，不提供公众答题或诊断。",
-    "exportReady": false
+    "exportReady": false,
+    "studyEvidence": [
+      {
+        "label": "Luo等 2025 补充表S1",
+        "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1007%2Fs12144-025-08057-7/MediaObjects/12144_2025_8057_MOESM1_ESM.docx",
+        "status": "题文已匹配",
+        "note": "官方题本21题与研究补充表S1的中文列逐题匹配。研究为苏州404名14–17岁高职学生，不能外推至所有8–17岁儿童。补充表未列完整指导语与回答锚点，选项仍以官网原件为准。"
+      }
+    ],
+    "audit": {
+      "date": "2026-10-13",
+      "source": "重新下载官方PDF，SHA256与登记值一致。",
+      "items": "逐题文本比较并视觉核对原件；题号、页码、指导语、选项及附加题已核对。",
+      "scoring": "按对应官方评分键或手册核对；缺失规则无明确依据时不补零、不自动插补。",
+      "rights": "DASS/DASS-Y按官方禁止修改或出售条件；PHQ/GAD按原件转载说明，保留署名与来源。",
+      "layout": "配套Word已转为PDF并检查全部页面；中文字体、表格分页及PHQ-9附加题已修正。HTML内容与同一快照一致；浏览器打印预览因自动安全检查拦截而未完成。"
+    },
+    "exportBlockReason": "原件与Word输出已核对；浏览器打印分页及另存PDF仍待人工检查，暂不开放正式导出。"
   },
   {
     "id": "dassy-zh-cao-chen",
@@ -2078,13 +2155,30 @@ export const verifiedForms:VerifiedForm[] = [
     "review": {
       "text": "visually-checked-against-official-pdf",
       "scoring": "official-key-verified",
-      "translationValidation": "partial"
+      "translationValidation": "21-items-mapped-to-2023-supplement-S1;punctuation-and-analysis-recoding-recorded"
     },
     "respondentScoringEnabled": false,
-    "verifiedAt": "2026-09-12",
-    "translationEvidence": "Cao等2023研究使用此译本；Rasch分析曾合并部分条目的回答类别。该处理不能直接取代原表四级选项，也不意味着所有人群均应重编码。",
+    "verifiedAt": "2026-10-13",
+    "translationEvidence": "21题按抑郁、焦虑、压力分组重新排列后，题文与研究补充表S1对应；第13题句末标点、括号等排版差异已记录。研究涉及1507名小学生和1131名中学生，部分分析合并回答类别；研究的修正模型不等同于原件0–3四级计分。",
     "usage": "保留正式题文和本译本选项。三个维度各0–21分，不乘2，不套成人常模。此处供研究者查阅，不提供公众答题或诊断。",
-    "exportReady": false
+    "exportReady": false,
+    "studyEvidence": [
+      {
+        "label": "Cao等 2023 补充表S1",
+        "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2Fs13034-023-00655-2/MediaObjects/13034_2023_655_MOESM1_ESM.docx",
+        "status": "题文已匹配",
+        "note": "21题按抑郁、焦虑、压力分组重新排列后，题文与研究补充表S1对应；第13题句末标点、括号等排版差异已记录。研究涉及1507名小学生和1131名中学生，部分分析合并回答类别；研究的修正模型不等同于原件0–3四级计分。"
+      }
+    ],
+    "audit": {
+      "date": "2026-10-13",
+      "source": "重新下载官方PDF，SHA256与登记值一致。",
+      "items": "逐题文本比较并视觉核对原件；题号、页码、指导语、选项及附加题已核对。",
+      "scoring": "按对应官方评分键或手册核对；缺失规则无明确依据时不补零、不自动插补。",
+      "rights": "DASS/DASS-Y按官方禁止修改或出售条件；PHQ/GAD按原件转载说明，保留署名与来源。",
+      "layout": "配套Word已转为PDF并检查全部页面；中文字体、表格分页及PHQ-9附加题已修正。HTML内容与同一快照一致；浏览器打印预览因自动安全检查拦截而未完成。"
+    },
+    "exportBlockReason": "原件与Word输出已核对；浏览器打印分页及另存PDF仍待人工检查，暂不开放正式导出。"
   },
   {
     "id": "dassy-zh-hk",
@@ -2325,10 +2419,20 @@ export const verifiedForms:VerifiedForm[] = [
       "translationValidation": "partial"
     },
     "respondentScoringEnabled": false,
-    "verifiedAt": "2026-09-12",
-    "translationEvidence": "香港卫生署学生健康服务译本；原件已核对，匹配的独立验证证据仍待补充。",
+    "verifiedAt": "2026-10-13",
+    "translationEvidence": "香港卫生署学生健康服务提供的繁体题本已对照官方原件；本轮检索未确认与这份译本逐字匹配的独立验证研究，不能用其他简体译本研究代替。",
     "usage": "保留正式题文和本译本选项。三个维度各0–21分，不乘2，不套成人常模。此处供研究者查阅，不提供公众答题或诊断。",
-    "exportReady": false
+    "exportReady": false,
+    "studyEvidence": [],
+    "audit": {
+      "date": "2026-10-13",
+      "source": "重新下载官方PDF，SHA256与登记值一致。",
+      "items": "逐题文本比较并视觉核对原件；题号、页码、指导语、选项及附加题已核对。",
+      "scoring": "按对应官方评分键或手册核对；缺失规则无明确依据时不补零、不自动插补。",
+      "rights": "DASS/DASS-Y按官方禁止修改或出售条件；PHQ/GAD按原件转载说明，保留署名与来源。",
+      "layout": "配套Word已转为PDF并检查全部页面；中文字体、表格分页及PHQ-9附加题已修正。HTML内容与同一快照一致；浏览器打印预览因自动安全检查拦截而未完成。"
+    },
+    "exportBlockReason": "原件与Word输出已核对；浏览器打印分页及另存PDF仍待人工检查，暂不开放正式导出。"
   },
   {
     "id": "phq-9-en",
@@ -2454,11 +2558,11 @@ export const verifiedForms:VerifiedForm[] = [
     "review": {
       "text": "visually-checked-against-official-pdf",
       "scoring": "official-manual-verified",
-      "translationValidation": "original-study-pending"
+      "translationValidation": "original-official-form;population-validation-is-context-specific"
     },
     "respondentScoringEnabled": false,
-    "verifiedAt": "2026-09-12",
-    "translationEvidence": "PHQ Screeners官方目录所列具体表单。目录收录与获得转载许可不等于在所有人群完成验证；中文研究的具体题文匹配仍在核查。",
+    "verifiedAt": "2026-10-13",
+    "translationEvidence": "官方英文原件已重新核对；中文译本研究的匹配状态不用于判定本英文题本。使用时仍需核对目标人群的适用性。",
     "usage": "保留官方题文与选项。开发者允许复制、翻译、展示及分发；评分用于症状评估或筛查，不能单凭总分确诊。",
     "exportReady": false,
     "supplementaryItems": [
@@ -2472,7 +2576,17 @@ export const verifiedForms:VerifiedForm[] = [
         ],
         "scored": false
       }
-    ]
+    ],
+    "studyEvidence": [],
+    "audit": {
+      "date": "2026-10-13",
+      "source": "重新下载官方PDF，SHA256与登记值一致。",
+      "items": "逐题文本比较并视觉核对原件；题号、页码、指导语、选项及附加题已核对。",
+      "scoring": "按对应官方评分键或手册核对；缺失规则无明确依据时不补零、不自动插补。",
+      "rights": "DASS/DASS-Y按官方禁止修改或出售条件；PHQ/GAD按原件转载说明，保留署名与来源。",
+      "layout": "配套Word已转为PDF并检查全部页面；中文字体、表格分页及PHQ-9附加题已修正。HTML内容与同一快照一致；浏览器打印预览因自动安全检查拦截而未完成。"
+    },
+    "exportBlockReason": "原件与Word输出已核对；浏览器打印分页及另存PDF仍待人工检查，暂不开放正式导出。"
   },
   {
     "id": "phq-9-zh-mainland",
@@ -2601,8 +2715,8 @@ export const verifiedForms:VerifiedForm[] = [
       "translationValidation": "pending-exact-text-study-match"
     },
     "respondentScoringEnabled": false,
-    "verifiedAt": "2026-09-12",
-    "translationEvidence": "PHQ Screeners官方目录所列具体表单。目录收录与获得转载许可不等于在所有人群完成验证；中文研究的具体题文匹配仍在核查。",
+    "verifiedAt": "2026-10-13",
+    "translationEvidence": "已有上海社区1045人及MINI对照的研究线索；未取得与当前官方目录题本可逐字比较的完整研究译文，不能把≥7的研究界值设为通用标准。",
     "usage": "保留官方题文与选项。开发者允许复制、翻译、展示及分发；评分用于症状评估或筛查，不能单凭总分确诊。",
     "exportReady": false,
     "supplementaryItems": [
@@ -2616,7 +2730,24 @@ export const verifiedForms:VerifiedForm[] = [
         ],
         "scored": false
       }
-    ]
+    ],
+    "studyEvidence": [
+      {
+        "label": "Wang等 2014 社区验证研究",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25023953/",
+        "status": "尚未确认",
+        "note": "已有上海社区1045人及MINI对照的研究线索；未取得与当前官方目录题本可逐字比较的完整研究译文，不能把≥7的研究界值设为通用标准。"
+      }
+    ],
+    "audit": {
+      "date": "2026-10-13",
+      "source": "重新下载官方PDF，SHA256与登记值一致。",
+      "items": "逐题文本比较并视觉核对原件；题号、页码、指导语、选项及附加题已核对。",
+      "scoring": "按对应官方评分键或手册核对；缺失规则无明确依据时不补零、不自动插补。",
+      "rights": "DASS/DASS-Y按官方禁止修改或出售条件；PHQ/GAD按原件转载说明，保留署名与来源。",
+      "layout": "配套Word已转为PDF并检查全部页面；中文字体、表格分页及PHQ-9附加题已修正。HTML内容与同一快照一致；浏览器打印预览因自动安全检查拦截而未完成。"
+    },
+    "exportBlockReason": "原件与Word输出已核对；浏览器打印分页及另存PDF仍待人工检查，暂不开放正式导出。"
   },
   {
     "id": "gad-7-en",
@@ -2724,13 +2855,23 @@ export const verifiedForms:VerifiedForm[] = [
     "review": {
       "text": "visually-checked-against-official-pdf",
       "scoring": "official-manual-verified",
-      "translationValidation": "original-study-pending"
+      "translationValidation": "original-official-form;population-validation-is-context-specific"
     },
     "respondentScoringEnabled": false,
-    "verifiedAt": "2026-09-12",
-    "translationEvidence": "PHQ Screeners官方目录所列具体表单。目录收录与获得转载许可不等于在所有人群完成验证；中文研究的具体题文匹配仍在核查。",
+    "verifiedAt": "2026-10-13",
+    "translationEvidence": "官方英文原件已重新核对；中文译本研究的匹配状态不用于判定本英文题本。使用时仍需核对目标人群的适用性。",
     "usage": "保留官方题文与选项。开发者允许复制、翻译、展示及分发；评分用于症状评估或筛查，不能单凭总分确诊。",
-    "exportReady": false
+    "exportReady": false,
+    "studyEvidence": [],
+    "audit": {
+      "date": "2026-10-13",
+      "source": "重新下载官方PDF，SHA256与登记值一致。",
+      "items": "逐题文本比较并视觉核对原件；题号、页码、指导语、选项及附加题已核对。",
+      "scoring": "按对应官方评分键或手册核对；缺失规则无明确依据时不补零、不自动插补。",
+      "rights": "DASS/DASS-Y按官方禁止修改或出售条件；PHQ/GAD按原件转载说明，保留署名与来源。",
+      "layout": "配套Word已转为PDF并检查全部页面；中文字体、表格分页及PHQ-9附加题已修正。HTML内容与同一快照一致；浏览器打印预览因自动安全检查拦截而未完成。"
+    },
+    "exportBlockReason": "原件与Word输出已核对；浏览器打印分页及另存PDF仍待人工检查，暂不开放正式导出。"
   },
   {
     "id": "gad-7-zh-mainland",
@@ -2841,10 +2982,27 @@ export const verifiedForms:VerifiedForm[] = [
       "translationValidation": "pending-exact-text-study-match"
     },
     "respondentScoringEnabled": false,
-    "verifiedAt": "2026-09-12",
-    "translationEvidence": "PHQ Screeners官方目录所列具体表单。目录收录与获得转载许可不等于在所有人群完成验证；中文研究的具体题文匹配仍在核查。",
+    "verifiedAt": "2026-10-13",
+    "translationEvidence": "研究描述自行翻译、回译，采用既有10分阈值；本轮未取得完整施测题本与官网译本的逐字对照，不声称是同一份译文。",
     "usage": "保留官方题文与选项。开发者允许复制、翻译、展示及分发；评分用于症状评估或筛查，不能单凭总分确诊。",
-    "exportReady": false
+    "exportReady": false,
+    "studyEvidence": [
+      {
+        "label": "何筱衍等 2010 中文验证研究",
+        "url": "https://www.researchgate.net/publication/281360109_Reliability_and_validity_of_a_generalized_anxiety_scale_in_general_hospital_outpatients",
+        "status": "尚未确认",
+        "note": "研究描述自行翻译、回译，采用既有10分阈值；本轮未取得完整施测题本与官网译本的逐字对照，不声称是同一份译文。"
+      }
+    ],
+    "audit": {
+      "date": "2026-10-13",
+      "source": "重新下载官方PDF，SHA256与登记值一致。",
+      "items": "逐题文本比较并视觉核对原件；题号、页码、指导语、选项及附加题已核对。",
+      "scoring": "按对应官方评分键或手册核对；缺失规则无明确依据时不补零、不自动插补。",
+      "rights": "DASS/DASS-Y按官方禁止修改或出售条件；PHQ/GAD按原件转载说明，保留署名与来源。",
+      "layout": "配套Word已转为PDF并检查全部页面；中文字体、表格分页及PHQ-9附加题已修正。HTML内容与同一快照一致；浏览器打印预览因自动安全检查拦截而未完成。"
+    },
+    "exportBlockReason": "原件与Word输出已核对；浏览器打印分页及另存PDF仍待人工检查，暂不开放正式导出。"
   },
   {
     "id": "k6-zh-mandarin-core",
@@ -2959,7 +3117,17 @@ export const verifiedForms:VerifiedForm[] = [
     "verifiedAt": "2026-09-13",
     "translationEvidence": "译者署名：Yueqin Huang、Ping Liu，北京大学精神卫生研究所。开发者网站公开提供此普通话译本；尚未逐字匹配本份译文与对应中文验证研究，不能将其他译本或人群的效度直接套用于本表。",
     "usage": "这里预览的是K6+原件第一页的核心6题，不是完整“+”表。第二页关于相对平时的变化、受损天数及就诊次数等附加问题不参与核心总分；完整题文及跳答请看原件。Copyright © Ronald C. Kessler, PhD. All rights reserved. 使用时保留版权并引用Kessler等（2003），Archives of General Psychiatry, 60(2), 184–189。",
-    "exportReady": false
+    "exportReady": false,
+    "studyEvidence": [],
+    "exportBlockReason": "本轮官方原件下载返回403，旧站返回503；核心题来源复核与配套文件视觉检查尚未完成。",
+    "audit": {
+      "date": "2026-10-13",
+      "source": "当前地址403；旧官方入口503。保留此前校验记录，不标为重新核验完成。",
+      "items": "保留既有核心题预览，未扩展为完整“+”表。",
+      "scoring": "保留原表编号1–5与评分4–0的对应；本轮手册访问受阻。",
+      "rights": "保留版权署名和原始引用；当前官网条件未重新核验。",
+      "layout": "尚未开放导出。"
+    }
   },
   {
     "id": "k10-zh-mandarin-core",
@@ -3110,7 +3278,17 @@ export const verifiedForms:VerifiedForm[] = [
     "verifiedAt": "2026-09-13",
     "translationEvidence": "译者署名：Yueqin Huang、Ping Liu，北京大学精神卫生研究所。开发者网站公开提供此普通话译本；尚未逐字匹配本份译文与对应中文验证研究，不能将其他译本或人群的效度直接套用于本表。",
     "usage": "这里预览的是K10+原件第一页的核心10题，不是完整“+”表。第二页关于相对平时的变化、受损天数及就诊次数等附加问题不参与核心总分；完整题文及跳答请看原件。Copyright © Ronald C. Kessler, PhD. All rights reserved. 使用时保留版权并引用Kessler等（2003），Archives of General Psychiatry, 60(2), 184–189。",
-    "exportReady": false
+    "exportReady": false,
+    "studyEvidence": [],
+    "exportBlockReason": "本轮官方原件下载返回403，旧站返回503；核心题来源复核与配套文件视觉检查尚未完成。",
+    "audit": {
+      "date": "2026-10-13",
+      "source": "当前地址403；旧官方入口503。保留此前校验记录，不标为重新核验完成。",
+      "items": "保留既有核心题预览，未扩展为完整“+”表。",
+      "scoring": "保留原表编号1–5与评分4–0的对应；本轮手册访问受阻。",
+      "rights": "保留版权署名和原始引用；当前官网条件未重新核验。",
+      "layout": "尚未开放导出。"
+    }
   },
   {
     "id": "phq8-zh-mainland",
@@ -3224,17 +3402,34 @@ export const verifiedForms:VerifiedForm[] = [
       24
     ],
     "comparisonMultiplier": 1,
-    "scoringNote": "八题分别计0–3分，相加为0–24分；无反向题。此题本不含PHQ-9第9题，不能据此判断不存在死亡或自伤想法。漏答处理规则尚待核实，不自动补零。",
+    "scoringNote": "八题各0–3分，求和0–24分，无反向题；不含PHQ-9第9题，不能据此判断没有死亡或自伤想法。官方使用手册第3页列明八题计分，但本轮未找到统一的PHQ-8漏答算法；有缺失时先标记分数无法按完整作答规则解释，不补零或默认按均值插补。",
     "review": {
       "text": "两轮对照官方PDF核对题文和选项，保留地区措辞",
       "scoring": "官方开发者手册核对八题合计0–24分",
       "translationValidation": "具体施测译文与中文验证研究仍待匹配"
     },
     "respondentScoringEnabled": false,
-    "verifiedAt": "2026-09-16",
-    "translationEvidence": "PHQ Screeners官方地区译本；题文与选项已核对，具体译本的人群验证研究仍待匹配。不能直接继承PHQ-9的验证结论。",
+    "verifiedAt": "2026-10-13",
+    "translationEvidence": "官方地区题本已重新核对。大陆、台湾版本分别保存；本轮没有确认与当前题本逐字匹配的PHQ-8验证研究，不继承PHQ-9的效度或阈值。",
     "usage": "由Robert L. Spitzer、Janet B.W. Williams、Kurt Kroenke及同事开发，Pfizer Inc.教育基金支持。原件注明无需许可即可复制、翻译、展示或分发；使用时保留开发者署名和具体来源。",
-    "exportReady": false
+    "exportReady": false,
+    "studyEvidence": [
+      {
+        "label": "官方PHQ使用手册 第3页",
+        "url": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+        "status": "尚未确认",
+        "note": "计分可核对；该手册不是本份中文译本的人群验证研究，也未在所读章节提供通用漏答算法。"
+      }
+    ],
+    "audit": {
+      "date": "2026-10-13",
+      "source": "重新下载官方PDF，SHA256与登记值一致。",
+      "items": "逐题文本比较并视觉核对原件；题号、页码、指导语、选项及附加题已核对。",
+      "scoring": "按对应官方评分键或手册核对；缺失规则无明确依据时不补零、不自动插补。",
+      "rights": "DASS/DASS-Y按官方禁止修改或出售条件；PHQ/GAD按原件转载说明，保留署名与来源。",
+      "layout": "配套Word已转为PDF并检查全部页面；中文字体、表格分页及PHQ-9附加题已修正。HTML内容与同一快照一致；浏览器打印预览因自动安全检查拦截而未完成。"
+    },
+    "exportBlockReason": "原件与Word输出已核对；浏览器打印分页及另存PDF仍待人工检查，暂不开放正式导出。"
   },
   {
     "id": "phq8-zh-taiwan",
@@ -3348,16 +3543,33 @@ export const verifiedForms:VerifiedForm[] = [
       24
     ],
     "comparisonMultiplier": 1,
-    "scoringNote": "八题分别计0–3分，相加为0–24分；无反向题。此题本不含PHQ-9第9题，不能据此判断不存在死亡或自伤想法。漏答处理规则尚待核实，不自动补零。",
+    "scoringNote": "八题各0–3分，求和0–24分，无反向题；不含PHQ-9第9题，不能据此判断没有死亡或自伤想法。官方使用手册第3页列明八题计分，但本轮未找到统一的PHQ-8漏答算法；有缺失时先标记分数无法按完整作答规则解释，不补零或默认按均值插补。",
     "review": {
       "text": "两轮对照官方PDF核对题文和选项，保留地区措辞",
       "scoring": "官方开发者手册核对八题合计0–24分",
       "translationValidation": "具体施测译文与中文验证研究仍待匹配"
     },
     "respondentScoringEnabled": false,
-    "verifiedAt": "2026-09-16",
-    "translationEvidence": "PHQ Screeners官方地区译本；题文与选项已核对，具体译本的人群验证研究仍待匹配。不能直接继承PHQ-9的验证结论。",
+    "verifiedAt": "2026-10-13",
+    "translationEvidence": "官方地区题本已重新核对。大陆、台湾版本分别保存；本轮没有确认与当前题本逐字匹配的PHQ-8验证研究，不继承PHQ-9的效度或阈值。",
     "usage": "由Robert L. Spitzer、Janet B.W. Williams、Kurt Kroenke及同事开发，Pfizer Inc.教育基金支持。原件注明无需许可即可复制、翻译、展示或分发；使用时保留开发者署名和具体来源。",
-    "exportReady": false
+    "exportReady": false,
+    "studyEvidence": [
+      {
+        "label": "官方PHQ使用手册 第3页",
+        "url": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+        "status": "尚未确认",
+        "note": "计分可核对；该手册不是本份中文译本的人群验证研究，也未在所读章节提供通用漏答算法。"
+      }
+    ],
+    "audit": {
+      "date": "2026-10-13",
+      "source": "重新下载官方PDF，SHA256与登记值一致。",
+      "items": "逐题文本比较并视觉核对原件；题号、页码、指导语、选项及附加题已核对。",
+      "scoring": "按对应官方评分键或手册核对；缺失规则无明确依据时不补零、不自动插补。",
+      "rights": "DASS/DASS-Y按官方禁止修改或出售条件；PHQ/GAD按原件转载说明，保留署名与来源。",
+      "layout": "配套Word已转为PDF并检查全部页面；中文字体、表格分页及PHQ-9附加题已修正。HTML内容与同一快照一致；浏览器打印预览因自动安全检查拦截而未完成。"
+    },
+    "exportBlockReason": "原件与Word输出已核对；浏览器打印分页及另存PDF仍待人工检查，暂不开放正式导出。"
   }
 ];

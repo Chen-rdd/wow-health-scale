@@ -1,0 +1,5782 @@
+[
+  {
+    "id": "PH-001",
+    "name": "Patient Health Questionnaire",
+    "abbreviation": "PHQ",
+    "versions": [
+      {
+        "id": "VR-PH-001-BASE",
+        "name": "Patient Health Questionnaire-9",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PHQ完整问卷开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10568646/"
+          },
+          {
+            "label": "PHQ-9开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11556941/"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-001-001",
+        "name": "Patient Health Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PHQ完整问卷开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10568646/"
+          },
+          {
+            "label": "PHQ-9开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11556941/"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-001-002",
+        "name": "Patient Health Questionnaire-2",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PHQ完整问卷开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10568646/"
+          },
+          {
+            "label": "PHQ-9开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11556941/"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-001-003",
+        "name": "Patient Health Questionnaire-8",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PHQ完整问卷开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10568646/"
+          },
+          {
+            "label": "PHQ-9开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11556941/"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-001-004",
+        "name": "Patient Health Questionnaire-4",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PHQ完整问卷开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10568646/"
+          },
+          {
+            "label": "PHQ-9开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11556941/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1046/j.1525-1497.2001.016009606.x"
+      },
+      {
+        "label": "PHQ完整问卷开发研究",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10568646/"
+      },
+      {
+        "label": "PHQ-9开发研究",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11556941/"
+      },
+      {
+        "label": "开发者表单与译本入口",
+        "url": "https://www.phqscreeners.com/",
+        "kind": "题目与选项",
+        "scope": "PHQ工具"
+      },
+      {
+        "label": "开发者题目示例、版本对应及计分手册",
+        "url": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+        "kind": "评分标准",
+        "scope": "表1及各模块"
+      }
+    ],
+    "administration": {
+      "scope": "PHQ-9、8、2、4、15及完整PHQ；PHQ-A另查专门手册",
+      "answers": "PHQ-9等抑郁题回顾近两周，按出现频率0–3回答；PHQ-15采用0–2的困扰程度编码。",
+      "scoring": "PHQ-9为0–27，PHQ-8为0–24，PHQ-2为0–6；PHQ-4由PHQ-2与GAD-2组成，两个分量表可分别报告。完整PHQ按模块判断，不能把所有模块求和。",
+      "access": "开发者手册明确其表1工具可复制、展示和分发；正式译文应取自对应表单，不将本页概述作为译本。",
+      "resources": [
+        {
+          "label": "开发者表单与译本入口",
+          "url": "https://www.phqscreeners.com/",
+          "kind": "题目与选项",
+          "scope": "PHQ工具"
+        },
+        {
+          "label": "开发者题目示例、版本对应及计分手册",
+          "url": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+          "kind": "评分标准",
+          "scope": "表1及各模块"
+        }
+      ]
+    }
+  },
+  {
+    "id": "PH-002",
+    "name": "Generalized Anxiety Disorder Scales",
+    "abbreviation": "GAD",
+    "versions": [
+      {
+        "id": "VR-PH-002-BASE",
+        "name": "Generalized Anxiety Disorder-7",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "A brief measure for assessing generalized anxiety disorder: the GAD-7.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16717171/"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-002-005",
+        "name": "Generalized Anxiety Disorder-2",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "A brief measure for assessing generalized anxiety disorder: the GAD-7.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16717171/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1001/archinte.166.10.1092"
+      },
+      {
+        "label": "A brief measure for assessing generalized anxiety disorder: the GAD-7.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16717171/"
+      },
+      {
+        "label": "正式表单与语言选择",
+        "url": "https://www.phqscreeners.com/",
+        "kind": "题目与选项",
+        "scope": "GAD-7"
+      },
+      {
+        "label": "GAD-7与GAD-2计分",
+        "url": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+        "kind": "评分标准",
+        "scope": "两种长度"
+      }
+    ],
+    "administration": {
+      "scope": "GAD-7与GAD-2",
+      "answers": "近两周频率回答，每题0–3。",
+      "scoring": "GAD-7七题求和0–21；GAD-2只取前两题，为0–6。手册所列5、10、15分程度界点用于GAD-7，不能套用于GAD-2。",
+      "access": "开发者手册列明可复制、展示和分发；筛查结果需结合进一步评估。",
+      "resources": [
+        {
+          "label": "正式表单与语言选择",
+          "url": "https://www.phqscreeners.com/",
+          "kind": "题目与选项",
+          "scope": "GAD-7"
+        },
+        {
+          "label": "GAD-7与GAD-2计分",
+          "url": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+          "kind": "评分标准",
+          "scope": "两种长度"
+        }
+      ]
+    }
+  },
+  {
+    "id": "PH-003",
+    "name": "Depression Anxiety Stress Scales",
+    "abbreviation": "DASS",
+    "versions": [
+      {
+        "id": "VR-PH-003-BASE",
+        "name": "Depression Anxiety Stress Scales",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "DASS开发者：工具及版本",
+            "url": "https://dass.psy.unsw.edu.au/"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-003-006",
+        "name": "DASS-42",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "DASS开发者：工具及版本",
+            "url": "https://dass.psy.unsw.edu.au/"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-003-007",
+        "name": "DASS-21",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "DASS开发者：工具及版本",
+            "url": "https://dass.psy.unsw.edu.au/"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-003-008",
+        "name": "DASS-Y",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "DASS开发者：工具及版本",
+            "url": "https://dass.psy.unsw.edu.au/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://dass.psy.unsw.edu.au/"
+      },
+      {
+        "label": "DASS开发者：工具及版本",
+        "url": "https://dass.psy.unsw.edu.au/"
+      },
+      {
+        "label": "DASS正式表单与评分模板",
+        "url": "https://www2.psy.unsw.edu.au/Groups/Dass/down.htm",
+        "kind": "题目与选项",
+        "scope": "成人42题及21题"
+      },
+      {
+        "label": "开发者评分FAQ",
+        "url": "https://dass.psy.unsw.edu.au/DASSFAQ.htm",
+        "kind": "评分标准",
+        "scope": "成人及青少年分别说明"
+      },
+      {
+        "label": "译本目录",
+        "url": "https://dass.psy.unsw.edu.au/DASS%20Translations.htm",
+        "kind": "中文表单",
+        "scope": "选择具体中文译本"
+      }
+    ],
+    "administration": {
+      "scope": "成人DASS-42、DASS-21及独立的DASS-Y",
+      "answers": "成人表每题0–3分，回顾过去一周；回答表示描述符合自身情况的程度。",
+      "scoring": "抑郁、焦虑、压力分别计分。DASS-42每维14题；DASS-21每维7题，若与成人完整版常模比较，各维原始和乘2。DASS-Y不能照搬成人短版乘2规则。",
+      "access": "开发者声明DASS问卷为公有领域；译本的来源和所用版本仍需记录。",
+      "resources": [
+        {
+          "label": "DASS正式表单与评分模板",
+          "url": "https://www2.psy.unsw.edu.au/Groups/Dass/down.htm",
+          "kind": "题目与选项",
+          "scope": "成人42题及21题"
+        },
+        {
+          "label": "开发者评分FAQ",
+          "url": "https://dass.psy.unsw.edu.au/DASSFAQ.htm",
+          "kind": "评分标准",
+          "scope": "成人及青少年分别说明"
+        },
+        {
+          "label": "译本目录",
+          "url": "https://dass.psy.unsw.edu.au/DASS%20Translations.htm",
+          "kind": "中文表单",
+          "scope": "选择具体中文译本"
+        }
+      ]
+    }
+  },
+  {
+    "id": "PH-004",
+    "name": "Perceived Stress Scale",
+    "abbreviation": "PSS",
+    "versions": [
+      {
+        "id": "VR-PH-004-BASE",
+        "name": "Perceived Stress Scale",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "PSS原始开发研究",
+            "url": "https://kilthub.cmu.edu/articles/journal_contribution/A_Global_Measure_of_Perceived_Stress/6613130"
+          },
+          {
+            "label": "PSS各长度形式研究",
+            "url": "https://www.cmu.edu/dietrich/psychology/stress-immunity-disease-lab/scales/pdf/cohen%2C-s.--williamson%2C-g.-1988.pdf"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-004-009",
+        "name": "Perceived Stress Scale-14",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PSS原始开发研究",
+            "url": "https://kilthub.cmu.edu/articles/journal_contribution/A_Global_Measure_of_Perceived_Stress/6613130"
+          },
+          {
+            "label": "PSS各长度形式研究",
+            "url": "https://www.cmu.edu/dietrich/psychology/stress-immunity-disease-lab/scales/pdf/cohen%2C-s.--williamson%2C-g.-1988.pdf"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-004-010",
+        "name": "Perceived Stress Scale-10",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PSS原始开发研究",
+            "url": "https://kilthub.cmu.edu/articles/journal_contribution/A_Global_Measure_of_Perceived_Stress/6613130"
+          },
+          {
+            "label": "PSS各长度形式研究",
+            "url": "https://www.cmu.edu/dietrich/psychology/stress-immunity-disease-lab/scales/pdf/cohen%2C-s.--williamson%2C-g.-1988.pdf"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-004-011",
+        "name": "Perceived Stress Scale-4",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PSS原始开发研究",
+            "url": "https://kilthub.cmu.edu/articles/journal_contribution/A_Global_Measure_of_Perceived_Stress/6613130"
+          },
+          {
+            "label": "PSS各长度形式研究",
+            "url": "https://www.cmu.edu/dietrich/psychology/stress-immunity-disease-lab/scales/pdf/cohen%2C-s.--williamson%2C-g.-1988.pdf"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.2307/2136404"
+      },
+      {
+        "label": "PSS原始开发研究",
+        "url": "https://kilthub.cmu.edu/articles/journal_contribution/A_Global_Measure_of_Perceived_Stress/6613130"
+      },
+      {
+        "label": "PSS各长度形式研究",
+        "url": "https://www.cmu.edu/dietrich/psychology/stress-immunity-disease-lab/scales/pdf/cohen%2C-s.--williamson%2C-g.-1988.pdf"
+      },
+      {
+        "label": "PSS-10英文完整题目与选项",
+        "url": "https://www.cmu.edu/dietrich/psychology/stress-immunity-disease-lab/scales/html/pss.html",
+        "kind": "题目与选项",
+        "scope": "10题"
+      },
+      {
+        "label": "开发者各版本、评分和授权入口",
+        "url": "https://www.cmu.edu/dietrich/psychology/stress-immunity-disease-lab/scales/index.html",
+        "kind": "评分标准",
+        "scope": "PSS系列"
+      }
+    ],
+    "administration": {
+      "scope": "PSS-10及官方提供的其他长度形式",
+      "answers": "PSS-10每题0–4分，表示过去一个月体验出现的频率。",
+      "scoring": "PSS-10的第4、5、7、8题反向计分，再求和，范围0–40。PSS-14与PSS-4的反向题位置不同，不能套用10题序号。开发者明确说明PSS没有通用诊断界点。",
+      "access": "开发者当前要求通过MAPI提交使用申请；免费提交申请不等于已经取得所有用途的许可。",
+      "resources": [
+        {
+          "label": "PSS-10英文完整题目与选项",
+          "url": "https://www.cmu.edu/dietrich/psychology/stress-immunity-disease-lab/scales/html/pss.html",
+          "kind": "题目与选项",
+          "scope": "10题"
+        },
+        {
+          "label": "开发者各版本、评分和授权入口",
+          "url": "https://www.cmu.edu/dietrich/psychology/stress-immunity-disease-lab/scales/index.html",
+          "kind": "评分标准",
+          "scope": "PSS系列"
+        }
+      ]
+    }
+  },
+  {
+    "id": "PH-005",
+    "name": "Kessler Psychological Distress Scales",
+    "abbreviation": "Kessler K6/K10",
+    "versions": [
+      {
+        "id": "VR-PH-005-BASE",
+        "name": "Kessler Psychological Distress Scales",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "K10与K6共同开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12214795/"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-005-012",
+        "name": "Kessler Psychological Distress Scale-10",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "K10与K6共同开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12214795/"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-005-013",
+        "name": "Kessler Psychological Distress Scale-6",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "K10与K6共同开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12214795/"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-005-014",
+        "name": "Kessler Psychological Distress Scales with Supplementary Questions",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "K10与K6共同开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12214795/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12214795/"
+      },
+      {
+        "label": "K10与K6共同开发研究",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12214795/"
+      },
+      {
+        "label": "官方表单和译本目录",
+        "url": "https://www.hcp.med.harvard.edu/ncs/k6_scales.php",
+        "kind": "题目与选项",
+        "scope": "K6/K10、自填/访谈、中文"
+      },
+      {
+        "label": "K6/K10评分说明",
+        "url": "https://www.hcp.med.harvard.edu/ncs/ftpdir/k6/Scoring_K6_K10.pdf",
+        "kind": "评分标准",
+        "scope": "0–4编码及与澳大利亚编码的区别"
+      }
+    ],
+    "administration": {
+      "scope": "K6、K10及自填/访谈形式",
+      "answers": "核心题采用5档频率回答。必须核对所用表单将它编码为0–4还是1–5。",
+      "scoring": "哈佛规则：K6逐题0–4分求和为0–24，K10为0–40。澳大利亚常用1–5编码，相应总分是6–30及10–50。不能混用总分界点；补充持续时间和功能问题不并入核心总分。",
+      "access": "开发者允许免费使用，要求保留版权声明和文献引用；官方目录提供普通话译本。",
+      "resources": [
+        {
+          "label": "官方表单和译本目录",
+          "url": "https://www.hcp.med.harvard.edu/ncs/k6_scales.php",
+          "kind": "题目与选项",
+          "scope": "K6/K10、自填/访谈、中文"
+        },
+        {
+          "label": "K6/K10评分说明",
+          "url": "https://www.hcp.med.harvard.edu/ncs/ftpdir/k6/Scoring_K6_K10.pdf",
+          "kind": "评分标准",
+          "scope": "0–4编码及与澳大利亚编码的区别"
+        }
+      ]
+    }
+  },
+  {
+    "id": "PH-006",
+    "name": "General Health Questionnaire",
+    "abbreviation": "GHQ",
+    "versions": [
+      {
+        "id": "VR-PH-006-BASE",
+        "name": "General Health Questionnaire",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "GHQ出版方版本说明",
+            "url": "https://support.gl-education.com/knowledge-base/assessments/general-health-questionnaire-support/about-the-general-health-questionnaire/faqs"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-006-015",
+        "name": "General Health Questionnaire-60",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "GHQ出版方版本说明",
+            "url": "https://support.gl-education.com/knowledge-base/assessments/general-health-questionnaire-support/about-the-general-health-questionnaire/faqs"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-006-016",
+        "name": "General Health Questionnaire-30",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "GHQ出版方版本说明",
+            "url": "https://support.gl-education.com/knowledge-base/assessments/general-health-questionnaire-support/about-the-general-health-questionnaire/faqs"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-006-017",
+        "name": "General Health Questionnaire-28",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "GHQ出版方版本说明",
+            "url": "https://support.gl-education.com/knowledge-base/assessments/general-health-questionnaire-support/about-the-general-health-questionnaire/faqs"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-006-018",
+        "name": "General Health Questionnaire-12",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "GHQ出版方版本说明",
+            "url": "https://support.gl-education.com/knowledge-base/assessments/general-health-questionnaire-support/about-the-general-health-questionnaire/faqs"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-006-143",
+        "name": "General Health Questionnaire-20",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "GHQ出版方版本说明",
+            "url": "https://support.gl-education.com/knowledge-base/assessments/general-health-questionnaire-support/about-the-general-health-questionnaire/faqs"
+          },
+          {
+            "label": "中文版GHQ-20形成研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8378807/"
+          },
+          {
+            "label": "GHQ-20人群调查研究",
+            "url": "https://doi.org/10.1017/S0033291700037442"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://support.gl-education.com/knowledge-base/assessments/general-health-questionnaire-support/about-the-general-health-questionnaire/faqs"
+      },
+      {
+        "label": "GHQ出版方版本说明",
+        "url": "https://support.gl-education.com/knowledge-base/assessments/general-health-questionnaire-support/about-the-general-health-questionnaire/faqs"
+      },
+      {
+        "label": "出版方GHQ工具及手册",
+        "url": "https://www.gl-assessment.co.uk/solutions/health-and-psychology/products/general-health-questionnaire/",
+        "kind": "官方获取",
+        "scope": "正式工具"
+      },
+      {
+        "label": "出版方GHQ支持资料",
+        "url": "https://support.gl-assessment.co.uk/knowledge-base/assessments/general-health-questionnaire-support",
+        "kind": "评分标准",
+        "scope": "配套使用说明"
+      }
+    ],
+    "administration": {
+      "scope": "GHQ不同题数表单",
+      "answers": "采用相对于平时状态的分级回答；不同题目的回答锚点须按原表。",
+      "scoring": "GHQ存在不同编码方法。使用所购手册规定的计分法、缺失处理和对应界点，报告时明确方法与题量；不能把不同长度当作同一个总分尺度。",
+      "access": "出版方提供正式问卷与手册；本页不转载收费表单或编造缺失版本的评分键。",
+      "resources": [
+        {
+          "label": "出版方GHQ工具及手册",
+          "url": "https://www.gl-assessment.co.uk/solutions/health-and-psychology/products/general-health-questionnaire/",
+          "kind": "官方获取",
+          "scope": "正式工具"
+        },
+        {
+          "label": "出版方GHQ支持资料",
+          "url": "https://support.gl-assessment.co.uk/knowledge-base/assessments/general-health-questionnaire-support",
+          "kind": "评分标准",
+          "scope": "配套使用说明"
+        }
+      ]
+    }
+  },
+  {
+    "id": "PH-007",
+    "name": "World Health Organization-Five Well-Being Index",
+    "abbreviation": "WHO-5",
+    "versions": [
+      {
+        "id": "VR-PH-007-BASE",
+        "name": "World Health Organization-Five Well-Being Index",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "WHO-5官方介绍",
+            "url": "https://www.who.int/publications/m/item/WHO-UCN-MSD-MHE-2024.01"
+          },
+          {
+            "label": "WHO-5历史综述",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25831962/"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-007-019",
+        "name": "WHO Well-Being Questionnaire-28",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "WHO-5官方介绍",
+            "url": "https://www.who.int/publications/m/item/WHO-UCN-MSD-MHE-2024.01"
+          },
+          {
+            "label": "WHO-5历史综述",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25831962/"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-007-020",
+        "name": "WHO Well-Being Index-10",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "WHO-5官方介绍",
+            "url": "https://www.who.int/publications/m/item/WHO-UCN-MSD-MHE-2024.01"
+          },
+          {
+            "label": "WHO-5历史综述",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25831962/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://www.who.int/publications/m/item/WHO-UCN-MSD-MHE-2024.01"
+      },
+      {
+        "label": "WHO-5官方介绍",
+        "url": "https://www.who.int/publications/m/item/WHO-UCN-MSD-MHE-2024.01"
+      },
+      {
+        "label": "WHO-5历史综述",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25831962/"
+      },
+      {
+        "label": "WHO官方英文及评分文件",
+        "url": "https://www.who.int/publications/m/item/WHO-UCN-MSD-MHE-2024.01",
+        "kind": "题目与选项",
+        "scope": "WHO-5"
+      },
+      {
+        "label": "WHO提供的中国大陆中文表单",
+        "url": "https://cdn.who.int/media/docs/default-source/mental-health/five-well-being-index-(who-5)/who5_chinese_pr.pdf",
+        "kind": "中文表单",
+        "scope": "WHO-5"
+      }
+    ],
+    "administration": {
+      "scope": "WHO-5；不适用于历史WHO-10或WHO-28",
+      "answers": "5个问题均回顾近两周，采用0–5的6档回答，较高分表示幸福感较好。",
+      "scoring": "5题求和得到0–25原始分，乘4转为0–100。该换算仅适用于WHO-5；低分提示需要进一步了解，不能单凭总分诊断抑郁。",
+      "access": "WHO页面提供英文及中国大陆中文PDF，英文出版物标注CC BY-NC-SA 3.0；使用时保留来源并遵循相应许可。",
+      "resources": [
+        {
+          "label": "WHO官方英文及评分文件",
+          "url": "https://www.who.int/publications/m/item/WHO-UCN-MSD-MHE-2024.01",
+          "kind": "题目与选项",
+          "scope": "WHO-5"
+        },
+        {
+          "label": "WHO提供的中国大陆中文表单",
+          "url": "https://cdn.who.int/media/docs/default-source/mental-health/five-well-being-index-(who-5)/who5_chinese_pr.pdf",
+          "kind": "中文表单",
+          "scope": "WHO-5"
+        }
+      ]
+    }
+  },
+  {
+    "id": "PH-008",
+    "name": "Center for Epidemiologic Studies Depression Scale",
+    "abbreviation": "CES-D",
+    "versions": [
+      {
+        "id": "VR-PH-008-BASE",
+        "name": "Center for Epidemiologic Studies Depression Scale",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "CES-D原始开发研究",
+            "url": "https://doi.org/10.1177/014662167700100306"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-008-021",
+        "name": "CES-D-20",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "CES-D原始开发研究",
+            "url": "https://doi.org/10.1177/014662167700100306"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-008-022",
+        "name": "CES-D Revised",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "CES-D原始开发研究",
+            "url": "https://doi.org/10.1177/014662167700100306"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-008-023",
+        "name": "CES-D-10 Andresen",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "CES-D原始开发研究",
+            "url": "https://doi.org/10.1177/014662167700100306"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-008-024",
+        "name": "CES-D-8",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "CES-D原始开发研究",
+            "url": "https://doi.org/10.1177/014662167700100306"
+          }
+        ]
+      },
+      {
+        "id": "VR-PH-008-025",
+        "name": "CES-DC",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "CES-D原始开发研究",
+            "url": "https://doi.org/10.1177/014662167700100306"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1177/014662167700100306"
+      },
+      {
+        "label": "CES-D原始开发研究",
+        "url": "https://doi.org/10.1177/014662167700100306"
+      },
+      {
+        "label": "原CES-D开发文献",
+        "url": "https://doi.org/10.1177/014662167700100306",
+        "kind": "评分标准",
+        "scope": "1977年20题原版"
+      },
+      {
+        "label": "CESD-R表单、译本及计分",
+        "url": "https://cesd-r.com/download/",
+        "kind": "题目与选项",
+        "scope": "修订版"
+      }
+    ],
+    "administration": {
+      "scope": "CES-D与CESD-R必须区分",
+      "answers": "原CES-D以过去一周的频率回答；修订版CESD-R改变了题目及症状判定，须使用修订表的选项。",
+      "scoring": "原20题CES-D与修订20题不能仅凭题数相同共用评分键。CESD-R网站提供专门评分资料；短表须查其选题与验证研究。",
+      "access": "原始文献和修订开发网站分别列出；公开下载页不意味着任意译本已获验证。",
+      "resources": [
+        {
+          "label": "原CES-D开发文献",
+          "url": "https://doi.org/10.1177/014662167700100306",
+          "kind": "评分标准",
+          "scope": "1977年20题原版"
+        },
+        {
+          "label": "CESD-R表单、译本及计分",
+          "url": "https://cesd-r.com/download/",
+          "kind": "题目与选项",
+          "scope": "修订版"
+        }
+      ]
+    }
+  },
+  {
+    "id": "SL-001",
+    "name": "Pittsburgh Sleep Quality Index",
+    "abbreviation": "PSQI",
+    "versions": [
+      {
+        "id": "VR-SL-001-BASE",
+        "name": "Pittsburgh Sleep Quality Index",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "The Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and research.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2748771/"
+          }
+        ]
+      },
+      {
+        "id": "VR-SL-001-026",
+        "name": "Pittsburgh Sleep Quality Index",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "The Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and research.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2748771/"
+          }
+        ]
+      },
+      {
+        "id": "VR-SL-001-027",
+        "name": "Brief Pittsburgh Sleep Quality Index",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "The Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and research.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2748771/"
+          }
+        ]
+      },
+      {
+        "id": "VR-SL-001-144",
+        "name": "Pittsburgh Sleep Quality Index Addendum for PTSD",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "The Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and research.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2748771/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://www.sleep.pitt.edu/psqi"
+      },
+      {
+        "label": "The Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and research.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2748771/"
+      },
+      {
+        "label": "PSQI完整英文题目与选项",
+        "url": "https://www.sleep.pitt.edu/sites/default/files/assets/Instrument%20Materials/PSQI-Instrument.pdf",
+        "kind": "题目与选项",
+        "scope": "原版PSQI"
+      },
+      {
+        "label": "官方评分文件",
+        "url": "https://www.sleep.pitt.edu/sites/default/files/assets/Instrument%20Materials/Exhibit%20A-PSQI%20scoring.pdf",
+        "kind": "评分标准",
+        "scope": "原版PSQI"
+      },
+      {
+        "label": "B-PSQI研究与表单",
+        "url": "https://www.sleep.pitt.edu/sites/default/files/assets/Instrument%20Materials/B-PSQI%202021.pdf",
+        "kind": "题目与选项",
+        "scope": "B-PSQI"
+      },
+      {
+        "label": "原版、补充表、译本和申请",
+        "url": "https://www.sleep.pitt.edu/psqi",
+        "kind": "官方获取",
+        "scope": "PSQI系列"
+      }
+    ],
+    "administration": {
+      "scope": "原版PSQI；短版与创伤补充表须单独解释",
+      "answers": "原表混合时间、分钟、时长填写及分档回答；不是19道均可直接相加的同类题。",
+      "scoring": "7个组成分各0–3分，总分0–21，高分表示睡眠质量较差。睡眠效率等组成分须先按指南转换。不要把所有原始答案直接求和；缺失题和边界值按正式指南核对。",
+      "access": "匹兹堡大学提供公开表单链接，并要求按用途申请；公开下载不代表可任意修改、翻译或在网站全文转载。",
+      "resources": [
+        {
+          "label": "PSQI完整英文题目与选项",
+          "url": "https://www.sleep.pitt.edu/sites/default/files/assets/Instrument%20Materials/PSQI-Instrument.pdf",
+          "kind": "题目与选项",
+          "scope": "原版PSQI"
+        },
+        {
+          "label": "官方评分文件",
+          "url": "https://www.sleep.pitt.edu/sites/default/files/assets/Instrument%20Materials/Exhibit%20A-PSQI%20scoring.pdf",
+          "kind": "评分标准",
+          "scope": "原版PSQI"
+        },
+        {
+          "label": "B-PSQI研究与表单",
+          "url": "https://www.sleep.pitt.edu/sites/default/files/assets/Instrument%20Materials/B-PSQI%202021.pdf",
+          "kind": "题目与选项",
+          "scope": "B-PSQI"
+        },
+        {
+          "label": "原版、补充表、译本和申请",
+          "url": "https://www.sleep.pitt.edu/psqi",
+          "kind": "官方获取",
+          "scope": "PSQI系列"
+        }
+      ]
+    }
+  },
+  {
+    "id": "SL-002",
+    "name": "Insomnia Severity Index",
+    "abbreviation": "ISI",
+    "versions": [
+      {
+        "id": "VR-SL-002-BASE",
+        "name": "Insomnia Severity Index",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "Validation of the Insomnia Severity Index as an outcome measure for insomnia research.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11438246/"
+          }
+        ]
+      },
+      {
+        "id": "VR-SL-002-028",
+        "name": "ISI patient self-report, 2 weeks",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Validation of the Insomnia Severity Index as an outcome measure for insomnia research.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11438246/"
+          }
+        ]
+      },
+      {
+        "id": "VR-SL-002-029",
+        "name": "ISI patient self-report, 1 month",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Validation of the Insomnia Severity Index as an outcome measure for insomnia research.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11438246/"
+          }
+        ]
+      },
+      {
+        "id": "VR-SL-002-030",
+        "name": "ISI clinician-rated",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Validation of the Insomnia Severity Index as an outcome measure for insomnia research.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11438246/"
+          }
+        ]
+      },
+      {
+        "id": "VR-SL-002-031",
+        "name": "ISI significant-other",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Validation of the Insomnia Severity Index as an outcome measure for insomnia research.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11438246/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://eprovide.mapi-trust.org/instruments/insomnia-severity-index"
+      },
+      {
+        "label": "Validation of the Insomnia Severity Index as an outcome measure for insomnia research.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11438246/"
+      },
+      {
+        "label": "ISI正式表单、报告者及使用申请",
+        "url": "https://eprovide.mapi-trust.org/instruments/insomnia-severity-index",
+        "kind": "官方获取",
+        "scope": "ISI"
+      }
+    ],
+    "administration": {
+      "scope": "ISI及不同报告者形式",
+      "answers": "7题以0–4回答，涉及睡眠困难、满意度及日间影响；回顾期以正式表单为准。",
+      "scoring": "7题总分0–28；使用相应语言和人群研究解释，不能将睡眠时长直接填作题分。",
+      "access": "开发者授权资料由MAPI管理，正式自评、临床人员和重要他人形式分别获取。",
+      "resources": [
+        {
+          "label": "ISI正式表单、报告者及使用申请",
+          "url": "https://eprovide.mapi-trust.org/instruments/insomnia-severity-index",
+          "kind": "官方获取",
+          "scope": "ISI"
+        }
+      ]
+    }
+  },
+  {
+    "id": "SL-003",
+    "name": "Epworth Sleepiness Scale",
+    "abbreviation": "ESS",
+    "versions": [
+      {
+        "id": "VR-SL-003-BASE",
+        "name": "Epworth Sleepiness Scale",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "A new method for measuring daytime sleepiness: the Epworth sleepiness scale.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1798888/"
+          }
+        ]
+      },
+      {
+        "id": "VR-SL-003-032",
+        "name": "Epworth Sleepiness Scale 1997",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "A new method for measuring daytime sleepiness: the Epworth sleepiness scale.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1798888/"
+          }
+        ]
+      },
+      {
+        "id": "VR-SL-003-033",
+        "name": "Epworth Sleepiness Scale for Children and Adolescents",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "A new method for measuring daytime sleepiness: the Epworth sleepiness scale.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1798888/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://epworthsleepinessscale.com/"
+      },
+      {
+        "label": "A new method for measuring daytime sleepiness: the Epworth sleepiness scale.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1798888/"
+      },
+      {
+        "label": "开发者题目格式和评分规则",
+        "url": "https://epworthsleepinessscale.com/about-the-ess/",
+        "kind": "评分标准",
+        "scope": "成人ESS"
+      },
+      {
+        "label": "ESS正式许可与译本",
+        "url": "https://eprovide.mapi-trust.org/instruments/epworth-sleepiness-scale",
+        "kind": "官方获取",
+        "scope": "成人形式"
+      }
+    ],
+    "administration": {
+      "scope": "成人ESS；ESS-CHAD需取得年龄适配表",
+      "answers": "8种情境分别估计打盹可能性，每题0–3。",
+      "scoring": "8题相加为0–24。开发者说明有缺失题时不应自行插补为有效总分；高分表示更高日间入睡倾向，并非疲劳程度。",
+      "access": "官网解释题目格式与计分；正式问卷、译本及电子使用按授权获取。",
+      "resources": [
+        {
+          "label": "开发者题目格式和评分规则",
+          "url": "https://epworthsleepinessscale.com/about-the-ess/",
+          "kind": "评分标准",
+          "scope": "成人ESS"
+        },
+        {
+          "label": "ESS正式许可与译本",
+          "url": "https://eprovide.mapi-trust.org/instruments/epworth-sleepiness-scale",
+          "kind": "官方获取",
+          "scope": "成人形式"
+        }
+      ]
+    }
+  },
+  {
+    "id": "SL-004",
+    "name": "Athens Insomnia Scale",
+    "abbreviation": "AIS",
+    "versions": [
+      {
+        "id": "VR-SL-004-BASE",
+        "name": "Athens Insomnia Scale",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "Athens Insomnia Scale: validation of an instrument based on ICD-10 criteria.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11033374/"
+          }
+        ]
+      },
+      {
+        "id": "VR-SL-004-034",
+        "name": "Athens Insomnia Scale-8",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Athens Insomnia Scale: validation of an instrument based on ICD-10 criteria.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11033374/"
+          }
+        ]
+      },
+      {
+        "id": "VR-SL-004-035",
+        "name": "Athens Insomnia Scale-5",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Athens Insomnia Scale: validation of an instrument based on ICD-10 criteria.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11033374/"
+          }
+        ]
+      },
+      {
+        "id": "VR-SL-004-036",
+        "name": "AIS for Non-Clinical Application",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Athens Insomnia Scale: validation of an instrument based on ICD-10 criteria.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11033374/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1016/S0022-3999(00)00095-7"
+      },
+      {
+        "label": "Athens Insomnia Scale: validation of an instrument based on ICD-10 criteria.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11033374/"
+      },
+      {
+        "label": "原作者开发论文",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11033374/",
+        "kind": "评分标准",
+        "scope": "AIS"
+      },
+      {
+        "label": "大学提供的睡眠工具汇编与AIS表",
+        "url": "https://www.med.upenn.edu/cbti/assets/user-content/documents/Sleep_Instruments_book_3_.pdf",
+        "kind": "题目与选项",
+        "scope": "AIS章节"
+      }
+    ],
+    "administration": {
+      "scope": "AIS-8及仅夜间症状的AIS-5",
+      "answers": "各题按0–3严重程度选择，夜间睡眠与日间影响分开涉及。",
+      "scoring": "AIS-8总分0–24；AIS-5只保留前5个夜间问题，为0–15。不能将8题界点无条件用于5题形式。",
+      "access": "原作者研究为结构与计分依据；大学睡眠工具汇编收录表单，应保留原作者来源。",
+      "resources": [
+        {
+          "label": "原作者开发论文",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/11033374/",
+          "kind": "评分标准",
+          "scope": "AIS"
+        },
+        {
+          "label": "大学提供的睡眠工具汇编与AIS表",
+          "url": "https://www.med.upenn.edu/cbti/assets/user-content/documents/Sleep_Instruments_book_3_.pdf",
+          "kind": "题目与选项",
+          "scope": "AIS章节"
+        }
+      ]
+    }
+  },
+  {
+    "id": "QL-001",
+    "name": "World Health Organization Quality of Life",
+    "abbreviation": "WHOQOL",
+    "versions": [
+      {
+        "id": "VR-QL-001-BASE",
+        "name": "World Health Organization Quality of Life",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "WHOQOL官方工具说明",
+            "url": "https://www.who.int/tools/whoqol"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-001-037",
+        "name": "WHOQOL-100",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "WHOQOL官方工具说明",
+            "url": "https://www.who.int/tools/whoqol"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-001-038",
+        "name": "WHOQOL-BREF",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "WHOQOL官方工具说明",
+            "url": "https://www.who.int/tools/whoqol"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://www.who.int/tools/whoqol/whoqol-bref"
+      },
+      {
+        "label": "WHOQOL官方工具说明",
+        "url": "https://www.who.int/tools/whoqol"
+      },
+      {
+        "label": "WHOQOL-BREF表单及评分语法",
+        "url": "https://www.who.int/tools/whoqol/whoqol-bref",
+        "kind": "题目与选项",
+        "scope": "BREF及译本"
+      },
+      {
+        "label": "BREF施测和评分手册",
+        "url": "https://cdn.who.int/media/docs/default-source/substance-use/who-msd-msb-00-2b.pdf",
+        "kind": "评分标准",
+        "scope": "BREF"
+      },
+      {
+        "label": "WHOQOL项目及100题文件",
+        "url": "https://www.who.int/tools/whoqol",
+        "kind": "官方获取",
+        "scope": "WHOQOL-100"
+      }
+    ],
+    "administration": {
+      "scope": "WHOQOL-100及WHOQOL-BREF分别使用对应文件",
+      "answers": "BREF核心26题采用5级回答，问题涉及能力、满意度和频率等不同锚点。",
+      "scoring": "BREF有4个领域及2个总体问题，部分题目需反向；按官方语法转换领域分。不能把26题加总冒充标准总分，也不能套用WHOQOL-100全部维度。",
+      "access": "WHO提供表单和评分语法；译本由第三方提供，须核对译者与正式使用条件。",
+      "resources": [
+        {
+          "label": "WHOQOL-BREF表单及评分语法",
+          "url": "https://www.who.int/tools/whoqol/whoqol-bref",
+          "kind": "题目与选项",
+          "scope": "BREF及译本"
+        },
+        {
+          "label": "BREF施测和评分手册",
+          "url": "https://cdn.who.int/media/docs/default-source/substance-use/who-msd-msb-00-2b.pdf",
+          "kind": "评分标准",
+          "scope": "BREF"
+        },
+        {
+          "label": "WHOQOL项目及100题文件",
+          "url": "https://www.who.int/tools/whoqol",
+          "kind": "官方获取",
+          "scope": "WHOQOL-100"
+        }
+      ]
+    }
+  },
+  {
+    "id": "QL-002",
+    "name": "36-Item Short Form Health Survey",
+    "abbreviation": "SF-36",
+    "versions": [
+      {
+        "id": "VR-QL-002-BASE",
+        "name": "36-Item Short Form Health Survey",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "开发资料",
+            "url": "https://www.qualitymetric.com/health-surveys/the-sf-36v2-health-survey/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-002-039",
+        "name": "SF-36 version 1 standard",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "开发资料",
+            "url": "https://www.qualitymetric.com/health-surveys/the-sf-36v2-health-survey/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-002-040",
+        "name": "SF-36 version 1 acute",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "开发资料",
+            "url": "https://www.qualitymetric.com/health-surveys/the-sf-36v2-health-survey/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-002-041",
+        "name": "SF-36 version 2 standard",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "开发资料",
+            "url": "https://www.qualitymetric.com/health-surveys/the-sf-36v2-health-survey/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-002-042",
+        "name": "SF-36 version 2 acute",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "开发资料",
+            "url": "https://www.qualitymetric.com/health-surveys/the-sf-36v2-health-survey/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://www.qualitymetric.com/health-surveys/the-sf-36v2-health-survey/"
+      },
+      {
+        "label": "开发资料",
+        "url": "https://www.qualitymetric.com/health-surveys/the-sf-36v2-health-survey/"
+      },
+      {
+        "label": "SF-36v2正式获取入口",
+        "url": "https://www.qualitymetric.com/health-surveys/the-sf-36v2-health-survey/",
+        "kind": "官方获取",
+        "scope": "SF-36v2"
+      },
+      {
+        "label": "SF-36v2/SF-12v2评分说明",
+        "url": "https://www.qualitymetric.com/wp-content/uploads/2022/03/QM-SF-36v2-and-SF-12v2-DataSheet-v2.pdf",
+        "kind": "评分标准",
+        "scope": "标准/急性、常模分"
+      },
+      {
+        "label": "RAND-36评分及与SF-36的区别",
+        "url": "https://www.rand.org/health/surveys/mos/36-item-short-form/scoring.html",
+        "kind": "评分标准",
+        "scope": "仅RAND-36，不能替代SF-36v2"
+      }
+    ],
+    "administration": {
+      "scope": "SF-36各版本；另附同源RAND-36评分供区分",
+      "answers": "回答格式随领域及v1/v2变化；标准与急性形式的回顾时间不同，应取得与记录一致的正式问卷。",
+      "scoring": "SF-36通常报告8个领域及身体/心理汇总分。QualityMetric提供常模评分；RAND-36将题目转换为0–100后按领域求均值，但开发方明确其程序与MOS SF-36不同，不能以RAND算法冒充SF-36v2算法。",
+      "access": "SF-36v2正式表单和计分按QualityMetric许可获取；RAND-36是另一个有明确名称和评分规则的同源形式。",
+      "resources": [
+        {
+          "label": "SF-36v2正式获取入口",
+          "url": "https://www.qualitymetric.com/health-surveys/the-sf-36v2-health-survey/",
+          "kind": "官方获取",
+          "scope": "SF-36v2"
+        },
+        {
+          "label": "SF-36v2/SF-12v2评分说明",
+          "url": "https://www.qualitymetric.com/wp-content/uploads/2022/03/QM-SF-36v2-and-SF-12v2-DataSheet-v2.pdf",
+          "kind": "评分标准",
+          "scope": "标准/急性、常模分"
+        },
+        {
+          "label": "RAND-36评分及与SF-36的区别",
+          "url": "https://www.rand.org/health/surveys/mos/36-item-short-form/scoring.html",
+          "kind": "评分标准",
+          "scope": "仅RAND-36，不能替代SF-36v2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "QL-003",
+    "name": "12-Item Short Form Health Survey",
+    "abbreviation": "SF-12",
+    "versions": [
+      {
+        "id": "VR-QL-003-BASE",
+        "name": "12-Item Short Form Health Survey",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "A 12-Item Short-Form Health Survey: construction of scales and preliminary tests of reliability and validity.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8628042/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-003-043",
+        "name": "SF-12 version 1 standard",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "A 12-Item Short-Form Health Survey: construction of scales and preliminary tests of reliability and validity.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8628042/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-003-044",
+        "name": "SF-12 version 2 standard",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "A 12-Item Short-Form Health Survey: construction of scales and preliminary tests of reliability and validity.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8628042/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-003-045",
+        "name": "SF-12 acute forms",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "A 12-Item Short-Form Health Survey: construction of scales and preliminary tests of reliability and validity.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8628042/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://www.qualitymetric.com/health-surveys/the-sf-12v2-health-survey/"
+      },
+      {
+        "label": "A 12-Item Short-Form Health Survey: construction of scales and preliminary tests of reliability and validity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8628042/"
+      },
+      {
+        "label": "SF-12v2官方问卷获取",
+        "url": "https://www.qualitymetric.com/health-surveys/the-sf-12v2-health-survey/",
+        "kind": "官方获取",
+        "scope": "SF-12v2"
+      },
+      {
+        "label": "SF-12v2标准及急性评分说明",
+        "url": "https://www.qualitymetric.com/wp-content/uploads/2022/03/QM-SF-36v2-and-SF-12v2-DataSheet-v2.pdf",
+        "kind": "评分标准",
+        "scope": "SF-12v2"
+      }
+    ],
+    "administration": {
+      "scope": "SF-12v1/v2及回顾时间形式",
+      "answers": "12题来自较长SF工具，含不同回答级数；具体题目和选项须以取得许可的对应表单为准。",
+      "scoring": "身体和心理汇总分采用版本与常模匹配的权重，不是12题简单求和，也不能直接用SF-36领域均值替代。标准版与急性版的评分范围和常模需对应。",
+      "access": "正式问卷、译本及计分通过QualityMetric获取。",
+      "resources": [
+        {
+          "label": "SF-12v2官方问卷获取",
+          "url": "https://www.qualitymetric.com/health-surveys/the-sf-12v2-health-survey/",
+          "kind": "官方获取",
+          "scope": "SF-12v2"
+        },
+        {
+          "label": "SF-12v2标准及急性评分说明",
+          "url": "https://www.qualitymetric.com/wp-content/uploads/2022/03/QM-SF-36v2-and-SF-12v2-DataSheet-v2.pdf",
+          "kind": "评分标准",
+          "scope": "SF-12v2"
+        }
+      ]
+    }
+  },
+  {
+    "id": "QL-004",
+    "name": "EQ-5D",
+    "abbreviation": "EQ-5D",
+    "versions": [
+      {
+        "id": "VR-QL-004-BASE",
+        "name": "EQ-5D",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "EuroQol工具及版本",
+            "url": "https://euroqol.org/information-and-support/euroqol-instruments/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-004-046",
+        "name": "EQ-5D-3L",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "EuroQol工具及版本",
+            "url": "https://euroqol.org/information-and-support/euroqol-instruments/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-004-047",
+        "name": "EQ-5D-5L",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "EuroQol工具及版本",
+            "url": "https://euroqol.org/information-and-support/euroqol-instruments/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-004-048",
+        "name": "EQ-5D-Y-3L",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "EuroQol工具及版本",
+            "url": "https://euroqol.org/information-and-support/euroqol-instruments/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-004-049",
+        "name": "EQ-5D-Y-5L",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "EuroQol工具及版本",
+            "url": "https://euroqol.org/information-and-support/euroqol-instruments/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-004-165",
+        "name": "EQ-5D-Y-5L",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "EuroQol工具及版本",
+            "url": "https://euroqol.org/information-and-support/euroqol-instruments/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://euroqol.org/"
+      },
+      {
+        "label": "EuroQol工具及版本",
+        "url": "https://euroqol.org/information-and-support/euroqol-instruments/"
+      },
+      {
+        "label": "各版本官方用户指南",
+        "url": "https://euroqol.org/information-and-support/documentation/user-guides/",
+        "kind": "评分标准",
+        "scope": "按3L/5L/Y版选择"
+      },
+      {
+        "label": "正式问卷注册获取",
+        "url": "https://registration.euroqol.org/",
+        "kind": "官方获取",
+        "scope": "各版本及语言"
+      }
+    ],
+    "administration": {
+      "scope": "EQ-5D-3L、5L、Y-3L、Y-5L",
+      "answers": "各维度分别选择严重程度水平；3L每维3档，5L每维5档。EQ VAS另评总体健康。",
+      "scoring": "五位健康状态编码不能相加作为标准总分。效用指数需匹配版本和地区的价值集；VAS单独报告。成人价值集不能未经验证直接用于儿童版。",
+      "access": "完整问卷与译本需在EuroQol注册，使用范围由许可确定。",
+      "resources": [
+        {
+          "label": "各版本官方用户指南",
+          "url": "https://euroqol.org/information-and-support/documentation/user-guides/",
+          "kind": "评分标准",
+          "scope": "按3L/5L/Y版选择"
+        },
+        {
+          "label": "正式问卷注册获取",
+          "url": "https://registration.euroqol.org/",
+          "kind": "官方获取",
+          "scope": "各版本及语言"
+        }
+      ]
+    }
+  },
+  {
+    "id": "QL-005",
+    "name": "PROMIS Global Health",
+    "abbreviation": "PROMIS Global",
+    "versions": [
+      {
+        "id": "VR-QL-005-BASE",
+        "name": "PROMIS Global Health",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "PROMIS官方Global Health版本及计分手册",
+            "url": "https://www.healthmeasures.net/administrator/components/com_instruments/uploads/PROMIS%20Global%20Health%20Scoring%20Manual_30Aug2024.pdf"
+          },
+          {
+            "label": "儿童Global Health开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24264804/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-005-050",
+        "name": "PROMIS Global Health v1.0/1.1",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PROMIS官方Global Health版本及计分手册",
+            "url": "https://www.healthmeasures.net/administrator/components/com_instruments/uploads/PROMIS%20Global%20Health%20Scoring%20Manual_30Aug2024.pdf"
+          },
+          {
+            "label": "儿童Global Health开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24264804/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-005-051",
+        "name": "PROMIS Global Health v1.2",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PROMIS官方Global Health版本及计分手册",
+            "url": "https://www.healthmeasures.net/administrator/components/com_instruments/uploads/PROMIS%20Global%20Health%20Scoring%20Manual_30Aug2024.pdf"
+          },
+          {
+            "label": "儿童Global Health开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24264804/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-005-052",
+        "name": "PROMIS Global Mental 2a v1.2",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PROMIS官方Global Health版本及计分手册",
+            "url": "https://www.healthmeasures.net/administrator/components/com_instruments/uploads/PROMIS%20Global%20Health%20Scoring%20Manual_30Aug2024.pdf"
+          },
+          {
+            "label": "儿童Global Health开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24264804/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-005-053",
+        "name": "PROMIS Global Physical 2a v1.2",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PROMIS官方Global Health版本及计分手册",
+            "url": "https://www.healthmeasures.net/administrator/components/com_instruments/uploads/PROMIS%20Global%20Health%20Scoring%20Manual_30Aug2024.pdf"
+          },
+          {
+            "label": "儿童Global Health开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24264804/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-005-054",
+        "name": "PROMIS Global Mental Health 4a v1.2",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PROMIS官方Global Health版本及计分手册",
+            "url": "https://www.healthmeasures.net/administrator/components/com_instruments/uploads/PROMIS%20Global%20Health%20Scoring%20Manual_30Aug2024.pdf"
+          },
+          {
+            "label": "儿童Global Health开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24264804/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-005-055",
+        "name": "PROMIS Global Physical Health 4a v1.2",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PROMIS官方Global Health版本及计分手册",
+            "url": "https://www.healthmeasures.net/administrator/components/com_instruments/uploads/PROMIS%20Global%20Health%20Scoring%20Manual_30Aug2024.pdf"
+          },
+          {
+            "label": "儿童Global Health开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24264804/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-005-056",
+        "name": "PROMIS Pediatric Global Health 7",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PROMIS官方Global Health版本及计分手册",
+            "url": "https://www.healthmeasures.net/administrator/components/com_instruments/uploads/PROMIS%20Global%20Health%20Scoring%20Manual_30Aug2024.pdf"
+          },
+          {
+            "label": "儿童Global Health开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24264804/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-005-057",
+        "name": "PROMIS Parent Proxy Global Health 7 v1.0",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PROMIS官方Global Health版本及计分手册",
+            "url": "https://www.healthmeasures.net/administrator/components/com_instruments/uploads/PROMIS%20Global%20Health%20Scoring%20Manual_30Aug2024.pdf"
+          },
+          {
+            "label": "儿童Global Health开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24264804/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-005-058",
+        "name": "PROMIS Early Childhood Parent-Report Global Health 8a v1.0",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PROMIS官方Global Health版本及计分手册",
+            "url": "https://www.healthmeasures.net/administrator/components/com_instruments/uploads/PROMIS%20Global%20Health%20Scoring%20Manual_30Aug2024.pdf"
+          },
+          {
+            "label": "儿童Global Health开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24264804/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1007/s11136-009-9496-9"
+      },
+      {
+        "label": "PROMIS官方Global Health版本及计分手册",
+        "url": "https://www.healthmeasures.net/administrator/components/com_instruments/uploads/PROMIS%20Global%20Health%20Scoring%20Manual_30Aug2024.pdf"
+      },
+      {
+        "label": "儿童Global Health开发研究",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24264804/"
+      },
+      {
+        "label": "官方测量工具库",
+        "url": "https://healthmeasures.net/select-measures/measure-library/",
+        "kind": "题目与选项",
+        "scope": "按工具和版本检索"
+      },
+      {
+        "label": "Global Health评分手册",
+        "url": "https://www.healthmeasures.net/images/PROMIS/manuals/Scoring_Manual_Only/PROMIS_Global_Health_Scoring_Manual_30Aug2024.pdf",
+        "kind": "评分标准",
+        "scope": "各年龄和长度"
+      }
+    ],
+    "administration": {
+      "scope": "PROMIS Global Health成人、儿童、代理与幼儿表",
+      "answers": "回答格式和编码随具体Global Health短表而异，疼痛数字评分等不能直接当同一等级。",
+      "scoring": "按官方手册选对应版本的题目编码、原始分到T分转换；成人身体与心理分分别报告，不能给所有年龄表套用成人10题算法。",
+      "access": "HealthMeasures提供正式工具库和评分手册；使用相同版本号匹配表单与计分。",
+      "resources": [
+        {
+          "label": "官方测量工具库",
+          "url": "https://healthmeasures.net/select-measures/measure-library/",
+          "kind": "题目与选项",
+          "scope": "按工具和版本检索"
+        },
+        {
+          "label": "Global Health评分手册",
+          "url": "https://www.healthmeasures.net/images/PROMIS/manuals/Scoring_Manual_Only/PROMIS_Global_Health_Scoring_Manual_30Aug2024.pdf",
+          "kind": "评分标准",
+          "scope": "各年龄和长度"
+        }
+      ]
+    }
+  },
+  {
+    "id": "QL-006",
+    "name": "Satisfaction With Life Scale",
+    "abbreviation": "SWLS",
+    "versions": [
+      {
+        "id": "VR-QL-006-BASE",
+        "name": "Satisfaction With Life Scale",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "The Satisfaction With Life Scale.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16367493/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-006-059",
+        "name": "Satisfaction With Life Scale (7-point response format)",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "The Satisfaction With Life Scale.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16367493/"
+          }
+        ]
+      },
+      {
+        "id": "VR-QL-006-060",
+        "name": "Satisfaction With Life Scale (5-point response format)",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "The Satisfaction With Life Scale.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16367493/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1207/s15327752jpa4901_13"
+      },
+      {
+        "label": "The Satisfaction With Life Scale.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16367493/"
+      },
+      {
+        "label": "开发者题目与解释资料",
+        "url": "https://eddiener.com/satisfaction-with-life-scale-swls/",
+        "kind": "题目与选项",
+        "scope": "SWLS"
+      }
+    ],
+    "administration": {
+      "scope": "SWLS原始7级回答形式；5级适配另核对",
+      "answers": "5个问题，每题1–7表示同意程度。",
+      "scoring": "原式求和为5–35，高分表示更满意；5级适配不能套用7级原式范围和解释。",
+      "access": "开发者提供英文、译本及使用说明。",
+      "resources": [
+        {
+          "label": "开发者题目与解释资料",
+          "url": "https://eddiener.com/satisfaction-with-life-scale-swls/",
+          "kind": "题目与选项",
+          "scope": "SWLS"
+        }
+      ]
+    }
+  },
+  {
+    "id": "HL-001",
+    "name": "European Health Literacy Survey Questionnaire",
+    "abbreviation": "HLS-EU-Q",
+    "versions": [
+      {
+        "id": "VR-HL-001-BASE",
+        "name": "European Health Literacy Survey Questionnaire",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "Measuring health literacy in populations: illuminating the design and development process of the European Health Literacy Survey Questionnaire (HLS-EU-Q).",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24112855/"
+          }
+        ]
+      },
+      {
+        "id": "VR-HL-001-061",
+        "name": "HLS-EU-Q47",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Measuring health literacy in populations: illuminating the design and development process of the European Health Literacy Survey Questionnaire (HLS-EU-Q).",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24112855/"
+          }
+        ]
+      },
+      {
+        "id": "VR-HL-001-062",
+        "name": "HLS-EU-Q16",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Measuring health literacy in populations: illuminating the design and development process of the European Health Literacy Survey Questionnaire (HLS-EU-Q).",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24112855/"
+          }
+        ]
+      },
+      {
+        "id": "VR-HL-001-063",
+        "name": "HLS19-Q12",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Measuring health literacy in populations: illuminating the design and development process of the European Health Literacy Survey Questionnaire (HLS-EU-Q).",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24112855/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1186/1471-2458-13-948"
+      },
+      {
+        "label": "Measuring health literacy in populations: illuminating the design and development process of the European Health Literacy Survey Questionnaire (HLS-EU-Q).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24112855/"
+      },
+      {
+        "label": "HLS19正式工具获取",
+        "url": "https://m-pohl.net/HLS19Instruments",
+        "kind": "官方获取",
+        "scope": "HLS19"
+      },
+      {
+        "label": "评分及技术说明",
+        "url": "https://m-pohl.net/Factsheets",
+        "kind": "评分标准",
+        "scope": "HLS19"
+      },
+      {
+        "label": "HLS各短表结构比较",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9727937/",
+        "kind": "评分标准",
+        "scope": "Q47、Q16及不同12题工具"
+      }
+    ],
+    "administration": {
+      "scope": "HLS-EU-Q47、Q16与HLS19-Q12",
+      "answers": "核心健康素养问题询问执行健康信息任务的难易，通常采用4档；缺失与不知道单独处理。",
+      "scoring": "Q47、Q16及HLS19-Q12有各自规则；特别要区分保留等级的多分类计分与合并难易的二分类计分，不能因为题目同源就共用换算。",
+      "access": "M-POHL提供HLS19工具申请及评分技术说明；历史HLS-EU短表需对应开发研究。",
+      "resources": [
+        {
+          "label": "HLS19正式工具获取",
+          "url": "https://m-pohl.net/HLS19Instruments",
+          "kind": "官方获取",
+          "scope": "HLS19"
+        },
+        {
+          "label": "评分及技术说明",
+          "url": "https://m-pohl.net/Factsheets",
+          "kind": "评分标准",
+          "scope": "HLS19"
+        },
+        {
+          "label": "HLS各短表结构比较",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9727937/",
+          "kind": "评分标准",
+          "scope": "Q47、Q16及不同12题工具"
+        }
+      ]
+    }
+  },
+  {
+    "id": "HL-002",
+    "name": "12-item Short Form Health Literacy Survey Questionnaire",
+    "abbreviation": "HLS-SF12",
+    "versions": [
+      {
+        "id": "VR-HL-002-BASE",
+        "name": "12-item Short Form Health Literacy Survey Questionnaire",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "HLS-SF12开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31294310/"
+          },
+          {
+            "label": "12题工具早期研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28388977/"
+          }
+        ]
+      },
+      {
+        "id": "VR-HL-002-064",
+        "name": "HLS-SF12",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "HLS-SF12开发研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31294310/"
+          },
+          {
+            "label": "12题工具早期研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28388977/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.3928/24748307-20190225-01"
+      },
+      {
+        "label": "HLS-SF12开发研究",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31294310/"
+      },
+      {
+        "label": "12题工具早期研究",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28388977/"
+      },
+      {
+        "label": "HLS-SF12开发及题目依据",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31294310/",
+        "kind": "题目与选项",
+        "scope": "HLS-SF12"
+      }
+    ],
+    "administration": {
+      "scope": "HLS-SF12；不是HLS19-Q12",
+      "answers": "12项健康信息任务按难易回答；正式题目取自此短表开发研究。",
+      "scoring": "按HLS-SF12研究编码和转换，不能用另一12题工具的选题清单或评分规则替代。",
+      "access": "原开发研究明确选题方法；全文及附件由来源网站提供。",
+      "resources": [
+        {
+          "label": "HLS-SF12开发及题目依据",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/31294310/",
+          "kind": "题目与选项",
+          "scope": "HLS-SF12"
+        }
+      ]
+    }
+  },
+  {
+    "id": "HL-003",
+    "name": "Short Test of Functional Health Literacy in Adults",
+    "abbreviation": "S-TOFHLA",
+    "versions": [
+      {
+        "id": "VR-HL-003-BASE",
+        "name": "Short Test of Functional Health Literacy in Adults",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Development of a brief test to measure functional health literacy.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14528569/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1016/S0738-3991(98)00116-5"
+      },
+      {
+        "label": "Development of a brief test to measure functional health literacy.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14528569/"
+      },
+      {
+        "label": "短版结构及计分研究",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14528569/",
+        "kind": "评分标准",
+        "scope": "S-TOFHLA"
+      }
+    ],
+    "administration": {
+      "scope": "TOFHLA与S-TOFHLA",
+      "answers": "这是阅读理解和数字理解任务，不是询问自我感受的同意度表。",
+      "scoring": "短版减少原版数字任务和阅读材料；按正式材料的正确答案及分值计分。仅阅读形式与含数字任务形式不能共享未经说明的总分范围。",
+      "access": "题目材料与评分键需匹配正式形式，不能用自编健康常识题替代。",
+      "resources": [
+        {
+          "label": "短版结构及计分研究",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/14528569/",
+          "kind": "评分标准",
+          "scope": "S-TOFHLA"
+        }
+      ]
+    }
+  },
+  {
+    "id": "HL-004",
+    "name": "Newest Vital Sign",
+    "abbreviation": "NVS",
+    "versions": [
+      {
+        "id": "VR-HL-004-BASE",
+        "name": "Newest Vital Sign",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Quick assessment of literacy in primary care: the newest vital sign.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16338915/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1370/afm.405"
+      },
+      {
+        "label": "Quick assessment of literacy in primary care: the newest vital sign.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16338915/"
+      },
+      {
+        "label": "NVS工具包与使用说明",
+        "url": "https://www.pfizer.com/products/medicine-safety/health-literacy",
+        "kind": "题目与选项",
+        "scope": "标签、6题及计分"
+      }
+    ],
+    "administration": {
+      "scope": "NVS正式营养标签任务",
+      "answers": "受试者阅读配套营养标签并回答6个理解与计算问题。",
+      "scoring": "依标准答案计正确题数，范围0–6；标签是任务组成部分，不能只保留6个问句而更换数据。",
+      "access": "Pfizer提供实施资料与工具包，使用相应语言的标签和问句。",
+      "resources": [
+        {
+          "label": "NVS工具包与使用说明",
+          "url": "https://www.pfizer.com/products/medicine-safety/health-literacy",
+          "kind": "题目与选项",
+          "scope": "标签、6题及计分"
+        }
+      ]
+    }
+  },
+  {
+    "id": "HL-005",
+    "name": "eHealth Literacy Scale",
+    "abbreviation": "eHEALS",
+    "versions": [
+      {
+        "id": "VR-HL-005-BASE",
+        "name": "eHealth Literacy Scale",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "eHEALS: The eHealth Literacy Scale.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17213046/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.2196/jmir.8.4.e27"
+      },
+      {
+        "label": "eHEALS: The eHealth Literacy Scale.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17213046/"
+      },
+      {
+        "label": "作者论文、题目表及附件",
+        "url": "https://www.jmir.org/2006/4/e27/",
+        "kind": "题目与选项",
+        "scope": "原始8题"
+      }
+    ],
+    "administration": {
+      "scope": "eHEALS核心8题",
+      "answers": "核心题采用5级同意程度，评估自认为能否寻找、评价和使用网上健康信息。",
+      "scoring": "核心8题常按1–5求和为8–40，高分表示更高自评能力；补充的网络有用性/重要性问题不加入核心总分。",
+      "access": "原作者开放论文列出8题及附件；中文表须另外核对其翻译验证。",
+      "resources": [
+        {
+          "label": "作者论文、题目表及附件",
+          "url": "https://www.jmir.org/2006/4/e27/",
+          "kind": "题目与选项",
+          "scope": "原始8题"
+        }
+      ]
+    }
+  },
+  {
+    "id": "SS-001",
+    "name": "Multidimensional Scale of Perceived Social Support",
+    "abbreviation": "MSPSS",
+    "versions": [
+      {
+        "id": "VR-SS-001-BASE",
+        "name": "Multidimensional Scale of Perceived Social Support",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "MSPSS原始开发研究",
+            "url": "https://doi.org/10.1207/s15327752jpa5201_2"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1207/s15327752jpa5201_2"
+      },
+      {
+        "label": "MSPSS原始开发研究",
+        "url": "https://doi.org/10.1207/s15327752jpa5201_2"
+      },
+      {
+        "label": "作者正式题目与资源",
+        "url": "https://gzimet.wixsite.com/mspss",
+        "kind": "题目与选项",
+        "scope": "12题及译本"
+      },
+      {
+        "label": "作者评分说明",
+        "url": "https://www.mhpss.net/toolkit/mhpss-m-and-e-mov-toolkit/resource/mspss-scoring-options",
+        "kind": "评分标准",
+        "scope": "MSPSS"
+      }
+    ],
+    "administration": {
+      "scope": "MSPSS原始12题",
+      "answers": "每题1–7同意程度，家庭、朋友、重要他人各4题。",
+      "scoring": "按对应4题取各分量表均值，也可取12题总体均值；不能把其他回答格式的分数直接当1–7分解释。",
+      "access": "Zimet官网说明可免费使用并引用原论文。",
+      "resources": [
+        {
+          "label": "作者正式题目与资源",
+          "url": "https://gzimet.wixsite.com/mspss",
+          "kind": "题目与选项",
+          "scope": "12题及译本"
+        },
+        {
+          "label": "作者评分说明",
+          "url": "https://www.mhpss.net/toolkit/mhpss-m-and-e-mov-toolkit/resource/mspss-scoring-options",
+          "kind": "评分标准",
+          "scope": "MSPSS"
+        }
+      ]
+    }
+  },
+  {
+    "id": "SS-002",
+    "name": "UCLA Loneliness Scale",
+    "abbreviation": "UCLA LS",
+    "versions": [
+      {
+        "id": "VR-SS-002-BASE",
+        "name": "UCLA Loneliness Scale",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "UCLA Loneliness Scale (Version 3): reliability, validity, and factor structure.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8576833/"
+          }
+        ]
+      },
+      {
+        "id": "VR-SS-002-065",
+        "name": "UCLA Loneliness Scale original",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "UCLA Loneliness Scale (Version 3): reliability, validity, and factor structure.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8576833/"
+          }
+        ]
+      },
+      {
+        "id": "VR-SS-002-066",
+        "name": "Revised UCLA Loneliness Scale",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "UCLA Loneliness Scale (Version 3): reliability, validity, and factor structure.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8576833/"
+          }
+        ]
+      },
+      {
+        "id": "VR-SS-002-067",
+        "name": "UCLA Loneliness Scale Version 3",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "UCLA Loneliness Scale (Version 3): reliability, validity, and factor structure.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8576833/"
+          }
+        ]
+      },
+      {
+        "id": "VR-SS-002-068",
+        "name": "UCLA 3-item Loneliness Scale",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "UCLA Loneliness Scale (Version 3): reliability, validity, and factor structure.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8576833/"
+          }
+        ]
+      },
+      {
+        "id": "VR-SS-002-069",
+        "name": "UCLA 8-item Loneliness Scale",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "UCLA Loneliness Scale (Version 3): reliability, validity, and factor structure.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8576833/"
+          }
+        ]
+      },
+      {
+        "id": "VR-SS-002-070",
+        "name": "UCLA Loneliness Scale 4-item survey version",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "UCLA Loneliness Scale (Version 3): reliability, validity, and factor structure.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8576833/"
+          }
+        ]
+      },
+      {
+        "id": "VR-SS-002-071",
+        "name": "UCLA Loneliness Scale 10-item Version 3 short form",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "UCLA Loneliness Scale (Version 3): reliability, validity, and factor structure.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8576833/"
+          },
+          {
+            "label": "UCLA第3版10题与3题形式验证",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6660924/"
+          }
+        ]
+      },
+      {
+        "id": "VR-SS-002-072",
+        "name": "UCLA Loneliness Scale 6-item Neto version",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "UCLA Loneliness Scale (Version 3): reliability, validity, and factor structure.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8576833/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1207/s15327752jpa6601_2"
+      },
+      {
+        "label": "UCLA Loneliness Scale (Version 3): reliability, validity, and factor structure.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8576833/"
+      },
+      {
+        "label": "开发者版本文献目录",
+        "url": "https://peplau.psych.ucla.edu/loneliness/",
+        "kind": "官方获取",
+        "scope": "原版及修订"
+      },
+      {
+        "label": "Version 3表单和计分",
+        "url": "https://sparqtools.org/wp-content/uploads/2018/06/UCLA-Loneliness-Scale-Version-3.pdf",
+        "kind": "题目与选项",
+        "scope": "仅20题Version 3"
+      }
+    ],
+    "administration": {
+      "scope": "UCLA Loneliness原版、修订版、Version 3及短表",
+      "answers": "询问孤独和社会联系体验的频率，正反向表述并存。",
+      "scoring": "具体反向题随版本改变；不要把Version 3的题号用于1978原版或短表。使用各自来源的题目和评分键。",
+      "access": "开发者网站列出原版与修订文献；所附大学表单明确为Version 3。",
+      "resources": [
+        {
+          "label": "开发者版本文献目录",
+          "url": "https://peplau.psych.ucla.edu/loneliness/",
+          "kind": "官方获取",
+          "scope": "原版及修订"
+        },
+        {
+          "label": "Version 3表单和计分",
+          "url": "https://sparqtools.org/wp-content/uploads/2018/06/UCLA-Loneliness-Scale-Version-3.pdf",
+          "kind": "题目与选项",
+          "scope": "仅20题Version 3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "SS-003",
+    "name": "Lubben Social Network Scale",
+    "abbreviation": "LSNS",
+    "versions": [
+      {
+        "id": "VR-SS-003-BASE",
+        "name": "Lubben Social Network Scale",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "开发者：LSNS发展与用途",
+            "url": "https://www.bc.edu/bc-web/schools/ssw/sites/lubben/description.html"
+          }
+        ]
+      },
+      {
+        "id": "VR-SS-003-073",
+        "name": "Lubben Social Network Scale-18",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "开发者：LSNS发展与用途",
+            "url": "https://www.bc.edu/bc-web/schools/ssw/sites/lubben/description.html"
+          }
+        ]
+      },
+      {
+        "id": "VR-SS-003-074",
+        "name": "Lubben Social Network Scale-12",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "开发者：LSNS发展与用途",
+            "url": "https://www.bc.edu/bc-web/schools/ssw/sites/lubben/description.html"
+          }
+        ]
+      },
+      {
+        "id": "VR-SS-003-075",
+        "name": "Lubben Social Network Scale-6",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "开发者：LSNS发展与用途",
+            "url": "https://www.bc.edu/bc-web/schools/ssw/sites/lubben/description.html"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1093/geront/46.4.503"
+      },
+      {
+        "label": "开发者：LSNS发展与用途",
+        "url": "https://www.bc.edu/bc-web/schools/ssw/sites/lubben/description.html"
+      },
+      {
+        "label": "LSNS官方版本和评分目录",
+        "url": "https://www.bc.edu/bc-web/schools/ssw/sites/lubben/description.html",
+        "kind": "题目与选项",
+        "scope": "各长度版本"
+      }
+    ],
+    "administration": {
+      "scope": "LSNS-6、LSNS-R、LSNS-18分别查阅",
+      "answers": "以人数及联系、支持情况分档回答；选项按具体表单。",
+      "scoring": "LSNS-6常用0–5逐题求和为0–30；更长版本总分和界点不同，应使用官网对应版本评分页。",
+      "access": "开发者网站分别提供表单、译本、评分和使用许可。",
+      "resources": [
+        {
+          "label": "LSNS官方版本和评分目录",
+          "url": "https://www.bc.edu/bc-web/schools/ssw/sites/lubben/description.html",
+          "kind": "题目与选项",
+          "scope": "各长度版本"
+        }
+      ]
+    }
+  },
+  {
+    "id": "SS-004",
+    "name": "Oslo Social Support Scale",
+    "abbreviation": "OSSS-3",
+    "versions": [
+      {
+        "id": "VR-SS-004-BASE",
+        "name": "Oslo Social Support Scale",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "OSSS-3标准化研究（非最早开发文献）",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30016997/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Oslo+Social+Support+Scale+OSSS-3"
+      },
+      {
+        "label": "OSSS-3标准化研究（非最早开发文献）",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30016997/"
+      },
+      {
+        "label": "题目、选项及评分表",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6050647/",
+        "kind": "题目与选项",
+        "scope": "OSSS-3"
+      }
+    ],
+    "administration": {
+      "scope": "OSSS-3",
+      "answers": "3题的回答档数不完全相同，不能统一按同一种5级表编码。",
+      "scoring": "按指定编码相加为3–14；标准化研究将3–8、9–11、12–14分别描述为较弱、中等、较强支持。",
+      "access": "所附为公开标准化研究，非最早发明文献；表格载有题目与编码。",
+      "resources": [
+        {
+          "label": "题目、选项及评分表",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6050647/",
+          "kind": "题目与选项",
+          "scope": "OSSS-3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "SS-005",
+    "name": "Medical Outcomes Study Social Support Survey",
+    "abbreviation": "MOS-SSS",
+    "versions": [
+      {
+        "id": "VR-SS-005-BASE",
+        "name": "Medical Outcomes Study Social Support Survey",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "The MOS social support survey.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2035047/"
+          }
+        ]
+      },
+      {
+        "id": "VR-SS-005-076",
+        "name": "MOS Social Support Survey-19",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "The MOS social support survey.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2035047/"
+          }
+        ]
+      },
+      {
+        "id": "VR-SS-005-077",
+        "name": "Modified MOS Social Support Survey 8-item",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "The MOS social support survey.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2035047/"
+          },
+          {
+            "label": "8题mMOS-SS验证研究",
+            "url": "https://doi.org/10.1016/j.jclinepi.2012.04.007"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1016/0277-9536(91)90150-B"
+      },
+      {
+        "label": "The MOS social support survey.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2035047/"
+      },
+      {
+        "label": "RAND完整题目与选项",
+        "url": "https://www.rand.org/health/surveys/mos/social-support/survey-instrument.html",
+        "kind": "题目与选项",
+        "scope": "原MOS-SSS"
+      },
+      {
+        "label": "RAND评分规则",
+        "url": "https://www.rand.org/health/surveys/mos/social-support/scoring.html",
+        "kind": "评分标准",
+        "scope": "原MOS-SSS"
+      },
+      {
+        "label": "mMOS-SS短表开发",
+        "url": "https://doi.org/10.1016/j.jclinepi.2012.04.007",
+        "kind": "评分标准",
+        "scope": "8题短表"
+      }
+    ],
+    "administration": {
+      "scope": "原19题MOS-SSS；mMOS-SS为另行验证的短表",
+      "answers": "按需要帮助时支持可获得的频率回答。",
+      "scoring": "原表各分量表取均值，总体功能支持由19项计算；可按(均值−最小值)/(最大值−最小值)×100转换。开头询问社会网络人数的题不并入19项功能支持分。",
+      "access": "RAND提供原表和评分规则；短表按自身开发研究选题。",
+      "resources": [
+        {
+          "label": "RAND完整题目与选项",
+          "url": "https://www.rand.org/health/surveys/mos/social-support/survey-instrument.html",
+          "kind": "题目与选项",
+          "scope": "原MOS-SSS"
+        },
+        {
+          "label": "RAND评分规则",
+          "url": "https://www.rand.org/health/surveys/mos/social-support/scoring.html",
+          "kind": "评分标准",
+          "scope": "原MOS-SSS"
+        },
+        {
+          "label": "mMOS-SS短表开发",
+          "url": "https://doi.org/10.1016/j.jclinepi.2012.04.007",
+          "kind": "评分标准",
+          "scope": "8题短表"
+        }
+      ]
+    }
+  },
+  {
+    "id": "HB-001",
+    "name": "International Physical Activity Questionnaire",
+    "abbreviation": "IPAQ",
+    "versions": [
+      {
+        "id": "VR-HB-001-BASE",
+        "name": "International Physical Activity Questionnaire",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "International physical activity questionnaire: 12-country reliability and validity.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12900694/"
+          }
+        ]
+      },
+      {
+        "id": "VR-HB-001-078",
+        "name": "IPAQ Short Form Last 7 Days Self-Administered",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "International physical activity questionnaire: 12-country reliability and validity.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12900694/"
+          }
+        ]
+      },
+      {
+        "id": "VR-HB-001-079",
+        "name": "IPAQ Short Form Last 7 Days Telephone",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "International physical activity questionnaire: 12-country reliability and validity.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12900694/"
+          }
+        ]
+      },
+      {
+        "id": "VR-HB-001-080",
+        "name": "IPAQ Long Form Last 7 Days Self-Administered",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "International physical activity questionnaire: 12-country reliability and validity.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12900694/"
+          }
+        ]
+      },
+      {
+        "id": "VR-HB-001-081",
+        "name": "IPAQ Long Form Last 7 Days Telephone",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "International physical activity questionnaire: 12-country reliability and validity.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12900694/"
+          }
+        ]
+      },
+      {
+        "id": "VR-HB-001-145",
+        "name": "IPAQ Short Form Usual Week Self-Administered",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "International physical activity questionnaire: 12-country reliability and validity.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12900694/"
+          }
+        ]
+      },
+      {
+        "id": "VR-HB-001-146",
+        "name": "IPAQ Short Form Usual Week Telephone",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "International physical activity questionnaire: 12-country reliability and validity.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12900694/"
+          }
+        ]
+      },
+      {
+        "id": "VR-HB-001-147",
+        "name": "IPAQ Long Form Usual Week Self-Administered",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "International physical activity questionnaire: 12-country reliability and validity.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12900694/"
+          }
+        ]
+      },
+      {
+        "id": "VR-HB-001-148",
+        "name": "IPAQ Long Form Usual Week Telephone",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "International physical activity questionnaire: 12-country reliability and validity.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12900694/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1249/01.MSS.0000078924.61453.FB"
+      },
+      {
+        "label": "International physical activity questionnaire: 12-country reliability and validity.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12900694/"
+      },
+      {
+        "label": "IPAQ表单及评分协议",
+        "url": "https://sites.google.com/view/ipaq/home",
+        "kind": "题目与选项",
+        "scope": "选择准确长短形式"
+      },
+      {
+        "label": "使用和评分说明",
+        "url": "https://sites.google.com/view/ipaq/faq",
+        "kind": "评分标准",
+        "scope": "IPAQ"
+      }
+    ],
+    "administration": {
+      "scope": "IPAQ长短表、访谈/自填、对应回顾期",
+      "answers": "记录活动天数和每天分钟数，并按表单处理未发生的活动与久坐。",
+      "scoring": "依官方协议清理异常值、计算MET-min/week及活动分级；长表需分活动领域，不能直接套短表所有合计步骤。",
+      "access": "原开发团队网站提供版本下载和评分协议。",
+      "resources": [
+        {
+          "label": "IPAQ表单及评分协议",
+          "url": "https://sites.google.com/view/ipaq/home",
+          "kind": "题目与选项",
+          "scope": "选择准确长短形式"
+        },
+        {
+          "label": "使用和评分说明",
+          "url": "https://sites.google.com/view/ipaq/faq",
+          "kind": "评分标准",
+          "scope": "IPAQ"
+        }
+      ]
+    }
+  },
+  {
+    "id": "HB-002",
+    "name": "Global Physical Activity Questionnaire",
+    "abbreviation": "GPAQ",
+    "versions": [
+      {
+        "id": "VR-HB-002-BASE",
+        "name": "Global Physical Activity Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "WHO身体活动监测工具",
+            "url": "https://www.who.int/teams/noncommunicable-diseases/surveillance/systems-tools/physical-activity-surveillance"
+          }
+        ]
+      },
+      {
+        "id": "VR-HB-002-149",
+        "name": "Global Physical Activity Questionnaire version 1",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "WHO身体活动监测工具",
+            "url": "https://www.who.int/teams/noncommunicable-diseases/surveillance/systems-tools/physical-activity-surveillance"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://www.who.int/teams/noncommunicable-diseases/surveillance/systems-tools/physical-activity-surveillance"
+      },
+      {
+        "label": "WHO身体活动监测工具",
+        "url": "https://www.who.int/teams/noncommunicable-diseases/surveillance/systems-tools/physical-activity-surveillance"
+      },
+      {
+        "label": "GPAQ完整问卷",
+        "url": "https://www.who.int/publications/m/item/global-physical-activity-questionnaire",
+        "kind": "题目与选项",
+        "scope": "GPAQ"
+      },
+      {
+        "label": "WHO逐步分析指南",
+        "url": "https://www.who.int/docs/default-source/ncds/ncd-surveillance/gpaq-analysis-guide.pdf",
+        "kind": "评分标准",
+        "scope": "现行GPAQ"
+      }
+    ],
+    "administration": {
+      "scope": "现行GPAQ；早期v1另核对",
+      "answers": "按工作、交通、休闲填写活动频率和时长，久坐另报。",
+      "scoring": "按WHO分析指南进行跳题处理与数据清理，再计算领域和总体MET时间；使用配套示意卡确保强度理解一致。",
+      "access": "WHO提供正式问卷和分析指南。",
+      "resources": [
+        {
+          "label": "GPAQ完整问卷",
+          "url": "https://www.who.int/publications/m/item/global-physical-activity-questionnaire",
+          "kind": "题目与选项",
+          "scope": "GPAQ"
+        },
+        {
+          "label": "WHO逐步分析指南",
+          "url": "https://www.who.int/docs/default-source/ncds/ncd-surveillance/gpaq-analysis-guide.pdf",
+          "kind": "评分标准",
+          "scope": "现行GPAQ"
+        }
+      ]
+    }
+  },
+  {
+    "id": "HB-003",
+    "name": "Alcohol Use Disorders Identification Test",
+    "abbreviation": "AUDIT",
+    "versions": [
+      {
+        "id": "VR-HB-003-BASE",
+        "name": "Alcohol Use Disorders Identification Test",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "Development of the Alcohol Use Disorders Identification Test (AUDIT): WHO Collaborative Project on Early Detection of Persons with Harmful Alcohol Consumption--II.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8329970/"
+          }
+        ]
+      },
+      {
+        "id": "VR-HB-003-082",
+        "name": "AUDIT",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Development of the Alcohol Use Disorders Identification Test (AUDIT): WHO Collaborative Project on Early Detection of Persons with Harmful Alcohol Consumption--II.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8329970/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1111/j.1360-0443.1993.tb02093.x"
+      },
+      {
+        "label": "Development of the Alcohol Use Disorders Identification Test (AUDIT): WHO Collaborative Project on Early Detection of Persons with Harmful Alcohol Consumption--II.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8329970/"
+      },
+      {
+        "label": "WHO AUDIT完整手册",
+        "url": "https://www.who.int/publications/i/item/WHO-MSD-MSB-01.6a",
+        "kind": "题目与选项",
+        "scope": "AUDIT完整10题"
+      }
+    ],
+    "administration": {
+      "scope": "AUDIT原始10题",
+      "answers": "各题按饮酒频率、数量或经历选项编码；最后两题的赋分不同。",
+      "scoring": "各题0–4分，总分0–40。WHO手册给出筛查与后续评估指导；标准杯酒精量及人群会影响解释，不能将分数直接作为依赖诊断。",
+      "access": "WHO手册包含题目、选项和施测计分说明。",
+      "resources": [
+        {
+          "label": "WHO AUDIT完整手册",
+          "url": "https://www.who.int/publications/i/item/WHO-MSD-MSB-01.6a",
+          "kind": "题目与选项",
+          "scope": "AUDIT完整10题"
+        }
+      ]
+    }
+  },
+  {
+    "id": "HB-004",
+    "name": "Alcohol Use Disorders Identification Test–Consumption",
+    "abbreviation": "AUDIT-C",
+    "versions": [
+      {
+        "id": "VR-HB-004-BASE",
+        "name": "Alcohol Use Disorders Identification Test–Consumption",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "The AUDIT alcohol consumption questions (AUDIT-C): an effective brief screening test for problem drinking. Ambulatory Care Quality Improvement Project (ACQUIP). Alcohol Use Disorders Identification Test.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9738608/"
+          }
+        ]
+      },
+      {
+        "id": "VR-HB-004-083",
+        "name": "AUDIT-C",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "The AUDIT alcohol consumption questions (AUDIT-C): an effective brief screening test for problem drinking. Ambulatory Care Quality Improvement Project (ACQUIP). Alcohol Use Disorders Identification Test.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9738608/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1001/archinte.158.16.1789"
+      },
+      {
+        "label": "The AUDIT alcohol consumption questions (AUDIT-C): an effective brief screening test for problem drinking. Ambulatory Care Quality Improvement Project (ACQUIP). Alcohol Use Disorders Identification Test.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9738608/"
+      },
+      {
+        "label": "AUDIT-C题目及筛查解释",
+        "url": "https://www.niaaa.nih.gov/health-professionals-communities/core-resource-on-alcohol/screen-and-assess-use-quick-effective-methods",
+        "kind": "题目与选项",
+        "scope": "AUDIT-C与地区适配"
+      }
+    ],
+    "administration": {
+      "scope": "AUDIT-C原始3题",
+      "answers": "只保留AUDIT前3个饮酒消费问题；地区适配可能调整标准杯和大量饮酒定义。",
+      "scoring": "原3题各0–4分，总分0–12。不能用完整AUDIT的40分制或相同阈值解释；明确使用原版、美国适配还是其他形式。",
+      "access": "NIAAA提供原题和版本差异说明。",
+      "resources": [
+        {
+          "label": "AUDIT-C题目及筛查解释",
+          "url": "https://www.niaaa.nih.gov/health-professionals-communities/core-resource-on-alcohol/screen-and-assess-use-quick-effective-methods",
+          "kind": "题目与选项",
+          "scope": "AUDIT-C与地区适配"
+        }
+      ]
+    }
+  },
+  {
+    "id": "HB-005",
+    "name": "Fagerström Test for Nicotine Dependence",
+    "abbreviation": "FTND",
+    "versions": [
+      {
+        "id": "VR-HB-005-BASE",
+        "name": "Fagerström Test for Nicotine Dependence",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "The Fagerström Test for Nicotine Dependence: a revision of the Fagerström Tolerance Questionnaire.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1932883/"
+          }
+        ]
+      },
+      {
+        "id": "VR-HB-005-084",
+        "name": "Fagerström Tolerance Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "The Fagerström Test for Nicotine Dependence: a revision of the Fagerström Tolerance Questionnaire.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1932883/"
+          }
+        ]
+      },
+      {
+        "id": "VR-HB-005-085",
+        "name": "Fagerström Test for Nicotine Dependence",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "The Fagerström Test for Nicotine Dependence: a revision of the Fagerström Tolerance Questionnaire.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1932883/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1111/j.1360-0443.1991.tb01879.x"
+      },
+      {
+        "label": "The Fagerström Test for Nicotine Dependence: a revision of the Fagerström Tolerance Questionnaire.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1932883/"
+      },
+      {
+        "label": "NIDA FTND表单资料",
+        "url": "https://datashare.nida.nih.gov/instrument/fagerstrom-test-for-nicotine-dependence",
+        "kind": "题目与选项",
+        "scope": "FTND及与FTQ的区别"
+      }
+    ],
+    "administration": {
+      "scope": "FTND；FTQ及青少年mFTQ另区分",
+      "answers": "混合是非和分档数量/时间回答。",
+      "scoring": "FTND共6题，部分题0–1、部分题0–3，总分0–10；原8题FTQ及mFTQ不套用同一评分键。",
+      "access": "NIDA数据平台列出工具和下载资料。",
+      "resources": [
+        {
+          "label": "NIDA FTND表单资料",
+          "url": "https://datashare.nida.nih.gov/instrument/fagerstrom-test-for-nicotine-dependence",
+          "kind": "题目与选项",
+          "scope": "FTND及与FTQ的区别"
+        }
+      ]
+    }
+  },
+  {
+    "id": "HB-006",
+    "name": "CAGE Questionnaire",
+    "abbreviation": "CAGE",
+    "versions": [
+      {
+        "id": "VR-HB-006-BASE",
+        "name": "CAGE Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "CAGE经典文献",
+            "url": "https://doi.org/10.1001/jama.1984.03350140051025"
+          }
+        ]
+      },
+      {
+        "id": "VR-HB-006-086",
+        "name": "CAGE-AID",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "CAGE经典文献",
+            "url": "https://doi.org/10.1001/jama.1984.03350140051025"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1001/jama.1984.03350140051025"
+      },
+      {
+        "label": "CAGE经典文献",
+        "url": "https://doi.org/10.1001/jama.1984.03350140051025"
+      },
+      {
+        "label": "CAGE与CAGE-AID表单和评分",
+        "url": "https://adhdtreat.caddra.ca/wp-content/uploads/2025/04/CAGE_CAGE-AID-Scoring.pdf",
+        "kind": "题目与选项",
+        "scope": "4题及适配形式"
+      }
+    ],
+    "administration": {
+      "scope": "CAGE及扩展到药物的CAGE-AID",
+      "answers": "4个是非问题，CAGE针对酒精，AID扩展酒精与其他药物。",
+      "scoring": "按阳性回答计分；应依据对应形式和使用人群的指南确定进一步评估，不把AID当成新增题数的长表。",
+      "access": "所附专业协会资料并列两种表单和解释。",
+      "resources": [
+        {
+          "label": "CAGE与CAGE-AID表单和评分",
+          "url": "https://adhdtreat.caddra.ca/wp-content/uploads/2025/04/CAGE_CAGE-AID-Scoring.pdf",
+          "kind": "题目与选项",
+          "scope": "4题及适配形式"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MA-001",
+    "name": "Morisky Medication Adherence Scale",
+    "abbreviation": "MMAS",
+    "versions": [
+      {
+        "id": "VR-MA-001-BASE",
+        "name": "Morisky Medication Adherence Scale",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "Concurrent and predictive validity of a self-reported measure of medication adherence.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3945130/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MA-001-087",
+        "name": "4-item Morisky scale",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Concurrent and predictive validity of a self-reported measure of medication adherence.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3945130/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MA-001-088",
+        "name": "8-item Morisky Medication Adherence Scale",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Concurrent and predictive validity of a self-reported measure of medication adherence.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3945130/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1097/00005650-198601000-00007"
+      },
+      {
+        "label": "Concurrent and predictive validity of a self-reported measure of medication adherence.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3945130/"
+      },
+      {
+        "label": "MMAS官方许可及获取",
+        "url": "https://www.moriskyscale.com/mmas-license-pricing.html",
+        "kind": "官方获取",
+        "scope": "MMAS-4/8"
+      }
+    ],
+    "administration": {
+      "scope": "MMAS-4与MMAS-8",
+      "answers": "按获许可的正式表单使用，不自行改写或将4题补写为8题。",
+      "scoring": "计分键与版本、正反向题及最后一题回答格式对应，需使用许可文件；本页不提供未经授权的完整评分键。",
+      "access": "权利方提供有偿许可和译本申请；不提交申请或购买。",
+      "resources": [
+        {
+          "label": "MMAS官方许可及获取",
+          "url": "https://www.moriskyscale.com/mmas-license-pricing.html",
+          "kind": "官方获取",
+          "scope": "MMAS-4/8"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MA-002",
+    "name": "Medication Adherence Rating Scale",
+    "abbreviation": "MARS",
+    "versions": [
+      {
+        "id": "VR-MA-002-BASE",
+        "name": "Medication Adherence Rating Scale",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Rating Scale开发研究",
+            "url": "https://doi.org/10.1016/S0920-9964(99)00130-9"
+          },
+          {
+            "label": "Report Scale开发者研究",
+            "url": "https://doi.org/10.1111/bcp.14193"
+          }
+        ]
+      },
+      {
+        "id": "VR-MA-002-150",
+        "name": "Medication Adherence Report Scale 5-item",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Report Scale开发者研究",
+            "url": "https://doi.org/10.1111/bcp.14193"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1016/S0920-9964(99)00130-9"
+      },
+      {
+        "label": "Rating Scale开发研究",
+        "url": "https://doi.org/10.1016/S0920-9964(99)00130-9"
+      },
+      {
+        "label": "Report Scale开发者研究",
+        "url": "https://doi.org/10.1111/bcp.14193"
+      },
+      {
+        "label": "Thompson等Rating Scale正式资料",
+        "url": "https://eprovide.mapi-trust.org/instruments/medication-adherence-rating-scale",
+        "kind": "官方获取",
+        "scope": "Rating Scale"
+      },
+      {
+        "label": "Horne等Report Scale研究",
+        "url": "https://doi.org/10.1111/bcp.14193",
+        "kind": "题目与选项",
+        "scope": "Report Scale / MARS-5"
+      }
+    ],
+    "administration": {
+      "scope": "必须先区分Medication Adherence Rating Scale与Report Scale",
+      "answers": "Rating Scale与Report Scale不是同一工具，回答选项和题量不能混用。",
+      "scoring": "10题Rating和5题Report各按其作者的评分键；不能将MARS-5简单标作10题Rating的删题版。",
+      "access": "下面两个入口来自不同工具，按页面所选名称获取。",
+      "resources": [
+        {
+          "label": "Thompson等Rating Scale正式资料",
+          "url": "https://eprovide.mapi-trust.org/instruments/medication-adherence-rating-scale",
+          "kind": "官方获取",
+          "scope": "Rating Scale"
+        },
+        {
+          "label": "Horne等Report Scale研究",
+          "url": "https://doi.org/10.1111/bcp.14193",
+          "kind": "题目与选项",
+          "scope": "Report Scale / MARS-5"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MA-003",
+    "name": "Adherence to Refills and Medications Scale",
+    "abbreviation": "ARMS",
+    "versions": [
+      {
+        "id": "VR-MA-003-BASE",
+        "name": "Adherence to Refills and Medications Scale",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Development and evaluation of the Adherence to Refills and Medications Scale (ARMS) among low-literacy patients with chronic disease.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19911444/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1111/j.1524-4733.2008.00400.x"
+      },
+      {
+        "label": "Development and evaluation of the Adherence to Refills and Medications Scale (ARMS) among low-literacy patients with chronic disease.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19911444/"
+      },
+      {
+        "label": "ARMS原始开发及表单",
+        "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1524-4733.2008.00400.x",
+        "kind": "题目与选项",
+        "scope": "ARMS 12题"
+      }
+    ],
+    "administration": {
+      "scope": "ARMS 12题",
+      "answers": "服药执行与续药行为采用4档频率回答。",
+      "scoring": "原12题总分12–48，低分表示更好依从性；反向题和两个分量表应按原论文表格计分。",
+      "access": "原始开发论文包含工具与结构；全文获取条件由出版社决定。",
+      "resources": [
+        {
+          "label": "ARMS原始开发及表单",
+          "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1524-4733.2008.00400.x",
+          "kind": "题目与选项",
+          "scope": "ARMS 12题"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MA-004",
+    "name": "Summary of Diabetes Self-Care Activities",
+    "abbreviation": "SDSCA",
+    "versions": [
+      {
+        "id": "VR-MA-004-BASE",
+        "name": "Summary of Diabetes Self-Care Activities",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "The summary of diabetes self-care activities measure: results from 7 studies and a revised scale.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10895844/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MA-004-166",
+        "name": "Revised SDSCA core",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "The summary of diabetes self-care activities measure: results from 7 studies and a revised scale.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10895844/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MA-004-167",
+        "name": "Revised SDSCA expanded item set",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "The summary of diabetes self-care activities measure: results from 7 studies and a revised scale.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10895844/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.2337/diacare.23.7.943"
+      },
+      {
+        "label": "The summary of diabetes self-care activities measure: results from 7 studies and a revised scale.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10895844/"
+      },
+      {
+        "label": "SDSCA原始修订论文及附录",
+        "url": "https://doi.org/10.2337/diacare.23.7.943",
+        "kind": "题目与选项",
+        "scope": "2000年修订"
+      }
+    ],
+    "administration": {
+      "scope": "SDSCA修订核心及扩展题组",
+      "answers": "多数题报告过去7天实施行为的天数，吸烟等题采用独立格式。",
+      "scoring": "饮食、运动、血糖监测和足部护理分别计算；吸烟单独报告。反向饮食题及扩展条目依原论文附录，不合成未经验证的总体分。",
+      "access": "原始修订论文包含附录题目及评分；不将任意25题拼接表认作固定官方表单。",
+      "resources": [
+        {
+          "label": "SDSCA原始修订论文及附录",
+          "url": "https://doi.org/10.2337/diacare.23.7.943",
+          "kind": "题目与选项",
+          "scope": "2000年修订"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MA-005",
+    "name": "Self-Efficacy for Managing Chronic Disease 6-Item Scale",
+    "abbreviation": "SEMCD-6",
+    "versions": [
+      {
+        "id": "VR-MA-005-BASE",
+        "name": "Self-Efficacy for Managing Chronic Disease 6-Item Scale",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "开发团队6题量表说明",
+            "url": "https://selfmanagementresource.com/wp-content/uploads/English_-_self-efficacy_for_managing_chronic_disease_6-item.pdf"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1097/00005650-199901000-00003"
+      },
+      {
+        "label": "开发团队6题量表说明",
+        "url": "https://selfmanagementresource.com/wp-content/uploads/English_-_self-efficacy_for_managing_chronic_disease_6-item.pdf"
+      },
+      {
+        "label": "开发团队6题表单及评分",
+        "url": "https://selfmanagementresource.com/wp-content/uploads/English_-_self-efficacy_for_managing_chronic_disease_6-item.pdf",
+        "kind": "题目与选项",
+        "scope": "SEMCD-6"
+      }
+    ],
+    "administration": {
+      "scope": "SEMCD-6",
+      "answers": "每题用1–10表示管理慢性病相关问题的信心。",
+      "scoring": "取已答题平均分，高分表示更高自我效能；缺失超过2题不计分。不是把6题之和当成1–10尺度的分数。",
+      "access": "开发团队PDF列有完整题目、回答刻度和评分说明；保留来源，按其使用条件执行。",
+      "resources": [
+        {
+          "label": "开发团队6题表单及评分",
+          "url": "https://selfmanagementresource.com/wp-content/uploads/English_-_self-efficacy_for_managing_chronic_disease_6-item.pdf",
+          "kind": "题目与选项",
+          "scope": "SEMCD-6"
+        }
+      ]
+    }
+  },
+  {
+    "id": "OH-001",
+    "name": "Maslach Burnout Inventory",
+    "abbreviation": "MBI",
+    "versions": [
+      {
+        "id": "VR-OH-001-BASE",
+        "name": "Maslach Burnout Inventory",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "MBI出版方版本对照",
+            "url": "https://www.mindgarden.com/117-maslach-burnout-inventory-mbi"
+          }
+        ]
+      },
+      {
+        "id": "VR-OH-001-089",
+        "name": "MBI-Human Services Survey",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "MBI出版方版本对照",
+            "url": "https://www.mindgarden.com/117-maslach-burnout-inventory-mbi"
+          }
+        ]
+      },
+      {
+        "id": "VR-OH-001-090",
+        "name": "MBI-HSS for Medical Personnel",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "MBI出版方版本对照",
+            "url": "https://www.mindgarden.com/117-maslach-burnout-inventory-mbi"
+          }
+        ]
+      },
+      {
+        "id": "VR-OH-001-091",
+        "name": "MBI-General Survey",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "MBI出版方版本对照",
+            "url": "https://www.mindgarden.com/117-maslach-burnout-inventory-mbi"
+          }
+        ]
+      },
+      {
+        "id": "VR-OH-001-092",
+        "name": "MBI-Educators Survey",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "MBI出版方版本对照",
+            "url": "https://www.mindgarden.com/117-maslach-burnout-inventory-mbi"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1002/job.4030020205"
+      },
+      {
+        "label": "MBI出版方版本对照",
+        "url": "https://www.mindgarden.com/117-maslach-burnout-inventory-mbi"
+      },
+      {
+        "label": "官方问卷与评分键许可包",
+        "url": "https://www.mindgarden.com/maslach-burnout-inventory-mbi/765-mbi-license-to-administer.html",
+        "kind": "官方获取",
+        "scope": "MBI各形式"
+      }
+    ],
+    "administration": {
+      "scope": "MBI-HSS、HSS(MP)、ES、GS",
+      "answers": "各表采用相应职业语境的频率回答；必须按所获正式表单填写。",
+      "scoring": "各维度独立计分，HSS/ES与GS的题量和维度命名不同。使用许可包内评分键，不把不同维度简单相加作为统一倦怠总分。",
+      "access": "Mind Garden许可包包括表单与评分键，并按购买施测次数授权；不在本网站复制完整收费题目。",
+      "resources": [
+        {
+          "label": "官方问卷与评分键许可包",
+          "url": "https://www.mindgarden.com/maslach-burnout-inventory-mbi/765-mbi-license-to-administer.html",
+          "kind": "官方获取",
+          "scope": "MBI各形式"
+        }
+      ]
+    }
+  },
+  {
+    "id": "OH-002",
+    "name": "Copenhagen Burnout Inventory",
+    "abbreviation": "CBI",
+    "versions": [
+      {
+        "id": "VR-OH-002-BASE",
+        "name": "Copenhagen Burnout Inventory",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "CBI开发机构",
+            "url": "https://nfa.dk/vaerktoejer/spoergeskemaer/spoergeskema-til-maaling-af-udbraendthed-cbi/copenhagen-burnout-inventory-cbi"
+          }
+        ]
+      },
+      {
+        "id": "VR-OH-002-152",
+        "name": "Copenhagen Burnout Inventory Student Version",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "CBI开发机构",
+            "url": "https://nfa.dk/vaerktoejer/spoergeskemaer/spoergeskema-til-maaling-af-udbraendthed-cbi/copenhagen-burnout-inventory-cbi"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1080/02678370500297720"
+      },
+      {
+        "label": "CBI开发机构",
+        "url": "https://nfa.dk/vaerktoejer/spoergeskemaer/spoergeskema-til-maaling-af-udbraendthed-cbi/copenhagen-burnout-inventory-cbi"
+      },
+      {
+        "label": "CBI英文完整表单及评分",
+        "url": "https://nfa.dk/media/a4wheblj/cbi-scales.pdf",
+        "kind": "题目与选项",
+        "scope": "职业CBI"
+      },
+      {
+        "label": "开发机构说明",
+        "url": "https://nfa.dk/vaerktoejer/spoergeskemaer/spoergeskema-til-maaling-af-udbraendthed-cbi/copenhagen-burnout-inventory-cbi",
+        "kind": "官方获取",
+        "scope": "CBI"
+      }
+    ],
+    "administration": {
+      "scope": "职业CBI；学生改编须另核对原研究",
+      "answers": "原表以频率或程度5档回答，按方向转换至0、25、50、75、100。",
+      "scoring": "个人、工作和服务对象相关耗竭分别取题目均值。注意工作分量表中的反向题以及各维缺失要求；学生版本不能仅替换名词后沿用所有解释。",
+      "access": "NFA提供英文原表及评分规则；改编、译本应注明来源。",
+      "resources": [
+        {
+          "label": "CBI英文完整表单及评分",
+          "url": "https://nfa.dk/media/a4wheblj/cbi-scales.pdf",
+          "kind": "题目与选项",
+          "scope": "职业CBI"
+        },
+        {
+          "label": "开发机构说明",
+          "url": "https://nfa.dk/vaerktoejer/spoergeskemaer/spoergeskema-til-maaling-af-udbraendthed-cbi/copenhagen-burnout-inventory-cbi",
+          "kind": "官方获取",
+          "scope": "CBI"
+        }
+      ]
+    }
+  },
+  {
+    "id": "OH-003",
+    "name": "Oldenburg Burnout Inventory",
+    "abbreviation": "OLBI",
+    "versions": [
+      {
+        "id": "VR-OH-003-BASE",
+        "name": "Oldenburg Burnout Inventory",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "The job demands-resources model of burnout.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11419809/"
+          }
+        ]
+      },
+      {
+        "id": "VR-OH-003-151",
+        "name": "Oldenburg Burnout Inventory Student Version",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "The job demands-resources model of burnout.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11419809/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1037/0021-9010.86.3.499"
+      },
+      {
+        "label": "The job demands-resources model of burnout.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11419809/"
+      },
+      {
+        "label": "OLBI工具来源与获取目录",
+        "url": "https://nam.edu/product/valid-and-reliable-survey-instruments-to-measure-burnout-well-being-and-other-work-related-dimensions/",
+        "kind": "官方获取",
+        "scope": "OLBI"
+      }
+    ],
+    "administration": {
+      "scope": "OLBI原16题及研究性短表",
+      "answers": "耗竭与工作疏离两类题目，包含正向和反向表述。",
+      "scoring": "按对应版本反向编码后分别计算两个维度；短表和每日改写形式不可直接套用16题题号及解释。",
+      "access": "国家医学院工具目录提供原工具来源；选用时核对具体开发论文和表单。",
+      "resources": [
+        {
+          "label": "OLBI工具来源与获取目录",
+          "url": "https://nam.edu/product/valid-and-reliable-survey-instruments-to-measure-burnout-well-being-and-other-work-related-dimensions/",
+          "kind": "官方获取",
+          "scope": "OLBI"
+        }
+      ]
+    }
+  },
+  {
+    "id": "OH-004",
+    "name": "Professional Quality of Life Scale",
+    "abbreviation": "ProQOL",
+    "versions": [
+      {
+        "id": "VR-OH-004-BASE",
+        "name": "Professional Quality of Life Scale, Version 5",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ProQOL官方说明",
+            "url": "https://proqol.org/faq"
+          },
+          {
+            "label": "ProQOL历史手册",
+            "url": "https://compassionfatigue.org/pages/ProQOLManualOct05.pdf"
+          }
+        ]
+      },
+      {
+        "id": "VR-OH-004-153",
+        "name": "Professional Quality of Life Scale Version III",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ProQOL官方说明",
+            "url": "https://proqol.org/faq"
+          },
+          {
+            "label": "ProQOL历史手册",
+            "url": "https://compassionfatigue.org/pages/ProQOLManualOct05.pdf"
+          }
+        ]
+      },
+      {
+        "id": "VR-OH-004-154",
+        "name": "Professional Quality of Life Scale Version IV",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ProQOL官方说明",
+            "url": "https://proqol.org/faq"
+          },
+          {
+            "label": "ProQOL历史手册",
+            "url": "https://compassionfatigue.org/pages/ProQOLManualOct05.pdf"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://proqol.org/"
+      },
+      {
+        "label": "ProQOL官方说明",
+        "url": "https://proqol.org/faq"
+      },
+      {
+        "label": "ProQOL历史手册",
+        "url": "https://compassionfatigue.org/pages/ProQOLManualOct05.pdf"
+      },
+      {
+        "label": "官方题目、中文与自评分表",
+        "url": "https://proqol.org/proqol-measure",
+        "kind": "题目与选项",
+        "scope": "ProQOL 5及4→5对照"
+      },
+      {
+        "label": "ProQOL 5手册",
+        "url": "https://proqol.org/proqol-manual",
+        "kind": "评分标准",
+        "scope": "第5–6节"
+      }
+    ],
+    "administration": {
+      "scope": "ProQOL 5；III和IV查历史规则",
+      "answers": "ProQOL 5采用1–5频率回答，历史IV版的0分处理不同。",
+      "scoring": "同情满足、倦怠、继发性创伤压力分别计分；按正式键处理反向题。部分译本评分文字已过时，官网要求以英文自评分表为准；不将三维合成诊断分数。",
+      "access": "官网允许署名、不修改、不出售条件下复制；提供简体中文及其他译本。",
+      "resources": [
+        {
+          "label": "官方题目、中文与自评分表",
+          "url": "https://proqol.org/proqol-measure",
+          "kind": "题目与选项",
+          "scope": "ProQOL 5及4→5对照"
+        },
+        {
+          "label": "ProQOL 5手册",
+          "url": "https://proqol.org/proqol-manual",
+          "kind": "评分标准",
+          "scope": "第5–6节"
+        }
+      ]
+    }
+  },
+  {
+    "id": "OH-005",
+    "name": "Effort–Reward Imbalance Questionnaire",
+    "abbreviation": "ERI",
+    "versions": [
+      {
+        "id": "VR-OH-005-BASE",
+        "name": "Effort–Reward Imbalance Questionnaire",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "ERI原始理论与测量",
+            "url": "https://doi.org/10.1037/1076-8998.1.1.27"
+          }
+        ]
+      },
+      {
+        "id": "VR-OH-005-093",
+        "name": "ERI long form",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ERI原始理论与测量",
+            "url": "https://doi.org/10.1037/1076-8998.1.1.27"
+          }
+        ]
+      },
+      {
+        "id": "VR-OH-005-094",
+        "name": "ERI short form",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ERI原始理论与测量",
+            "url": "https://doi.org/10.1037/1076-8998.1.1.27"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1037/1076-8998.1.1.27"
+      },
+      {
+        "label": "ERI原始理论与测量",
+        "url": "https://doi.org/10.1037/1076-8998.1.1.27"
+      },
+      {
+        "label": "ERI各语言长短问卷",
+        "url": "https://www.uniklinik-duesseldorf.de/patienten-besucher/klinikeninstitutezentren/institut-fuer-medizinische-soziologie/das-institut/forschung/the-eri-model-stress-and-health/eri-questionnaires/questionnaires-download",
+        "kind": "题目与选项",
+        "scope": "长表、短表和译本"
+      },
+      {
+        "label": "开发团队心理测量说明",
+        "url": "https://www.uniklinik-duesseldorf.de/fileadmin/Fuer-Patienten-und-Besucher/Kliniken-Zentren-Institute/Institute/Institut_fuer_Medizinische_Soziologie/Dateien/ERI/PsychometricProperties.pdf",
+        "kind": "评分标准",
+        "scope": "版本对应规则"
+      }
+    ],
+    "administration": {
+      "scope": "ERI长表和短表",
+      "answers": "努力、回报与过度投入采用各自题目及分级回答，旧版与简化回答格式需区分。",
+      "scoring": "努力与回报分别求分，计算比值时按两者题数校正；过度投入单独计算。系数取决于所用版本，不能把长版系数直接用于短版。",
+      "access": "开发团队页面允许科研和教学用途申请；其他用途按页面联系授权。",
+      "resources": [
+        {
+          "label": "ERI各语言长短问卷",
+          "url": "https://www.uniklinik-duesseldorf.de/patienten-besucher/klinikeninstitutezentren/institut-fuer-medizinische-soziologie/das-institut/forschung/the-eri-model-stress-and-health/eri-questionnaires/questionnaires-download",
+          "kind": "题目与选项",
+          "scope": "长表、短表和译本"
+        },
+        {
+          "label": "开发团队心理测量说明",
+          "url": "https://www.uniklinik-duesseldorf.de/fileadmin/Fuer-Patienten-und-Besucher/Kliniken-Zentren-Institute/Institute/Institut_fuer_Medizinische_Soziologie/Dateien/ERI/PsychometricProperties.pdf",
+          "kind": "评分标准",
+          "scope": "版本对应规则"
+        }
+      ]
+    }
+  },
+  {
+    "id": "AG-001",
+    "name": "FRAIL Scale",
+    "abbreviation": "FRAIL",
+    "versions": [
+      {
+        "id": "VR-AG-001-BASE",
+        "name": "FRAIL Scale",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Frailty consensus: a call to action.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23764209/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1016/j.jamda.2013.03.022"
+      },
+      {
+        "label": "Frailty consensus: a call to action.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23764209/"
+      },
+      {
+        "label": "开发团队FRAIL题目及编码",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/4515112/",
+        "kind": "题目与选项",
+        "scope": "FRAIL"
+      }
+    ],
+    "administration": {
+      "scope": "FRAIL 5项",
+      "answers": "评估疲劳、爬楼、行走、疾病负担和体重下降；以研究规定定义转换为阳性/阴性。",
+      "scoring": "每个阳性1分，总分0–5；原研究常用0为健壮、1–2为衰弱前期、3–5为衰弱。不能把疾病个数直接加进总分。",
+      "access": "开发者研究给出操作性定义。",
+      "resources": [
+        {
+          "label": "开发团队FRAIL题目及编码",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/4515112/",
+          "kind": "题目与选项",
+          "scope": "FRAIL"
+        }
+      ]
+    }
+  },
+  {
+    "id": "AG-002",
+    "name": "Tilburg Frailty Indicator",
+    "abbreviation": "TFI",
+    "versions": [
+      {
+        "id": "VR-AG-002-BASE",
+        "name": "Tilburg Frailty Indicator",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "The Tilburg Frailty Indicator: psychometric properties.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20511102/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1016/j.jamda.2009.11.003"
+      },
+      {
+        "label": "The Tilburg Frailty Indicator: psychometric properties.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20511102/"
+      },
+      {
+        "label": "大学提供的TFI完整表单",
+        "url": "https://www.tilburguniversity.edu/sites/default/files/download/tfieng_2.pdf",
+        "kind": "题目与选项",
+        "scope": "A/B部分"
+      },
+      {
+        "label": "开发与评分研究",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20511102/",
+        "kind": "评分标准",
+        "scope": "TFI"
+      }
+    ],
+    "administration": {
+      "scope": "TFI的B部分15项",
+      "answers": "原表包括背景A部分，以及身体、心理、社会衰弱B部分。",
+      "scoring": "按B部分编码计算0–15分；A部分背景因素不加入衰弱分。身体8、心理4、社会3项按正式键处理。",
+      "access": "Tilburg大学提供正式英文问卷；译本另核对。",
+      "resources": [
+        {
+          "label": "大学提供的TFI完整表单",
+          "url": "https://www.tilburguniversity.edu/sites/default/files/download/tfieng_2.pdf",
+          "kind": "题目与选项",
+          "scope": "A/B部分"
+        },
+        {
+          "label": "开发与评分研究",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20511102/",
+          "kind": "评分标准",
+          "scope": "TFI"
+        }
+      ]
+    }
+  },
+  {
+    "id": "AG-003",
+    "name": "Edmonton Frail Scale",
+    "abbreviation": "EFS",
+    "versions": [
+      {
+        "id": "VR-AG-003-BASE",
+        "name": "Edmonton Frail Scale",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Validity and reliability of the Edmonton Frail Scale.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16757522/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1093/ageing/afl041"
+      },
+      {
+        "label": "Validity and reliability of the Edmonton Frail Scale.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16757522/"
+      },
+      {
+        "label": "EFS正式工具及施测评分培训",
+        "url": "https://edmontonfrailscale.org/",
+        "kind": "官方获取",
+        "scope": "原版EFS"
+      }
+    ],
+    "administration": {
+      "scope": "原始Edmonton Frail Scale",
+      "answers": "包含问答、钟表绘制及起立行走等实际任务，应由施测人员按指南评定。",
+      "scoring": "按项目评分求总分；不能删除表现任务后仍套用原版分界。官方培训资料解释逐项施测与评分。",
+      "access": "官方平台提供工具及培训资源；正式使用按其许可条件办理。",
+      "resources": [
+        {
+          "label": "EFS正式工具及施测评分培训",
+          "url": "https://edmontonfrailscale.org/",
+          "kind": "官方获取",
+          "scope": "原版EFS"
+        }
+      ]
+    }
+  },
+  {
+    "id": "AG-004",
+    "name": "Barthel Index",
+    "abbreviation": "BI",
+    "versions": [
+      {
+        "id": "VR-AG-004-BASE",
+        "name": "Barthel Index",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "开发资料",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14258950/"
+          }
+        ]
+      },
+      {
+        "id": "VR-AG-004-095",
+        "name": "Original Barthel Index 0–100",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "开发资料",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14258950/"
+          }
+        ]
+      },
+      {
+        "id": "VR-AG-004-096",
+        "name": "Barthel Index 0–20",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "开发资料",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14258950/"
+          }
+        ]
+      },
+      {
+        "id": "VR-AG-004-097",
+        "name": "Modified Barthel Index 0–100",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "开发资料",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14258950/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14258950/"
+      },
+      {
+        "label": "开发资料",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14258950/"
+      },
+      {
+        "label": "原作者Barthel论文和表单",
+        "url": "https://www.kcl.ac.uk/nmpc/assets/rehab/tools-bi-functional-evaluation-the-barthel-index.pdf",
+        "kind": "题目与选项",
+        "scope": "原始形式"
+      },
+      {
+        "label": "正式版本与使用条件",
+        "url": "https://eprovide.mapi-trust.org/instruments/barthel-index",
+        "kind": "官方获取",
+        "scope": "Barthel Index"
+      }
+    ],
+    "administration": {
+      "scope": "Barthel Index原式及修订式",
+      "answers": "按实际完成日常生活活动所需帮助程度分档；不同活动的权重不相同。",
+      "scoring": "存在0–100与0–20记分表达，也有改变分档的修订形式。先核对题目和权重，不能看到Barthel名称就统一乘5。",
+      "access": "原作者表及权利方资料分别提供；修订表须取得对应评分说明。",
+      "resources": [
+        {
+          "label": "原作者Barthel论文和表单",
+          "url": "https://www.kcl.ac.uk/nmpc/assets/rehab/tools-bi-functional-evaluation-the-barthel-index.pdf",
+          "kind": "题目与选项",
+          "scope": "原始形式"
+        },
+        {
+          "label": "正式版本与使用条件",
+          "url": "https://eprovide.mapi-trust.org/instruments/barthel-index",
+          "kind": "官方获取",
+          "scope": "Barthel Index"
+        }
+      ]
+    }
+  },
+  {
+    "id": "AG-005",
+    "name": "Lawton Instrumental Activities of Daily Living Scale",
+    "abbreviation": "Lawton IADL",
+    "versions": [
+      {
+        "id": "VR-AG-005-BASE",
+        "name": "Lawton Instrumental Activities of Daily Living Scale",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Assessment of older people: self-maintaining and instrumental activities of daily living.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5349366/"
+          }
+        ]
+      },
+      {
+        "id": "VR-AG-005-155",
+        "name": "Lawton IADL historical sex-specific scoring",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Assessment of older people: self-maintaining and instrumental activities of daily living.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5349366/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1093/geront/9.3_Part_1.179"
+      },
+      {
+        "label": "Assessment of older people: self-maintaining and instrumental activities of daily living.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/5349366/"
+      },
+      {
+        "label": "Lawton IADL项目和编码表",
+        "url": "https://www.merckmanuals.com/professional/multimedia/table/lawton-instrumental-activities-of-daily-living-scale",
+        "kind": "题目与选项",
+        "scope": "原工具项目"
+      },
+      {
+        "label": "老年护理机构功能评估资料",
+        "url": "https://hign.org/consultgeri/resources/protocols/assessing-function-and-promoting-mobility",
+        "kind": "评分标准",
+        "scope": "IADL使用背景"
+      }
+    ],
+    "administration": {
+      "scope": "Lawton IADL",
+      "answers": "逐项判断使用电话、购物、交通等复杂日常活动的独立程度。",
+      "scoring": "按所用表单将每项编码并计分；历史按性别选择项目与现代全项目用法存在差异，须报告实际纳入项目数，不能直接比较不同上限的总分。",
+      "access": "所附临床资料给出具体项目与编码；应核对当地适配版本。",
+      "resources": [
+        {
+          "label": "Lawton IADL项目和编码表",
+          "url": "https://www.merckmanuals.com/professional/multimedia/table/lawton-instrumental-activities-of-daily-living-scale",
+          "kind": "题目与选项",
+          "scope": "原工具项目"
+        },
+        {
+          "label": "老年护理机构功能评估资料",
+          "url": "https://hign.org/consultgeri/resources/protocols/assessing-function-and-promoting-mobility",
+          "kind": "评分标准",
+          "scope": "IADL使用背景"
+        }
+      ]
+    }
+  },
+  {
+    "id": "AG-006",
+    "name": "Mini Nutritional Assessment",
+    "abbreviation": "MNA",
+    "versions": [
+      {
+        "id": "VR-AG-006-BASE",
+        "name": "Mini Nutritional Assessment",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "Screening for undernutrition in geriatric practice: developing the short-form mini-nutritional assessment (MNA-SF).",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11382797/"
+          }
+        ]
+      },
+      {
+        "id": "VR-AG-006-098",
+        "name": "MNA-SF BMI version",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Screening for undernutrition in geriatric practice: developing the short-form mini-nutritional assessment (MNA-SF).",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11382797/"
+          }
+        ]
+      },
+      {
+        "id": "VR-AG-006-099",
+        "name": "MNA-SF calf-circumference version",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Screening for undernutrition in geriatric practice: developing the short-form mini-nutritional assessment (MNA-SF).",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11382797/"
+          }
+        ]
+      },
+      {
+        "id": "VR-AG-006-100",
+        "name": "Mini Nutritional Assessment (Full Form)",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Screening for undernutrition in geriatric practice: developing the short-form mini-nutritional assessment (MNA-SF).",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11382797/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1093/gerona/56.6.M366"
+      },
+      {
+        "label": "Screening for undernutrition in geriatric practice: developing the short-form mini-nutritional assessment (MNA-SF).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11382797/"
+      },
+      {
+        "label": "MNA正式表单与译本",
+        "url": "https://www.mna-elderly.com/mna-forms",
+        "kind": "题目与选项",
+        "scope": "短版及18题完整版"
+      },
+      {
+        "label": "逐题评分和测量指南",
+        "url": "https://www.mna-elderly.com/user-guide",
+        "kind": "评分标准",
+        "scope": "MNA各表"
+      }
+    ],
+    "administration": {
+      "scope": "MNA完整版和MNA-SF（BMI/小腿围形式）",
+      "answers": "混合饮食、活动、体重及测量项目，选项分值并非全部相同。",
+      "scoring": "MNA-SF共0–14分，完整版0–30分；BMI不可得时依对应表单使用小腿围替代项，不能两项同时计入短版。各分层及测量细则见官方用户指南。",
+      "access": "官网自2023年调整使用流程，学术机构等需要签署许可协议；公开样表不能替代机构授权。",
+      "resources": [
+        {
+          "label": "MNA正式表单与译本",
+          "url": "https://www.mna-elderly.com/mna-forms",
+          "kind": "题目与选项",
+          "scope": "短版及18题完整版"
+        },
+        {
+          "label": "逐题评分和测量指南",
+          "url": "https://www.mna-elderly.com/user-guide",
+          "kind": "评分标准",
+          "scope": "MNA各表"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MC-001",
+    "name": "Edinburgh Postnatal Depression Scale",
+    "abbreviation": "EPDS",
+    "versions": [
+      {
+        "id": "VR-MC-001-BASE",
+        "name": "Edinburgh Postnatal Depression Scale",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Detection of postnatal depression. Development of the 10-item Edinburgh Postnatal Depression Scale.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3651732/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-001-156",
+        "name": "Edinburgh Postnatal Depression Scale, 5-item research form (Rochat et al.)",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Detection of postnatal depression. Development of the 10-item Edinburgh Postnatal Depression Scale.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3651732/"
+          },
+          {
+            "label": "EPDS5R与EPDS3R研究（Rochat等，2013）",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23615932/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-001-157",
+        "name": "Edinburgh Postnatal Depression Scale, 3-item research form (Rochat et al.)",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Detection of postnatal depression. Development of the 10-item Edinburgh Postnatal Depression Scale.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3651732/"
+          },
+          {
+            "label": "EPDS5R与EPDS3R研究（Rochat等，2013）",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23615932/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1192/bjp.150.6.782"
+      },
+      {
+        "label": "Detection of postnatal depression. Development of the 10-item Edinburgh Postnatal Depression Scale.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3651732/"
+      },
+      {
+        "label": "EPDS多语表单及中文版本",
+        "url": "https://www.mhcs.health.nsw.gov.au/publications/epds",
+        "kind": "题目与选项",
+        "scope": "原10题"
+      },
+      {
+        "label": "EPDS-5R/3R短表研究",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3778840/",
+        "kind": "评分标准",
+        "scope": "研究性短表"
+      }
+    ],
+    "administration": {
+      "scope": "EPDS原10题；短表按各开发研究",
+      "answers": "回顾过去7天，每题4档，选项方向随题目变化。",
+      "scoring": "原表按指定方向编码0–3，共0–30；不能所有题都按选项位置顺序赋分。短表需使用自身选题和阈值，不能套用10题总分界点。",
+      "access": "新南威尔士州卫生部门提供正式多语表单及评分资料。",
+      "resources": [
+        {
+          "label": "EPDS多语表单及中文版本",
+          "url": "https://www.mhcs.health.nsw.gov.au/publications/epds",
+          "kind": "题目与选项",
+          "scope": "原10题"
+        },
+        {
+          "label": "EPDS-5R/3R短表研究",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3778840/",
+          "kind": "评分标准",
+          "scope": "研究性短表"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MC-002",
+    "name": "Strengths and Difficulties Questionnaire",
+    "abbreviation": "SDQ",
+    "versions": [
+      {
+        "id": "VR-MC-002-BASE",
+        "name": "Strengths and Difficulties Questionnaire",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "SDQ官方版本表单",
+            "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-002-101",
+        "name": "SDQ Parent 2–4 Standard",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "SDQ官方版本表单",
+            "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-002-102",
+        "name": "SDQ Parent 4–10 Standard",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "SDQ官方版本表单",
+            "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-002-103",
+        "name": "SDQ Parent 11–17 Standard",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "SDQ官方版本表单",
+            "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-002-104",
+        "name": "SDQ Teacher 2–4 Standard",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "SDQ官方版本表单",
+            "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-002-105",
+        "name": "SDQ Teacher 4–10 Standard",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "SDQ官方版本表单",
+            "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-002-106",
+        "name": "SDQ Teacher 11–17 Standard",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "SDQ官方版本表单",
+            "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-002-107",
+        "name": "SDQ Self 11–17 Standard",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "SDQ官方版本表单",
+            "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-002-108",
+        "name": "SDQ Parent 2–4 with Impact Supplement",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "SDQ官方版本表单",
+            "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-002-109",
+        "name": "SDQ Parent 4–10 with Impact Supplement",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "SDQ官方版本表单",
+            "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-002-110",
+        "name": "SDQ Parent 11–17 with Impact Supplement",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "SDQ官方版本表单",
+            "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-002-111",
+        "name": "SDQ Teacher 2–4 with Impact Supplement",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "SDQ官方版本表单",
+            "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-002-112",
+        "name": "SDQ Teacher 4–10 with Impact Supplement",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "SDQ官方版本表单",
+            "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-002-113",
+        "name": "SDQ Teacher 11–17 with Impact Supplement",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "SDQ官方版本表单",
+            "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-002-114",
+        "name": "SDQ Self 11–17 with Impact Supplement",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "SDQ官方版本表单",
+            "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-002-115",
+        "name": "SDQ Parent 2–4 Follow-up",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "SDQ官方版本表单",
+            "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-002-116",
+        "name": "SDQ Parent 4–10 Follow-up",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "SDQ官方版本表单",
+            "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-002-117",
+        "name": "SDQ Parent 11–17 Follow-up",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "SDQ官方版本表单",
+            "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-002-118",
+        "name": "SDQ Teacher 2–4 Follow-up",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "SDQ官方版本表单",
+            "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-002-119",
+        "name": "SDQ Teacher 4–10 Follow-up",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "SDQ官方版本表单",
+            "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-002-120",
+        "name": "SDQ Teacher 11–17 Follow-up",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "SDQ官方版本表单",
+            "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-002-121",
+        "name": "SDQ Self 11–17 Follow-up",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "SDQ官方版本表单",
+            "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1111/j.1469-7610.1997.tb01545.x"
+      },
+      {
+        "label": "SDQ官方版本表单",
+        "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py"
+      },
+      {
+        "label": "官方年龄、报告者及语言表单目录",
+        "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py",
+        "kind": "题目与选项",
+        "scope": "标准、影响、随访"
+      },
+      {
+        "label": "官方评分说明与评分系统",
+        "url": "https://www.sdqinfo.org/py/sdqinfo/c0.py",
+        "kind": "评分标准",
+        "scope": "按年龄及报告者选择"
+      }
+    ],
+    "administration": {
+      "scope": "SDQ按年龄、报告者、标准/影响/随访形式",
+      "answers": "核心25题采用3档回答；影响和随访补充问题另有自己的回答方式。",
+      "scoring": "核心5维各5题，其中情绪、行为、多动和同伴问题组成总困难分；亲社会维度不加入该总分。反向题、缺失处理与参考区间必须匹配报告者和年龄。",
+      "access": "使用官方原表；电子实现和翻译修改需核对SDQ版权条件。",
+      "resources": [
+        {
+          "label": "官方年龄、报告者及语言表单目录",
+          "url": "https://www.sdqinfo.org/py/sdqinfo/b0.py",
+          "kind": "题目与选项",
+          "scope": "标准、影响、随访"
+        },
+        {
+          "label": "官方评分说明与评分系统",
+          "url": "https://www.sdqinfo.org/py/sdqinfo/c0.py",
+          "kind": "评分标准",
+          "scope": "按年龄及报告者选择"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MC-003",
+    "name": "Pediatric Quality of Life Inventory",
+    "abbreviation": "PedsQL",
+    "versions": [
+      {
+        "id": "VR-MC-003-BASE",
+        "name": "Pediatric Quality of Life Inventory",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "PedsQL开发者说明",
+            "url": "https://www.pedsql.org/about_pedsql.html"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-003-122",
+        "name": "PedsQL 4.0 child self-report",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PedsQL开发者说明",
+            "url": "https://www.pedsql.org/about_pedsql.html"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-003-123",
+        "name": "PedsQL 4.0 parent proxy",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PedsQL开发者说明",
+            "url": "https://www.pedsql.org/about_pedsql.html"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-003-158",
+        "name": "PedsQL 3.0 Asthma Module",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PedsQL开发者说明",
+            "url": "https://www.pedsql.org/about_pedsql.html"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-003-159",
+        "name": "PedsQL 3.0 Diabetes Module",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PedsQL开发者说明",
+            "url": "https://www.pedsql.org/about_pedsql.html"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-003-160",
+        "name": "PedsQL 3.0 Cancer Module",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PedsQL开发者说明",
+            "url": "https://www.pedsql.org/about_pedsql.html"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-003-161",
+        "name": "PedsQL 3.0 Cardiac Module",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PedsQL开发者说明",
+            "url": "https://www.pedsql.org/about_pedsql.html"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-003-162",
+        "name": "PedsQL 3.0 Rheumatology Module",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "PedsQL开发者说明",
+            "url": "https://www.pedsql.org/about_pedsql.html"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1097/00005650-200108000-00006"
+      },
+      {
+        "label": "PedsQL开发者说明",
+        "url": "https://www.pedsql.org/about_pedsql.html"
+      },
+      {
+        "label": "PedsQL工具与获取入口",
+        "url": "https://www.pedsql.org/about_pedsql.html",
+        "kind": "官方获取",
+        "scope": "通用及专项模块"
+      },
+      {
+        "label": "所有模块评分手册",
+        "url": "https://pedsql.org/PedsQL-Scoring.pdf",
+        "kind": "评分标准",
+        "scope": "按手册具体模块查阅"
+      }
+    ],
+    "administration": {
+      "scope": "PedsQL通用核心及分别制定的疾病模块",
+      "answers": "多数年龄表采用0–4回答；年幼儿童自评使用适龄的简化回答格式。以相应年龄、报告者和模块的正式表单为准。",
+      "scoring": "通用核心将题目反向转为0–100，高分表示更好生活质量；各维取已答题的均值。一个维度超过50%题目缺失时不计算该维度分数。疾病模块的题目组成及维度须查对应章节。",
+      "access": "官方提供评分说明；完整表单和译本按开发方授权获取。",
+      "resources": [
+        {
+          "label": "PedsQL工具与获取入口",
+          "url": "https://www.pedsql.org/about_pedsql.html",
+          "kind": "官方获取",
+          "scope": "通用及专项模块"
+        },
+        {
+          "label": "所有模块评分手册",
+          "url": "https://pedsql.org/PedsQL-Scoring.pdf",
+          "kind": "评分标准",
+          "scope": "按手册具体模块查阅"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MC-004",
+    "name": "KIDSCREEN",
+    "abbreviation": "KIDSCREEN",
+    "versions": [
+      {
+        "id": "VR-MC-004-BASE",
+        "name": "KIDSCREEN",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "KIDSCREEN开发项目：版本说明",
+            "url": "https://www.kidscreen.org/english/questionnaires/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-004-124",
+        "name": "KIDSCREEN-52 Child/Adolescent Self-Report",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "KIDSCREEN开发项目：版本说明",
+            "url": "https://www.kidscreen.org/english/questionnaires/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-004-125",
+        "name": "KIDSCREEN-52 Parent/Proxy Report",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "KIDSCREEN开发项目：版本说明",
+            "url": "https://www.kidscreen.org/english/questionnaires/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-004-126",
+        "name": "KIDSCREEN-27 Child/Adolescent Self-Report",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "KIDSCREEN开发项目：版本说明",
+            "url": "https://www.kidscreen.org/english/questionnaires/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-004-127",
+        "name": "KIDSCREEN-27 Parent/Proxy Report",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "KIDSCREEN开发项目：版本说明",
+            "url": "https://www.kidscreen.org/english/questionnaires/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-004-128",
+        "name": "KIDSCREEN-10 Index Child/Adolescent Self-Report",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "KIDSCREEN开发项目：版本说明",
+            "url": "https://www.kidscreen.org/english/questionnaires/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-004-129",
+        "name": "KIDSCREEN-10 Index Parent/Proxy Report",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "KIDSCREEN开发项目：版本说明",
+            "url": "https://www.kidscreen.org/english/questionnaires/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1586/14737167.5.3.353"
+      },
+      {
+        "label": "KIDSCREEN开发项目：版本说明",
+        "url": "https://www.kidscreen.org/english/questionnaires/"
+      },
+      {
+        "label": "各长度问卷说明",
+        "url": "https://www.kidscreen.org/english/questionnaires/",
+        "kind": "评分标准",
+        "scope": "52/27/10"
+      },
+      {
+        "label": "正式表单语言下载目录",
+        "url": "https://www.kidscreen.org/english/questionnaires/language-versions-view-and-download/",
+        "kind": "题目与选项",
+        "scope": "按长度及报告者选择"
+      }
+    ],
+    "administration": {
+      "scope": "KIDSCREEN-52、27、10及自评/代理形式",
+      "answers": "题目采用分级频率或强度回答；必须匹配长度、语言和报告者。",
+      "scoring": "52题、27题和10题有不同维度结构，应用官方转换和常模资料；不能将三种长度的总分按题数比例换算。",
+      "access": "开发项目提供语言表单下载目录；具体长度和代理译本可用性分别列出。",
+      "resources": [
+        {
+          "label": "各长度问卷说明",
+          "url": "https://www.kidscreen.org/english/questionnaires/",
+          "kind": "评分标准",
+          "scope": "52/27/10"
+        },
+        {
+          "label": "正式表单语言下载目录",
+          "url": "https://www.kidscreen.org/english/questionnaires/language-versions-view-and-download/",
+          "kind": "题目与选项",
+          "scope": "按长度及报告者选择"
+        }
+      ]
+    }
+  },
+  {
+    "id": "MC-005",
+    "name": "Ages and Stages Questionnaires",
+    "abbreviation": "ASQ",
+    "versions": [
+      {
+        "id": "VR-MC-005-BASE",
+        "name": "Ages and Stages Questionnaires",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-130",
+        "name": "ASQ-3",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-131",
+        "name": "ASQ:SE-2",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-168",
+        "name": "ASQ-3 2-Month Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-169",
+        "name": "ASQ-3 4-Month Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-170",
+        "name": "ASQ-3 6-Month Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-171",
+        "name": "ASQ-3 8-Month Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-172",
+        "name": "ASQ-3 9-Month Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-173",
+        "name": "ASQ-3 10-Month Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-174",
+        "name": "ASQ-3 12-Month Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-175",
+        "name": "ASQ-3 14-Month Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-176",
+        "name": "ASQ-3 16-Month Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-177",
+        "name": "ASQ-3 18-Month Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-178",
+        "name": "ASQ-3 20-Month Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-179",
+        "name": "ASQ-3 22-Month Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-180",
+        "name": "ASQ-3 24-Month Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-181",
+        "name": "ASQ-3 27-Month Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-182",
+        "name": "ASQ-3 30-Month Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-183",
+        "name": "ASQ-3 33-Month Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-184",
+        "name": "ASQ-3 36-Month Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-185",
+        "name": "ASQ-3 42-Month Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-186",
+        "name": "ASQ-3 48-Month Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-187",
+        "name": "ASQ-3 54-Month Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      },
+      {
+        "id": "VR-MC-005-188",
+        "name": "ASQ-3 60-Month Questionnaire",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "ASQ-3官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asq3/"
+          },
+          {
+            "label": "ASQ:SE-2官方介绍",
+            "url": "https://agesandstages.com/products-pricing/asqse-2/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://agesandstages.com/"
+      },
+      {
+        "label": "ASQ-3官方介绍",
+        "url": "https://agesandstages.com/products-pricing/asq3/"
+      },
+      {
+        "label": "ASQ:SE-2官方介绍",
+        "url": "https://agesandstages.com/products-pricing/asqse-2/"
+      },
+      {
+        "label": "ASQ-3月龄表及样表获取",
+        "url": "https://agesandstages.com/products-pricing/asq3/",
+        "kind": "官方获取",
+        "scope": "21个月龄"
+      },
+      {
+        "label": "ASQ-3评分帮助",
+        "url": "https://agesandstages.com/wp-content/uploads/2018/07/ASQ-3-Scoring-Help.pdf",
+        "kind": "评分标准",
+        "scope": "ASQ-3"
+      },
+      {
+        "label": "ASQ:SE-2正式获取",
+        "url": "https://agesandstages.com/products-pricing/asqse-2/",
+        "kind": "官方获取",
+        "scope": "社会情绪分支"
+      }
+    ],
+    "administration": {
+      "scope": "ASQ-3的21个月龄表；ASQ:SE-2另按专门手册",
+      "answers": "ASQ-3每个领域6题，由家长报告孩子是否能完成任务；月龄改变，任务与界点也改变。",
+      "scoring": "ASQ-3按5个领域分别计分，与对应月龄界点比较；缺失题采用官方调整方法。ASQ:SE-2的反应选项、加分和阈值属于另一体系，不能沿用ASQ-3规则。",
+      "access": "完整版为购买授权工具；公开样表不等于所有21张表可全文转载。",
+      "resources": [
+        {
+          "label": "ASQ-3月龄表及样表获取",
+          "url": "https://agesandstages.com/products-pricing/asq3/",
+          "kind": "官方获取",
+          "scope": "21个月龄"
+        },
+        {
+          "label": "ASQ-3评分帮助",
+          "url": "https://agesandstages.com/wp-content/uploads/2018/07/ASQ-3-Scoring-Help.pdf",
+          "kind": "评分标准",
+          "scope": "ASQ-3"
+        },
+        {
+          "label": "ASQ:SE-2正式获取",
+          "url": "https://agesandstages.com/products-pricing/asqse-2/",
+          "kind": "官方获取",
+          "scope": "社会情绪分支"
+        }
+      ]
+    }
+  },
+  {
+    "id": "PE-001",
+    "name": "Patient Satisfaction Questionnaire Short Form",
+    "abbreviation": "PSQ-18",
+    "versions": [
+      {
+        "id": "VR-PE-001-BASE",
+        "name": "Patient Satisfaction Questionnaire Short Form",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "RAND：PSQ发展与短版",
+            "url": "https://www.rand.org/health/surveys/psq.html"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://www.rand.org/pubs/papers/P7865.html"
+      },
+      {
+        "label": "RAND：PSQ发展与短版",
+        "url": "https://www.rand.org/health/surveys/psq.html"
+      },
+      {
+        "label": "RAND PSQ问卷下载",
+        "url": "https://www.rand.org/health/surveys/psq.html",
+        "kind": "题目与选项",
+        "scope": "PSQ-18及系列背景"
+      },
+      {
+        "label": "PSQ-18逐题计分键",
+        "url": "https://www.rand.org/content/dam/rand/www/external/health/surveys_tools/psq/psq18_scoring.pdf",
+        "kind": "评分标准",
+        "scope": "PSQ-18"
+      }
+    ],
+    "administration": {
+      "scope": "PSQ-18",
+      "answers": "18题采用5级同意程度回答，正反向表述并存。",
+      "scoring": "将各题统一成高分表示更满意，然后按7个分量表分别取均值；缺失题不作为0分填补。各分量表题号由RAND评分键指定。",
+      "access": "RAND提供正式短表与评分文件；保留开发来源。",
+      "resources": [
+        {
+          "label": "RAND PSQ问卷下载",
+          "url": "https://www.rand.org/health/surveys/psq.html",
+          "kind": "题目与选项",
+          "scope": "PSQ-18及系列背景"
+        },
+        {
+          "label": "PSQ-18逐题计分键",
+          "url": "https://www.rand.org/content/dam/rand/www/external/health/surveys_tools/psq/psq18_scoring.pdf",
+          "kind": "评分标准",
+          "scope": "PSQ-18"
+        }
+      ]
+    }
+  },
+  {
+    "id": "PE-002",
+    "name": "Consumer Assessment of Healthcare Providers and Systems",
+    "abbreviation": "CAHPS",
+    "versions": [
+      {
+        "id": "VR-PE-002-BASE",
+        "name": "Consumer Assessment of Healthcare Providers and Systems",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "AHRQ：CAHPS各场景调查",
+            "url": "https://www.ahrq.gov/cahps/surveys-guidance/index.html"
+          }
+        ]
+      },
+      {
+        "id": "VR-PE-002-133",
+        "name": "CAHPS Clinician & Group Adult Survey 3.1",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "AHRQ：CAHPS各场景调查",
+            "url": "https://www.ahrq.gov/cahps/surveys-guidance/index.html"
+          }
+        ]
+      },
+      {
+        "id": "VR-PE-002-134",
+        "name": "CAHPS Clinician & Group Child Survey 3.1",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "AHRQ：CAHPS各场景调查",
+            "url": "https://www.ahrq.gov/cahps/surveys-guidance/index.html"
+          }
+        ]
+      },
+      {
+        "id": "VR-PE-002-135",
+        "name": "CAHPS Clinician & Group Visit Survey 4.0 beta",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "AHRQ：CAHPS各场景调查",
+            "url": "https://www.ahrq.gov/cahps/surveys-guidance/index.html"
+          }
+        ]
+      },
+      {
+        "id": "VR-PE-002-136",
+        "name": "Hospital CAHPS Adult Survey",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "AHRQ：CAHPS各场景调查",
+            "url": "https://www.ahrq.gov/cahps/surveys-guidance/index.html"
+          }
+        ]
+      },
+      {
+        "id": "VR-PE-002-137",
+        "name": "CAHPS Home Health Care Survey",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "AHRQ：CAHPS各场景调查",
+            "url": "https://www.ahrq.gov/cahps/surveys-guidance/index.html"
+          }
+        ]
+      },
+      {
+        "id": "VR-PE-002-138",
+        "name": "CAHPS Health Plan Survey 5.1 Commercial",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "AHRQ：CAHPS各场景调查",
+            "url": "https://www.ahrq.gov/cahps/surveys-guidance/index.html"
+          }
+        ]
+      },
+      {
+        "id": "VR-PE-002-139",
+        "name": "CAHPS Health Plan Survey 5.1 Medicaid",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "AHRQ：CAHPS各场景调查",
+            "url": "https://www.ahrq.gov/cahps/surveys-guidance/index.html"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://www.ahrq.gov/cahps/index.html"
+      },
+      {
+        "label": "AHRQ：CAHPS各场景调查",
+        "url": "https://www.ahrq.gov/cahps/surveys-guidance/index.html"
+      },
+      {
+        "label": "各CAHPS正式问卷和分析包",
+        "url": "https://www.ahrq.gov/cahps/surveys-guidance/index.html",
+        "kind": "题目与选项",
+        "scope": "按调查类型选择"
+      },
+      {
+        "label": "施测和数据处理方法",
+        "url": "https://www.ahrq.gov/cahps/surveys-guidance/survey-methods-research/index.html",
+        "kind": "评分标准",
+        "scope": "通用方法与具体调查指南配合"
+      }
+    ],
+    "administration": {
+      "scope": "CG-CAHPS、HCAHPS、HHCAHPS和健康计划调查分别查阅",
+      "answers": "问卷包含经历频率、是非、总体评价及筛选跳题；各场景表单不相同。",
+      "scoring": "通常按项目或复合指标报告分布、最积极回答比例等；不是整张表简单求和。抽样、跳题、模式和病例组合调整也会影响可比性。",
+      "access": "AHRQ提供按调查分类的表单、施测和分析指南；部分CMS项目有专门规范。",
+      "resources": [
+        {
+          "label": "各CAHPS正式问卷和分析包",
+          "url": "https://www.ahrq.gov/cahps/surveys-guidance/index.html",
+          "kind": "题目与选项",
+          "scope": "按调查类型选择"
+        },
+        {
+          "label": "施测和数据处理方法",
+          "url": "https://www.ahrq.gov/cahps/surveys-guidance/survey-methods-research/index.html",
+          "kind": "评分标准",
+          "scope": "通用方法与具体调查指南配合"
+        }
+      ]
+    }
+  },
+  {
+    "id": "PE-003",
+    "name": "Shared Decision-Making Questionnaire",
+    "abbreviation": "SDM-Q",
+    "versions": [
+      {
+        "id": "VR-PE-003-BASE",
+        "name": "Shared Decision-Making Questionnaire",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "The 9-item Shared Decision Making Questionnaire (SDM-Q-9). Development and psychometric properties in a primary care sample.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19879711/"
+          }
+        ]
+      },
+      {
+        "id": "VR-PE-003-132",
+        "name": "SDM-Q-9 patient",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "The 9-item Shared Decision Making Questionnaire (SDM-Q-9). Development and psychometric properties in a primary care sample.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19879711/"
+          }
+        ]
+      },
+      {
+        "id": "VR-PE-003-140",
+        "name": "SDM-Q-Doc",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "The 9-item Shared Decision Making Questionnaire (SDM-Q-9). Development and psychometric properties in a primary care sample.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19879711/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1016/j.pec.2009.09.034"
+      },
+      {
+        "label": "The 9-item Shared Decision Making Questionnaire (SDM-Q-9). Development and psychometric properties in a primary care sample.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19879711/"
+      },
+      {
+        "label": "作者正式表单和中文版本",
+        "url": "https://www.patient-als-partner.de/index.php?article_id=20&clang=2",
+        "kind": "题目与选项",
+        "scope": "患者及医生版"
+      }
+    ],
+    "administration": {
+      "scope": "SDM-Q-9患者版与SDM-Q-Doc医生版",
+      "answers": "9题各0–5同意程度；对应一次有多个选择方案的诊疗决定。",
+      "scoring": "完整回答求和0–45，可乘20/9转0–100；患者与医生视角分别报告，不把两份相加。",
+      "access": "开发团队提供简体/繁体中文和英文正式PDF；保留版本来源。",
+      "resources": [
+        {
+          "label": "作者正式表单和中文版本",
+          "url": "https://www.patient-als-partner.de/index.php?article_id=20&clang=2",
+          "kind": "题目与选项",
+          "scope": "患者及医生版"
+        }
+      ]
+    }
+  },
+  {
+    "id": "KA-001",
+    "name": "Vaccine Hesitancy Scale",
+    "abbreviation": "VHS",
+    "versions": [
+      {
+        "id": "VR-KA-001-BASE",
+        "name": "Vaccine Hesitancy Scale",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Measuring vaccine hesitancy: The development of a survey tool.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25896384/"
+          }
+        ]
+      },
+      {
+        "id": "VR-KA-001-163",
+        "name": "Vaccine Hesitancy Scale parental version",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Measuring vaccine hesitancy: The development of a survey tool.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25896384/"
+          }
+        ]
+      },
+      {
+        "id": "VR-KA-001-164",
+        "name": "Adult Vaccine Hesitancy Scale",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Measuring vaccine hesitancy: The development of a survey tool.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25896384/"
+          },
+          {
+            "label": "成人疫苗犹豫量表改编研究",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33769209/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1016/j.vaccine.2015.04.037"
+      },
+      {
+        "label": "Measuring vaccine hesitancy: The development of a survey tool.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25896384/"
+      },
+      {
+        "label": "VHS原始开发",
+        "url": "https://doi.org/10.1016/j.vaccine.2015.04.037",
+        "kind": "题目与选项",
+        "scope": "家长版"
+      },
+      {
+        "label": "成人aVHS完整研究与题目",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8475604/",
+        "kind": "题目与选项",
+        "scope": "成人适配"
+      }
+    ],
+    "administration": {
+      "scope": "VHS家长版与成人aVHS",
+      "answers": "按同意程度回答疫苗态度问题；家长对儿童接种与成人自身接种的题干不同。",
+      "scoring": "题目方向及因子结构依据相应版本研究处理；不要将家长版和成人适配混成未经验证的统一总表。",
+      "access": "所附原始开发及成人适配论文用于获取题目与计分依据。",
+      "resources": [
+        {
+          "label": "VHS原始开发",
+          "url": "https://doi.org/10.1016/j.vaccine.2015.04.037",
+          "kind": "题目与选项",
+          "scope": "家长版"
+        },
+        {
+          "label": "成人aVHS完整研究与题目",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8475604/",
+          "kind": "题目与选项",
+          "scope": "成人适配"
+        }
+      ]
+    }
+  },
+  {
+    "id": "KA-002",
+    "name": "5C Scale of Psychological Antecedents of Vaccination",
+    "abbreviation": "5C",
+    "versions": [
+      {
+        "id": "VR-KA-002-BASE",
+        "name": "5C Scale of Psychological Antecedents of Vaccination",
+        "selectable": false,
+        "sources": [
+          {
+            "label": "Beyond confidence: Development of a measure assessing the 5C psychological antecedents of vaccination.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30532274/"
+          }
+        ]
+      },
+      {
+        "id": "VR-KA-002-141",
+        "name": "5C long form",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Beyond confidence: Development of a measure assessing the 5C psychological antecedents of vaccination.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30532274/"
+          }
+        ]
+      },
+      {
+        "id": "VR-KA-002-142",
+        "name": "5C short form",
+        "selectable": true,
+        "sources": [
+          {
+            "label": "Beyond confidence: Development of a measure assessing the 5C psychological antecedents of vaccination.",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30532274/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "目录原始来源",
+        "url": "https://doi.org/10.1371/journal.pone.0208601"
+      },
+      {
+        "label": "Beyond confidence: Development of a measure assessing the 5C psychological antecedents of vaccination.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30532274/"
+      },
+      {
+        "label": "5C原始论文及题目附件",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0208601",
+        "kind": "题目与选项",
+        "scope": "15题及5题"
+      },
+      {
+        "label": "开发研究开放材料",
+        "url": "https://osf.io/agqem/",
+        "kind": "评分标准",
+        "scope": "5C研究资料"
+      }
+    ],
+    "administration": {
+      "scope": "5C长表15题与短表5题",
+      "answers": "按同意程度回答信心、自满、限制、计算及集体责任问题。",
+      "scoring": "长表各3题组成一个构念，短表各1题；按论文处理反向项并分别报告5个构念，不把所有题相加当成单一接种意愿分。",
+      "access": "作者开放论文和研究资料包含题目与评分，需区分5C与另测的接种行为结果。",
+      "resources": [
+        {
+          "label": "5C原始论文及题目附件",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0208601",
+          "kind": "题目与选项",
+          "scope": "15题及5题"
+        },
+        {
+          "label": "开发研究开放材料",
+          "url": "https://osf.io/agqem/",
+          "kind": "评分标准",
+          "scope": "5C研究资料"
+        }
+      ]
+    }
+  }
+]

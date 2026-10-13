@@ -40,9 +40,39 @@ test('name normalization and language aliases work across actual language codes'
  for(const [query,pattern]of [['简体中文',/^zh-(CN|Hans)(-|$)/],['繁体中文',/^zh-(TW|Hant)(-|$)/],['英语',/^en$/]]){
   assert.deepEqual(filterQuestionnaireForms(verifiedForms,query,'all'),verifiedForms.filter(form=>pattern.test(form.language)));
  }
- assert.equal(filterQuestionnaireForms(verifiedForms,'PHQ9','exportable').length,0);
+ assert.equal(filterQuestionnaireForms(verifiedForms,'PHQ9','exportable').length,expected.filter(f=>f.exportReady).length);
  assert.ok(filterQuestionnaireForms(verifiedForms,'DASS21','exportable').length>0);
  assert.equal(filterQuestionnaireForms(verifiedForms,'不存在的题本','all').length,0);
+});
+
+test('instruction snapshots retain reverse keys, source pages, research limits and unscored additions',()=>{
+ const registry=structuredClone(verifiedForms);
+ const f=registry.find(f=>f.id==='phq-9-en');
+ f.exportReady=true;
+ f.items[0].reverse=true;
+ f.items[0].sourcePage=9;
+ f.studyEvidence=[{label:'Study',url:'https://example.org/study',status:'尚未确认',note:'Exact translation not established'}];
+ const data=createQuestionnairePackage({schema:1,title:'研究用',formIds:[f.id]},registry,'2026-10-13T00:00:00Z');
+ assert.equal(data.instructions[0].items[0].reverse,true);
+ assert.equal(data.instructions[0].items[0].sourcePage,9);
+ assert.deepEqual(data.instructions[0].supplementaryItems,data.questionnaire[0].supplementaryItems);
+ assert.ok(data.instructions[0].supplementaryItems.length>0);
+ const html=renderQuestionnairePrint(data,'instructions');
+ assert.ok(html.includes('逐题评分与原件对应'));
+ assert.ok(html.includes('Exact translation not established'));
+ assert.ok(html.includes(data.instructions[0].supplementaryItems[0].text));
+ registry[0].items[0].reverse=false;
+ f.studyEvidence[0].note='changed';
+ assert.equal(data.instructions[0].studyEvidence[0].note,'Exact translation not established');
+});
+
+test('export blockers describe file review, independently of translation validation',()=>{
+ const registry=structuredClone(verifiedForms);
+ const f=registry.find(f=>f.id==='dass21-en');
+ f.exportReady=false;f.exportBlockReason='Source unavailable';f.translationEvidence='Translation is matched';
+ const data=createQuestionnairePackage({schema:1,title:'研究用',formIds:[f.id]},registry,'2026-10-13T00:00:00Z');
+ assert.equal(data.blockers[0].reason,'Source unavailable');
+ assert.throws(()=>renderQuestionnairePrint(data,'instructions'),/核验/);
 });
 
 test('filtering keeps the stored selection and order, including pending forms',()=>{

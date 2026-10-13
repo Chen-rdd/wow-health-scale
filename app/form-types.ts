@@ -8,4 +8,7 @@ export type VerifiedForm={
  review:{text:string;scoring:string;translationValidation:string};
  respondentScoringEnabled:boolean;verifiedAt:string;translationEvidence:string;usage:string;exportReady:boolean;
  supplementaryItems?:{text:string;options:string[];scored:false}[];
+ exportBlockReason?:string;
+ studyEvidence?:{label:string;url:string;status:'题文已匹配'|'译本来源已关联'|'尚未确认';note:string}[];
+ audit?:{date:string;source:string;items:string;scoring:string;rights:string;layout:string};
 };
