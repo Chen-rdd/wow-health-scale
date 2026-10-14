@@ -3109,8 +3109,8 @@ export const verifiedForms:VerifiedForm[] = [
     ],
     "comparisonMultiplier": 1,
     "review": {
-      "text": "核心题及选项已对照官方PDF第一页逐题视觉核对；核心短长版映射已比较",
-      "scoring": "开发者评分FAQ核对；原表编号与评分值分开保存",
+      "text": "现行官网可读取核心与附加表文字；原文件下载403，原页视觉与新哈希尚未确认。",
+      "scoring": "现行FAQ已读，印刷1–5需转症状4–0；完整附加题不进入核心总分。",
       "translationValidation": "尚未匹配本份译文与对应中文验证研究"
     },
     "respondentScoringEnabled": false,
@@ -3119,14 +3119,14 @@ export const verifiedForms:VerifiedForm[] = [
     "usage": "这里预览的是K6+原件第一页的核心6题，不是完整“+”表。第二页关于相对平时的变化、受损天数及就诊次数等附加问题不参与核心总分；完整题文及跳答请看原件。Copyright © Ronald C. Kessler, PhD. All rights reserved. 使用时保留版权并引用Kessler等（2003），Archives of General Psychiatry, 60(2), 184–189。",
     "exportReady": false,
     "studyEvidence": [],
-    "exportBlockReason": "本轮官方原件下载返回403，旧站返回503；核心题来源复核与配套文件视觉检查尚未完成。",
+    "exportBlockReason": "现行官网可读取普通话核心及补充问题文字，但新PDF原文件下载403；原页视觉、源哈希及实际打印尚未重新确认，保持关闭导出。",
     "audit": {
-      "date": "2026-10-13",
-      "source": "当前地址403；旧官方入口503。保留此前校验记录，不标为重新核验完成。",
-      "items": "保留既有核心题预览，未扩展为完整“+”表。",
-      "scoring": "保留原表编号1–5与评分4–0的对应；本轮手册访问受阻。",
-      "rights": "保留版权署名和原始引用；当前官网条件未重新核验。",
-      "layout": "尚未开放导出。"
+      "date": "2026-10-14",
+      "source": "现行网页文字可读取；新PDF下载403。此前源哈希不视为本轮下载记录。",
+      "items": "网页可读核心与既有预览相符；完整“+”表补充问题未加入预览，原页排版仍待核对。",
+      "scoring": "官网FAQ已读，保留印刷1–5与症状4–0的重编码；缺失无单一默认算法。",
+      "rights": "官网允许免费使用与译本使用，要求版权及2003年引用；预览保留署名。",
+      "layout": "新PDF原页和实际浏览器打印未通过，未开放导出。"
     }
   },
   {
@@ -3270,8 +3270,8 @@ export const verifiedForms:VerifiedForm[] = [
     ],
     "comparisonMultiplier": 1,
     "review": {
-      "text": "核心题及选项已对照官方PDF第一页逐题视觉核对；核心短长版映射已比较",
-      "scoring": "开发者评分FAQ核对；原表编号与评分值分开保存",
+      "text": "现行官网可读取核心与附加表文字；原文件下载403，原页视觉与新哈希尚未确认。",
+      "scoring": "现行FAQ已读，印刷1–5需转症状4–0；完整附加题不进入核心总分。",
       "translationValidation": "尚未匹配本份译文与对应中文验证研究"
     },
     "respondentScoringEnabled": false,
@@ -3280,14 +3280,14 @@ export const verifiedForms:VerifiedForm[] = [
     "usage": "这里预览的是K10+原件第一页的核心10题，不是完整“+”表。第二页关于相对平时的变化、受损天数及就诊次数等附加问题不参与核心总分；完整题文及跳答请看原件。Copyright © Ronald C. Kessler, PhD. All rights reserved. 使用时保留版权并引用Kessler等（2003），Archives of General Psychiatry, 60(2), 184–189。",
     "exportReady": false,
     "studyEvidence": [],
-    "exportBlockReason": "本轮官方原件下载返回403，旧站返回503；核心题来源复核与配套文件视觉检查尚未完成。",
+    "exportBlockReason": "现行官网可读取普通话核心及补充问题文字，但新PDF原文件下载403；原页视觉、源哈希及实际打印尚未重新确认，保持关闭导出。",
     "audit": {
-      "date": "2026-10-13",
-      "source": "当前地址403；旧官方入口503。保留此前校验记录，不标为重新核验完成。",
-      "items": "保留既有核心题预览，未扩展为完整“+”表。",
-      "scoring": "保留原表编号1–5与评分4–0的对应；本轮手册访问受阻。",
-      "rights": "保留版权署名和原始引用；当前官网条件未重新核验。",
-      "layout": "尚未开放导出。"
+      "date": "2026-10-14",
+      "source": "现行网页文字可读取；新PDF下载403。此前源哈希不视为本轮下载记录。",
+      "items": "网页可读核心与既有预览相符；完整“+”表补充问题未加入预览，原页排版仍待核对。",
+      "scoring": "官网FAQ已读，保留印刷1–5与症状4–0的重编码；缺失无单一默认算法。",
+      "rights": "官网允许免费使用与译本使用，要求版权及2003年引用；预览保留署名。",
+      "layout": "新PDF原页和实际浏览器打印未通过，未开放导出。"
     }
   },
   {

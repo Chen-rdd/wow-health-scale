@@ -1,0 +1,1612 @@
+{
+  "scope": "Definite primary-reference list for remaining version/full-text verification. Metadata records and series-background papers are not automatically direct version evidence. Some full texts were read in earlier batches; per-version correspondence remains to verify.",
+  "downloadSupportingInformation": true,
+  "records": [
+    {
+      "title": "The PHQ-9: validity of a brief depression severity measure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11556941/",
+      "recordIds": [
+        "VR-PH-001-BASE"
+      ],
+      "referenceRoles": [
+        "开发或版本研究"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "A brief measure for assessing generalized anxiety disorder: the GAD-7.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16717171/",
+      "recordIds": [
+        "VR-PH-002-BASE"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "WHO Regional Office for Europe. Well-Being Measures in Primary Health Care: The DepCare Project. 1998.",
+      "url": "https://www.who.int/publications/m/item/WHO-UCN-MSD-MHE-2024.01",
+      "recordIds": [
+        "VR-PH-007-BASE",
+        "VR-PH-007-019"
+      ],
+      "referenceRoles": [
+        "系列背景文献",
+        "官方版本资料；具体译本验证另核对"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "The Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and research.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2748771/",
+      "recordIds": [
+        "VR-SL-001-BASE",
+        "VR-SL-001-144"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Development of a brief test to measure functional health literacy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14528569/",
+      "recordIds": [
+        "VR-HL-003-BASE"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Quick assessment of literacy in primary care: the newest vital sign.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16338915/",
+      "recordIds": [
+        "VR-HL-004-BASE"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "eHEALS: The eHealth Literacy Scale.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17213046/",
+      "recordIds": [
+        "VR-HL-005-BASE"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "The Multidimensional Scale of Perceived Social Support",
+      "url": "https://doi.org/10.1207/s15327752jpa5201_2",
+      "recordIds": [
+        "VR-SS-001-BASE"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Original provenance and scoring documentation require targeted review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Oslo+Social+Support+Scale+OSSS-3",
+      "recordIds": [
+        "VR-SS-004-BASE"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "WHO STEPS instrument and GPAQ analysis guidance.",
+      "url": "https://www.who.int/teams/noncommunicable-diseases/surveillance/systems-tools/physical-activity-surveillance",
+      "recordIds": [
+        "VR-HB-002-BASE",
+        "VR-HB-002-149"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Detecting Alcoholism",
+      "url": "https://doi.org/10.1001/jama.1984.03350140051025",
+      "recordIds": [
+        "VR-HB-006-BASE"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Reliability and validity of a new Medication Adherence Rating Scale (MARS) for the psychoses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10785582/",
+      "recordIds": [
+        "VR-MA-002-BASE"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Development and evaluation of the Adherence to Refills and Medications Scale (ARMS) among low-literacy patients with chronic disease.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19911444/",
+      "recordIds": [
+        "VR-MA-003-BASE"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "The summary of diabetes self-care activities measure: results from 7 studies and a revised scale.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10895844/",
+      "recordIds": [
+        "VR-MA-004-BASE",
+        "VR-MA-004-166",
+        "VR-MA-004-167"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Evidence suggesting that a chronic disease self-management program can improve health status while reducing hospitalization: a randomized trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10413387/",
+      "recordIds": [
+        "VR-MA-005-BASE"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "The Copenhagen Burnout Inventory: A new tool for the assessment of burnout",
+      "url": "https://doi.org/10.1080/02678370500297720",
+      "recordIds": [
+        "VR-OH-002-BASE",
+        "VR-OH-002-152"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "The job demands-resources model of burnout.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11419809/",
+      "recordIds": [
+        "VR-OH-003-BASE",
+        "VR-OH-003-151"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Stamm BH. The Concise ProQOL Manual, 2nd ed. 2010.",
+      "url": "https://proqol.org/",
+      "recordIds": [
+        "VR-OH-004-BASE",
+        "VR-OH-004-153",
+        "VR-OH-004-154"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Frailty consensus: a call to action.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23764209/",
+      "recordIds": [
+        "VR-AG-001-BASE"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "The Tilburg Frailty Indicator: psychometric properties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20511102/",
+      "recordIds": [
+        "VR-AG-002-BASE"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Validity and reliability of the Edmonton Frail Scale.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16757522/",
+      "recordIds": [
+        "VR-AG-003-BASE"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Assessment of older people: self-maintaining and instrumental activities of daily living.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/5349366/",
+      "recordIds": [
+        "VR-AG-005-BASE",
+        "VR-AG-005-155"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Detection of postnatal depression. Development of the 10-item Edinburgh Postnatal Depression Scale.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3651732/",
+      "recordIds": [
+        "VR-MC-001-BASE"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Marshall GN, Hays RD. The Patient Satisfaction Questionnaire Short-Form. 1994.",
+      "url": "https://www.rand.org/pubs/papers/P7865.html",
+      "recordIds": [
+        "VR-PE-001-BASE"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Measuring vaccine hesitancy: The development of a survey tool.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25896384/",
+      "recordIds": [
+        "VR-KA-001-BASE",
+        "VR-KA-001-163"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Validation and utility of a self-report version of PRIME-MD: the PHQ primary care study. Primary Care Evaluation of Mental Disorders. Patient Health Questionnaire.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10568646/",
+      "recordIds": [
+        "VR-PH-001-001"
+      ],
+      "referenceRoles": [
+        "开发或版本研究"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Validity of the Patient Health Questionnaire 2 (PHQ-2) in identifying major depression in older people.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17397440/",
+      "recordIds": [
+        "VR-PH-001-002"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "The diagnostic accuracy of the Patient Health Questionnaire-2 (PHQ-2), Patient Health Questionnaire-8 (PHQ-8), and Patient Health Questionnaire-9 (PHQ-9) for detecting major depression: protocol for a systematic review and individual patient data meta-analyses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25348422/",
+      "recordIds": [
+        "VR-PH-001-003"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "A 4-item measure of depression and anxiety: validation and standardization of the Patient Health Questionnaire-4 (PHQ-4) in the general population.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19616305/",
+      "recordIds": [
+        "VR-PH-001-004"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Validation of the Generalized Anxiety Disorder-7 (GAD-7) and GAD-2 in patients with migraine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26596588/",
+      "recordIds": [
+        "VR-PH-002-005"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Confirmatory Factor Analysis of Three Versions of the Depression Anxiety Stress Scale (DASS-42, DASS-21, and DASS-12) in Polish Adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35058818/",
+      "recordIds": [
+        "VR-PH-003-006"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "The short-form version of the Depression Anxiety Stress Scales (DASS-21): construct validity and normative data in a large non-clinical sample.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16004657/",
+      "recordIds": [
+        "VR-PH-003-007"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Development and Psychometric Properties of the DASS-Youth (DASS-Y): An Extension of the Depression Anxiety Stress Scales (DASS) to Adolescents and Children.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35496218/",
+      "recordIds": [
+        "VR-PH-003-008"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "A systematic review and meta-analytic confirmatory factor analysis of the perceived stress scale (PSS-10 and PSS-14).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37341705/",
+      "recordIds": [
+        "VR-PH-004-009"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Validation of the Arabic version of the Cohen Perceived Stress Scale (PSS-10) among pregnant and postpartum women.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21159169/",
+      "recordIds": [
+        "VR-PH-004-010"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "New, normative, English-sample data for the Short Form Perceived Stress Scale (PSS-4).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24155195/",
+      "recordIds": [
+        "VR-PH-004-011"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Interpreting scores on the Kessler Psychological Distress Scale (K10).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11824981/",
+      "recordIds": [
+        "VR-PH-005-012"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "The psychometric properties of the Kessler Psychological Distress Scale (K6) in a general population sample of adolescents.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26619095/",
+      "recordIds": [
+        "VR-PH-005-013"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Short screening scales to monitor population prevalences and trends in non-specific psychological distress.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12214795/",
+      "recordIds": [
+        "VR-PH-005-014"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Goldberg DP. The Detection of Psychiatric Illness by Questionnaire. 1972.",
+      "url": "https://support.gl-education.com/knowledge-base/assessments/general-health-questionnaire-support/about-the-general-health-questionnaire/faqs",
+      "recordIds": [
+        "VR-PH-006-015",
+        "VR-PH-006-143"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "The factor structure of the General Health Questionnaire (GHQ-30). A reliability study on 6317 community residents.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/2633776/",
+      "recordIds": [
+        "VR-PH-006-016"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "General Health Questionnaire - 28 (GHQ-28).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22093128/",
+      "recordIds": [
+        "VR-PH-006-017"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "General Health Questionnaire-12 (GHQ-12)",
+      "url": "https://doi.org/10.1007/978-3-319-91280-6_301870",
+      "recordIds": [
+        "VR-PH-006-018"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "The WHO (Ten) Well-Being Index: validation in diabetes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8843498/",
+      "recordIds": [
+        "VR-PH-007-020"
+      ],
+      "referenceRoles": [
+        "WHO-10版本研究"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "The CES-D Scale",
+      "url": "https://doi.org/10.1177/014662167700100306",
+      "recordIds": [
+        "VR-PH-008-021"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Assessment of depressiveness in population. Psychometric evaluation of the Polish version of the CESD-R.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28211550/",
+      "recordIds": [
+        "VR-PH-008-022"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Validation of the 10-item Centre for Epidemiological Studies Depression Scale (CES-D-10) in Zulu, Xhosa and Afrikaans populations in South Africa.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28068955/",
+      "recordIds": [
+        "VR-PH-008-023"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Gender differences in depression in 25 European countries after eliminating measurement bias in the CES-D 8",
+      "url": "https://doi.org/10.1016/j.ssresearch.2010.01.002",
+      "recordIds": [
+        "VR-PH-008-024"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Assessment of depression in childhood and adolescence: an evaluation of the Center for Epidemiological Studies Depression Scale for Children (CES-DC).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3728717/",
+      "recordIds": [
+        "VR-PH-008-025"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Quantification of subjective sleep quality in healthy elderly men and women using the Pittsburgh Sleep Quality Index (PSQI).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1947597/",
+      "recordIds": [
+        "VR-SL-001-026"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Brief version of the Pittsburgh Sleep Quality Index (B-PSQI) and measurement invariance across gender and age in a population-based sample.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33119375/",
+      "recordIds": [
+        "VR-SL-001-027"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Validation of the Insomnia Severity Index as an outcome measure for insomnia research.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11438246/",
+      "recordIds": [
+        "VR-SL-002-028",
+        "VR-SL-002-029",
+        "VR-SL-002-030",
+        "VR-SL-002-031"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Relationships between the Pittsburgh Sleep Quality Index (PSQI), Epworth Sleepiness Scale (ESS), and clinical/polysomnographic measures in a community sample.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19110886/",
+      "recordIds": [
+        "VR-SL-003-032"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Validation of the Epworth Sleepiness Scale for Children and Adolescents (ESS-CHAD) questionnaire in pediatric patients with narcolepsy with cataplexy aged 7-16 years.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34920345/",
+      "recordIds": [
+        "VR-SL-003-033"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Athens Insomnia Scale: validation of an instrument based on ICD-10 criteria.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11033374/",
+      "recordIds": [
+        "VR-SL-004-034",
+        "VR-SL-004-035"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Assessing sleep problems and daytime functioning: a translation, adaption, and validation of the Athens Insomnia Scale for non-clinical application (AIS-NCA).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34766856/",
+      "recordIds": [
+        "VR-SL-004-036"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "The World Health Organization WHOQOL-100: tests of the universality of Quality of Life in 15 different cultural groups worldwide.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10519466/",
+      "recordIds": [
+        "VR-QL-001-037"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Development of the World Health Organization WHOQOL-BREF \nQuality of Life Assessment",
+      "url": "https://doi.org/10.1017/s0033291798006667",
+      "recordIds": [
+        "VR-QL-001-038"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Ware JE Jr, Sherbourne CD. The MOS 36-item short-form health survey. Med Care. 1992.",
+      "url": "https://www.qualitymetric.com/health-surveys/the-sf-36v2-health-survey/",
+      "recordIds": [
+        "VR-QL-002-039",
+        "VR-QL-002-040",
+        "VR-QL-002-042"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "SF-36v2官方产品与许可资料",
+      "url": "https://coas.iqvia.com/COAs/sf-36v2-health-survey-standard",
+      "recordIds": [
+        "VR-QL-002-041"
+      ],
+      "referenceRoles": [
+        "官方版本资料；具体译本验证另核对"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "A 12-Item Short-Form Health Survey: construction of scales and preliminary tests of reliability and validity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8628042/",
+      "recordIds": [
+        "VR-QL-003-043",
+        "VR-QL-003-045"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Reliability and Validity of the Short-Form 12 Item Version 2 (SF-12v2) Health-Related Quality of Life Survey and Disutilities Associated with Relevant Conditions in the U.S. Older Adult Population.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32121371/",
+      "recordIds": [
+        "VR-QL-003-044"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Measurement properties of the EQ-5D-5L compared to the EQ-5D-3L across eight patient groups: a multi-country study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23184421/",
+      "recordIds": [
+        "VR-QL-004-046"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Development and preliminary testing of the new five-level version of EQ-5D (EQ-5D-5L).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21479777/",
+      "recordIds": [
+        "VR-QL-004-047"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Comparing measurement properties of EQ-5D-Y-3L and EQ-5D-Y-5L in paediatric patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34781978/",
+      "recordIds": [
+        "VR-QL-004-048"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "EQ-5D-Y-5L: developing a revised EQ-5D-Y with increased response categories.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30739287/",
+      "recordIds": [
+        "VR-QL-004-049",
+        "VR-QL-004-165"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Development of physical and mental health summary scores from the patient-reported outcomes measurement information system (PROMIS) global items.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19543809/",
+      "recordIds": [
+        "VR-QL-005-050",
+        "VR-QL-005-054",
+        "VR-QL-005-055"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Dutch reference values for the Patient-Reported Outcomes Measurement Information System Scale v1.2 - Global Health (PROMIS-GH).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33978855/",
+      "recordIds": [
+        "VR-QL-005-051"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Two-item PROMIS® global physical and mental health scales.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29757325/",
+      "recordIds": [
+        "VR-QL-005-052",
+        "VR-QL-005-053"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "PROMIS Global Health官方评分手册（2024）",
+      "url": "https://www.healthmeasures.net/images/PROMIS/manuals/Scoring_Manual_Only/PROMIS_Global_Health_Scoring_Manual_30Aug2024.pdf",
+      "recordIds": [
+        "VR-QL-005-056",
+        "VR-QL-005-057",
+        "VR-QL-005-058"
+      ],
+      "referenceRoles": [
+        "官方版本资料；具体译本验证另核对"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "The Satisfaction With Life Scale.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16367493/",
+      "recordIds": [
+        "VR-QL-006-059",
+        "VR-QL-006-060"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Do adolescents understand the items of the European Health Literacy Survey Questionnaire (HLS-EU-Q47) - German version? Findings from cognitive interviews of the project \"Measurement of Health Literacy Among Adolescents\" (MOHLAA) in Germany.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30009022/",
+      "recordIds": [
+        "VR-HL-001-061"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Translation and cross-cultural adaptation of the European Health Literacy Survey Questionnaire, HLS-EU-Q16: the Icelandic version.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31937293/",
+      "recordIds": [
+        "VR-HL-001-062"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Measuring Comprehensive, General Health Literacy in the General Adult Population: The Development and Validation of the HLS19-Q12 Instrument in Seventeen Countries.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36361025/",
+      "recordIds": [
+        "VR-HL-001-063"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Development and Validation of a New Short-Form Health Literacy Instrument (HLS-SF12) for the General Public in Six Asian Countries.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31294310/",
+      "recordIds": [
+        "VR-HL-002-064"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Developing a measure of loneliness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/660402/",
+      "recordIds": [
+        "VR-SS-002-065"
+      ],
+      "referenceRoles": [
+        "对应版本研究；不代表中文题本已匹配"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "The revised UCLA Loneliness Scale: concurrent and discriminant validity evidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7431205/",
+      "recordIds": [
+        "VR-SS-002-066",
+        "VR-SS-002-070"
+      ],
+      "referenceRoles": [
+        "开发研究；原件与具体选题已核对"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Analysis of Psychometric Properties of the University of California, Los Angeles Loneliness Scale Version-3 (UCLA LS-V3) in the Indian Context",
+      "url": "https://doi.org/10.56741/iistr.jpes.00994",
+      "recordIds": [
+        "VR-SS-002-067"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "A Short Scale for Measuring Loneliness in Large Surveys: Results From Two Population-Based Studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18504506/",
+      "recordIds": [
+        "VR-SS-002-068"
+      ],
+      "referenceRoles": [
+        "对应版本研究；不代表中文题本已匹配"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Psychometric analysis of the short-form UCLA Loneliness Scale (ULS-8) in Taiwanese undergraduate students",
+      "url": "https://doi.org/10.1016/j.paid.2008.02.003",
+      "recordIds": [
+        "VR-SS-002-069"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "UCLA Loneliness Scale (Version 3): reliability, validity, and factor structure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8576833/",
+      "recordIds": [
+        "VR-SS-002-071"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Psychometric analysis of the short-form UCLA Loneliness Scale (ULS-6) in older adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28804337/",
+      "recordIds": [
+        "VR-SS-002-072"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Boston College：LSNS各版本官方题本",
+      "url": "https://www.bc.edu/content/bc-web/schools/ssw/sites/lubben/description/versions-of-the-lsns.html",
+      "recordIds": [
+        "VR-SS-003-073",
+        "VR-SS-003-074"
+      ],
+      "referenceRoles": [
+        "官方版本资料；具体译本验证另核对"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Rasch Analysis of the Lubben Social Network Scale-6 (LSNS-6).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25428591/",
+      "recordIds": [
+        "VR-SS-003-075"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Psychometric testing of the Chinese version of the Medical Outcomes Study Social Support Survey among people living with HIV/AIDS in China.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26608434/",
+      "recordIds": [
+        "VR-SS-005-076"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "The eight-item modified Medical Outcomes Study Social Support Survey: psychometric evaluation showed excellent performance",
+      "url": "https://doi.org/10.1016/j.jclinepi.2012.04.007",
+      "recordIds": [
+        "VR-SS-005-077"
+      ],
+      "referenceRoles": [
+        "开发或版本研究"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "International physical activity questionnaire: 12-country reliability and validity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12900694/",
+      "recordIds": [
+        "VR-HB-001-078",
+        "VR-HB-001-079",
+        "VR-HB-001-080",
+        "VR-HB-001-081",
+        "VR-HB-001-145",
+        "VR-HB-001-146",
+        "VR-HB-001-147",
+        "VR-HB-001-148"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Development of the Alcohol Use Disorders Identification Test (AUDIT): WHO Collaborative Project on Early Detection of Persons with Harmful Alcohol Consumption--II.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8329970/",
+      "recordIds": [
+        "VR-HB-003-082"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Effectiveness of the derived Alcohol Use Disorders Identification Test (AUDIT-C) in screening for alcohol use disorders and risk drinking in the US general population.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15897730/",
+      "recordIds": [
+        "VR-HB-004-083"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Assessing nicotine dependence: a comparison of the Fagerström Tolerance Questionnaire (FTQ) with the Fagerström Test for Nicotine Dependence (FTND) in a clinical sample.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7942248/",
+      "recordIds": [
+        "VR-HB-005-084",
+        "VR-HB-005-085"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Screening for substance abuse among adolescents validity of the CAGE-AID in youth mental health care.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19444724/",
+      "recordIds": [
+        "VR-HB-006-086"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Review of the four item Morisky Medication Adherence Scale (MMAS-4) and eight item Morisky Medication Adherence Scale (MMAS-8)",
+      "url": "https://doi.org/10.24926/iip.v5i3.347",
+      "recordIds": [
+        "VR-MA-001-087"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Validation of the Persian Version of the 8-Item Morisky Medication Adherence Scale (MMAS-8) in Iranian Hypertensive Patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25946926/",
+      "recordIds": [
+        "VR-MA-001-088"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "The bifactor model of the Maslach Burnout Inventory-Human Services Survey (MBI-HSS)--an alternative measurement model of burnout.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23349135/",
+      "recordIds": [
+        "VR-OH-001-089"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Psychometric properties of the Maslach Burnout Inventory for Medical Personnel (MBI-HSS-MP).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35169645/",
+      "recordIds": [
+        "VR-OH-001-090"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "The factorial validity of the Maslach Burnout Inventory‐General Survey (MBI‐GS) across occupational groups and nations",
+      "url": "https://doi.org/10.1348/096317900166877",
+      "recordIds": [
+        "VR-OH-001-091"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Teacher burnout in pre-schools: A cross-cultural factorial validity, measurement invariance and latent mean comparison of the Maslach Burnout Inventory, Educators Survey (MBI-ES)",
+      "url": "https://doi.org/10.1016/j.childyouth.2018.09.041",
+      "recordIds": [
+        "VR-OH-001-092"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Adverse health effects of high-effort/low-reward conditions.",
+      "url": "https://doi.org/10.1037/1076-8998.1.1.27",
+      "recordIds": [
+        "VR-OH-005-093",
+        "VR-OH-005-094"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Barthel index for stroke trials: development, properties, and application.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21372310/",
+      "recordIds": [
+        "VR-AG-004-095"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Use of the Barthel index and modified Rankin scale in acute stroke trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10436097/",
+      "recordIds": [
+        "VR-AG-004-096"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Determining the cut-off score for the Modified Barthel Index and the Modified Rankin Scale for assessment of functional independence and residual disability after stroke.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31995563/",
+      "recordIds": [
+        "VR-AG-004-097"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Screening for undernutrition in geriatric practice: developing the short-form mini-nutritional assessment (MNA-SF).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11382797/",
+      "recordIds": [
+        "VR-AG-006-098"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Short-form Mini-Nutritional Assessment with either BMI or calf circumference is effective in rating the nutritional status of elderly Taiwanese -- results of a national cohort study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23432907/",
+      "recordIds": [
+        "VR-AG-006-099"
+      ],
+      "referenceRoles": [
+        "相关研究（开发、验证或应用）"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "MNA官方18题完整版与使用条件",
+      "url": "https://www.mna-elderly.com/mna-forms",
+      "recordIds": [
+        "VR-AG-006-100"
+      ],
+      "referenceRoles": [
+        "官方版本资料；具体译本验证另核对"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9255702/",
+      "recordIds": [
+        "VR-MC-002-101",
+        "VR-MC-002-102",
+        "VR-MC-002-103",
+        "VR-MC-002-104",
+        "VR-MC-002-105",
+        "VR-MC-002-106",
+        "VR-MC-002-107",
+        "VR-MC-002-108",
+        "VR-MC-002-109",
+        "VR-MC-002-110",
+        "VR-MC-002-111",
+        "VR-MC-002-112",
+        "VR-MC-002-113",
+        "VR-MC-002-114",
+        "VR-MC-002-115",
+        "VR-MC-002-116",
+        "VR-MC-002-117",
+        "VR-MC-002-118",
+        "VR-MC-002-119",
+        "VR-MC-002-120",
+        "VR-MC-002-121"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "PedsQL 4.0: reliability and validity of the Pediatric Quality of Life Inventory version 4.0 generic core scales in healthy and patient populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11468499/",
+      "recordIds": [
+        "VR-MC-003-122",
+        "VR-MC-003-123",
+        "VR-MC-003-158",
+        "VR-MC-003-159",
+        "VR-MC-003-160",
+        "VR-MC-003-161",
+        "VR-MC-003-162"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "KIDSCREEN-52 quality-of-life measure for children and adolescents.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19807604/",
+      "recordIds": [
+        "VR-MC-004-124",
+        "VR-MC-004-125",
+        "VR-MC-004-126",
+        "VR-MC-004-127",
+        "VR-MC-004-128",
+        "VR-MC-004-129"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Squires J, Bricker D. Ages & Stages Questionnaires, Third Edition. 2009.",
+      "url": "https://agesandstages.com/",
+      "recordIds": [
+        "VR-MC-005-130",
+        "VR-MC-005-168",
+        "VR-MC-005-169",
+        "VR-MC-005-170",
+        "VR-MC-005-171",
+        "VR-MC-005-172",
+        "VR-MC-005-173",
+        "VR-MC-005-174",
+        "VR-MC-005-175",
+        "VR-MC-005-176",
+        "VR-MC-005-177",
+        "VR-MC-005-178",
+        "VR-MC-005-179",
+        "VR-MC-005-180",
+        "VR-MC-005-181",
+        "VR-MC-005-182",
+        "VR-MC-005-183",
+        "VR-MC-005-184",
+        "VR-MC-005-185",
+        "VR-MC-005-186",
+        "VR-MC-005-187",
+        "VR-MC-005-188"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "ASQ:SE-2官方月龄选表说明",
+      "url": "https://agesandstages.com/asq-age-administration/",
+      "recordIds": [
+        "VR-MC-005-131"
+      ],
+      "referenceRoles": [
+        "官方版本资料；具体译本验证另核对"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "The 9-item Shared Decision Making Questionnaire (SDM-Q-9). Development and psychometric properties in a primary care sample.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19879711/",
+      "recordIds": [
+        "VR-PE-003-132"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "AHRQ CAHPS program documentation and survey-specific development papers.",
+      "url": "https://www.ahrq.gov/cahps/index.html",
+      "recordIds": [
+        "VR-PE-002-133",
+        "VR-PE-002-134",
+        "VR-PE-002-135",
+        "VR-PE-002-136",
+        "VR-PE-002-137",
+        "VR-PE-002-138",
+        "VR-PE-002-139"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "Development and psychometric properties of the Shared Decision Making Questionnaire--physician version (SDM-Q-Doc).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22480628/",
+      "recordIds": [
+        "VR-PE-003-140"
+      ],
+      "referenceRoles": [
+        "对应版本研究；不代表中文题本已匹配"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Beyond confidence: Development of a measure assessing the 5C psychological antecedents of vaccination.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30532274/",
+      "recordIds": [
+        "VR-KA-002-141",
+        "VR-KA-002-142"
+      ],
+      "referenceRoles": [
+        "系列背景文献"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": true
+    },
+    {
+      "title": "The Medication Adherence Report Scale: A measurement tool for eliciting patients' reports of nonadherence",
+      "url": "https://doi.org/10.1111/bcp.14193",
+      "recordIds": [
+        "VR-MA-002-150"
+      ],
+      "referenceRoles": [
+        "开发或版本研究"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Detection of antenatal depression in rural HIV-affected populations with short and ultrashort versions of the Edinburgh Postnatal Depression Scale (EPDS).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23615932/",
+      "recordIds": [
+        "VR-MC-001-156",
+        "VR-MC-001-157"
+      ],
+      "referenceRoles": [
+        "开发或版本研究"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    },
+    {
+      "title": "Modification of a vaccine hesitancy scale for use in adult vaccinations in the United States and China",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8475604/",
+      "recordIds": [
+        "VR-KA-001-164"
+      ],
+      "referenceRoles": [
+        "成人改编与验证研究"
+      ],
+      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "siRequested": true,
+      "needsVersionMatch": false
+    }
+  ]
+}
