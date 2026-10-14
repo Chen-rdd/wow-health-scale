@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-14",
+  "scope": "Download records only; byte receipt is not complete scientific verification. Original files not published.",
+  "sources": [
+    {
+      "key": "ucla1980",
+      "url": "https://peplau.psych.ucla.edu/wp-content/uploads/sites/141/2017/07/Russel-Peplau-Cutrona-80.pdf",
+      "bytes": 1507818,
+      "sha256": "a881a5b4c4b47cf72ef161ad508fd8de472b399b01dae5a3e71dbd4fc771bfc3",
+      "type": "pdf"
+    },
+    {
+      "key": "who1998",
+      "url": "https://iris.who.int/bitstream/handle/10665/349766/WHO-EURO-1998-4234-43993-62027-eng.pdf",
+      "bytes": 755,
+      "sha256": "a859cc83d11508435744f1ce4fb6f39396083c22e60bea3f872887eb2dd1863f",
+      "type": "html"
+    },
+    {
+      "key": "lsns-r-en",
+      "url": "https://www.bc.edu/content/dam/bc1/schools/sw/lubben/LSNSR.pdf",
+      "bytes": 72095,
+      "sha256": "fdf3152297cd9d4a8952519e0c4e8ab5422270e73cd4a6f048cfe26a824cb5e4",
+      "type": "pdf"
+    },
+    {
+      "key": "lsns6-en",
+      "url": "https://www.bc.edu/content/dam/bc1/schools/sw/lubben/LSNS6.pdf",
+      "bytes": 75652,
+      "sha256": "8c2788e35a90dba7d775ff58721a0bf1fc6241c63bdb890d671d993f34f15765",
+      "type": "pdf"
+    },
+    {
+      "key": "lsns18-en",
+      "url": "https://www.bc.edu/content/dam/bc1/schools/sw/lubben/LSNS18.pdf",
+      "bytes": 81154,
+      "sha256": "2ceb351fd26894ef4dade40f3bd32d39076c2a188b33405af2546e4d1b1d7ddd",
+      "type": "pdf"
+    },
+    {
+      "key": "lsns-r-zh",
+      "url": "https://www.bc.edu/content/dam/bc1/schools/sw/lubben/LSNSR%20Chinese.pdf",
+      "bytes": 149367,
+      "sha256": "3f9fbf1965ef36e343a080112c228266990c4033067d3cc742ceb98fd183ed76",
+      "type": "pdf"
+    },
+    {
+      "key": "who5-current-zh",
+      "url": "https://cdn.who.int/media/docs/default-source/mental-health/five-well-being-index-(who-5)/who5_chinese_pr.pdf",
+      "bytes": 521476,
+      "sha256": "2d4e8cc7a36bf31b56b7061bddc3a995496a153778cd842241eb9c43ba1cc298",
+      "type": "pdf"
+    },
+    {
+      "key": "mna-forms-page",
+      "url": "https://www.mna-elderly.com/mna-forms",
+      "bytes": 110201,
+      "sha256": "2cc854618795972b484debfa632b3efdafbbc75a5e27281b78cbb873c39d757e",
+      "type": "html"
+    },
+    {
+      "key": "ess-page",
+      "url": "https://epworthsleepinessscale.com/about-the-ess/",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    {
+      "key": "mna-sf-en",
+      "url": "https://www.mna-elderly.com/sites/default/files/2024-10/MNA_AU2.0_eng-USori.pdf",
+      "bytes": 136955,
+      "sha256": "02a6163d40d082b8ddac704998a8b097ed7bf9d189fdb834533a87f6d81cd5f9",
+      "pages": 1
+    },
+    {
+      "key": "mna-full-en",
+      "url": "https://www.mna-elderly.com/sites/default/files/2024-10/Long-MNA_AU1.0_eng-USori.pdf",
+      "bytes": 178128,
+      "sha256": "2009fb2343b677b1cb7b0f766970c04221381e35292e1a724c4a25ff53d6c82f",
+      "pages": 1
+    },
+    {
+      "key": "mna-sf-zh-cn",
+      "url": "https://www.mna-elderly.com/sites/default/files/2024-10/MNA_AU2.0_cmn-CN_28FEB2024.pdf",
+      "bytes": 308162,
+      "sha256": "487e1d9a6154b5df886f3f35c02a97485139228e72828a0c8345c94b8c00a2fa",
+      "pages": 1
+    },
+    {
+      "key": "mna-full-zh-cn",
+      "url": "https://www.mna-elderly.com/sites/default/files/2024-10/Long-MNA_AU1.0_chinese%28Simplified%29.nonMapi.pdf",
+      "bytes": 405199,
+      "sha256": "b2ebde104bd69686dbec575afdf577914dbd06b23753cea08842dde4685f0fd1",
+      "pages": 1
+    },
+    {
+      "key": "mna-guide-sf",
+      "url": "https://www.mna-elderly.com/sites/default/files/2021-10/mna-guide-english-sf.pdf",
+      "bytes": 2349361,
+      "sha256": "13890ec54af802da59c4d2f958a4222e7857ff4aaeb9d421e42217439c6af626",
+      "pages": 16
+    },
+    {
+      "key": "mna-guide-full",
+      "url": "https://www.mna-elderly.com/sites/default/files/2021-10/mna-guide-english.pdf",
+      "bytes": 1963792,
+      "sha256": "b7d9ce579bc974e962e491981387001c263e510d75353be8d54995eb596e86a3",
+      "pages": 20
+    },
+    {
+      "key": "asq3-age-chart",
+      "url": "https://agesandstages.com/wp-content/uploads/2025/11/ASQ-3-Age-Administration-Chart.pdf",
+      "bytes": 309239,
+      "sha256": "b7dad80cb770c76775262592a5ebd4a1c2e8c42fdd2118277fb0e7dc73269f82"
+    },
+    {
+      "key": "asq3-missing",
+      "url": "https://agesandstages.com/wp-content/uploads/2015/02/ASQ-3_Score_Adjustment_Chart.pdf",
+      "bytes": 256833,
+      "sha256": "81f53c17ecdaed8fa376d302a036e014a7d847d4987ca590de2e00c12971d71e"
+    },
+    {
+      "key": "whoqol-bref-syntax",
+      "url": "https://cdn.who.int/media/docs/default-source/publishing-policies/spss-syntax/whoqol-bref-syntax-files.zip?sfvrsn=97acff4_2",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "whoqol-bref-zh",
+      "url": "https://cdn.who.int/media/docs/default-source/publishing-policies/whoqol-bref/chinese-whoqol-bref.zip?sfvrsn=d550861d_2",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "whoqol-bref-en",
+      "url": "https://cdn.who.int/media/docs/default-source/publishing-policies/whoqol-bref/english_whoqol_bref.pdf?sfvrsn=3facbb3b_1",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "ipaq-2005-protocol",
+      "url": "https://drive.google.com/file/d/1gehdq1-04eSWfbxscwtzXa1MUlD8Mffa/view",
+      "bytes": 68744,
+      "sha256": "2af2a72900f0162b1dd21c529065c699a6084eb8d8b46f62f694c6a64f01c95a",
+      "pages": 15,
+      "type": "pdf"
+    }
+  ]
+}

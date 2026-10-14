@@ -1,14 +1,27 @@
 export type EvidenceParagraph = {text:string;source:string;label:string};
 export type ReviewedProfile = {definition:EvidenceParagraph[];scoring:EvidenceParagraph[];translations:{label:string;url:string;note:string}[];limits:EvidenceParagraph[];reviewed:string;reviewScope?:string};
 import {historicalProfiles} from './reviewed-profiles-history';
+import {networksNutritionProfiles} from './reviewed-profiles-networks-nutrition';
+import {sdqProfiles} from './reviewed-profiles-sdq';
+import {kidscreenProfiles} from './reviewed-profiles-kidscreen';
+import {ipaqProfiles} from './reviewed-profiles-ipaq';
+import {whoqolProfiles} from './reviewed-profiles-whoqol';
+import {asqProfiles} from './reviewed-profiles-asq';
 const base='https://dass.psy.unsw.edu.au/';
 const p=(text:string,path:string,label:string):EvidenceParagraph=>({text,source:base+path,label});
 const scope=p('抑郁维度关注情绪低落、兴趣或愉悦感减少、自我贬低与缺乏主动性；焦虑维度侧重自主神经唤起、躯体紧张及恐惧体验；压力维度关注难以放松、持续紧绷、易激惹及不耐烦。三个维度相关，但测量内容不同。','over.htm','开发者对测量构念的定义');
 const restriction=p('本页用于研究者选表和获取施测资料，不提供公众自测或自动诊断。开发者对开放网站施测、结果反馈有专门要求；正式实施调查前应核对。','DASSFAQ.htm','官方FAQ第9、21项');
 export const reviewedProfiles:Record<string,ReviewedProfile>={
 ...historicalProfiles,
+...networksNutritionProfiles,
+...sdqProfiles,
+...kidscreenProfiles,
+...ipaqProfiles,
+...whoqolProfiles,
+...asqProfiles,
 "VR-PH-005-014":{
-  "reviewed": "2026-09-13",
+  "reviewed": "2026-10-14",
+  "reviewScope": "官网现行普通话核心及附加表的可读取文字、评分FAQ；新源文件下载403，原页视觉、哈希和实际打印仍未确认。",
   "definition": [
     {
       "text": "K6或K10含补充问题的表单，在核心情绪症状之外询问持续性、功能影响等信息。它直接扩展相应核心版本；补充问题不是新的核心症状条目。",
@@ -32,7 +45,7 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
     {
       "label": "作者官网 普通话及粤语译本",
       "url": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
-      "note": "普通话K6/K10、粤语K6已取得；具体题文、访谈跳转及中文验证研究仍在核对。"
+      "note": "现行普通话K6／K10网页可读取核心及补充问题文字；新PDF原文件下载仍为403。粤语独立原件、原页排版、访谈跳转及中文验证研究仍需分别核对。"
     }
   ],
   "limits": [
@@ -44,7 +57,8 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
   ]
 },
 "VR-PH-005-013":{
-  "reviewed": "2026-09-13",
+  "reviewed": "2026-10-14",
+  "reviewScope": "官网现行普通话核心及附加表的可读取文字、评分FAQ；新源文件下载403，原页视觉、哈希和实际打印仍未确认。",
   "definition": [
     {
       "text": "K6从K10删去四题，是六项心理困扰短版；直接来源为K10。它缩短施测时间，并非把K10分数按比例换算。",
@@ -68,7 +82,7 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
     {
       "label": "作者官网 普通话及粤语译本",
       "url": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
-      "note": "普通话K6/K10、粤语K6已取得；具体题文、访谈跳转及中文验证研究仍在核对。"
+      "note": "现行普通话K6／K10网页可读取核心及补充问题文字；新PDF原文件下载仍为403。粤语独立原件、原页排版、访谈跳转及中文验证研究仍需分别核对。"
     }
   ],
   "limits": [
@@ -80,7 +94,8 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
   ]
 },
 "VR-PH-005-012":{
-  "reviewed": "2026-09-13",
+  "reviewed": "2026-10-14",
+  "reviewScope": "官网现行普通话核心及附加表的可读取文字、评分FAQ；新源文件下载403，原页视觉、哈希和实际打印仍未确认。",
   "definition": [
     {
       "text": "K10以十项情绪相关症状评估非特异性心理困扰，官网表单回顾过去30天。它用于筛查和描述困扰程度，不把抑郁、焦虑等疾病分别确诊。",
@@ -104,7 +119,7 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
     {
       "label": "作者官网 普通话及粤语译本",
       "url": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
-      "note": "普通话K6/K10、粤语K6已取得；具体题文、访谈跳转及中文验证研究仍在核对。"
+      "note": "现行普通话K6／K10网页可读取核心及补充问题文字；新PDF原文件下载仍为403。粤语独立原件、原页排版、访谈跳转及中文验证研究仍需分别核对。"
     }
   ],
   "limits": [
@@ -375,7 +390,7 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
   ]
 },
  'VR-PH-007-BASE':{
-  "reviewed": "2026-09-12",
+  "reviewed": "2026-10-14",
   "definition": [
     {
       "text": "WHO-5（世界卫生组织五项心理幸福感指数）是一份5题自评工具，询问过去两周的积极心理状态，包括愉快、平静、活力、醒后恢复感和日常兴趣。它帮助研究者描述心理幸福感水平及其变化；不直接诊断抑郁症，也不覆盖健康相关生活质量的全部领域。",
@@ -410,6 +425,16 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
       "label": "WHO网站收录的中文译本（2007年9月，标注1998年版）",
       "url": "https://cdn.who.int/media/docs/default-source/mental-health/who-5_chinese.pdf?download=true&sfvrsn=ed43f352_11",
       "note": "由Xu等翻译、Volinn协调。WHO附加说明指出该翻译早于2024年版权转让，不保证译文准确性，冲突以英文为准。具体译文与中文验证研究的对应关系仍在核查。"
+    },
+    {
+      "label": "WHO现行中国大陆中文入口（两页2007年译本）",
+      "url": "https://cdn.who.int/media/docs/default-source/mental-health/five-well-being-index-(who-5)/who5_chinese_pr.pdf",
+      "note": "已看两页原件：六级0–5、近两周，署Xu等翻译与Volinn协调。表内低分及任一题0／1的建议与2024英文说明分开，不把其10%变化说明当作普遍最小临床重要差异。"
+    },
+    {
+      "label": "Fung等2022：广东大学生中文研究",
+      "url": "https://doi.org/10.3389/fpubh.2022.872436",
+      "note": "903与511名大学生，两样本α为0.85与0.81，研究自述独立翻译／回译和预测试。论文表格列英文题目，未提供完整中文施测文本；不能因此确认与WHO官网Xu译本逐字相同，也不能外推为所有人群常模。"
     }
   ],
   "limits": [
@@ -418,7 +443,8 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
       "source": "https://cdn.who.int/media/docs/default-source/mental-health/who-5_english-original4da539d6ed4b49389e3afe47cda2326a.pdf?download=true&sfvrsn=ed43f352_11",
       "label": "WHO 2024英文原件"
     }
-  ]
+  ],
+  "reviewScope": "英文2024版及官网2007中文原页；2022年大学生研究与官网译文的逐字对应仍未确认。"
 },
  'VR-PH-003-006':{
   reviewed:'2026-10-13',

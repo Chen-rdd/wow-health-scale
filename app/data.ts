@@ -4168,7 +4168,7 @@ export const versions = [
     "relation": "随访修订",
     "population": "2–4岁儿童家长；干预后",
     "scoring": "回顾期改为过去1月；省略病程题",
-    "chinese": "官方中文存在",
+    "chinese": "中文随访原件未在当前官方目录确认",
     "copyrightRisk": "中",
     "status": "已核验"
   },
@@ -4186,7 +4186,7 @@ export const versions = [
     "relation": "随访修订",
     "population": "4–10岁儿童家长；干预后",
     "scoring": "回顾期改为过去1月；省略病程题",
-    "chinese": "官方中文存在",
+    "chinese": "中文随访原件未在当前官方目录确认",
     "copyrightRisk": "中",
     "status": "已核验"
   },
@@ -4204,7 +4204,7 @@ export const versions = [
     "relation": "随访修订",
     "population": "11–17岁青少年家长；干预后",
     "scoring": "回顾期改为过去1月；省略病程题",
-    "chinese": "官方中文存在",
+    "chinese": "中文随访原件未在当前官方目录确认",
     "copyrightRisk": "中",
     "status": "已核验"
   },
@@ -4222,7 +4222,7 @@ export const versions = [
     "relation": "随访修订",
     "population": "2–4岁儿童教师；干预后",
     "scoring": "回顾期改为过去1月；省略病程题",
-    "chinese": "官方中文存在",
+    "chinese": "中文随访原件未在当前官方目录确认",
     "copyrightRisk": "中",
     "status": "已核验"
   },
@@ -4240,7 +4240,7 @@ export const versions = [
     "relation": "随访修订",
     "population": "4–10岁儿童教师；干预后",
     "scoring": "回顾期改为过去1月；省略病程题",
-    "chinese": "官方中文存在",
+    "chinese": "中文随访原件未在当前官方目录确认",
     "copyrightRisk": "中",
     "status": "已核验"
   },
@@ -4258,7 +4258,7 @@ export const versions = [
     "relation": "随访修订",
     "population": "11–17岁青少年教师；干预后",
     "scoring": "回顾期改为过去1月；省略病程题",
-    "chinese": "官方中文存在",
+    "chinese": "中文随访原件未在当前官方目录确认",
     "copyrightRisk": "中",
     "status": "已核验"
   },
@@ -4276,7 +4276,7 @@ export const versions = [
     "relation": "随访修订",
     "population": "11–17岁青少年；干预后",
     "scoring": "回顾期改为过去1月；省略病程题",
-    "chinese": "官方中文存在",
+    "chinese": "中文随访原件未在当前官方目录确认",
     "copyrightRisk": "中",
     "status": "已核验"
   },
@@ -4348,7 +4348,7 @@ export const versions = [
     "relation": "报告者平行版",
     "population": "8–18岁儿童青少年的家长/照护者",
     "scoring": "10维度；代理分不可视为儿童自评分",
-    "chinese": "官方中文代理版存在",
+    "chinese": "当前官方目录未列普通话／粤语该长度代理表",
     "copyrightRisk": "中",
     "status": "已核验"
   },
@@ -4384,7 +4384,7 @@ export const versions = [
     "relation": "缩短/报告者版",
     "population": "8–18岁儿童青少年的家长/照护者",
     "scoring": "5维度；代理分不可视为儿童自评分",
-    "chinese": "官方中文代理版存在",
+    "chinese": "当前官方目录未列普通话／粤语该长度代理表",
     "copyrightRisk": "中",
     "status": "已核验"
   },
@@ -4420,7 +4420,7 @@ export const versions = [
     "relation": "缩短/报告者版",
     "population": "8–18岁儿童青少年的家长/照护者",
     "scoring": "单一HRQoL指数；代理分不可视为儿童自评分",
-    "chinese": "官方中文代理版存在",
+    "chinese": "官网列粤语代理；普通话代理未列",
     "copyrightRisk": "中",
     "status": "已核验"
   },

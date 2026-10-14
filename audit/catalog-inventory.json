@@ -1284,7 +1284,7 @@
         "scope": "BREF及译本"
       },
       {
-        "label": "BREF施测和评分手册",
+        "label": "WHO评估工作册BREF章节（65–77页）",
         "url": "https://cdn.who.int/media/docs/default-source/substance-use/who-msd-msb-00-2b.pdf",
         "kind": "评分标准",
         "scope": "BREF"
@@ -1309,7 +1309,7 @@
           "scope": "BREF及译本"
         },
         {
-          "label": "BREF施测和评分手册",
+          "label": "WHO评估工作册BREF章节（65–77页）",
           "url": "https://cdn.who.int/media/docs/default-source/substance-use/who-msd-msb-00-2b.pdf",
           "kind": "评分标准",
           "scope": "BREF"
@@ -4078,7 +4078,7 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/14258950/"
       },
       {
-        "label": "原作者Barthel论文和表单",
+        "label": "原作者Barthel表单（本次下载404；待恢复）",
         "url": "https://www.kcl.ac.uk/nmpc/assets/rehab/tools-bi-functional-evaluation-the-barthel-index.pdf",
         "kind": "题目与选项",
         "scope": "原始形式"
@@ -4097,7 +4097,7 @@
       "access": "原作者表及权利方资料分别提供；修订表须取得对应评分说明。",
       "resources": [
         {
-          "label": "原作者Barthel论文和表单",
+          "label": "原作者Barthel表单（本次下载404；待恢复）",
           "url": "https://www.kcl.ac.uk/nmpc/assets/rehab/tools-bi-functional-evaluation-the-barthel-index.pdf",
           "kind": "题目与选项",
           "scope": "原始形式"
@@ -4257,7 +4257,7 @@
     "administration": {
       "scope": "MNA完整版和MNA-SF（BMI/小腿围形式）",
       "answers": "混合饮食、活动、体重及测量项目，选项分值并非全部相同。",
-      "scoring": "MNA-SF共0–14分，完整版0–30分；BMI不可得时依对应表单使用小腿围替代项，不能两项同时计入短版。各分层及测量细则见官方用户指南。",
+      "scoring": "MNA-SF共0–14分，完整版0–30分；BMI不可得时依对应表单使用小腿围替代项，不能两项同时计入短版。小腿围替代后不能直接续填完整版，以免R项重复计分。各分层及测量细则见官方用户指南。",
       "access": "官网自2023年调整使用流程，学术机构等需要签署许可协议；公开样表不能替代机构授权。",
       "resources": [
         {
@@ -4901,7 +4901,7 @@
     "administration": {
       "scope": "KIDSCREEN-52、27、10及自评/代理形式",
       "answers": "题目采用分级频率或强度回答；必须匹配长度、语言和报告者。",
-      "scoring": "52题、27题和10题有不同维度结构，应用官方转换和常模资料；不能将三种长度的总分按题数比例换算。",
+      "scoring": "52题与27题没有全表总分，分别报告领域；10题才形成总指数。使用对应报告者的转换和常模资料，不按题数比例换算。",
       "access": "开发项目提供语言表单下载目录；具体长度和代理译本可用性分别列出。",
       "resources": [
         {

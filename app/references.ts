@@ -1537,17 +1537,17 @@ export const versionReferences = {
     "note": "原始20题开发研究；日本母亲V3研究不对应1978全负向题本。"
   },
   "VR-SS-002-066": {
-    "title": "Factor analysis of the revised UCLA loneliness scale",
-    "authors": "Benedict T. McWhirter",
-    "journal": "Current Psychology",
-    "year": "1990",
-    "doi": "10.1007/bf02686768",
-    "pmid": "",
-    "url": "https://doi.org/10.1007/bf02686768",
-    "role": "相关研究（开发、验证或应用）",
+    "title": "The revised UCLA Loneliness Scale: concurrent and discriminant validity evidence.",
+    "authors": "Russell D, Peplau LA, Cutrona CE",
+    "journal": "Journal of personality and social psychology",
+    "year": "1980",
+    "doi": "10.1037//0022-3514.39.3.472",
+    "pmid": "7431205",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/7431205/",
+    "role": "开发研究；原件与具体选题已核对",
     "confidence": "version",
-    "matchScore": 11,
-    "metadataSource": "https://api.crossref.org/works/10.1007%2Fbf02686768"
+    "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/7431205/",
+    "note": "20题修订版Table 1及反向键已核对；不同于1996年第三版。"
   },
   "VR-SS-002-067": {
     "title": "Analysis of Psychometric Properties of the University of California, Los Angeles Loneliness Scale Version-3 (UCLA LS-V3) in the Indian Context",
@@ -1588,17 +1588,17 @@ export const versionReferences = {
     "metadataSource": "https://api.crossref.org/works/10.1016%2Fj.paid.2008.02.003"
   },
   "VR-SS-002-070": {
-    "title": "UCLA Loneliness Scale (Version 3): reliability, validity, and factor structure.",
-    "authors": "Russell DW",
-    "journal": "Journal of personality assessment",
-    "year": "1996",
-    "doi": "10.1207/s15327752jpa6601_2",
-    "pmid": "8576833",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/8576833/",
-    "role": "系列背景；4题具体版本来源尚待确认",
-    "confidence": "family",
-    "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/8576833/",
-    "note": "不能将ULS-6研究归于ULS-4；尚需锁定4题选题方案及对应原文。"
+    "title": "The revised UCLA Loneliness Scale: concurrent and discriminant validity evidence.",
+    "authors": "Russell D, Peplau LA, Cutrona CE",
+    "journal": "Journal of personality and social psychology",
+    "year": "1980",
+    "doi": "10.1037//0022-3514.39.3.472",
+    "pmid": "7431205",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/7431205/",
+    "role": "开发研究；原件与具体选题已核对",
+    "confidence": "version",
+    "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/7431205/",
+    "note": "第474页脚注1明确四题为Table 1原号1、13、15、18；中文译本、使用许可及漏答规则仍待核对。"
   },
   "VR-SS-002-071": {
     "title": "UCLA Loneliness Scale (Version 3): reliability, validity, and factor structure.",
