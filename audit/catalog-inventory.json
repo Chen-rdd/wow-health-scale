@@ -606,7 +606,7 @@
       },
       {
         "label": "出版方GHQ支持资料",
-        "url": "https://support.gl-assessment.co.uk/knowledge-base/assessments/general-health-questionnaire-support",
+        "url": "https://support.gl-education.com/knowledge-base/assessments/general-health-questionnaire-support/about-the-general-health-questionnaire/faqs",
         "kind": "评分标准",
         "scope": "配套使用说明"
       }
@@ -625,7 +625,7 @@
         },
         {
           "label": "出版方GHQ支持资料",
-          "url": "https://support.gl-assessment.co.uk/knowledge-base/assessments/general-health-questionnaire-support",
+          "url": "https://support.gl-education.com/knowledge-base/assessments/general-health-questionnaire-support/about-the-general-health-questionnaire/faqs",
           "kind": "评分标准",
           "scope": "配套使用说明"
         }
@@ -932,7 +932,7 @@
     "administration": {
       "scope": "原版PSQI；短版与创伤补充表须单独解释",
       "answers": "原表混合时间、分钟、时长填写及分档回答；不是19道均可直接相加的同类题。",
-      "scoring": "7个组成分各0–3分，总分0–21，高分表示睡眠质量较差。睡眠效率等组成分须先按指南转换。不要把所有原始答案直接求和；缺失题和边界值按正式指南核对。",
+      "scoring": "7个组成分各0–3分，总分0–21，高分表示睡眠质量较差。睡眠效率等组成分须先按指南转换。第1–9题原则上须完整；5j的原因文字或频率缺失时按官方特例计0，其他漏答不能一律填0。总分≤5与>5的解释及组成分边界以原页为准，PDF提取曾丢失等号。",
       "access": "匹兹堡大学提供公开表单链接，并要求按用途申请；公开下载不代表可任意修改、翻译或在网站全文转载。",
       "resources": [
         {

@@ -2420,7 +2420,7 @@ export const versions = [
     "itemCount": "12题",
     "parent": "GHQ-60",
     "relation": "缩短",
-    "population": "成人/青少年",
+    "population": "成人；青少年需独立评估，儿童不推荐",
     "scoring": "GHQ、Likert、C-GHQ计分分开",
     "chinese": "多地区中文版本",
     "copyrightRisk": "高",

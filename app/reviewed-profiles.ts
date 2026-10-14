@@ -1,10 +1,12 @@
 export type EvidenceParagraph = {text:string;source:string;label:string};
-export type ReviewedProfile = {definition:EvidenceParagraph[];scoring:EvidenceParagraph[];translations:{label:string;url:string;note:string}[];limits:EvidenceParagraph[];reviewed:string};
+export type ReviewedProfile = {definition:EvidenceParagraph[];scoring:EvidenceParagraph[];translations:{label:string;url:string;note:string}[];limits:EvidenceParagraph[];reviewed:string;reviewScope?:string};
+import {historicalProfiles} from './reviewed-profiles-history';
 const base='https://dass.psy.unsw.edu.au/';
 const p=(text:string,path:string,label:string):EvidenceParagraph=>({text,source:base+path,label});
 const scope=p('抑郁维度关注情绪低落、兴趣或愉悦感减少、自我贬低与缺乏主动性；焦虑维度侧重自主神经唤起、躯体紧张及恐惧体验；压力维度关注难以放松、持续紧绷、易激惹及不耐烦。三个维度相关，但测量内容不同。','over.htm','开发者对测量构念的定义');
 const restriction=p('本页用于研究者选表和获取施测资料，不提供公众自测或自动诊断。开发者对开放网站施测、结果反馈有专门要求；正式实施调查前应核对。','DASSFAQ.htm','官方FAQ第9、21项');
 export const reviewedProfiles:Record<string,ReviewedProfile>={
+...historicalProfiles,
 "VR-PH-005-014":{
   "reviewed": "2026-09-13",
   "definition": [
