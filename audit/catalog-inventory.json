@@ -2363,7 +2363,7 @@
       },
       {
         "id": "VR-SS-002-068",
-        "name": "UCLA 3-item Loneliness Scale",
+        "name": "Three-Item Loneliness Scale (Hughes 2004; UCLA-derived)",
         "selectable": true,
         "sources": [
           {
@@ -2374,7 +2374,7 @@
       },
       {
         "id": "VR-SS-002-069",
-        "name": "UCLA 8-item Loneliness Scale",
+        "name": "UCLA 8-item Loneliness Scale (Hays & DiMatteo)",
         "selectable": true,
         "sources": [
           {
@@ -2445,7 +2445,7 @@
     ],
     "administration": {
       "scope": "UCLA Loneliness原版、修订版、Version 3及短表",
-      "answers": "询问孤独和社会联系体验的频率，正反向表述并存。",
+      "answers": "询问孤独和社会联系体验；1978原版全负向，后续长式含正反向。Hughes三题独立使用三档回答，不套长式四档。",
       "scoring": "具体反向题随版本改变；不要把Version 3的题号用于1978原版或短表。使用各自来源的题目和评分键。",
       "access": "开发者网站列出原版与修订文献；所附大学表单明确为Version 3。",
       "resources": [

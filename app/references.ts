@@ -1545,17 +1545,16 @@ export const versionReferences = {
     "note": "20题修订版Table 1及反向键已核对；不同于1996年第三版。"
   },
   "VR-SS-002-067": {
-    "title": "Analysis of Psychometric Properties of the University of California, Los Angeles Loneliness Scale Version-3 (UCLA LS-V3) in the Indian Context",
-    "authors": "Rashmi Sharma; Jyoti Gupta",
-    "journal": "Journal of Pedagogy and Education Science",
-    "year": "2025",
-    "doi": "10.56741/iistr.jpes.00994",
-    "pmid": "",
-    "url": "https://doi.org/10.56741/iistr.jpes.00994",
-    "role": "相关研究（开发、验证或应用）",
+    "title": "UCLA Loneliness Scale (Version 3): reliability, validity, and factor structure.",
+    "authors": "Russell DW.",
+    "journal": "Journal of personality assessment",
+    "year": "1996",
+    "doi": "10.1207/s15327752jpa6601_2",
+    "pmid": "8576833",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/8576833/",
+    "role": "V3直接开发研究；表1与20题样本核对",
     "confidence": "version",
-    "matchScore": 13,
-    "metadataSource": "https://api.crossref.org/works/10.56741%2Fiistr.jpes.00994"
+    "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/8576833/"
   },
   "VR-SS-002-068": {
     "title": "A Short Scale for Measuring Loneliness in Large Surveys: Results From Two Population-Based Studies.",
@@ -1570,17 +1569,16 @@ export const versionReferences = {
     "note": "研究摘要明确3题；已移除6题RULS研究的错误对应。"
   },
   "VR-SS-002-069": {
-    "title": "Psychometric analysis of the short-form UCLA Loneliness Scale (ULS-8) in Taiwanese undergraduate students",
-    "authors": "Chia-huei Wu; Grace Yao",
-    "journal": "Personality and Individual Differences",
-    "year": "2008",
-    "doi": "10.1016/j.paid.2008.02.003",
-    "pmid": "",
-    "url": "https://doi.org/10.1016/j.paid.2008.02.003",
-    "role": "相关研究（开发、验证或应用）",
+    "title": "A short-form measure of loneliness.",
+    "authors": "Hays RD, DiMatteo MR.",
+    "journal": "Journal of personality assessment",
+    "year": "1987",
+    "doi": "10.1207/s15327752jpa5101_6",
+    "pmid": "3572711",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/3572711/",
+    "role": "Hays八题直接开发研究；仅正式摘要",
     "confidence": "version",
-    "matchScore": 13,
-    "metadataSource": "https://api.crossref.org/works/10.1016%2Fj.paid.2008.02.003"
+    "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/3572711/"
   },
   "VR-SS-002-070": {
     "title": "The revised UCLA Loneliness Scale: concurrent and discriminant validity evidence.",
@@ -1597,14 +1595,14 @@ export const versionReferences = {
   },
   "VR-SS-002-071": {
     "title": "UCLA Loneliness Scale (Version 3): reliability, validity, and factor structure.",
-    "authors": "Russell DW",
+    "authors": "Russell DW.",
     "journal": "Journal of personality assessment",
     "year": "1996",
     "doi": "10.1207/s15327752jpa6601_2",
     "pmid": "8576833",
     "url": "https://pubmed.ncbi.nlm.nih.gov/8576833/",
-    "role": "系列背景文献",
-    "confidence": "family",
+    "role": "论文直接包含教师十题；表2脚注及题组已核对",
+    "confidence": "version",
     "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/8576833/"
   },
   "VR-SS-002-072": {

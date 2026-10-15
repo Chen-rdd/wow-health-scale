@@ -17,6 +17,7 @@ import {socialLiteracyProfiles} from './reviewed-profiles-social-literacy';
 import {healthLiteracyProfiles} from './reviewed-profiles-health-literacy';
 import {alcoholTobaccoProfiles} from './reviewed-profiles-alcohol-tobacco';
 import {frailtyFunctionProfiles} from './reviewed-profiles-frailty-function';
+import {uclaProfiles} from './reviewed-profiles-ucla';
 import {barthelProfiles} from './reviewed-profiles-barthel';
 import {sleepIsiProfiles} from './reviewed-profiles-sleep-isi';
 import {sleepEssAisProfiles} from './reviewed-profiles-sleep-ess-ais';
@@ -45,6 +46,7 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
 ...sleepEssAisProfiles,
 ...sleepIsiProfiles,
 ...barthelProfiles,
+...uclaProfiles,
 "VR-PH-005-014":{
   "reviewed": "2026-10-15",
   "reviewScope": "普通话K6／K10三页官方PDF已重新下载，哈希一致；核心、附加、跳答及署名原页已核对。粤语、独立中文研究及本库实际打印仍待核对。",

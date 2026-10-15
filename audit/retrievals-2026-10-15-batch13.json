@@ -1,0 +1,120 @@
+[
+  {
+    "file": "ucla-peplau.html",
+    "url": "https://peplau.psych.ucla.edu/loneliness/",
+    "bytes": 43641,
+    "sha256": "c6bf0c28f2f1795e3a1954e98a255121c4edc395242f9f85f0a9e67480c0db48",
+    "type": "text/html; charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "ucla-hughes-2004.pdf",
+    "url": "https://meps.ipums.org/meps/resources/Hughes_et_al2004.pdf",
+    "bytes": 76399,
+    "sha256": "d1bf4d7dbe44c459b767a6c00a4d81ed310579ad69a8907b368755eff780a14c",
+    "type": "application/pdf",
+    "status": "downloaded"
+  },
+  {
+    "file": "ucla-neto-2014.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5549168/fullTextXML",
+    "status": "failed",
+    "error": "HTTP Error 500: "
+  },
+  {
+    "file": "ucla-hughes-2004.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2394670/fullTextXML",
+    "status": "failed",
+    "error": "HTTP Error 500: "
+  },
+  {
+    "file": "ucla-v3-1996.pdf",
+    "url": "https://www.iscet.pt/uploads/obSolidao/artigo_base_ucla_loneliness_scale_v3.pdf",
+    "bytes": 1439296,
+    "sha256": "c6f919f8d680415eb4ad371433fb002ed321bf79c287e37bafa03682219b9f74",
+    "type": "application/pdf",
+    "status": "downloaded"
+  },
+  {
+    "file": "ucla-neto-2014.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5549168/",
+    "bytes": 178078,
+    "sha256": "db6dc2d400d990d382d1545dfc6e077918b5a0d4ef4378376fd80e2bb97a61b0",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "ucla-1978-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:660402%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 3207,
+    "sha256": "6db6dee39cad0340cc50f1f1be1d8de43a18b6e4181e88f63d097c4f3084d868",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "ucla-v3-1996-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:8576833%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 4570,
+    "sha256": "abb25324cb9df1c92726f541a06cb9a3df44299350c423d866bf63ed26a49c03",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "ucla-hays-1987-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1207/s15327752jpa5101_6&format=json&resultType=core",
+    "bytes": 3585,
+    "sha256": "5fa9d941a190f31c83709a5ba0859ae7b901e16b3164a1db1e9c1cb8f64ecd50",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "source": "v3-review",
+    "url": "https://www.iscet.pt/uploads/obSolidao/artigo_base_ucla_loneliness_scale_v3.pdf",
+    "status": "relevant_pages_checked",
+    "pages": 22,
+    "scope": "History, methods, Table1/2/3 and factor interpretation read; PDFpages3/5/8/9 visually checked. OCRerrors in footnote and coefficients corrected against images; not all22pages visually checked."
+  },
+  {
+    "source": "hughes-review",
+    "url": "https://meps.ipums.org/meps/resources/Hughes_et_al2004.pdf",
+    "status": "relevant_sections_checked",
+    "pages": 18,
+    "scope": "Methods, Table1/3, mode and missing-data handling read; page6 Table1 visually checked. Three-category telephone and four-category nested items distinguished; no SI confirmed."
+  },
+  {
+    "source": "neto-review",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5549168/",
+    "status": "full_html_relevant_sections_checked",
+    "scope": "Methods, Table1/2/3, missingness and discussion read. No independent supplement links in saved HTML. No PDF visual check. Portuguese18-item comparator distinguished from original20-item scale."
+  },
+  {
+    "source": "peplau-form-completeness",
+    "url": "https://peplau.psych.ucla.edu/loneliness/",
+    "status": "incomplete_form",
+    "scope": "Saved HTML table has16items plus header, not a complete20-item form; permission statement concerns nonprofit research, not arbitrary republication."
+  },
+  {
+    "source": "wu2008-index",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0191886908000536",
+    "status": "abstract_and_intro_index_checked",
+    "scope": "130Taiwanese undergraduates and Hays1987 derivation confirmed. Direct request403, full methods/form/scoring not acquired."
+  },
+  {
+    "source": "ons-name-and-mode",
+    "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/compendium/nationalmeasurementofloneliness/2018/recommendednationalindicatorsofloneliness",
+    "status": "official_text_checked",
+    "scope": "2025naming correction, adult16+/child10-15 wording, three-item score separate from direct single question."
+  },
+  {
+    "source": "fetzer1978",
+    "url": "https://fetzer.org/sites/default/files/images/stories/pdf/selfmeasures/Self_Measures_for_Loneliness_and_Interpersonal_Problems_UCLA_LONELINESS.pdf",
+    "status": "failed",
+    "error": "web404; not acquired"
+  },
+  {
+    "source": "fetzer-revised",
+    "url": "https://fetzer.org/sites/default/files/images/stories/pdf/selfmeasures/Self_Measures_for_Loneliness_and_Interpersonal_Problems_UCLA_LONELINESS_REVISED.pdf",
+    "status": "failed",
+    "error": "web404; not acquired"
+  }
+]

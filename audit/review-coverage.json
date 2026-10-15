@@ -2,8 +2,8 @@
   "summary": {
     "records": 248,
     "selectableRecords": 213,
-    "recordsWithSourcedProfiles": 152,
-    "selectableRecordsWithoutSourcedProfiles": 61,
+    "recordsWithSourcedProfiles": 158,
+    "selectableRecordsWithoutSourcedProfiles": 55,
     "registeredForms": 16,
     "exportableForms": 4,
     "warning": "说明覆盖数量不是完整题本、独立中文验证或授权完成数量。别名合并后的前台数量另计。"
@@ -2457,10 +2457,14 @@
       "familyId": "SS-002",
       "name": "UCLA Loneliness Scale original",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "1978开发正式摘要；1996原文第21页对原版全负向措辞的回顾已视觉核对。1978全文与原始题文／编码尚未取得，不将后续修订版原件代替。",
+      "sources": [
+        "https://www.iscet.pt/uploads/obSolidao/artigo_base_ucla_loneliness_scale_v3.pdf",
+        "https://pubmed.ncbi.nlm.nih.gov/660402/",
+        "https://peplau.psych.ucla.edu/loneliness/"
+      ],
       "primaryReference": {
         "title": "Developing a measure of loneliness.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/660402/",
@@ -2491,26 +2495,33 @@
       "familyId": "SS-002",
       "name": "UCLA Loneliness Scale Version 3",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "1996研究22页PDF取得，版本沿革、方法、表1／2／3及结构解释相关部分核读；PDF第3／5／8／9页视觉核对，未称全部22页图表复核。中文具体地区原件仍待取得。",
+      "sources": [
+        "https://www.iscet.pt/uploads/obSolidao/artigo_base_ucla_loneliness_scale_v3.pdf",
+        "https://peplau.psych.ucla.edu/loneliness/"
+      ],
       "primaryReference": {
-        "title": "Analysis of Psychometric Properties of the University of California, Los Angeles Loneliness Scale Version-3 (UCLA LS-V3) in the Indian Context",
-        "url": "https://doi.org/10.56741/iistr.jpes.00994",
-        "role": "相关研究（开发、验证或应用）"
+        "title": "UCLA Loneliness Scale (Version 3): reliability, validity, and factor structure.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8576833/",
+        "role": "V3直接开发研究；表1与20题样本核对"
       },
       "registeredForms": []
     },
     {
       "id": "VR-SS-002-068",
       "familyId": "SS-002",
-      "name": "UCLA 3-item Loneliness Scale",
+      "name": "Three-Item Loneliness Scale (Hughes 2004; UCLA-derived)",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "Hughes等2004完整18页PDF取得，方法、Table1／3及相关结果已读，第6页题文与三档回答视觉核对；ONS2025命名纠正及不同年龄协议文字核对。",
+      "sources": [
+        "https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/compendium/nationalmeasurementofloneliness/2018/recommendednationalindicatorsofloneliness",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC2394670/",
+        "https://peplau.psych.ucla.edu/loneliness/"
+      ],
       "primaryReference": {
         "title": "A Short Scale for Measuring Loneliness in Large Surveys: Results From Two Population-Based Studies.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/18504506/",
@@ -2521,16 +2532,20 @@
     {
       "id": "VR-SS-002-069",
       "familyId": "SS-002",
-      "name": "UCLA 8-item Loneliness Scale",
+      "name": "UCLA 8-item Loneliness Scale (Hays & DiMatteo)",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "1987 Hays／DiMatteo直接开发正式摘要；Wu／Yao2008台湾学生直接研究公开摘要与引言索引文字核对。两篇全文、原八题计分原页及完整中文题本尚未取得。",
+      "sources": [
+        "https://doi.org/10.1207/s15327752jpa5101_6",
+        "https://doi.org/10.1016/j.paid.2008.02.003",
+        "https://peplau.psych.ucla.edu/loneliness/"
+      ],
       "primaryReference": {
-        "title": "Psychometric analysis of the short-form UCLA Loneliness Scale (ULS-8) in Taiwanese undergraduate students",
-        "url": "https://doi.org/10.1016/j.paid.2008.02.003",
-        "role": "相关研究（开发、验证或应用）"
+        "title": "A short-form measure of loneliness.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3572711/",
+        "role": "Hays八题直接开发研究；仅正式摘要"
       },
       "registeredForms": []
     },
@@ -2557,14 +2572,17 @@
       "familyId": "SS-002",
       "name": "UCLA Loneliness Scale 10-item Version 3 short form",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "1996开发论文第24／26／27页方法及Table2／3核读；PDF第8／9页原页视觉核对十题原号和教师样本，完整V3原页计分相配。",
+      "sources": [
+        "https://www.iscet.pt/uploads/obSolidao/artigo_base_ucla_loneliness_scale_v3.pdf",
+        "https://peplau.psych.ucla.edu/loneliness/"
+      ],
       "primaryReference": {
         "title": "UCLA Loneliness Scale (Version 3): reliability, validity, and factor structure.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/8576833/",
-        "role": "系列背景文献"
+        "role": "论文直接包含教师十题；表2脚注及题组已核对"
       },
       "registeredForms": []
     },
@@ -2573,10 +2591,13 @@
       "familyId": "SS-002",
       "name": "UCLA Loneliness Scale 6-item Neto version",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "Neto2014 PMC全文HTML取得并核对方法、Table1—3、缺失处理及讨论；XML500、尚无PDF原页视觉核验。1992开发历史仅作者2014回顾与正式出版书目，未称1992全文取得。",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5549168/",
+        "https://peplau.psych.ucla.edu/loneliness/"
+      ],
       "primaryReference": {
         "title": "Psychometric analysis of the short-form UCLA Loneliness Scale (ULS-6) in older adults.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/28804337/",
