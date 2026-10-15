@@ -2,11 +2,11 @@
 
 由 `node scripts/inventory-review-coverage.mjs` 生成。说明覆盖不等于完整科学核验；未将缺失材料标为完成。
 
-登记248条，其中213条可选择；93条有单独来源说明，120条仍待补充。原件表单16份，开放导出4份。
+登记248条，其中213条可选择；101条有单独来源说明，112条仍待补充。原件表单16份，开放导出4份。
 
 | 记录 | 名称 | 状态与核对范围 |
 | --- | --- | --- |
-| VR-PH-001-BASE | Patient Health Questionnaire-9 | 已补充来源说明；完整核验范围须读具体说明；按现有逐条来源说明；不得视作所有译本完整验证 |
+| VR-PH-001-BASE | Patient Health Questionnaire-9 | 已补充来源说明；完整核验范围须读具体说明；原始开发研究及官方题本；Wang 2014全文六页已取得并核读，正文未刊完整中文九题，确切译文对应仍未确认。 |
 | VR-PH-002-BASE | Generalized Anxiety Disorder-7 | 已补充来源说明；完整核验范围须读具体说明；2006年原始研究全文及Figure 1原页；英文七项、回答锚点与功能附加题已对应。中文研究实际题本的逐字对应仍待补。 |
 | VR-PH-003-BASE | Depression Anxiety Stress Scales | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-PH-004-BASE | Perceived Stress Scale | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
@@ -44,7 +44,7 @@
 | VR-MA-002-BASE | Medication Adherence Rating Scale | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-MA-003-BASE | Adherence to Refills and Medications Scale | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-MA-004-BASE | Summary of Diabetes Self-Care Activities | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-MA-005-BASE | Self-Efficacy for Managing Chronic Disease 6-Item Scale | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
+| VR-MA-005-BASE | Self-Efficacy for Managing Chronic Disease 6-Item Scale | 已补充来源说明；完整核验范围须读具体说明；SMRC官方两页英文题本、计分及使用条件原页；具体中文译本和独立中文研究待核。 |
 | VR-OH-001-BASE | Maslach Burnout Inventory | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-OH-002-BASE | Copenhagen Burnout Inventory | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-OH-003-BASE | Oldenburg Burnout Inventory | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
@@ -61,7 +61,7 @@
 | VR-MC-003-BASE | Pediatric Quality of Life Inventory | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-MC-004-BASE | KIDSCREEN | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-MC-005-BASE | Ages and Stages Questionnaires | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-PE-001-BASE | Patient Satisfaction Questionnaire Short Form | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
+| VR-PE-001-BASE | Patient Satisfaction Questionnaire Short Form | 已补充来源说明；完整核验范围须读具体说明；RAND官方PSQ-18说明和三页评分文件文字；原题本PDF原页及具体中文译本仍待核对。 |
 | VR-PE-002-BASE | Consumer Assessment of Healthcare Providers and Systems | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-PE-003-BASE | Shared Decision-Making Questionnaire | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-KA-001-BASE | Vaccine Hesitancy Scale | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
@@ -71,26 +71,26 @@
 | VR-PH-001-003 | Patient Health Questionnaire-8 | 已补充来源说明；完整核验范围须读具体说明；按现有逐条来源说明；不得视作所有译本完整验证 |
 | VR-PH-001-004 | Patient Health Questionnaire-4 | 已补充来源说明；完整核验范围须读具体说明；按现有逐条来源说明；不得视作所有译本完整验证 |
 | VR-PH-002-005 | Generalized Anxiety Disorder-2 | 已补充来源说明；完整核验范围须读具体说明；按现有逐条来源说明；不得视作所有译本完整验证 |
-| VR-PH-003-006 | DASS-42 | 已补充来源说明；完整核验范围须读具体说明；按现有逐条来源说明；不得视作所有译本完整验证 |
+| VR-PH-003-006 | DASS-42 | 已补充来源说明；完整核验范围须读具体说明；官方42题题本与评分键、Chan等2012五页全文；Zuo/Chang译本来源已直接关联，中文完整施测题文未刊，逐字对应仍未完成。 |
 | VR-PH-003-007 | DASS-21 | 已补充来源说明；完整核验范围须读具体说明；按现有逐条来源说明；不得视作所有译本完整验证 |
 | VR-PH-003-008 | DASS-Y | 已补充来源说明；完整核验范围须读具体说明；按现有逐条来源说明；不得视作所有译本完整验证 |
 | VR-PH-004-009 | Perceived Stress Scale-14 | 已补充来源说明；完整核验范围须读具体说明；评分键、译本来源及指定研究；未开放题本导出，未完成所有中文译本核验。 |
 | VR-PH-004-010 | Perceived Stress Scale-10 | 已补充来源说明；完整核验范围须读具体说明；评分键、译本来源及指定研究；未开放题本导出，未完成所有中文译本核验。 |
 | VR-PH-004-011 | Perceived Stress Scale-4 | 已补充来源说明；完整核验范围须读具体说明；评分键、译本来源及指定研究；未开放题本导出，未完成所有中文译本核验。 |
-| VR-PH-005-012 | Kessler Psychological Distress Scale-10 | 已补充来源说明；完整核验范围须读具体说明；官网现行普通话核心及附加表的可读取文字、评分FAQ；新源文件下载403，原页视觉、哈希和实际打印仍未确认。 |
-| VR-PH-005-013 | Kessler Psychological Distress Scale-6 | 已补充来源说明；完整核验范围须读具体说明；官网现行普通话核心及附加表的可读取文字、评分FAQ；新源文件下载403，原页视觉、哈希和实际打印仍未确认。 |
-| VR-PH-005-014 | Kessler Psychological Distress Scales with Supplementary Questions | 已补充来源说明；完整核验范围须读具体说明；官网现行普通话核心及附加表的可读取文字、评分FAQ；新源文件下载403，原页视觉、哈希和实际打印仍未确认。 |
+| VR-PH-005-012 | Kessler Psychological Distress Scale-10 | 已补充来源说明；完整核验范围须读具体说明；普通话K6／K10三页官方PDF已重新下载，哈希一致；核心、附加、跳答及署名原页已核对。粤语、独立中文研究及本库实际打印仍待核对。 |
+| VR-PH-005-013 | Kessler Psychological Distress Scale-6 | 已补充来源说明；完整核验范围须读具体说明；普通话K6／K10三页官方PDF已重新下载，哈希一致；核心、附加、跳答及署名原页已核对。粤语、独立中文研究及本库实际打印仍待核对。 |
+| VR-PH-005-014 | Kessler Psychological Distress Scales with Supplementary Questions | 已补充来源说明；完整核验范围须读具体说明；普通话K6／K10三页官方PDF已重新下载，哈希一致；核心、附加、跳答及署名原页已核对。粤语、独立中文研究及本库实际打印仍待核对。 |
 | VR-PH-006-015 | General Health Questionnaire-60 | 已补充来源说明；完整核验范围须读具体说明；出版方公开规则；未取得许可题本，也未完成各中文译本与独立研究的对应。 |
 | VR-PH-006-016 | General Health Questionnaire-30 | 已补充来源说明；完整核验范围须读具体说明；出版方公开规则；未取得许可题本，也未完成各中文译本与独立研究的对应。 |
 | VR-PH-006-017 | General Health Questionnaire-28 | 已补充来源说明；完整核验范围须读具体说明；出版方公开规则；未取得许可题本，也未完成各中文译本与独立研究的对应。 |
 | VR-PH-006-018 | General Health Questionnaire-12 | 已补充来源说明；完整核验范围须读具体说明；出版方公开规则；未取得许可题本，也未完成各中文译本与独立研究的对应。 |
 | VR-PH-007-019 | WHO Well-Being Questionnaire-28 | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-PH-007-020 | WHO Well-Being Index-10 | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-PH-008-021 | CES-D-20 | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-PH-008-022 | CES-D Revised | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-PH-008-023 | CES-D-10 Andresen | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-PH-008-024 | CES-D-8 | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-PH-008-025 | CES-DC | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
+| VR-PH-008-021 | CES-D-20 | 已补充来源说明；完整核验范围须读具体说明；APA公开20题英文表及说明；中文原件、具体研究对应及漏答方案待核。 |
+| VR-PH-008-022 | CES-D Revised | 已补充来源说明；完整核验范围须读具体说明；CESD-R开发团队站点的20题结构及计分说明；具体中文原件、研究和漏答协议待核。 |
+| VR-PH-008-023 | CES-D-10 Andresen | 已补充来源说明；完整核验范围须读具体说明；Andresen等1994原始研究记录与摘要；完整题本、反向键及中文对应尚待全文核对。 |
+| VR-PH-008-024 | CES-D-8 | 已补充来源说明；完整核验范围须读具体说明；TILDA八题与计分说明，以及HRS报告第II节；目录尚未指定唯一回答格式，中文对应待核。 |
+| VR-PH-008-025 | CES-DC | 已补充来源说明；完整核验范围须读具体说明；AACAP提供的Bright Futures两页CES-DC英文题本及计分说明；中文研究和转载条件仍待核。 |
 | VR-SL-001-026 | Pittsburgh Sleep Quality Index | 已补充来源说明；完整核验范围须读具体说明；英文问卷与评分原页；各中文译本及其他长度仍待独立核验。 |
 | VR-SL-001-027 | Brief Pittsburgh Sleep Quality Index | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-SL-002-028 | ISI patient self-report, 2 weeks | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
@@ -141,7 +141,7 @@
 | VR-SS-003-073 | Lubben Social Network Scale-18 | 已补充来源说明；完整核验范围须读具体说明；开发者原件、选项及使用要求；中文独立研究、漏答算法及原件冲突仍需核对。 |
 | VR-SS-003-074 | Lubben Social Network Scale-12 | 已补充来源说明；完整核验范围须读具体说明；开发者原件、选项及使用要求；中文独立研究、漏答算法及原件冲突仍需核对。 |
 | VR-SS-003-075 | Lubben Social Network Scale-6 | 已补充来源说明；完整核验范围须读具体说明；开发者原件、选项及使用要求；中文独立研究、漏答算法及原件冲突仍需核对。 |
-| VR-SS-005-076 | MOS Social Support Survey-19 | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
+| VR-SS-005-076 | MOS Social Support Survey-19 | 已补充来源说明；完整核验范围须读具体说明；RAND当前19项英文问卷网页、四分量表和整体指数计分；具体中文题本、原研究全文和漏答协议待核。 |
 | VR-SS-005-077 | Modified MOS Social Support Survey 8-item | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-HB-001-078 | IPAQ Short Form Last 7 Days Self-Administered | 已补充来源说明；完整核验范围须读具体说明；原始八种形式的研究摘要及2005评分协议全文；各中文原件、跳答和独立研究仍待逐一核对。 |
 | VR-HB-001-079 | IPAQ Short Form Last 7 Days Telephone | 已补充来源说明；完整核验范围须读具体说明；原始八种形式的研究摘要及2005评分协议全文；各中文原件、跳答和独立研究仍待逐一核对。 |

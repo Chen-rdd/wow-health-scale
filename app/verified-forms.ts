@@ -1125,14 +1125,14 @@ export const verifiedForms:VerifiedForm[] = [
     "rightsSource": "https://dass.psy.unsw.edu.au/DASSFAQ.htm",
     "usage": "用于研究方案与纸面问卷准备，保留正式措辞；不得出售量表本身。公开网站不提供DASS答题、自动计分或诊断。",
     "verifiedAt": "2026-10-13",
-    "translationEvidence": "原始研究摘要包括605名大学生、138名地震经历者、86名北京居民。Wang等2016正文第3页将其关联至Zuo/Chang译本，但本轮未获得2012完整施测题本，逐字一致性尚未确认。",
+    "translationEvidence": "已取得并读完五页机构仓储全文。方法明确采用Zuo/Chang简体42题，样本为605名大学生、138名地震经历者和86名北京居民；原文说明未做回译，未测重测信度。表2列英文条目，未列完整中文施测题文，不能标为逐字匹配。",
     "exportReady": true,
     "studyEvidence": [
       {
-        "label": "Chan等 2012 研究记录",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/22921506/",
-        "status": "尚未确认",
-        "note": "原始研究摘要包括605名大学生、138名地震经历者、86名北京居民。Wang等2016正文第3页将其关联至Zuo/Chang译本，但本轮未获得2012完整施测题本，逐字一致性尚未确认。"
+        "label": "Chan等2012原始研究全文",
+        "url": "https://ir.psych.ac.cn/bitstream/311026/11513/1/WOS_000313764700126.pdf",
+        "status": "译本来源已关联",
+        "note": "已取得并读完五页机构仓储全文。方法明确采用Zuo/Chang简体42题，样本为605名大学生、138名地震经历者和86名北京居民；原文说明未做回译，未测重测信度。表2列英文条目，未列完整中文施测题文，不能标为逐字匹配。"
       }
     ],
     "audit": {
@@ -2716,7 +2716,7 @@ export const verifiedForms:VerifiedForm[] = [
     },
     "respondentScoringEnabled": false,
     "verifiedAt": "2026-10-13",
-    "translationEvidence": "已有上海社区1045人及MINI对照的研究线索；未取得与当前官方目录题本可逐字比较的完整研究译文，不能把≥7的研究界值设为通用标准。",
+    "translationEvidence": "已通过学校机构权限取得Wang等2014论文六页全文。上海单一社区1045人、MINI确诊28例，≥7时敏感度/特异度均0.86、阳性预测值0.15；论文未刊完整中文九题，不能证明与本份大陆简体表逐字一致，亦不能把该阈值设为通用标准。",
     "usage": "保留官方题文与选项。开发者允许复制、翻译、展示及分发；评分用于症状评估或筛查，不能单凭总分确诊。",
     "exportReady": false,
     "supplementaryItems": [
@@ -2734,9 +2734,9 @@ export const verifiedForms:VerifiedForm[] = [
     "studyEvidence": [
       {
         "label": "Wang等 2014 社区验证研究",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/25023953/",
+        "url": "https://doi.org/10.1016/j.genhosppsych.2014.05.021",
         "status": "尚未确认",
-        "note": "已有上海社区1045人及MINI对照的研究线索；未取得与当前官方目录题本可逐字比较的完整研究译文，不能把≥7的研究界值设为通用标准。"
+        "note": "已通过学校机构权限取得Wang等2014论文六页全文。上海单一社区1045人、MINI确诊28例，≥7时敏感度/特异度均0.86、阳性预测值0.15；论文未刊完整中文九题，不能证明与本份大陆简体表逐字一致，亦不能把该阈值设为通用标准。"
       }
     ],
     "audit": {
@@ -2990,7 +2990,7 @@ export const verifiedForms:VerifiedForm[] = [
     },
     "respondentScoringEnabled": false,
     "verifiedAt": "2026-10-13",
-    "translationEvidence": "研究描述自行翻译、回译，采用既有10分阈值；本轮未取得完整施测题本与官网译本的逐字对照，不声称是同一份译文。",
+    "translationEvidence": "已通过知网取得并核对四页原文；方法描述自行翻译和回译，但未刊完整七项中文题文。论文的回答锚点与当前官网表不完全同文，采用既有10分阈值。尚未确认是同一份译文，不标为逐字匹配。",
     "usage": "保留官方题文与选项。开发者允许复制、翻译、展示及分发；评分用于症状评估或筛查，不能单凭总分确诊。",
     "exportReady": false,
     "studyEvidence": [
@@ -2998,7 +2998,7 @@ export const verifiedForms:VerifiedForm[] = [
         "label": "何筱衍等 2010 中文验证研究",
         "url": "https://www.researchgate.net/publication/281360109_Reliability_and_validity_of_a_generalized_anxiety_scale_in_general_hospital_outpatients",
         "status": "尚未确认",
-        "note": "研究描述自行翻译、回译，采用既有10分阈值；本轮未取得完整施测题本与官网译本的逐字对照，不声称是同一份译文。"
+        "note": "已通过知网取得并核对四页原文；方法描述自行翻译和回译，但未刊完整七项中文题文。论文的回答锚点与当前官网表不完全同文，采用既有10分阈值。尚未确认是同一份译文，不标为逐字匹配。"
       }
     ],
     "audit": {
@@ -3049,7 +3049,7 @@ export const verifiedForms:VerifiedForm[] = [
         "value": 0
       }
     ],
-    "scoringNote": "原表答案编号1—5与分数不同：得分=5−原表编号；核心6题合计0—24分。这里采用开发者0—4分体系，不能套用澳大利亚1—5分体系的总分范围或界值。未确定漏答处理时不自动补零。",
+    "scoringNote": "原表答案编号1—5与分数不同：得分=5−原表编号；核心6题合计0—24分。这里采用开发者0—4分体系，不能套用澳大利亚1—5分体系的总分范围或界值。未确定漏答处理时不自动补零。 原件题号为问1的字母分项；逐题对应栏采用1a起的原件标记。本库原有数字映射2、4、5、8、9、10仅表示对应K10母版条目，不是K6原件题号。",
     "items": [
       {
         "number": 1,
@@ -3057,7 +3057,8 @@ export const verifiedForms:VerifiedForm[] = [
         "dimension": "心理困扰",
         "originalItem": 2,
         "sourcePage": 1,
-        "reverse": false
+        "reverse": false,
+        "sourceItemLabel": "1a"
       },
       {
         "number": 2,
@@ -3065,7 +3066,8 @@ export const verifiedForms:VerifiedForm[] = [
         "dimension": "心理困扰",
         "originalItem": 4,
         "sourcePage": 1,
-        "reverse": false
+        "reverse": false,
+        "sourceItemLabel": "1b"
       },
       {
         "number": 3,
@@ -3073,7 +3075,8 @@ export const verifiedForms:VerifiedForm[] = [
         "dimension": "心理困扰",
         "originalItem": 5,
         "sourcePage": 1,
-        "reverse": false
+        "reverse": false,
+        "sourceItemLabel": "1c"
       },
       {
         "number": 4,
@@ -3081,7 +3084,8 @@ export const verifiedForms:VerifiedForm[] = [
         "dimension": "心理困扰",
         "originalItem": 8,
         "sourcePage": 1,
-        "reverse": false
+        "reverse": false,
+        "sourceItemLabel": "1d"
       },
       {
         "number": 5,
@@ -3089,7 +3093,8 @@ export const verifiedForms:VerifiedForm[] = [
         "dimension": "心理困扰",
         "originalItem": 9,
         "sourcePage": 1,
-        "reverse": false
+        "reverse": false,
+        "sourceItemLabel": "1e"
       },
       {
         "number": 6,
@@ -3097,7 +3102,8 @@ export const verifiedForms:VerifiedForm[] = [
         "dimension": "心理困扰",
         "originalItem": 10,
         "sourcePage": 1,
-        "reverse": false
+        "reverse": false,
+        "sourceItemLabel": "1f"
       }
     ],
     "dimensions": {
@@ -3116,24 +3122,24 @@ export const verifiedForms:VerifiedForm[] = [
     ],
     "comparisonMultiplier": 1,
     "review": {
-      "text": "现行官网可读取核心与附加表文字；原文件下载403，原页视觉与新哈希尚未确认。",
+      "text": "已重新下载普通话官方三页PDF，逐项核对核心题及锚点，源哈希一致；附加题和跳答仅在原件完整呈现。",
       "scoring": "现行FAQ已读，印刷1–5需转症状4–0；完整附加题不进入核心总分。",
       "translationValidation": "尚未匹配本份译文与对应中文验证研究"
     },
     "respondentScoringEnabled": false,
-    "verifiedAt": "2026-09-13",
+    "verifiedAt": "2026-10-15",
     "translationEvidence": "译者署名：Yueqin Huang、Ping Liu，北京大学精神卫生研究所。开发者网站公开提供此普通话译本；尚未逐字匹配本份译文与对应中文验证研究，不能将其他译本或人群的效度直接套用于本表。",
     "usage": "这里预览的是K6+原件第一页的核心6题，不是完整“+”表。第二页关于相对平时的变化、受损天数及就诊次数等附加问题不参与核心总分；完整题文及跳答请看原件。Copyright © Ronald C. Kessler, PhD. All rights reserved. 使用时保留版权并引用Kessler等（2003），Archives of General Psychiatry, 60(2), 184–189。",
     "exportReady": false,
     "studyEvidence": [],
-    "exportBlockReason": "现行官网可读取普通话核心及补充问题文字，但新PDF原文件下载403；原页视觉、源哈希及实际打印尚未重新确认，保持关闭导出。",
+    "exportBlockReason": "官方原件、哈希及候选Word全部页面已核对；实际浏览器打印分页与另存PDF仍待检查，暂不开放正式导出。",
     "audit": {
-      "date": "2026-10-14",
-      "source": "现行网页文字可读取；新PDF下载403。此前源哈希不视为本轮下载记录。",
-      "items": "网页可读核心与既有预览相符；完整“+”表补充问题未加入预览，原页排版仍待核对。",
+      "date": "2026-10-15",
+      "source": "从现行作者官网经Chrome重新下载三页普通话PDF，文件SHA256与登记一致；直接客户端403单独保留在日志。",
+      "items": "逐项对照第1页6个核心项、指导语和五级锚点；第2页附加问题及全答“无”后的跳答已看原页，第3页版权与译者署名已核对。当前预览仅含核心项，不冒充完整“+”表。",
       "scoring": "官网FAQ已读，保留印刷1–5与症状4–0的重编码；缺失无单一默认算法。",
       "rights": "官网允许免费使用与译本使用，要求版权及2003年引用；预览保留署名。",
-      "layout": "新PDF原页和实际浏览器打印未通过，未开放导出。"
+      "layout": "候选Word经转PDF后全部页面已视觉检查：问卷1页、使用说明3页；回答代码、原件字母题号、版权和来源完整。实际浏览器打印仍待完成，正式导出继续关闭。"
     }
   },
   {
@@ -3174,7 +3180,7 @@ export const verifiedForms:VerifiedForm[] = [
         "value": 0
       }
     ],
-    "scoringNote": "原表答案编号1—5与分数不同：得分=5−原表编号；核心10题合计0—40分。这里采用开发者0—4分体系，不能套用澳大利亚1—5分体系的总分范围或界值。未确定漏答处理时不自动补零。",
+    "scoringNote": "原表答案编号1—5与分数不同：得分=5−原表编号；核心10题合计0—40分。这里采用开发者0—4分体系，不能套用澳大利亚1—5分体系的总分范围或界值。未确定漏答处理时不自动补零。 原件题号为问1的字母分项；逐题对应栏采用1a起的原件标记。",
     "items": [
       {
         "number": 1,
@@ -3182,7 +3188,8 @@ export const verifiedForms:VerifiedForm[] = [
         "dimension": "心理困扰",
         "originalItem": 1,
         "sourcePage": 1,
-        "reverse": false
+        "reverse": false,
+        "sourceItemLabel": "1a"
       },
       {
         "number": 2,
@@ -3190,7 +3197,8 @@ export const verifiedForms:VerifiedForm[] = [
         "dimension": "心理困扰",
         "originalItem": 2,
         "sourcePage": 1,
-        "reverse": false
+        "reverse": false,
+        "sourceItemLabel": "1b"
       },
       {
         "number": 3,
@@ -3198,7 +3206,8 @@ export const verifiedForms:VerifiedForm[] = [
         "dimension": "心理困扰",
         "originalItem": 3,
         "sourcePage": 1,
-        "reverse": false
+        "reverse": false,
+        "sourceItemLabel": "1c"
       },
       {
         "number": 4,
@@ -3206,7 +3215,8 @@ export const verifiedForms:VerifiedForm[] = [
         "dimension": "心理困扰",
         "originalItem": 4,
         "sourcePage": 1,
-        "reverse": false
+        "reverse": false,
+        "sourceItemLabel": "1d"
       },
       {
         "number": 5,
@@ -3214,7 +3224,8 @@ export const verifiedForms:VerifiedForm[] = [
         "dimension": "心理困扰",
         "originalItem": 5,
         "sourcePage": 1,
-        "reverse": false
+        "reverse": false,
+        "sourceItemLabel": "1e"
       },
       {
         "number": 6,
@@ -3222,7 +3233,8 @@ export const verifiedForms:VerifiedForm[] = [
         "dimension": "心理困扰",
         "originalItem": 6,
         "sourcePage": 1,
-        "reverse": false
+        "reverse": false,
+        "sourceItemLabel": "1f"
       },
       {
         "number": 7,
@@ -3230,7 +3242,8 @@ export const verifiedForms:VerifiedForm[] = [
         "dimension": "心理困扰",
         "originalItem": 7,
         "sourcePage": 1,
-        "reverse": false
+        "reverse": false,
+        "sourceItemLabel": "1g"
       },
       {
         "number": 8,
@@ -3238,7 +3251,8 @@ export const verifiedForms:VerifiedForm[] = [
         "dimension": "心理困扰",
         "originalItem": 8,
         "sourcePage": 1,
-        "reverse": false
+        "reverse": false,
+        "sourceItemLabel": "1h"
       },
       {
         "number": 9,
@@ -3246,7 +3260,8 @@ export const verifiedForms:VerifiedForm[] = [
         "dimension": "心理困扰",
         "originalItem": 9,
         "sourcePage": 1,
-        "reverse": false
+        "reverse": false,
+        "sourceItemLabel": "1i"
       },
       {
         "number": 10,
@@ -3254,7 +3269,8 @@ export const verifiedForms:VerifiedForm[] = [
         "dimension": "心理困扰",
         "originalItem": 10,
         "sourcePage": 1,
-        "reverse": false
+        "reverse": false,
+        "sourceItemLabel": "1j"
       }
     ],
     "dimensions": {
@@ -3277,24 +3293,24 @@ export const verifiedForms:VerifiedForm[] = [
     ],
     "comparisonMultiplier": 1,
     "review": {
-      "text": "现行官网可读取核心与附加表文字；原文件下载403，原页视觉与新哈希尚未确认。",
+      "text": "已重新下载普通话官方三页PDF，逐项核对核心题及锚点，源哈希一致；附加题和跳答仅在原件完整呈现。",
       "scoring": "现行FAQ已读，印刷1–5需转症状4–0；完整附加题不进入核心总分。",
       "translationValidation": "尚未匹配本份译文与对应中文验证研究"
     },
     "respondentScoringEnabled": false,
-    "verifiedAt": "2026-09-13",
+    "verifiedAt": "2026-10-15",
     "translationEvidence": "译者署名：Yueqin Huang、Ping Liu，北京大学精神卫生研究所。开发者网站公开提供此普通话译本；尚未逐字匹配本份译文与对应中文验证研究，不能将其他译本或人群的效度直接套用于本表。",
     "usage": "这里预览的是K10+原件第一页的核心10题，不是完整“+”表。第二页关于相对平时的变化、受损天数及就诊次数等附加问题不参与核心总分；完整题文及跳答请看原件。Copyright © Ronald C. Kessler, PhD. All rights reserved. 使用时保留版权并引用Kessler等（2003），Archives of General Psychiatry, 60(2), 184–189。",
     "exportReady": false,
     "studyEvidence": [],
-    "exportBlockReason": "现行官网可读取普通话核心及补充问题文字，但新PDF原文件下载403；原页视觉、源哈希及实际打印尚未重新确认，保持关闭导出。",
+    "exportBlockReason": "官方原件、哈希及候选Word全部页面已核对；实际浏览器打印分页与另存PDF仍待检查，暂不开放正式导出。",
     "audit": {
-      "date": "2026-10-14",
-      "source": "现行网页文字可读取；新PDF下载403。此前源哈希不视为本轮下载记录。",
-      "items": "网页可读核心与既有预览相符；完整“+”表补充问题未加入预览，原页排版仍待核对。",
+      "date": "2026-10-15",
+      "source": "从现行作者官网经Chrome重新下载三页普通话PDF，文件SHA256与登记一致；直接客户端403单独保留在日志。",
+      "items": "逐项对照第1页10个核心项、指导语和五级锚点；第2页附加问题及全答“无”后的跳答已看原页，第3页版权与译者署名已核对。当前预览仅含核心项，不冒充完整“+”表。",
       "scoring": "官网FAQ已读，保留印刷1–5与症状4–0的重编码；缺失无单一默认算法。",
       "rights": "官网允许免费使用与译本使用，要求版权及2003年引用；预览保留署名。",
-      "layout": "新PDF原页和实际浏览器打印未通过，未开放导出。"
+      "layout": "候选Word经转PDF后全部页面已视觉检查：问卷1页、使用说明3页；回答代码、原件字母题号、版权和来源完整。实际浏览器打印仍待完成，正式导出继续关闭。"
     }
   },
   {

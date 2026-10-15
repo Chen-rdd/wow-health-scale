@@ -1,0 +1,100 @@
+[
+  {
+    "file": "k6-mandarin-current.pdf",
+    "url": "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Chinese_Mandarin_K6.pdf",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "k10-mandarin-current.pdf",
+    "url": "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Chinese_Mandarin_K10.pdf",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "dass-chan-2012.pdf",
+    "url": "https://ir.psych.ac.cn/bitstream/311026/11513/1/WOS_000313764700126.pdf",
+    "status": "downloaded",
+    "bytes": 176508,
+    "sha256": "4436db3ad22b8f55f6b43d49d499e90421cf58656cc8dc820865bfefd1951a27"
+  },
+  {
+    "file": "psq18-survey.pdf",
+    "url": "https://www.rand.org/content/dam/rand/www/external/health/surveys_tools/psq/psq18_survey.pdf",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "psq18-scoring.pdf",
+    "url": "https://www.rand.org/content/dam/rand/www/external/health/surveys_tools/psq/psq18_scoring.pdf",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "semcd6-official.pdf",
+    "url": "https://selfmanagementresource.com/wp-content/uploads/English_-_self-efficacy_for_managing_chronic_disease_6-item.pdf",
+    "status": "downloaded",
+    "bytes": 95579,
+    "sha256": "74376072d7c0bfefc6cd26d968ba523c4739a7ff0c7267439dade45e73affa0b"
+  },
+  {
+    "file": "sdsca-2000.pdf",
+    "url": "https://diabetesjournals.org/care/article-pdf/23/7/943/450689/10895844.pdf",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "k6-mandarin-current.pdf",
+    "status": "downloaded_via_official_browser",
+    "pages": 3,
+    "bytes": 175365,
+    "sha256": "704770d98ca5aee2621a7b7ccc032a16b9ab5c8792fb3260b0711a56597bd46d",
+    "registeredSha256": "704770d98ca5aee2621a7b7ccc032a16b9ab5c8792fb3260b0711a56597bd46d",
+    "matchesRegisteredFile": true
+  },
+  {
+    "file": "k10-mandarin-current.pdf",
+    "status": "downloaded_via_official_browser",
+    "pages": 3,
+    "bytes": 175937,
+    "sha256": "bb04e2b59dd949222aa89f49e87b6d3f83ede853d2d73e398f04fdef19ec730e",
+    "registeredSha256": "bb04e2b59dd949222aa89f49e87b6d3f83ede853d2d73e398f04fdef19ec730e",
+    "matchesRegisteredFile": true
+  },
+  {
+    "file": "promis-global-2024.pdf",
+    "url": "https://healthmeasures.net/images/PROMIS/manuals/Scoring_Manual_Only/PROMIS_Global_Health_Scoring_Manual_30Aug2024.pdf",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "file": "cesd20-apa.pdf",
+    "url": "https://www.apa.org/depression-guideline/epidemiologic-studies-scale.pdf",
+    "status": "not_pdf",
+    "bytes": 212
+  },
+  {
+    "file": "cesdc-aacap.pdf",
+    "url": "https://www.aacap.org/App_Themes/AACAP/docs/member_resources/toolbox_for_clinical_practice_and_outcomes/symptoms/ces_dc.pdf",
+    "status": "downloaded",
+    "bytes": 37687,
+    "sha256": "e35fe843d946b28a34c2961d55e1238a3a63a7fbb62897c78a6141c0542ea9ab"
+  },
+  {
+    "file": "hrs-affective-guide.pdf",
+    "url": "https://hrs.isr.umich.edu/sites/default/files/biblio/dr-005_0.pdf",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "phq9-wang-2014.pdf",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0163834314001558",
+    "status": "downloaded_via_institutional_browser",
+    "institution": "Shanghai Jiao Tong University",
+    "bytes": 322292,
+    "pages": 6,
+    "sha256": "7575a2df86eb257c4db5104580d5fbe3c5aaa3f900174bc92ebbb99fd9fd0480",
+    "supplementCheck": "全文页面未见Supplementary/Appendix附件入口；PDF六页未含完整中文题文。",
+    "verification": "当前人机验证在获准点击前已自行消失，无人工点击。"
+  }
+]

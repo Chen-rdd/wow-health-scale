@@ -8,6 +8,8 @@ import {ipaqProfiles} from './reviewed-profiles-ipaq';
 import {whoqolProfiles} from './reviewed-profiles-whoqol';
 import {asqProfiles} from './reviewed-profiles-asq';
 import {healthBehaviourProfiles} from './reviewed-profiles-health-behaviour';
+import {careToolsProfiles} from './reviewed-profiles-care-tools';
+import {cesdProfiles} from './reviewed-profiles-cesd';
 const base='https://dass.psy.unsw.edu.au/';
 const p=(text:string,path:string,label:string):EvidenceParagraph=>({text,source:base+path,label});
 const scope=p('抑郁维度关注情绪低落、兴趣或愉悦感减少、自我贬低与缺乏主动性；焦虑维度侧重自主神经唤起、躯体紧张及恐惧体验；压力维度关注难以放松、持续紧绷、易激惹及不耐烦。三个维度相关，但测量内容不同。','over.htm','开发者对测量构念的定义');
@@ -21,9 +23,11 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
 ...whoqolProfiles,
 ...asqProfiles,
 ...healthBehaviourProfiles,
+...careToolsProfiles,
+...cesdProfiles,
 "VR-PH-005-014":{
-  "reviewed": "2026-10-14",
-  "reviewScope": "官网现行普通话核心及附加表的可读取文字、评分FAQ；新源文件下载403，原页视觉、哈希和实际打印仍未确认。",
+  "reviewed": "2026-10-15",
+  "reviewScope": "普通话K6／K10三页官方PDF已重新下载，哈希一致；核心、附加、跳答及署名原页已核对。粤语、独立中文研究及本库实际打印仍待核对。",
   "definition": [
     {
       "text": "K6或K10含补充问题的表单，在核心情绪症状之外询问持续性、功能影响等信息。它直接扩展相应核心版本；补充问题不是新的核心症状条目。",
@@ -47,7 +51,7 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
     {
       "label": "作者官网 普通话及粤语译本",
       "url": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
-      "note": "现行普通话K6／K10网页可读取核心及补充问题文字；新PDF原文件下载仍为403。粤语独立原件、原页排版、访谈跳转及中文验证研究仍需分别核对。"
+      "note": "已取得普通话K6／K10三页原件并核对：第1页为核心，第2页为比较平时、功能及就医附加问题，全答“无”时后续影响问题可跳过；第3页署黄悦勤和刘平翻译。粤语及独立中文验证另核对。"
     }
   ],
   "limits": [
@@ -59,8 +63,8 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
   ]
 },
 "VR-PH-005-013":{
-  "reviewed": "2026-10-14",
-  "reviewScope": "官网现行普通话核心及附加表的可读取文字、评分FAQ；新源文件下载403，原页视觉、哈希和实际打印仍未确认。",
+  "reviewed": "2026-10-15",
+  "reviewScope": "普通话K6／K10三页官方PDF已重新下载，哈希一致；核心、附加、跳答及署名原页已核对。粤语、独立中文研究及本库实际打印仍待核对。",
   "definition": [
     {
       "text": "K6从K10删去四题，是六项心理困扰短版；直接来源为K10。它缩短施测时间，并非把K10分数按比例换算。",
@@ -84,7 +88,7 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
     {
       "label": "作者官网 普通话及粤语译本",
       "url": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
-      "note": "现行普通话K6／K10网页可读取核心及补充问题文字；新PDF原文件下载仍为403。粤语独立原件、原页排版、访谈跳转及中文验证研究仍需分别核对。"
+      "note": "已取得普通话K6／K10三页原件并核对：第1页为核心，第2页为比较平时、功能及就医附加问题，全答“无”时后续影响问题可跳过；第3页署黄悦勤和刘平翻译。粤语及独立中文验证另核对。"
     }
   ],
   "limits": [
@@ -96,8 +100,8 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
   ]
 },
 "VR-PH-005-012":{
-  "reviewed": "2026-10-14",
-  "reviewScope": "官网现行普通话核心及附加表的可读取文字、评分FAQ；新源文件下载403，原页视觉、哈希和实际打印仍未确认。",
+  "reviewed": "2026-10-15",
+  "reviewScope": "普通话K6／K10三页官方PDF已重新下载，哈希一致；核心、附加、跳答及署名原页已核对。粤语、独立中文研究及本库实际打印仍待核对。",
   "definition": [
     {
       "text": "K10以十项情绪相关症状评估非特异性心理困扰，官网表单回顾过去30天。它用于筛查和描述困扰程度，不把抑郁、焦虑等疾病分别确诊。",
@@ -121,7 +125,7 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
     {
       "label": "作者官网 普通话及粤语译本",
       "url": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
-      "note": "现行普通话K6／K10网页可读取核心及补充问题文字；新PDF原文件下载仍为403。粤语独立原件、原页排版、访谈跳转及中文验证研究仍需分别核对。"
+      "note": "已取得普通话K6／K10三页原件并核对：第1页为核心，第2页为比较平时、功能及就医附加问题，全答“无”时后续影响问题可跳过；第3页署黄悦勤和刘平翻译。粤语及独立中文验证另核对。"
     }
   ],
   "limits": [
@@ -337,7 +341,8 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
   ]
 },
 "VR-PH-001-BASE":{
-  "reviewed": "2026-09-12",
+  "reviewed": "2026-10-15",
+  "reviewScope": "原始开发研究及官方题本；Wang 2014全文六页已取得并核读，正文未刊完整中文九题，确切译文对应仍未确认。",
   "definition": [
     {
       "text": "PHQ-9（患者健康问卷九项抑郁量表）是完整PHQ中的抑郁模块，采用自评方式量化抑郁症状严重程度。九题对应抑郁相关症状，涉及兴趣、情绪、睡眠、精力、食欲、自我评价、注意力、精神运动变化及死亡或自伤想法。它可用于筛查和追踪症状，但分数本身不能完成临床诊断。",
@@ -375,7 +380,7 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
     }
   ],
   "limits": [
-    {"text":"Wang等2014年在上海一个社区1045名参与者中，以MINI访谈为诊断对照，报告PHQ-9≥7的筛查阈值。此结果有具体样本和译本背景，不应替代所有人群的适用性核对；本目录题本与该研究施测中文题文尚未完成逐项匹配。","source":"https://pubmed.ncbi.nlm.nih.gov/25023953/","label":"Wang等，2014：中文社区验证研究"},
+    {"text":"Wang等2014全文：上海一个社区1045人接受MINI访谈，其中28人符合重性抑郁诊断。PHQ-9≥7时敏感度、特异度均0.86，阳性预测值仅0.15，AUC为0.92（95%CI 0.86—0.97）；筛查阳性不等于确诊。单一社区、阳性病例较少及女性占65%限制外推。正文没有完整中文九题，仍不能将本目录题本认定为该研究的确切译文。","source":"https://doi.org/10.1016/j.genhosppsych.2014.05.021","label":"Wang等，2014：中文社区验证研究"},
     {
       "text": "第9题阳性需要进一步评估，不能仅凭该题或总分判断自伤风险。调查实施前应安排相应的专业评估和转介流程。",
       "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
@@ -451,11 +456,12 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
   "reviewScope": "英文2024版及官网2007中文原页；2022年大学生研究与官网译文的逐字对应仍未确认。"
 },
  'VR-PH-003-006':{
-  reviewed:'2026-10-13',
+  reviewed:'2026-10-15',reviewScope:'官方42题题本与评分键、Chan等2012五页全文；Zuo/Chang译本来源已直接关联，中文完整施测题文未刊，逐字对应仍未完成。',
   definition:[p('DASS-42是由42个自评条目组成的抑郁—焦虑—压力量表，分别量化过去一周三类负性情绪状态的程度，每个维度14题。它适用于描述症状水平及其变化，不直接判定某一种精神障碍。','over.htm','官方概述'),scope],
   scoring:[p('每题按正式选项赋0、1、2或3分。按评分键分别相加14题，得到抑郁、焦虑、压力三个0–42分的分量表分数；无反向题。分数越高表示对应症状越重。','Download%20files/Dass_template.pdf','原版评分键'),p('缺失值应按分量表处理并预先声明规则。官网给出的经验建议是每个14题分量表最多容许2题缺失；这不是统一强制标准。不能把空白直接当作0分。','DASSFAQ.htm','官方FAQ第27项')],
   translations:[
-   {label:'简体中文：Zuo 与 Chang，42题',url:base+'Chinese/DASS42%20simplified%20Chinese.pdf',note:'2026-10-13重新核对原件及校验值；题序与英文一致。Wang等2016正文关联Chan等2012研究与此译本，但本轮未取得2012完整施测题本，逐字匹配仍未确认。'},
+   {label:'简体中文：Zuo 与 Chang，42题',url:base+'Chinese/DASS42%20simplified%20Chinese.pdf',note:'2026-10-13重新核对原件及校验值；题序与英文一致。Chan等2012五页全文明确采用此译本；表2只列英文，完整中文施测题文未刊，逐字匹配仍未确认。'},
+   {label:'Chan等2012：原始验证研究全文',url:'https://ir.psych.ac.cn/bitstream/311026/11513/1/WOS_000313764700126.pdf',note:'方法明确采用Zuo/Chang简体42题，未做回译；605名大学生、138名地震经历者及86名北京居民。未检查重测信度，也没有临床诊断访谈。表2只列英文，不能证明完整中文题文与现存题本逐字相同。'},
    {label:'中文版来源与验证研究的直接原文线索',url:'https://ir.psych.ac.cn/bitstream/311026/20518/1/Cross-Cultural%20Validation%20of%20the%20Depression%20Anxiety%20Stress%20%20Scale%E2%80%9321%20in%20China.pdf',note:'Wang等2016正文第3页区分Zuo/Chang简体42题、Taouk等译本与台湾改编版，不能把这些中文版本合并。'},
    {label:'繁体中文：Calais Chan，42题',url:base+'Chinese/Chinese%20DASS%20Calais.pdf',note:'官方收录，原件已取得；逐题复核进行中。'},
    {label:'台湾用语：Lu Hui Chun，42题',url:base+'Chinese/Taiwanese%20DASS%20Lu%20Hui%20Chun.pdf',note:'对既有中文译本的适配，不能与其他译本混称；逐题复核进行中。'},

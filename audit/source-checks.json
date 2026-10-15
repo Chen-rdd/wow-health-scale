@@ -86,12 +86,26 @@
   {
     "id": "k6-zh-mandarin-core",
     "url": "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Chinese_Mandarin_K6.pdf",
-    "error": "HTTP Error 403: Forbidden"
+    "previousDirectError": "HTTP Error 403: Forbidden",
+    "retrievedAt": "2026-10-15",
+    "accessMode": "official_chrome_download",
+    "path": "audit/source-files/k6-mandarin-current.pdf",
+    "bytes": 175365,
+    "sha256": "704770d98ca5aee2621a7b7ccc032a16b9ab5c8792fb3260b0711a56597bd46d",
+    "matchesRegisteredHash": true,
+    "pages": 3
   },
   {
     "id": "k10-zh-mandarin-core",
     "url": "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Chinese_Mandarin_K10.pdf",
-    "error": "HTTP Error 403: Forbidden"
+    "previousDirectError": "HTTP Error 403: Forbidden",
+    "retrievedAt": "2026-10-15",
+    "accessMode": "official_chrome_download",
+    "path": "audit/source-files/k10-mandarin-current.pdf",
+    "bytes": 175937,
+    "sha256": "bb04e2b59dd949222aa89f49e87b6d3f83ede853d2d73e398f04fdef19ec730e",
+    "matchesRegisteredHash": true,
+    "pages": 3
   },
   {
     "id": "phq8-zh-mainland",

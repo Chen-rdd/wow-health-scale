@@ -2,8 +2,8 @@
   "summary": {
     "records": 248,
     "selectableRecords": 213,
-    "recordsWithSourcedProfiles": 93,
-    "selectableRecordsWithoutSourcedProfiles": 120,
+    "recordsWithSourcedProfiles": 101,
+    "selectableRecordsWithoutSourcedProfiles": 112,
     "registeredForms": 16,
     "exportableForms": 4,
     "warning": "说明覆盖数量不是完整题本、独立中文验证或授权完成数量。别名合并后的前台数量另计。"
@@ -15,12 +15,12 @@
       "name": "Patient Health Questionnaire-9",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-09-12",
-      "reviewScope": "按现有逐条来源说明；不得视作所有译本完整验证",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "原始开发研究及官方题本；Wang 2014全文六页已取得并核读，正文未刊完整中文九题，确切译文对应仍未确认。",
       "sources": [
         "https://pubmed.ncbi.nlm.nih.gov/11556941/",
         "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
-        "https://pubmed.ncbi.nlm.nih.gov/25023953/",
+        "https://doi.org/10.1016/j.genhosppsych.2014.05.021",
         "https://www.phqscreeners.com/select-screener",
         "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/PHQ-9_English.pdf",
         "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/PHQ9_Simplified%20Chinese%20for%20Mainland%20China.pdf"
@@ -48,9 +48,9 @@
           "studyEvidence": [
             {
               "label": "Wang等 2014 社区验证研究",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/25023953/",
+              "url": "https://doi.org/10.1016/j.genhosppsych.2014.05.021",
               "status": "尚未确认",
-              "note": "已有上海社区1045人及MINI对照的研究线索；未取得与当前官方目录题本可逐字比较的完整研究译文，不能把≥7的研究界值设为通用标准。"
+              "note": "已通过学校机构权限取得Wang等2014论文六页全文。上海单一社区1045人、MINI确诊28例，≥7时敏感度/特异度均0.86、阳性预测值0.15；论文未刊完整中文九题，不能证明与本份大陆简体表逐字一致，亦不能把该阈值设为通用标准。"
             }
           ]
         }
@@ -105,7 +105,7 @@
               "label": "何筱衍等 2010 中文验证研究",
               "url": "https://www.researchgate.net/publication/281360109_Reliability_and_validity_of_a_generalized_anxiety_scale_in_general_hospital_outpatients",
               "status": "尚未确认",
-              "note": "研究描述自行翻译、回译，采用既有10分阈值；本轮未取得完整施测题本与官网译本的逐字对照，不声称是同一份译文。"
+              "note": "已通过知网取得并核对四页原文；方法描述自行翻译和回译，但未刊完整七项中文题文。论文的回答锚点与当前官网表不完全同文，采用既有10分阈值。尚未确认是同一份译文，不标为逐字匹配。"
             }
           ]
         }
@@ -700,10 +700,12 @@
       "familyId": "MA-005",
       "name": "Self-Efficacy for Managing Chronic Disease 6-Item Scale",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "SMRC官方两页英文题本、计分及使用条件原页；具体中文译本和独立中文研究待核。",
+      "sources": [
+        "https://selfmanagementresource.com/wp-content/uploads/English_-_self-efficacy_for_managing_chronic_disease_6-item.pdf"
+      ],
       "primaryReference": {
         "title": "Evidence suggesting that a chronic disease self-management program can improve health status while reducing hospitalization: a randomized trial.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/10413387/",
@@ -972,10 +974,13 @@
       "familyId": "PE-001",
       "name": "Patient Satisfaction Questionnaire Short Form",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "RAND官方PSQ-18说明和三页评分文件文字；原题本PDF原页及具体中文译本仍待核对。",
+      "sources": [
+        "https://www.rand.org/health/surveys/psq.html",
+        "https://www.rand.org/content/dam/rand/www/external/health/surveys_tools/psq/psq18_scoring.pdf"
+      ],
       "primaryReference": {
         "title": "Marshall GN, Hays RD. The Patient Satisfaction Questionnaire Short-Form. 1994.",
         "url": "https://www.rand.org/pubs/papers/P7865.html",
@@ -1174,13 +1179,14 @@
       "name": "DASS-42",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-13",
-      "reviewScope": "按现有逐条来源说明；不得视作所有译本完整验证",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "官方42题题本与评分键、Chan等2012五页全文；Zuo/Chang译本来源已直接关联，中文完整施测题文未刊，逐字对应仍未完成。",
       "sources": [
         "https://dass.psy.unsw.edu.au/over.htm",
         "https://dass.psy.unsw.edu.au/Download%20files/Dass_template.pdf",
         "https://dass.psy.unsw.edu.au/DASSFAQ.htm",
         "https://dass.psy.unsw.edu.au/Chinese/DASS42%20simplified%20Chinese.pdf",
+        "https://ir.psych.ac.cn/bitstream/311026/11513/1/WOS_000313764700126.pdf",
         "https://ir.psych.ac.cn/bitstream/311026/20518/1/Cross-Cultural%20Validation%20of%20the%20Depression%20Anxiety%20Stress%20%20Scale%E2%80%9321%20in%20China.pdf",
         "https://dass.psy.unsw.edu.au/Chinese/Chinese%20DASS%20Calais.pdf",
         "https://dass.psy.unsw.edu.au/Chinese/Taiwanese%20DASS%20Lu%20Hui%20Chun.pdf",
@@ -1208,10 +1214,10 @@
           "blockReason": null,
           "studyEvidence": [
             {
-              "label": "Chan等 2012 研究记录",
-              "url": "https://pubmed.ncbi.nlm.nih.gov/22921506/",
-              "status": "尚未确认",
-              "note": "原始研究摘要包括605名大学生、138名地震经历者、86名北京居民。Wang等2016正文第3页将其关联至Zuo/Chang译本，但本轮未获得2012完整施测题本，逐字一致性尚未确认。"
+              "label": "Chan等2012原始研究全文",
+              "url": "https://ir.psych.ac.cn/bitstream/311026/11513/1/WOS_000313764700126.pdf",
+              "status": "译本来源已关联",
+              "note": "已取得并读完五页机构仓储全文。方法明确采用Zuo/Chang简体42题，样本为605名大学生、138名地震经历者和86名北京居民；原文说明未做回译，未测重测信度。表2列英文条目，未列完整中文施测题文，不能标为逐字匹配。"
             }
           ]
         }
@@ -1406,8 +1412,8 @@
       "name": "Kessler Psychological Distress Scale-10",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-14",
-      "reviewScope": "官网现行普通话核心及附加表的可读取文字、评分FAQ；新源文件下载403，原页视觉、哈希和实际打印仍未确认。",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "普通话K6／K10三页官方PDF已重新下载，哈希一致；核心、附加、跳答及署名原页已核对。粤语、独立中文研究及本库实际打印仍待核对。",
       "sources": [
         "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
         "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Scoring_K6_K10.pdf"
@@ -1423,7 +1429,7 @@
           "language": "zh-CN",
           "sourceUrl": "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Chinese_Mandarin_K10.pdf",
           "exportReady": false,
-          "blockReason": "现行官网可读取普通话核心及补充问题文字，但新PDF原文件下载403；原页视觉、源哈希及实际打印尚未重新确认，保持关闭导出。",
+          "blockReason": "官方原件、哈希及候选Word全部页面已核对；实际浏览器打印分页与另存PDF仍待检查，暂不开放正式导出。",
           "studyEvidence": []
         }
       ]
@@ -1434,8 +1440,8 @@
       "name": "Kessler Psychological Distress Scale-6",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-14",
-      "reviewScope": "官网现行普通话核心及附加表的可读取文字、评分FAQ；新源文件下载403，原页视觉、哈希和实际打印仍未确认。",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "普通话K6／K10三页官方PDF已重新下载，哈希一致；核心、附加、跳答及署名原页已核对。粤语、独立中文研究及本库实际打印仍待核对。",
       "sources": [
         "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
         "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Scoring_K6_K10.pdf"
@@ -1451,7 +1457,7 @@
           "language": "zh-CN",
           "sourceUrl": "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Chinese_Mandarin_K6.pdf",
           "exportReady": false,
-          "blockReason": "现行官网可读取普通话核心及补充问题文字，但新PDF原文件下载403；原页视觉、源哈希及实际打印尚未重新确认，保持关闭导出。",
+          "blockReason": "官方原件、哈希及候选Word全部页面已核对；实际浏览器打印分页与另存PDF仍待检查，暂不开放正式导出。",
           "studyEvidence": []
         }
       ]
@@ -1462,8 +1468,8 @@
       "name": "Kessler Psychological Distress Scales with Supplementary Questions",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-14",
-      "reviewScope": "官网现行普通话核心及附加表的可读取文字、评分FAQ；新源文件下载403，原页视觉、哈希和实际打印仍未确认。",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "普通话K6／K10三页官方PDF已重新下载，哈希一致；核心、附加、跳答及署名原页已核对。粤语、独立中文研究及本库实际打印仍待核对。",
       "sources": [
         "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
         "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Scoring_K6_K10.pdf"
@@ -1584,10 +1590,13 @@
       "familyId": "PH-008",
       "name": "CES-D-20",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "APA公开20题英文表及说明；中文原件、具体研究对应及漏答方案待核。",
+      "sources": [
+        "https://www.apa.org/depression-guideline/epidemiologic-studies-scale.pdf",
+        "https://www.apa.org/depression-guideline/assessment"
+      ],
       "primaryReference": {
         "title": "The CES-D Scale",
         "url": "https://doi.org/10.1177/014662167700100306",
@@ -1600,10 +1609,12 @@
       "familyId": "PH-008",
       "name": "CES-D Revised",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "CESD-R开发团队站点的20题结构及计分说明；具体中文原件、研究和漏答协议待核。",
+      "sources": [
+        "https://cesd-r.com/cesdr/"
+      ],
       "primaryReference": {
         "title": "Assessment of depressiveness in population. Psychometric evaluation of the Polish version of the CESD-R.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/28211550/",
@@ -1616,10 +1627,12 @@
       "familyId": "PH-008",
       "name": "CES-D-10 Andresen",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "Andresen等1994原始研究记录与摘要；完整题本、反向键及中文对应尚待全文核对。",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/8037935/"
+      ],
       "primaryReference": {
         "title": "Validation of the 10-item Centre for Epidemiological Studies Depression Scale (CES-D-10) in Zulu, Xhosa and Afrikaans populations in South Africa.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/28068955/",
@@ -1632,10 +1645,13 @@
       "familyId": "PH-008",
       "name": "CES-D-8",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "TILDA八题与计分说明，以及HRS报告第II节；目录尚未指定唯一回答格式，中文对应待核。",
+      "sources": [
+        "https://tilda.tcd.ie/data/resource-hub/scale-docs/CESD-8.html",
+        "https://hrs.isr.umich.edu/sites/default/files/biblio/dr-005_0.pdf"
+      ],
       "primaryReference": {
         "title": "Gender differences in depression in 25 European countries after eliminating measurement bias in the CES-D 8",
         "url": "https://doi.org/10.1016/j.ssresearch.2010.01.002",
@@ -1648,10 +1664,12 @@
       "familyId": "PH-008",
       "name": "CES-DC",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "AACAP提供的Bright Futures两页CES-DC英文题本及计分说明；中文研究和转载条件仍待核。",
+      "sources": [
+        "https://www.aacap.org/App_Themes/AACAP/docs/member_resources/toolbox_for_clinical_practice_and_outcomes/symptoms/ces_dc.pdf"
+      ],
       "primaryReference": {
         "title": "Assessment of depression in childhood and adolescence: an evaluation of the Center for Epidemiological Studies Depression Scale for Children (CES-DC).",
         "url": "https://pubmed.ncbi.nlm.nih.gov/3728717/",
@@ -2497,10 +2515,14 @@
       "familyId": "SS-005",
       "name": "MOS Social Support Survey-19",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "RAND当前19项英文问卷网页、四分量表和整体指数计分；具体中文题本、原研究全文和漏答协议待核。",
+      "sources": [
+        "https://www.rand.org/health/surveys/mos/social-support/survey-instrument.html",
+        "https://www.rand.org/health/surveys/mos/social-support/scoring.html",
+        "https://www.rand.org/health/surveys/mos/social-support.html"
+      ],
       "primaryReference": {
         "title": "Psychometric testing of the Chinese version of the Medical Outcomes Study Social Support Survey among people living with HIV/AIDS in China.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/26608434/",
