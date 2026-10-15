@@ -2,8 +2,8 @@
   "summary": {
     "records": 248,
     "selectableRecords": 213,
-    "recordsWithSourcedProfiles": 101,
-    "selectableRecordsWithoutSourcedProfiles": 112,
+    "recordsWithSourcedProfiles": 115,
+    "selectableRecordsWithoutSourcedProfiles": 98,
     "registeredForms": 16,
     "exportableForms": 4,
     "warning": "说明覆盖数量不是完整题本、独立中文验证或授权完成数量。别名合并后的前台数量另计。"
@@ -2009,10 +2009,13 @@
       "familyId": "QL-004",
       "name": "EQ-5D-3L",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "官网当前提供的中文第六版指南（封面更新2018，版权2021）第6、9—12页相关内容；第10页计分原图已核对。指南中的样本不是可自行再分发的许可题本。",
+      "sources": [
+        "https://euroqol.org/information-and-support/documentation/user-guides/eq-5d-3luserguide-chinese-23-07/",
+        "https://euroqol.org/information-and-support/documentation/user-guides/"
+      ],
       "primaryReference": {
         "title": "Measurement properties of the EQ-5D-5L compared to the EQ-5D-3L across eight patient groups: a multi-country study.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/23184421/",
@@ -2025,10 +2028,13 @@
       "familyId": "QL-004",
       "name": "EQ-5D-5L",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2026年9月第4.1版指南的结构、计分、漏答、价值集与获取章节；第11页原图已核对。具体中国价值集公式与目标人群研究另待核对。",
+      "sources": [
+        "https://euroqol.org/information-and-support/documentation/user-guides/userguide-eq-5d-5l-2026-07-2/",
+        "https://euroqol.org/information-and-support/documentation/user-guides/"
+      ],
       "primaryReference": {
         "title": "Development and preliminary testing of the new five-level version of EQ-5D (EQ-5D-5L).",
         "url": "https://pubmed.ncbi.nlm.nih.gov/21479777/",
@@ -2041,10 +2047,13 @@
       "familyId": "QL-004",
       "name": "EQ-5D-Y-3L",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2026年9月第2.4版指南的年龄建议、计分与价值集章节；第17页原页已核对。正式中文题本与验证研究未逐字对应。",
+      "sources": [
+        "https://euroqol.org/information-and-support/documentation/user-guides/userguide-eq-5d-y3l-0926-06-def-2/",
+        "https://euroqol.org/information-and-support/documentation/user-guides/"
+      ],
       "primaryReference": {
         "title": "Comparing measurement properties of EQ-5D-Y-3L and EQ-5D-Y-5L in paediatric patients.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/34781978/",
@@ -2057,10 +2066,13 @@
       "familyId": "QL-004",
       "name": "EQ-5D-Y-5L",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2026年9月第1.2版指南的年龄、计分、漏答与效用边界；第17页原页已核对。并非已取得中文施测题本或使用许可。",
+      "sources": [
+        "https://euroqol.org/information-and-support/documentation/user-guides/userguide-eq-5d-y5l-0726-05-def-2/",
+        "https://euroqol.org/information-and-support/documentation/user-guides/"
+      ],
       "primaryReference": {
         "title": "EQ-5D-Y-5L: developing a revised EQ-5D-Y with increased response categories.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/30739287/",
@@ -2073,10 +2085,14 @@
       "familyId": "QL-005",
       "name": "PROMIS Global Health v1.0/1.1",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "第3—6页；旧版重编码规则。原始独立题本、中文译文及目标人群研究尚待补。",
+      "sources": [
+        "https://healthmeasures.net/wp-content/uploads/2026/05/PROMIS-Global-Health-Scoring-Manual_30Aug2024.pdf",
+        "https://healthmeasures.net/implement/scoring/manual-scoring-resources/",
+        "https://healthmeasures.net/implement/scoring/manual-scoring-resources/promis-scoring-manuals/"
+      ],
       "primaryReference": {
         "title": "Development of physical and mental health summary scores from the patient-reported outcomes measurement information system (PROMIS) global items.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/19543809/",
@@ -2089,10 +2105,14 @@
       "familyId": "QL-005",
       "name": "PROMIS Global Health v1.2",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "第7—11页；身体评分第9页原图已核对。独立题本、中文译文及验证研究尚待补。",
+      "sources": [
+        "https://healthmeasures.net/wp-content/uploads/2026/05/PROMIS-Global-Health-Scoring-Manual_30Aug2024.pdf",
+        "https://healthmeasures.net/implement/scoring/manual-scoring-resources/",
+        "https://healthmeasures.net/implement/scoring/manual-scoring-resources/promis-scoring-manuals/"
+      ],
       "primaryReference": {
         "title": "Dutch reference values for the Patient-Reported Outcomes Measurement Information System Scale v1.2 - Global Health (PROMIS-GH).",
         "url": "https://pubmed.ncbi.nlm.nih.gov/33978855/",
@@ -2105,10 +2125,15 @@
       "familyId": "QL-005",
       "name": "PROMIS Global Mental 2a v1.2",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "第14、21页及官方长度选择说明；两题表适合大样本组间比较，不推荐小样本或个人评估。",
+      "sources": [
+        "https://healthmeasures.net/wp-content/uploads/2026/05/PROMIS-Global-Health-Scoring-Manual_30Aug2024.pdf",
+        "https://healthmeasures.net/implement/scoring/manual-scoring-resources/",
+        "https://healthmeasures.net/select-measures/recommended-measures/global-health-profiles/",
+        "https://healthmeasures.net/implement/scoring/manual-scoring-resources/promis-scoring-manuals/"
+      ],
       "primaryReference": {
         "title": "Two-item PROMIS® global physical and mental health scales.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/29757325/",
@@ -2121,10 +2146,15 @@
       "familyId": "QL-005",
       "name": "PROMIS Global Physical 2a v1.2",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "第14、21页及官方长度选择说明；两题表适合大样本组间比较，不推荐小样本或个人评估。",
+      "sources": [
+        "https://healthmeasures.net/wp-content/uploads/2026/05/PROMIS-Global-Health-Scoring-Manual_30Aug2024.pdf",
+        "https://healthmeasures.net/implement/scoring/manual-scoring-resources/",
+        "https://healthmeasures.net/select-measures/recommended-measures/global-health-profiles/",
+        "https://healthmeasures.net/implement/scoring/manual-scoring-resources/promis-scoring-manuals/"
+      ],
       "primaryReference": {
         "title": "Two-item PROMIS® global physical and mental health scales.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/29757325/",
@@ -2137,10 +2167,14 @@
       "familyId": "QL-005",
       "name": "PROMIS Global Mental Health 4a v1.2",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "第14、20页四题项与专用换算表原页已核对；具体施测题本和中文研究待补。",
+      "sources": [
+        "https://healthmeasures.net/wp-content/uploads/2026/05/PROMIS-Global-Health-Scoring-Manual_30Aug2024.pdf",
+        "https://healthmeasures.net/implement/scoring/manual-scoring-resources/",
+        "https://healthmeasures.net/implement/scoring/manual-scoring-resources/promis-scoring-manuals/"
+      ],
       "primaryReference": {
         "title": "Development of physical and mental health summary scores from the patient-reported outcomes measurement information system (PROMIS) global items.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/19543809/",
@@ -2153,10 +2187,14 @@
       "familyId": "QL-005",
       "name": "PROMIS Global Physical Health 4a v1.2",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "第9、14、20页疼痛重编码及四题专用表原页已核对；具体施测题本和中文研究待补。",
+      "sources": [
+        "https://healthmeasures.net/wp-content/uploads/2026/05/PROMIS-Global-Health-Scoring-Manual_30Aug2024.pdf",
+        "https://healthmeasures.net/implement/scoring/manual-scoring-resources/",
+        "https://healthmeasures.net/implement/scoring/manual-scoring-resources/promis-scoring-manuals/"
+      ],
       "primaryReference": {
         "title": "Development of physical and mental health summary scores from the patient-reported outcomes measurement information system (PROMIS) global items.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/19543809/",
@@ -2169,13 +2207,18 @@
       "familyId": "QL-005",
       "name": "PROMIS Pediatric Global Health 7",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "第14、22、25页相关规则与儿童表原页已核对；登记缺少版本号，原题本和中文研究仍待明确。",
+      "sources": [
+        "https://healthmeasures.net/wp-content/uploads/2026/05/PROMIS-Global-Health-Scoring-Manual_30Aug2024.pdf",
+        "https://healthmeasures.net/implement/scoring/manual-scoring-resources/",
+        "https://healthmeasures.net/select-measures/recommended-measures/age-groups/",
+        "https://healthmeasures.net/implement/scoring/manual-scoring-resources/promis-scoring-manuals/"
+      ],
       "primaryReference": {
         "title": "PROMIS Global Health官方评分手册（2024）",
-        "url": "https://www.healthmeasures.net/images/PROMIS/manuals/Scoring_Manual_Only/PROMIS_Global_Health_Scoring_Manual_30Aug2024.pdf",
+        "url": "https://healthmeasures.net/wp-content/uploads/2026/05/PROMIS-Global-Health-Scoring-Manual_30Aug2024.pdf",
         "role": "官方版本资料；具体译本验证另核对"
       },
       "registeredForms": []
@@ -2185,13 +2228,18 @@
       "familyId": "QL-005",
       "name": "PROMIS Parent Proxy Global Health 7 v1.0",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "第14、17、26页规则及历史版本归属；第26页换算表尚未视觉逐格复核，具体中文原件和研究待补。",
+      "sources": [
+        "https://healthmeasures.net/wp-content/uploads/2026/05/PROMIS-Global-Health-Scoring-Manual_30Aug2024.pdf",
+        "https://healthmeasures.net/implement/scoring/manual-scoring-resources/",
+        "https://healthmeasures.net/select-measures/recommended-measures/age-groups/",
+        "https://healthmeasures.net/implement/scoring/manual-scoring-resources/promis-scoring-manuals/"
+      ],
       "primaryReference": {
         "title": "PROMIS Global Health官方评分手册（2024）",
-        "url": "https://www.healthmeasures.net/images/PROMIS/manuals/Scoring_Manual_Only/PROMIS_Global_Health_Scoring_Manual_30Aug2024.pdf",
+        "url": "https://healthmeasures.net/wp-content/uploads/2026/05/PROMIS-Global-Health-Scoring-Manual_30Aug2024.pdf",
         "role": "官方版本资料；具体译本验证另核对"
       },
       "registeredForms": []
@@ -2201,13 +2249,18 @@
       "familyId": "QL-005",
       "name": "PROMIS Early Childhood Parent-Report Global Health 8a v1.0",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "第14、23页幼儿表及换算表原页已核对；具体中文原件和验证研究待补。",
+      "sources": [
+        "https://healthmeasures.net/wp-content/uploads/2026/05/PROMIS-Global-Health-Scoring-Manual_30Aug2024.pdf",
+        "https://healthmeasures.net/implement/scoring/manual-scoring-resources/",
+        "https://healthmeasures.net/select-measures/recommended-measures/age-groups/",
+        "https://healthmeasures.net/implement/scoring/manual-scoring-resources/promis-scoring-manuals/"
+      ],
       "primaryReference": {
         "title": "PROMIS Global Health官方评分手册（2024）",
-        "url": "https://www.healthmeasures.net/images/PROMIS/manuals/Scoring_Manual_Only/PROMIS_Global_Health_Scoring_Manual_30Aug2024.pdf",
+        "url": "https://healthmeasures.net/wp-content/uploads/2026/05/PROMIS-Global-Health-Scoring-Manual_30Aug2024.pdf",
         "role": "官方版本资料；具体译本验证另核对"
       },
       "registeredForms": []
@@ -4175,10 +4228,13 @@
       "familyId": "QL-004",
       "name": "EQ-5D-Y-5L",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "与旧索引049为同一Y-5L别名记录；2026年9月第1.2版指南的年龄、计分、漏答与效用边界；第17页原页已核对。并非已取得中文施测题本或使用许可。",
+      "sources": [
+        "https://euroqol.org/information-and-support/documentation/user-guides/userguide-eq-5d-y5l-0726-05-def-2/",
+        "https://euroqol.org/information-and-support/documentation/user-guides/"
+      ],
       "primaryReference": {
         "title": "EQ-5D-Y-5L: developing a revised EQ-5D-Y with increased response categories.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/30739287/",

@@ -1,0 +1,42 @@
+[
+  {
+    "file": "promis-global-current.pdf",
+    "url": "https://healthmeasures.net/wp-content/uploads/2026/05/PROMIS-Global-Health-Scoring-Manual_30Aug2024.pdf",
+    "bytes": 1038358,
+    "sha256": "2674270e39e339aeda18d33bd9d9c2ba7070875605ccf0376e58f39960883bb6",
+    "pages": 30,
+    "status": "downloaded"
+  },
+  {
+    "file": "eq5d5l-guide.pdf",
+    "url": "https://euroqol.org/information-and-support/documentation/user-guides/userguide-eq-5d-5l-2026-07-2/",
+    "bytes": 3975285,
+    "sha256": "0a7c94435d6c7ba22ab66c1806a058ab4053cb9dcd495ba4ea6c997b05c7ed66",
+    "pages": 43,
+    "status": "downloaded"
+  },
+  {
+    "file": "eq5dy3l-guide.pdf",
+    "url": "https://euroqol.org/information-and-support/documentation/user-guides/userguide-eq-5d-y3l-0926-06-def-2/",
+    "bytes": 5289372,
+    "sha256": "d502eabf786fe340164661b717c264bb8cb8d7a115a53fa9d519b37e7c86516a",
+    "pages": 44,
+    "status": "downloaded"
+  },
+  {
+    "file": "eq5dy5l-guide.pdf",
+    "url": "https://euroqol.org/information-and-support/documentation/user-guides/userguide-eq-5d-y5l-0726-05-def-2/",
+    "bytes": 3845576,
+    "sha256": "084c8a5f789ea048b73e027ae36f2b1a3b4c867a8437f0c7c9cfab72c4f2015b",
+    "pages": 36,
+    "status": "downloaded"
+  },
+  {
+    "file": "eq5d3l-guide-zh.pdf",
+    "url": "https://euroqol.org/information-and-support/documentation/user-guides/eq-5d-3luserguide-chinese-23-07/",
+    "bytes": 4262183,
+    "sha256": "6d1faa4162550a27ac2aa67b97129c2b7e675e63cfc63380511c3fc24ef794ee",
+    "pages": 34,
+    "status": "downloaded"
+  }
+]

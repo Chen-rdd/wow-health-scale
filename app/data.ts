@@ -3015,7 +3015,7 @@ export const versions = [
     "parent": "v1.1",
     "relation": "计分编码修订",
     "population": "成人",
-    "scoring": "自动重编码；不得重复反向",
+    "scoring": "评分服务与手工重编码分开；避免重复反向",
     "chinese": "中文具体版待确认",
     "copyrightRisk": "中",
     "status": "已核验"

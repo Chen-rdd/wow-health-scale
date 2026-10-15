@@ -10,6 +10,8 @@ import {asqProfiles} from './reviewed-profiles-asq';
 import {healthBehaviourProfiles} from './reviewed-profiles-health-behaviour';
 import {careToolsProfiles} from './reviewed-profiles-care-tools';
 import {cesdProfiles} from './reviewed-profiles-cesd';
+import {promisProfiles} from './reviewed-profiles-promis';
+import {eq5dProfiles} from './reviewed-profiles-eq5d';
 const base='https://dass.psy.unsw.edu.au/';
 const p=(text:string,path:string,label:string):EvidenceParagraph=>({text,source:base+path,label});
 const scope=p('抑郁维度关注情绪低落、兴趣或愉悦感减少、自我贬低与缺乏主动性；焦虑维度侧重自主神经唤起、躯体紧张及恐惧体验；压力维度关注难以放松、持续紧绷、易激惹及不耐烦。三个维度相关，但测量内容不同。','over.htm','开发者对测量构念的定义');
@@ -25,6 +27,8 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
 ...healthBehaviourProfiles,
 ...careToolsProfiles,
 ...cesdProfiles,
+...promisProfiles,
+...eq5dProfiles,
 "VR-PH-005-014":{
   "reviewed": "2026-10-15",
   "reviewScope": "普通话K6／K10三页官方PDF已重新下载，哈希一致；核心、附加、跳答及署名原页已核对。粤语、独立中文研究及本库实际打印仍待核对。",

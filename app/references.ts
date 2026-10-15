@@ -1419,7 +1419,7 @@ export const versionReferences = {
     "year": "",
     "doi": "",
     "pmid": "",
-    "url": "https://www.healthmeasures.net/images/PROMIS/manuals/Scoring_Manual_Only/PROMIS_Global_Health_Scoring_Manual_30Aug2024.pdf",
+    "url": "https://healthmeasures.net/wp-content/uploads/2026/05/PROMIS-Global-Health-Scoring-Manual_30Aug2024.pdf",
     "role": "官方版本资料；具体译本验证另核对",
     "confidence": "version",
     "note": "儿童Global Health 7需匹配年龄、报告者和版本；已移除同伴关系、愤怒或成人Global论文的错误对应。"
@@ -1431,7 +1431,7 @@ export const versionReferences = {
     "year": "",
     "doi": "",
     "pmid": "",
-    "url": "https://www.healthmeasures.net/images/PROMIS/manuals/Scoring_Manual_Only/PROMIS_Global_Health_Scoring_Manual_30Aug2024.pdf",
+    "url": "https://healthmeasures.net/wp-content/uploads/2026/05/PROMIS-Global-Health-Scoring-Manual_30Aug2024.pdf",
     "role": "官方版本资料；具体译本验证另核对",
     "confidence": "version",
     "note": "家长代理Global Health 7需匹配年龄、报告者和版本；已移除同伴关系、愤怒或成人Global论文的错误对应。"
@@ -1443,7 +1443,7 @@ export const versionReferences = {
     "year": "",
     "doi": "",
     "pmid": "",
-    "url": "https://www.healthmeasures.net/images/PROMIS/manuals/Scoring_Manual_Only/PROMIS_Global_Health_Scoring_Manual_30Aug2024.pdf",
+    "url": "https://healthmeasures.net/wp-content/uploads/2026/05/PROMIS-Global-Health-Scoring-Manual_30Aug2024.pdf",
     "role": "官方版本资料；具体译本验证另核对",
     "confidence": "version",
     "note": "幼儿家长报告Global Health 8a需匹配年龄、报告者和版本；已移除同伴关系、愤怒或成人Global论文的错误对应。"
