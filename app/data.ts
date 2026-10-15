@@ -3808,7 +3808,7 @@ export const versions = [
     "relation": "开发",
     "population": "功能受限者",
     "scoring": "0–100；按原始权重",
-    "chinese": "中文应用广泛",
+    "chinese": "本计分形式的中文原件与研究待配对",
     "copyrightRisk": "中",
     "status": "已核验"
   },
@@ -3826,7 +3826,7 @@ export const versions = [
     "relation": "计分修订",
     "population": "功能受限者",
     "scoring": "0–20",
-    "chinese": "中文应用广泛",
+    "chinese": "本计分形式的中文原件与研究待配对",
     "copyrightRisk": "中",
     "status": "已核验"
   },
@@ -3844,7 +3844,7 @@ export const versions = [
     "relation": "分档修订",
     "population": "功能受限者",
     "scoring": "0–100；不可默认等同×5",
-    "chinese": "中文应用广泛",
+    "chinese": "香港MBI-C研究已定位；完整中文原件待取",
     "copyrightRisk": "中",
     "status": "已核验"
   },

@@ -1,0 +1,102 @@
+[
+  {
+    "file": "barthel-sralab.pdf",
+    "url": "https://www.sralab.org/sites/default/files/2017-07/barthel.pdf",
+    "finalUrl": "https://www.sralab.org/sites/default/files/2017-07/barthel.pdf",
+    "bytes": 75797,
+    "sha256": "e73ad86c44a803c0cff3ca2c14102cccc0fa4fb04654f77bb4438205d752610e",
+    "type": "application/pdf",
+    "status": "downloaded",
+    "pages": 2,
+    "reviewScope": "all pages text and visual checked; clinical reprint, not original journal paper or project redistribution license"
+  },
+  {
+    "file": "barthel-medchi.html",
+    "url": "https://www.medchi.org/Your-Resource/Barthel-Index",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
+    "file": "barthel-1965-mgh.pdf",
+    "url": "https://www.massgeneral.org/assets/mgh/pdf/neurology/stop-stroke/barthel_reprint.pdf",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>"
+  },
+  {
+    "file": "barthel-collin-1988-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:3403500%20AND%20SRC:MED&format=json&resultType=core",
+    "finalUrl": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:3403500%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 3735,
+    "sha256": "50ae119da5657d28f625e44ec8f4f4004bbd869ea619c6fb26fe0fa84a229146",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "barthel-shah-clinical-reprint.pdf",
+    "url": "https://elderlyhomes.church.mt/wp-content/uploads/2021/04/3.-Modified-Barthel-Index-SHAH-VERSION-SELF-CARE-ASSESSMENT.pdf",
+    "bytes": 914302,
+    "sha256": "5f6b2cf8a8a24bb222cf5967b3ed60d565ea8a62510453006767d4ac958f8ff6",
+    "type": "application/pdf",
+    "status": "downloaded",
+    "pages": 4,
+    "reviewScope": "all pages text and visual checked; clinical reprint, not original journal paper or project redistribution license"
+  },
+  {
+    "file": "barthel-shah-1989-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:2760661%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 3613,
+    "sha256": "d028a45357ee35ef19efeace2c56534336ea35c8193011326a22020cbb77a860",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "barthel-cn-2007-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:17981850%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 4731,
+    "sha256": "b30041e1a7d3a217605a0fe0ee2886c170fe6999dd709458622a086cfb0ff311",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "barthel-1965-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:14258950%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 2099,
+    "sha256": "13a5f7f68560953225e8783d04b21cd6e2f7a7c0dd5f6bef1b9b605a038392c6",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "barthel-ahs-20.pdf",
+    "url": "https://www.albertahealthservices.ca/assets/about/scn/ahs-scn-bjh-hf-barthel-index-of-adls.pdf",
+    "bytes": 153373,
+    "sha256": "f14b98f003bc9acbff3e1ce1fc837a979eef80dd3993f59709ac19cede3d442b",
+    "type": "application/pdf",
+    "status": "downloaded",
+    "pages": 2,
+    "reviewScope": "all pages text and visual checked; clinical reprint, not original journal paper or project redistribution license"
+  },
+  {
+    "file": "barthel-cn-2007-citeseer.pdf",
+    "url": "https://citeseerx.ist.psu.edu/document?doi=021eb5b3ce74393d06f91d9e937b7c96ba017970&repid=rep1&type=pdf",
+    "status": "failed",
+    "error": "HTTP Error 404: NOT FOUND"
+  },
+  {
+    "source": "medchi-index",
+    "url": "https://www.medchi.org/Your-Resource/Barthel-Index",
+    "status": "public_index_text_checked",
+    "scope": "Copyright owner directs enquiries to Mapi; local TLS validation failed, not disabled."
+  },
+  {
+    "source": "cn-2007-publisher",
+    "url": "https://journals.sagepub.com/doi/10.1177/0269215507077286",
+    "status": "abstract_and_access_status_checked",
+    "scope": "Restricted access; abstract and references only, Chinese appendix and full study not acquired."
+  },
+  {
+    "source": "rejected-search-mismatch",
+    "url": "https://www.researchgate.net/publication/307457474_1989_Shah_S_Vanclay_F_Cooper_B_Improving_the_sensitivity_of_the_Barthel_Index_for_stroke_rehabilitation_Journal_of_Clinical_Epidemiology_42_703-709",
+    "status": "not_actual_article",
+    "scope": "Author upload is publication-list excerpt, not 1989 study; not counted as acquired full text."
+  }
+]

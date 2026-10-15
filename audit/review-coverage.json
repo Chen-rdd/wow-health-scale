@@ -2,8 +2,8 @@
   "summary": {
     "records": 248,
     "selectableRecords": 213,
-    "recordsWithSourcedProfiles": 149,
-    "selectableRecordsWithoutSourcedProfiles": 64,
+    "recordsWithSourcedProfiles": 152,
+    "selectableRecordsWithoutSourcedProfiles": 61,
     "registeredForms": 16,
     "exportableForms": 4,
     "warning": "说明覆盖数量不是完整题本、独立中文验证或授权完成数量。别名合并后的前台数量另计。"
@@ -3004,14 +3004,19 @@
       "familyId": "AG-004",
       "name": "Original Barthel Index 0–100",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "1965 PubMed书目核对，无摘要；SRA Lab托管Internet Stroke Center两页0—100重印全部视觉查看。该表合列后期指导语与引用，尚未与1965期刊原页逐字匹配；不称原始全文已取得。",
+      "sources": [
+        "https://www.sralab.org/sites/default/files/2017-07/barthel.pdf",
+        "https://pubmed.ncbi.nlm.nih.gov/14258950/",
+        "https://www.medchi.org/Your-Resource/Barthel-Index",
+        "https://eprovide.mapi-trust.org/instruments/barthel-index"
+      ],
       "primaryReference": {
-        "title": "Barthel index for stroke trials: development, properties, and application.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/21372310/",
-        "role": "相关研究（开发、验证或应用）"
+        "title": "FUNCTIONAL EVALUATION: THE BARTHEL INDEX.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14258950/",
+        "role": "原始开发书目；期刊原页待取"
       },
       "registeredForms": []
     },
@@ -3020,14 +3025,19 @@
       "familyId": "AG-004",
       "name": "Barthel Index 0–20",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "Alberta Health Services 2015髋部骨折路径采用的两页0—20题本与指导语全部视觉核对；Collin等1988仅正式摘要。中文该形式原件和原论文全文仍待取。",
+      "sources": [
+        "https://www.albertahealthservices.ca/assets/about/scn/ahs-scn-bjh-hf-barthel-index-of-adls.pdf",
+        "https://pubmed.ncbi.nlm.nih.gov/3403500/",
+        "https://www.medchi.org/Your-Resource/Barthel-Index",
+        "https://eprovide.mapi-trust.org/instruments/barthel-index"
+      ],
       "primaryReference": {
-        "title": "Use of the Barthel index and modified Rankin scale in acute stroke trials.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/10436097/",
-        "role": "相关研究（开发、验证或应用）"
+        "title": "The Barthel ADL Index: a reliability study.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3403500/",
+        "role": "0—20直接信度研究；仅摘要"
       },
       "registeredForms": []
     },
@@ -3036,14 +3046,19 @@
       "familyId": "AG-004",
       "name": "Modified Barthel Index 0–100",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "Shah等1989及Leung等2007直接研究均仅正式摘要；马耳他临床养老机构公开四页Shah重印全部视觉查看，仅作结构核对。中文论文全文和附录尚未取得，未新增完整题本。",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/2760661/",
+        "https://elderlyhomes.church.mt/wp-content/uploads/2021/04/3.-Modified-Barthel-Index-SHAH-VERSION-SELF-CARE-ASSESSMENT.pdf",
+        "https://pubmed.ncbi.nlm.nih.gov/17981850/",
+        "https://www.medchi.org/Your-Resource/Barthel-Index"
+      ],
       "primaryReference": {
-        "title": "Determining the cut-off score for the Modified Barthel Index and the Modified Rankin Scale for assessment of functional independence and residual disability after stroke.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/31995563/",
-        "role": "相关研究（开发、验证或应用）"
+        "title": "Improving the sensitivity of the Barthel Index for stroke rehabilitation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2760661/",
+        "role": "Shah改良直接开发研究；仅摘要"
       },
       "registeredForms": []
     },

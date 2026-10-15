@@ -4102,10 +4102,16 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/14258950/"
       },
       {
-        "label": "原作者Barthel表单（本次下载404；待恢复）",
-        "url": "https://www.kcl.ac.uk/nmpc/assets/rehab/tools-bi-functional-evaluation-the-barthel-index.pdf",
+        "label": "Barthel 0—100公开重印与指导语",
+        "url": "https://www.sralab.org/sites/default/files/2017-07/barthel.pdf",
         "kind": "题目与选项",
-        "scope": "原始形式"
+        "scope": "后期重印；1965原页未取"
+      },
+      {
+        "label": "AHS 0—20正式路径表及指导语",
+        "url": "https://www.albertahealthservices.ca/assets/about/scn/ahs-scn-bjh-hf-barthel-index-of-adls.pdf",
+        "kind": "评分标准",
+        "scope": "0—20；非Shah五档"
       },
       {
         "label": "正式版本与使用条件",
@@ -4121,10 +4127,16 @@
       "access": "原作者表及权利方资料分别提供；修订表须取得对应评分说明。",
       "resources": [
         {
-          "label": "原作者Barthel表单（本次下载404；待恢复）",
-          "url": "https://www.kcl.ac.uk/nmpc/assets/rehab/tools-bi-functional-evaluation-the-barthel-index.pdf",
+          "label": "Barthel 0—100公开重印与指导语",
+          "url": "https://www.sralab.org/sites/default/files/2017-07/barthel.pdf",
           "kind": "题目与选项",
-          "scope": "原始形式"
+          "scope": "后期重印；1965原页未取"
+        },
+        {
+          "label": "AHS 0—20正式路径表及指导语",
+          "url": "https://www.albertahealthservices.ca/assets/about/scn/ahs-scn-bjh-hf-barthel-index-of-adls.pdf",
+          "kind": "评分标准",
+          "scope": "0—20；非Shah五档"
         },
         {
           "label": "正式版本与使用条件",
