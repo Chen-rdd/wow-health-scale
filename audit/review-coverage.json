@@ -2,8 +2,8 @@
   "summary": {
     "records": 248,
     "selectableRecords": 213,
-    "recordsWithSourcedProfiles": 140,
-    "selectableRecordsWithoutSourcedProfiles": 73,
+    "recordsWithSourcedProfiles": 145,
+    "selectableRecordsWithoutSourcedProfiles": 68,
     "registeredForms": 16,
     "exportableForms": 4,
     "warning": "说明覆盖数量不是完整题本、独立中文验证或授权完成数量。别名合并后的前台数量另计。"
@@ -1815,14 +1815,19 @@
       "familyId": "SL-003",
       "name": "Epworth Sleepiness Scale 1997",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "开发者公开索引文字核对构念、0—24及1997指导语改动；Canadian Sleep Society公开重印第24页视觉查看，1991研究仅正式摘要。现行许可题本未取得。",
+      "sources": [
+        "https://epworthsleepinessscale.com/about-the-ess/",
+        "https://pubmed.ncbi.nlm.nih.gov/1798888/",
+        "https://www.mapi-trust.org/news-events/events/webinars/epworth-sleepiness-scale",
+        "https://eprovide.mapi-trust.org/instruments/epworth-sleepiness-scale"
+      ],
       "primaryReference": {
-        "title": "Relationships between the Pittsburgh Sleep Quality Index (PSQI), Epworth Sleepiness Scale (ESS), and clinical/polysomnographic measures in a community sample.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/19110886/",
-        "role": "相关研究（开发、验证或应用）"
+        "title": "A new method for measuring daytime sleepiness: the Epworth sleepiness scale.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1798888/",
+        "role": "原开发研究；1997指导语改动另见开发者说明"
       },
       "registeredForms": []
     },
@@ -1831,14 +1836,19 @@
       "familyId": "SL-003",
       "name": "Epworth Sleepiness Scale for Children and Adolescents",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2017学校样本及2022发作性睡病研究正式摘要核对，官方获取入口已定位；官网PDF请求TLS失败，未称原文或完整ESS-CHAD许可题本已取。",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/28449902/",
+        "https://pubmed.ncbi.nlm.nih.gov/34920345/",
+        "https://www.mapi-trust.org/news-events/events/webinars/epworth-sleepiness-scale",
+        "https://eprovide.mapi-trust.org/instruments/epworth-sleepiness-scale-child-adolescent"
+      ],
       "primaryReference": {
-        "title": "Validation of the Epworth Sleepiness Scale for Children and Adolescents (ESS-CHAD) questionnaire in pediatric patients with narcolepsy with cataplexy aged 7-16 years.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/34920345/",
-        "role": "相关研究（开发、验证或应用）"
+        "title": "Validation of the Epworth Sleepiness Scale for Children and Adolescents using Rasch analysis.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28449902/",
+        "role": "学校青少年直接验证；2022一周临床研究另列"
       },
       "registeredForms": []
     },
@@ -1847,14 +1857,18 @@
       "familyId": "SL-004",
       "name": "Athens Insomnia Scale-8",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2000开发及2003界点研究正式摘要核对；Canadian Sleep Society公开手册第25页八题、锚点及指导语全部视觉查看，不称两篇研究全文已读。",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/11033374/",
+        "https://css-scs.ca/wp-content/uploads/2016/05/Insomnia_Adult_Child.pdf",
+        "https://pubmed.ncbi.nlm.nih.gov/12932801/"
+      ],
       "primaryReference": {
         "title": "Athens Insomnia Scale: validation of an instrument based on ICD-10 criteria.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/11033374/",
-        "role": "相关研究（开发、验证或应用）"
+        "role": "直接开发研究（当前仅摘要）；重印原页另核"
       },
       "registeredForms": []
     },
@@ -1863,14 +1877,16 @@
       "familyId": "SL-004",
       "name": "Athens Insomnia Scale-5",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2000原研究摘要明确AIS-5为前五项；公开八题重印原页用于核查其项目与锚点，独立五题原件、全文及中文材料未取得。",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/11033374/"
+      ],
       "primaryReference": {
         "title": "Athens Insomnia Scale: validation of an instrument based on ICD-10 criteria.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/11033374/",
-        "role": "相关研究（开发、验证或应用）"
+        "role": "直接开发研究（当前仅摘要）；重印原页另核"
       },
       "registeredForms": []
     },
@@ -1879,14 +1895,17 @@
       "familyId": "SL-004",
       "name": "AIS for Non-Clinical Application",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "作者GESIS 2022技术说明33页取得，前五页的英德题文、指导语、计分及许可相关原页核对；中文2023正文PDF／XML方法、结构、信度与局限已读，第6—7页删题与模型视觉查看。未称全部33页研究图表已复核。",
+      "sources": [
+        "https://access.gesis.org/zis/1308",
+        "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1183919/full"
+      ],
       "primaryReference": {
         "title": "Assessing sleep problems and daytime functioning: a translation, adaption, and validation of the Athens Insomnia Scale for non-clinical application (AIS-NCA).",
         "url": "https://pubmed.ncbi.nlm.nih.gov/34766856/",
-        "role": "相关研究（开发、验证或应用）"
+        "role": "原开发七题版；2023中文六题改编另见说明"
       },
       "registeredForms": []
     },

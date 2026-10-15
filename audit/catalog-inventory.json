@@ -1196,6 +1196,12 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/11033374/"
       },
       {
+        "label": "AIS-NCA作者英德原件和计分说明",
+        "url": "https://access.gesis.org/zis/1308",
+        "kind": "题目与选项",
+        "scope": "原开发7题五级；不同于临床AIS-8／5"
+      },
+      {
         "label": "原作者开发论文",
         "url": "https://pubmed.ncbi.nlm.nih.gov/11033374/",
         "kind": "评分标准",
@@ -1214,6 +1220,12 @@
       "scoring": "AIS-8总分0–24；AIS-5只保留前5个夜间问题，为0–15。不能将8题界点无条件用于5题形式。",
       "access": "原作者研究为结构与计分依据；大学睡眠工具汇编收录表单，应保留原作者来源。",
       "resources": [
+        {
+          "label": "AIS-NCA作者英德原件和计分说明",
+          "url": "https://access.gesis.org/zis/1308",
+          "kind": "题目与选项",
+          "scope": "原开发7题五级；不同于临床AIS-8／5"
+        },
         {
           "label": "原作者开发论文",
           "url": "https://pubmed.ncbi.nlm.nih.gov/11033374/",

@@ -1111,31 +1111,29 @@ export const versionReferences = {
     "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/11438246/"
   },
   "VR-SL-003-032": {
-    "title": "Relationships between the Pittsburgh Sleep Quality Index (PSQI), Epworth Sleepiness Scale (ESS), and clinical/polysomnographic measures in a community sample.",
-    "authors": "Buysse DJ, Hall ML, Strollo PJ, Kamarck TW, Owens J, Lee L, Reis SE, Matthews KA",
-    "journal": "Journal of clinical sleep medicine : JCSM : official publication of the American Academy of Sleep Medicine",
-    "year": "2008",
-    "doi": "10.5664/jcsm.27351",
-    "pmid": "19110886",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/19110886/",
-    "role": "相关研究（开发、验证或应用）",
+    "title": "A new method for measuring daytime sleepiness: the Epworth sleepiness scale.",
+    "authors": "Johns MW",
+    "journal": "Sleep",
+    "year": "1991",
+    "doi": "10.1093/sleep/14.6.540",
+    "pmid": "1798888",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/1798888/",
+    "role": "原开发研究；1997指导语改动另见开发者说明",
     "confidence": "version",
-    "matchScore": 15,
-    "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/19110886/"
+    "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/1798888/"
   },
   "VR-SL-003-033": {
-    "title": "Validation of the Epworth Sleepiness Scale for Children and Adolescents (ESS-CHAD) questionnaire in pediatric patients with narcolepsy with cataplexy aged 7-16 years.",
-    "authors": "Wang YG, Menno D, Chen A, Steininger TL, Morris S, Black J, Profant J, Johns MW",
-    "journal": "Sleep medicine",
-    "year": "2022",
-    "doi": "10.1016/j.sleep.2021.11.003",
-    "pmid": "34920345",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/34920345/",
-    "role": "相关研究（开发、验证或应用）",
+    "title": "Validation of the Epworth Sleepiness Scale for Children and Adolescents using Rasch analysis.",
+    "authors": "Janssen KC, Phillipson S, O'Connor J, Johns MW",
+    "journal": "Sleep Medicine",
+    "year": "2017",
+    "doi": "10.1016/j.sleep.2017.01.014",
+    "pmid": "28449902",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28449902/",
+    "role": "学校青少年直接验证；2022一周临床研究另列",
     "confidence": "version",
-    "matchScore": 21,
-    "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/34920345/",
-    "note": "本轮按PubMed卷期年份核对；原记录可能采用在线发表年。"
+    "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/28449902/",
+    "note": "当前仅核正式摘要；年龄、回顾期与报告者不可泛化。"
   },
   "VR-SL-004-034": {
     "title": "Athens Insomnia Scale: validation of an instrument based on ICD-10 criteria.",
@@ -1145,9 +1143,8 @@ export const versionReferences = {
     "doi": "10.1016/s0022-3999(00)00095-7",
     "pmid": "11033374",
     "url": "https://pubmed.ncbi.nlm.nih.gov/11033374/",
-    "role": "相关研究（开发、验证或应用）",
+    "role": "直接开发研究（当前仅摘要）；重印原页另核",
     "confidence": "version",
-    "matchScore": 10,
     "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/11033374/"
   },
   "VR-SL-004-035": {
@@ -1158,9 +1155,8 @@ export const versionReferences = {
     "doi": "10.1016/s0022-3999(00)00095-7",
     "pmid": "11033374",
     "url": "https://pubmed.ncbi.nlm.nih.gov/11033374/",
-    "role": "相关研究（开发、验证或应用）",
+    "role": "直接开发研究（当前仅摘要）；重印原页另核",
     "confidence": "version",
-    "matchScore": 10,
     "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/11033374/"
   },
   "VR-SL-004-036": {
@@ -1171,11 +1167,10 @@ export const versionReferences = {
     "doi": "10.1080/08870446.2021.1998498",
     "pmid": "34766856",
     "url": "https://pubmed.ncbi.nlm.nih.gov/34766856/",
-    "role": "相关研究（开发、验证或应用）",
+    "role": "原开发七题版；2023中文六题改编另见说明",
     "confidence": "version",
-    "matchScore": 17,
     "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/34766856/",
-    "note": "本轮按PubMed卷期年份核对；原记录可能采用在线发表年。"
+    "note": "2021在线、2023卷期；不能将Tan等中文六题模型当作原开发七题逐字验证。"
   },
   "VR-QL-001-037": {
     "title": "The World Health Organization WHOQOL-100: tests of the universality of Quality of Life in 15 different cultural groups worldwide.",

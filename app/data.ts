@@ -2673,10 +2673,10 @@ export const versions = [
     "parent": "ESS-1991",
     "relation": "修订",
     "population": "成人",
-    "scoring": "0–24",
+    "scoring": "0–24；近期通常打盹倾向，非疲劳总分",
     "chinese": "官方中文需申请",
     "copyrightRisk": "高",
-    "status": "已核验"
+    "status": "开发者说明及原摘要已核；许可题本待取"
   },
   {
     "id": "VR-SL-003-033",
@@ -2690,11 +2690,11 @@ export const versions = [
     "itemCount": "8题",
     "parent": "ESS",
     "relation": "年龄适配",
-    "population": "儿童青少年",
-    "scoring": "专用年龄证据",
+    "population": "12–18岁学校验证；7–16岁临床证据另列",
+    "scoring": "八项0–24；回顾期、年龄及报告者分别核对",
     "chinese": "中文待官方确认",
     "copyrightRisk": "高",
-    "status": "已核验"
+    "status": "直接验证摘要已核；正式题本与全文待取"
   },
   {
     "id": "VR-SL-004-034",
@@ -2712,7 +2712,7 @@ export const versions = [
     "scoring": "0–24",
     "chinese": "台湾/大陆证据分开",
     "copyrightRisk": "中",
-    "status": "已核验"
+    "status": "英文原页及开发摘要已核；中文对应待补"
   },
   {
     "id": "VR-SL-004-035",
@@ -2730,7 +2730,7 @@ export const versions = [
     "scoring": "0–15",
     "chinese": "中文待核验",
     "copyrightRisk": "中",
-    "status": "已核验"
+    "status": "原开发摘要确认前五项；独立原件待取"
   },
   {
     "id": "VR-SL-004-036",
@@ -2741,14 +2741,14 @@ export const versions = [
     "name": "AIS for Non-Clinical Application",
     "abbreviation": "AIS-NCA",
     "role": "实质改编版",
-    "itemCount": "7题、5级",
+    "itemCount": "原开发7题；Tan2023中文研究6题",
     "parent": "AIS-8",
     "relation": "删改重验",
-    "population": "非临床/运动员",
-    "scoring": "不可与AIS-8比较",
-    "chinese": "大陆中文版本",
+    "population": "原开发非临床；中文上海运动员／高中生",
+    "scoring": "1–5编码；原七题与中文六题分别报告",
+    "chinese": "Tan2023删原第4项；确切中文原表待取",
     "copyrightRisk": "中",
-    "status": "已核验"
+    "status": "英德说明与中文六题研究已核；完整译本待取"
   },
   {
     "id": "VR-QL-001-037",

@@ -1,0 +1,154 @@
+[
+  {
+    "file": "ais-canadian-sleep.pdf",
+    "url": "https://css-scs.ca/wp-content/uploads/2016/05/Insomnia_Adult_Child.pdf",
+    "bytes": 5573417,
+    "sha256": "0293254e1ce347a2117738481aa2ec11995945b402d963d1cb6f6ac430f91cf0",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa",
+    "pages": 76
+  },
+  {
+    "file": "ais-nca-original-author.pdf",
+    "url": "https://opus.bibliothek.uni-augsburg.de/opus4/files/91195/91195.pdf",
+    "status": "failed",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "siRequested": true
+  },
+  {
+    "file": "ess-chad-2017.pdf",
+    "url": "https://epworthsleepinessscale.com/wp-content/uploads/2017/03/Kitty-Jansenn-et-al-Sleep-Medicine-33-2017-30-35.pdf",
+    "status": "failed",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "siRequested": true
+  },
+  {
+    "file": "ais-nca-cn-2023.pdf",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1183919/pdf",
+    "bytes": 1186781,
+    "sha256": "554d1e785aab2d435540df4338780acaeca01635a6a17492e3758bed457ed113",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa",
+    "pages": 13
+  },
+  {
+    "file": "ess-official.html",
+    "url": "https://epworthsleepinessscale.com/",
+    "status": "failed",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "siRequested": true
+  },
+  {
+    "file": "ess-chad-official.html",
+    "url": "https://epworthsleepinessscale.com/about-the-ess-chad/",
+    "status": "failed",
+    "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "siRequested": true
+  },
+  {
+    "file": "ais-2000-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:11033374%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 5422,
+    "sha256": "985230f16c633dcc19312fb942a40967332b79e8c4d1decdd20dad0752880164",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa"
+  },
+  {
+    "file": "ais-nca-cn-2023.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10540192/fullTextXML",
+    "bytes": 162189,
+    "sha256": "e78afc3d77606164fe1f77dc612bca3008c3aebe8716d5d4279baa0660cb1a16",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa",
+    "supplement_nodes": 0
+  },
+  {
+    "file": "ais-2003-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:12932801%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 5113,
+    "sha256": "a3ca48cb71e079dbbc5af4b7f1aefeb8e8d459e206d0660388e5758d10dd30c2",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa"
+  },
+  {
+    "file": "ess-chad-2017-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE:%22Validation%20of%20the%20Epworth%20Sleepiness%20Scale%20for%20Children%20and%20Adolescents%20using%20Rasch%20analysis%22&format=json&resultType=core",
+    "bytes": 6471,
+    "sha256": "37576eb1ccdaabc0d98fb3e944b8c525e6dac63bbb2649f559697e9ef5239f6e",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa"
+  },
+  {
+    "file": "ais-nca-gesis.pdf",
+    "url": "https://access.gesis.org/zis/1308",
+    "bytes": 1047782,
+    "sha256": "1c789324698651f1fe2e2e9d0e1bd76d470e2a1439f969e165fa4be3c4712da3",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa",
+    "pages": 33,
+    "format": "pdf",
+    "note": "Response was actual PDF, corrected filename after signature validation."
+  },
+  {
+    "file": "ess-1991-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:1798888%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 5312,
+    "sha256": "999e0190017c6055e82366353a242691c7f6749223cd5fba9359fd3c82c075c5",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa"
+  },
+  {
+    "file": "ess-chad-2022-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:34920345%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 7557,
+    "sha256": "6cc365d45440b397cb5f3ad0a9965816bd9c963cb778601dd495aed6fe0b7a0c",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa"
+  },
+  {
+    "file": "ess-mapi-webinar.html",
+    "url": "https://www.mapi-trust.org/news-events/events/webinars/epworth-sleepiness-scale",
+    "bytes": 62206,
+    "sha256": "9fa62b9303c6006e04112e47aab26f346280dbefbf6c240b8f1e6a19b2f919bc",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa"
+  },
+  {
+    "source": "ess-author-indexed",
+    "url": "https://epworthsleepinessscale.com/about-the-ess/",
+    "status": "public_index_text_checked",
+    "scope": "construct, scoring,1997 instructions; direct TLS failed, no current licensed form"
+  },
+  {
+    "source": "ais-nca-gesis-review",
+    "url": "https://access.gesis.org/zis/1308",
+    "status": "relevant_pages_checked",
+    "scope": "33page author documentation, introduction/instrument/scoring/license read; pages2/5 visually viewed; not all research tables checked"
+  },
+  {
+    "source": "ais-canadian-book-review",
+    "url": "https://css-scs.ca/wp-content/uploads/2016/05/Insomnia_Adult_Child.pdf",
+    "status": "relevant_pages_checked",
+    "scope": "76page handbook; instrument reprints pages24/25 visually viewed; page27 simplified interpretation differs from primary AIS2003 cutoff; not entire book read"
+  },
+  {
+    "source": "ais-cn-review",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1183919/full",
+    "status": "relevant_sections_checked",
+    "scope": "13page paper plus official XML; methods,item4 deletion,results,reliability,limitations read; PDFpages6/7 visually viewed; no app or supplementary-material nodes or full Chinese form confirmed"
+  },
+  {
+    "status": "remaining_materials",
+    "scope": "ESS1991/ESSCHAD2017/2022,AIS2000/2003 full texts and any supplements pending; current licensed ESS/CHAD Chinese forms, AIS5 standalone form and AIS-NCA exact Chinese six-item form pending."
+  }
+]
