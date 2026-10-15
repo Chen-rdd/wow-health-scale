@@ -1,0 +1,240 @@
+[
+  {
+    "file": "frail-slu-rga.pdf",
+    "url": "https://www.slu.edu/medicine/internal-medicine/geriatric-medicine/aging-successfully/-pdf/rapid-geriatric-assessment.pdf",
+    "bytes": 60929,
+    "sha256": "5bcbf497ffa67eea29055562269329fc0fa497f72d942c8054e15045960c63d9",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa",
+    "pages": 1
+  },
+  {
+    "file": "tfi-english-official.pdf",
+    "url": "https://www.tilburguniversity.edu/sites/default/files/download/tfieng_2.pdf",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
+    "siRequested": true
+  },
+  {
+    "file": "lawton-old-hign.pdf",
+    "url": "https://www.alz.org/media/Documents/lawton-brody-activities-daily-living-scale.pdf",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found",
+    "siRequested": true
+  },
+  {
+    "file": "efs-2006.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5955195/fullTextXML",
+    "bytes": 39815,
+    "sha256": "81f22354e25709363ca7a049d623020e4aa5d5dd005bb27b48776604b3eb9822",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa",
+    "supplement_nodes": 1
+  },
+  {
+    "file": "frail-2012.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4515112/fullTextXML",
+    "status": "failed",
+    "error": "HTTP Error 500: ",
+    "siRequested": true
+  },
+  {
+    "file": "efs-license.html",
+    "url": "https://edmontonfrailscale.org/what-about-copyright-and-licensing",
+    "bytes": 119624,
+    "sha256": "705db6267f019c38b903949b9381cfad3a66a0b39387679fbcbfa951a8202e28",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa"
+  },
+  {
+    "file": "efs-resources.html",
+    "url": "https://edmontonfrailscale.org/resources",
+    "bytes": 121591,
+    "sha256": "b6fccc11059f4f659811910f2c437852f8f3bef2263b6ccc2fbe8498e8837117",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa"
+  },
+  {
+    "file": "efs-training.html",
+    "url": "https://edmontonfrailscale.org/do-you-need-training-to-use-the-efs",
+    "bytes": 111403,
+    "sha256": "c44b42f92c0b132e6400cdde0fbd74b1effe31f1fc580a0022a5b184fc515cda",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa"
+  },
+  {
+    "file": "lawton-current-hign.html",
+    "url": "https://hign.org/consultgeri/try-this-series/lawton-instrumental-activities-daily-living-iadl-scale",
+    "bytes": 84163,
+    "sha256": "4d36df73e33bb8a49937407922d2a7e03f108899add651e85e945c4053554bc2",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa"
+  },
+  {
+    "file": "tfi-english-official.pdf",
+    "url": "https://www.tilburguniversity.edu/sites/default/files/download/tfieng_2.pdf",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
+    "siRequested": true
+  },
+  {
+    "file": "lawton-current-hign.pdf",
+    "url": "https://hign.org/sites/default/files/2020-06/Try_This_General_Assessment_23.pdf",
+    "bytes": 225871,
+    "sha256": "d648356b1696cbdb02fcb074a2de78f56a25c577240a05e810a390ca1b026866",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa",
+    "pages": 2
+  },
+  {
+    "file": "frail-2012.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4515112/fullTextXML",
+    "status": "failed",
+    "error": "HTTP Error 500: ",
+    "siRequested": true
+  },
+  {
+    "file": "efs-supplementary-bundle.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5955195/supplementaryFiles",
+    "bytes": 4693,
+    "sha256": "e45615e9d7d08601d71f2d4cba51edd907b0496288651ef85f3ea4fffcbda882",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa"
+  },
+  {
+    "file": "tfi-author-2024.pdf",
+    "url": "https://research.tilburguniversity.edu/files/112832237/Tranzo_Gobbens_The_Tilburg_Frailty_Identicator_TFI_Frailty_A_multidisciplinary_approach_to_assessment_management_and_prevention_Springer_2024.pdf",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "siRequested": true
+  },
+  {
+    "file": "barthel-mgh-reprint.pdf",
+    "url": "https://www.massgeneral.org/assets/mgh/pdf/neurology/stop-stroke/barthel_reprint.pdf",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>",
+    "siRequested": true
+  },
+  {
+    "file": "frail-2012-body.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4515112/",
+    "bytes": 269171,
+    "sha256": "960d2dae241310d045bd757d98c167d75f7b774c72905e6b6794075295955c48",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa"
+  },
+  {
+    "file": "tfi-2010-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:20511102%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 5747,
+    "sha256": "20b0f241d9d6f7ef678ead0320af708cedef02ced7aa24f1159eca500cccb28d",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa"
+  },
+  {
+    "file": "tfi-products.html",
+    "url": "https://www.tilburguniversity.edu/nl/onderzoek/instituten-en-researchgroepen/tranzo/academischewerkplaatsen/ouderen/praktijk-producten",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
+    "siRequested": true
+  },
+  {
+    "file": "barthel-medchi.html",
+    "url": "https://www.medchi.org/Your-Resource/Barthel-Index",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
+    "siRequested": true
+  },
+  {
+    "file": "frail-cn-2018-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:28757330%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 7490,
+    "sha256": "ee02802fdb358c0b6e1582339666c745d2b9de77e11d8ff259621992765e0ffc",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa"
+  },
+  {
+    "file": "tfi-cn-2017-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:28734173%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 8127,
+    "sha256": "e07a94bd3b2dc7c920bd91a29d3e5750e1a6e30b72c7f80cda29ddfc07c2fb30",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa"
+  },
+  {
+    "file": "tfi-taiwan-2021.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8472410/fullTextXML",
+    "bytes": 90536,
+    "sha256": "ea27644b6cd215b9acf333b2e7a23a63d0d73aac29a1f6bad687813388d5ce07",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_oa",
+    "supplement_nodes": 0
+  },
+  {
+    "file": "efs-supp-afl041_supplementary_data.zip",
+    "status": "extracted_and_checked",
+    "bytes": 9545,
+    "sha256": "9dcfa65785d15766d755bcddbb1294a1438fc1ecc4157a8e57fafc398137a1c0",
+    "parent": "efs-supplementary-bundle.zip",
+    "scope": "GCIF comparator, not EFS current instrument"
+  },
+  {
+    "file": "efs-appendix-afl041_suppl_data.pdf",
+    "status": "extracted_and_checked",
+    "bytes": 9405,
+    "sha256": "7ed67ee455fc33d098b18350ca80e9a41b4405d7f3df3d17f3c29575da2b07d4",
+    "parent": "efs-supplementary-bundle.zip",
+    "scope": "GCIF comparator, not EFS current instrument",
+    "pages": 1,
+    "visualPages": [
+      1
+    ]
+  },
+  {
+    "source": "tfi-english-web",
+    "url": "https://www.tilburguniversity.edu/sites/default/files/download/tfieng_2.pdf",
+    "status": "web_check",
+    "scope": "three-page public indexed text read; local TLS attempts failed and normal curl returned403; visual review not confirmed"
+  },
+  {
+    "source": "tfi-products-web",
+    "url": "https://www.tilburguniversity.edu/nl/onderzoek/instituten-en-researchgroepen/tranzo/academischewerkplaatsen/ouderen/praktijk-producten",
+    "status": "web_check",
+    "scope": "official Dutch/English acquisition links read; local TLS failure"
+  },
+  {
+    "source": "barthel-medchi-web",
+    "url": "https://www.medchi.org/Your-Resource/Barthel-Index",
+    "status": "web_check",
+    "scope": "official rights-holder acquisition route points to Mapi Research Trust; local TLS failure; no form copied"
+  },
+  {
+    "source": "barthel-mgh-web",
+    "url": "https://www.massgeneral.org/assets/mgh/pdf/neurology/stop-stroke/barthel_reprint.pdf",
+    "status": "web_check",
+    "scope": "redirects to institutional homepage, not original PDF"
+  },
+  {
+    "source": "frail-pdf-web",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4515112/pdf/nihms709065.pdf",
+    "status": "web_check",
+    "scope": "browser-check page instead of PDF; HTML article body and Appendix1 obtained separately"
+  },
+  {
+    "status": "remaining_materials",
+    "scope": "TFI2010 and Chinese2017/2018 complete papers/forms, Lawton1969 original, EFS current licensed toolkit/Chinese original still pending. TFI2021 XML has no app/supplementary-material nodes; no complete Chinese form verified."
+  }
+]

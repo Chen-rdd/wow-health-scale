@@ -3890,7 +3890,7 @@
       },
       {
         "label": "开发团队FRAIL题目及编码",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/4515112/",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4515112/",
         "kind": "题目与选项",
         "scope": "FRAIL"
       }
@@ -3903,7 +3903,7 @@
       "resources": [
         {
           "label": "开发团队FRAIL题目及编码",
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/4515112/",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4515112/",
           "kind": "题目与选项",
           "scope": "FRAIL"
         }
@@ -3998,22 +3998,34 @@
       },
       {
         "label": "EFS正式工具及施测评分培训",
-        "url": "https://edmontonfrailscale.org/",
+        "url": "https://edmontonfrailscale.org/resources",
         "kind": "官方获取",
-        "scope": "原版EFS"
+        "scope": "现行床旁与急性照护版分别核对"
+      },
+      {
+        "label": "EFS许可条件",
+        "url": "https://edmontonfrailscale.org/what-about-copyright-and-licensing",
+        "kind": "官方获取",
+        "scope": "用途、样本量、语言及机构现有许可"
       }
     ],
     "administration": {
       "scope": "原始Edmonton Frail Scale",
       "answers": "包含问答、钟表绘制及起立行走等实际任务，应由施测人员按指南评定。",
       "scoring": "按项目评分求总分；不能删除表现任务后仍套用原版分界。官方培训资料解释逐项施测与评分。",
-      "access": "官方平台提供工具及培训资源；正式使用按其许可条件办理。",
+      "access": "现行正式工具、译本及培训材料须取得University of Alberta许可；个别临床或小样本研究可能免收费，但不能把免收费等同免许可。",
       "resources": [
         {
           "label": "EFS正式工具及施测评分培训",
-          "url": "https://edmontonfrailscale.org/",
+          "url": "https://edmontonfrailscale.org/resources",
           "kind": "官方获取",
-          "scope": "原版EFS"
+          "scope": "现行床旁与急性照护版分别核对"
+        },
+        {
+          "label": "EFS许可条件",
+          "url": "https://edmontonfrailscale.org/what-about-copyright-and-licensing",
+          "kind": "官方获取",
+          "scope": "用途、样本量、语言及机构现有许可"
         }
       ]
     }
@@ -4149,6 +4161,12 @@
         "url": "https://pubmed.ncbi.nlm.nih.gov/5349366/"
       },
       {
+        "label": "HIGN 2019八项原件与现代建议",
+        "url": "https://hign.org/sites/default/files/2020-06/Try_This_General_Assessment_23.pdf",
+        "kind": "题目与选项",
+        "scope": "男女均评八项；历史协议另列"
+      },
+      {
         "label": "Lawton IADL项目和编码表",
         "url": "https://www.merckmanuals.com/professional/multimedia/table/lawton-instrumental-activities-of-daily-living-scale",
         "kind": "题目与选项",
@@ -4167,6 +4185,12 @@
       "scoring": "按所用表单将每项编码并计分；历史按性别选择项目与现代全项目用法存在差异，须报告实际纳入项目数，不能直接比较不同上限的总分。",
       "access": "所附临床资料给出具体项目与编码；应核对当地适配版本。",
       "resources": [
+        {
+          "label": "HIGN 2019八项原件与现代建议",
+          "url": "https://hign.org/sites/default/files/2020-06/Try_This_General_Assessment_23.pdf",
+          "kind": "题目与选项",
+          "scope": "男女均评八项；历史协议另列"
+        },
         {
           "label": "Lawton IADL项目和编码表",
           "url": "https://www.merckmanuals.com/professional/multimedia/table/lawton-instrumental-activities-of-daily-living-scale",

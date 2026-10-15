@@ -1827,10 +1827,10 @@ export const versions = [
     "parent": "",
     "relation": "基准",
     "population": "老年人",
-    "scoring": "量表首次来源与中文版验证文献",
-    "chinese": "存在中文版研究",
+    "scoring": "0–5；2012与SLU简表的疾病／体重规则分开",
+    "chinese": "Dong等2018摘要已核；中文完整题文待取",
     "copyrightRisk": "低",
-    "status": "核心来源已定位"
+    "status": "来源与操作差异已核；译本对应待补"
   },
   {
     "id": "VR-AG-002-BASE",
@@ -1841,14 +1841,14 @@ export const versions = [
     "name": "Tilburg Frailty Indicator",
     "abbreviation": "TFI",
     "role": "量表版本",
-    "itemCount": "15项",
+    "itemCount": "B部分15项；A部分10项不计总分",
     "parent": "",
     "relation": "基准",
     "population": "社区老年人",
-    "scoring": "中文版来源、阈值与三维结构",
-    "chinese": "存在中文版研究",
+    "scoring": "B总分0–15；8／4／3三域，阈值依译本研究",
+    "chinese": "大陆摘要、台湾研究XML已核；具体题本待取",
     "copyrightRisk": "低至中",
-    "status": "原始文献已定位"
+    "status": "英文计分文字已核；原页视觉与许可待补"
   },
   {
     "id": "VR-AG-003-BASE",
@@ -1863,10 +1863,10 @@ export const versions = [
     "parent": "",
     "relation": "基准",
     "population": "老年人",
-    "scoring": "中文版、施测者要求及计分",
-    "chinese": "存在中文版研究线索",
-    "copyrightRisk": "低至中",
-    "status": "原始文献已定位"
+    "scoring": "历史表0–17；现行床旁／急性版需正式许可材料",
+    "chinese": "官网列普通话及繁体；尚未取得许可原件",
+    "copyrightRisk": "需University of Alberta正式许可",
+    "status": "2006正文及GCIF附件已核；现行许可待补"
   },
   {
     "id": "VR-AG-004-BASE",
@@ -1899,10 +1899,10 @@ export const versions = [
     "parent": "",
     "relation": "基准",
     "population": "老年人",
-    "scoring": "性别相关原始计分与现代用法",
-    "chinese": "存在中文研究",
+    "scoring": "现代建议男女均0–8；不同于历史5／8协议",
+    "chinese": "确切中文项目与口径待核",
     "copyrightRisk": "低至中",
-    "status": "原始文献已定位"
+    "status": "HIGN 2019两页原件已核；1969全文待取"
   },
   {
     "id": "VR-AG-006-BASE",
@@ -4890,7 +4890,7 @@ export const versions = [
     "scoring": "男性0–5、女性0–8；不适合性别比较",
     "chinese": "中文应用需识别口径",
     "copyrightRisk": "低",
-    "status": "已核验"
+    "status": "历史协议说明已核；早期原件及中文待取"
   },
   {
     "id": "VR-MC-001-156",

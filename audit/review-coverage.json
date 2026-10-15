@@ -2,8 +2,8 @@
   "summary": {
     "records": 248,
     "selectableRecords": 213,
-    "recordsWithSourcedProfiles": 135,
-    "selectableRecordsWithoutSourcedProfiles": 78,
+    "recordsWithSourcedProfiles": 140,
+    "selectableRecordsWithoutSourcedProfiles": 73,
     "registeredForms": 16,
     "exportableForms": 4,
     "warning": "说明覆盖数量不是完整题本、独立中文验证或授权完成数量。别名合并后的前台数量另计。"
@@ -815,14 +815,18 @@
       "familyId": "AG-001",
       "name": "FRAIL Scale",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2012开放正文的研究样本、FRAIL方法、讨论及Appendix 1核读，SLU一页RGA相关区域视觉核对；2018中文适配研究目前只核对正式摘要。",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4515112/",
+        "https://www.slu.edu/medicine/internal-medicine/geriatric-medicine/aging-successfully/-pdf/rapid-geriatric-assessment.pdf",
+        "https://pubmed.ncbi.nlm.nih.gov/28757330/"
+      ],
       "primaryReference": {
-        "title": "Frailty consensus: a call to action.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/23764209/",
-        "role": "系列背景文献"
+        "title": "A simple frailty questionnaire (FRAIL) predicts outcomes in middle aged African Americans.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4515112/",
+        "role": "直接验证及AAH操作规则；SLU简表另见说明"
       },
       "registeredForms": []
     },
@@ -831,14 +835,19 @@
       "familyId": "AG-002",
       "name": "Tilburg Frailty Indicator",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "大学三页英文原件的公开可读文字、计分键已核；本地取得因TLS／403失败，原页视觉复核仍待。2010及2017大陆研究仅摘要，2021台湾研究正式XML相关方法／结果／局限已读。",
+      "sources": [
+        "https://www.tilburguniversity.edu/sites/default/files/download/tfieng_2.pdf",
+        "https://doi.org/10.3390/healthcare9091193",
+        "https://www.tilburguniversity.edu/nl/onderzoek/instituten-en-researchgroepen/tranzo/academischewerkplaatsen/ouderen/praktijk-producten",
+        "https://pubmed.ncbi.nlm.nih.gov/28734173/"
+      ],
       "primaryReference": {
         "title": "The Tilburg Frailty Indicator: psychometric properties.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/20511102/",
-        "role": "系列背景文献"
+        "role": "直接心理测量研究（当前仅摘要）；大学英文题本另核"
       },
       "registeredForms": []
     },
@@ -847,14 +856,19 @@
       "familyId": "AG-003",
       "name": "Edmonton Frail Scale",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2006正式开放XML正文、Table 1及结果已读；独立补充ZIP及内含一页GCIF原件已取得、文字与原页均核对。现行官网许可、版本及培训要求另查，未取得现行许可题本。",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5955195/",
+        "https://edmontonfrailscale.org/do-you-need-training-to-use-the-efs",
+        "https://edmontonfrailscale.org/what-about-copyright-and-licensing",
+        "https://edmontonfrailscale.org/resources"
+      ],
       "primaryReference": {
         "title": "Validity and reliability of the Edmonton Frail Scale.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/16757522/",
-        "role": "系列背景文献"
+        "role": "直接验证研究（2006历史表）；现行许可另核"
       },
       "registeredForms": []
     },
@@ -879,14 +893,17 @@
       "familyId": "AG-005",
       "name": "Lawton Instrumental Activities of Daily Living Scale",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "HIGN 2019修订两页原件全部视觉核对：当前指南、八项题目和分值、使用注记；1969原研究目前只确认书目，全文未取得。",
+      "sources": [
+        "https://hign.org/sites/default/files/2020-06/Try_This_General_Assessment_23.pdf",
+        "https://hign.org/consultgeri/try-this-series/lawton-instrumental-activities-daily-living-iadl-scale"
+      ],
       "primaryReference": {
         "title": "Assessment of older people: self-maintaining and instrumental activities of daily living.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/5349366/",
-        "role": "系列背景文献"
+        "role": "1969经典来源；现行八项建议另见HIGN说明，早期全文待取"
       },
       "registeredForms": []
     },
@@ -4129,14 +4146,17 @@
       "familyId": "AG-005",
       "name": "Lawton IADL historical sex-specific scoring",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "HIGN 2019指南对历史性别协议和现代八项建议的明确区分已核；旧版下载链接404，未取得1969原论文及旧版原页。",
+      "sources": [
+        "https://hign.org/consultgeri/try-this-series/lawton-instrumental-activities-daily-living-iadl-scale",
+        "https://hign.org/sites/default/files/2020-06/Try_This_General_Assessment_23.pdf"
+      ],
       "primaryReference": {
         "title": "Assessment of older people: self-maintaining and instrumental activities of daily living.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/5349366/",
-        "role": "系列背景文献"
+        "role": "历史协议来源；5／8与现代建议以HIGN说明交叉核对"
       },
       "registeredForms": []
     },

@@ -522,16 +522,16 @@ export const versionReferences = {
     "metadataSource": "https://api.crossref.org/works/10.1037%2F1076-8998.1.1.27"
   },
   "VR-AG-001-BASE": {
-    "title": "Frailty consensus: a call to action.",
-    "authors": "Morley JE, Vellas B, van Kan GA, Anker SD, Bauer JM, Bernabei R, Cesari M, Chumlea WC, Doehner W, Evans J, Fried LP, Guralnik JM, Katz PR, Malmstrom TK, McCarter RJ, Gutierrez Robledo LM, Rockwood K, von Haehling S, Vandewoude MF, Walston J",
-    "journal": "Journal of the American Medical Directors Association",
-    "year": "2013",
-    "doi": "10.1016/j.jamda.2013.03.022",
-    "pmid": "23764209",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/23764209/",
-    "role": "系列背景文献",
-    "confidence": "family",
-    "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/23764209/"
+    "title": "A simple frailty questionnaire (FRAIL) predicts outcomes in middle aged African Americans.",
+    "authors": "Morley JE, Malmstrom TK, Miller DK",
+    "journal": "The Journal of Nutrition, Health & Aging",
+    "year": "2012",
+    "doi": "10.1007/s12603-012-0084-2",
+    "pmid": "22836700",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4515112/",
+    "role": "直接验证及AAH操作规则；SLU简表另见说明",
+    "confidence": "version",
+    "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/22836700/"
   },
   "VR-AG-002-BASE": {
     "title": "The Tilburg Frailty Indicator: psychometric properties.",
@@ -541,8 +541,8 @@ export const versionReferences = {
     "doi": "10.1016/j.jamda.2009.11.003",
     "pmid": "20511102",
     "url": "https://pubmed.ncbi.nlm.nih.gov/20511102/",
-    "role": "系列背景文献",
-    "confidence": "family",
+    "role": "直接心理测量研究（当前仅摘要）；大学英文题本另核",
+    "confidence": "version",
     "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/20511102/"
   },
   "VR-AG-003-BASE": {
@@ -553,8 +553,8 @@ export const versionReferences = {
     "doi": "10.1093/ageing/afl041",
     "pmid": "16757522",
     "url": "https://pubmed.ncbi.nlm.nih.gov/16757522/",
-    "role": "系列背景文献",
-    "confidence": "family",
+    "role": "直接验证研究（2006历史表）；现行许可另核",
+    "confidence": "version",
     "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/16757522/"
   },
   "VR-AG-004-BASE": {
@@ -576,8 +576,8 @@ export const versionReferences = {
     "doi": "10.1093/geront/9.3_Part_1.179",
     "pmid": "5349366",
     "url": "https://pubmed.ncbi.nlm.nih.gov/5349366/",
-    "role": "系列背景文献",
-    "confidence": "family",
+    "role": "1969经典来源；现行八项建议另见HIGN说明，早期全文待取",
+    "confidence": "version",
     "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/5349366/"
   },
   "VR-AG-006-BASE": {
@@ -2622,8 +2622,8 @@ export const versionReferences = {
     "doi": "10.1093/geront/9.3_Part_1.179",
     "pmid": "5349366",
     "url": "https://pubmed.ncbi.nlm.nih.gov/5349366/",
-    "role": "系列背景文献",
-    "confidence": "family",
+    "role": "历史协议来源；5／8与现代建议以HIGN说明交叉核对",
+    "confidence": "version",
     "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/5349366/"
   },
   "VR-MC-001-156": {

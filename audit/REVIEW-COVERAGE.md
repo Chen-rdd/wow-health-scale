@@ -2,7 +2,7 @@
 
 由 `node scripts/inventory-review-coverage.mjs` 生成。说明覆盖不等于完整科学核验；未将缺失材料标为完成。
 
-登记248条，其中213条可选择；135条有单独来源说明，78条仍待补充。原件表单16份，开放导出4份。
+登记248条，其中213条可选择；140条有单独来源说明，73条仍待补充。原件表单16份，开放导出4份。
 
 | 记录 | 名称 | 状态与核对范围 |
 | --- | --- | --- |
@@ -50,11 +50,11 @@
 | VR-OH-003-BASE | Oldenburg Burnout Inventory | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-OH-004-BASE | Professional Quality of Life Scale, Version 5 | 已补充来源说明；完整核验范围须读具体说明；现行官网英文自评分表三页、简体护理语境表一页均已视觉核对；2010手册施测、评分、解释及FAQ相关章节已读，未宣称74页逐页检查。 |
 | VR-OH-005-BASE | Effort–Reward Imbalance Questionnaire | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-AG-001-BASE | FRAIL Scale | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-AG-002-BASE | Tilburg Frailty Indicator | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-AG-003-BASE | Edmonton Frail Scale | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
+| VR-AG-001-BASE | FRAIL Scale | 已补充来源说明；完整核验范围须读具体说明；2012开放正文的研究样本、FRAIL方法、讨论及Appendix 1核读，SLU一页RGA相关区域视觉核对；2018中文适配研究目前只核对正式摘要。 |
+| VR-AG-002-BASE | Tilburg Frailty Indicator | 已补充来源说明；完整核验范围须读具体说明；大学三页英文原件的公开可读文字、计分键已核；本地取得因TLS／403失败，原页视觉复核仍待。2010及2017大陆研究仅摘要，2021台湾研究正式XML相关方法／结果／局限已读。 |
+| VR-AG-003-BASE | Edmonton Frail Scale | 已补充来源说明；完整核验范围须读具体说明；2006正式开放XML正文、Table 1及结果已读；独立补充ZIP及内含一页GCIF原件已取得、文字与原页均核对。现行官网许可、版本及培训要求另查，未取得现行许可题本。 |
 | VR-AG-004-BASE | Barthel Index | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-AG-005-BASE | Lawton Instrumental Activities of Daily Living Scale | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
+| VR-AG-005-BASE | Lawton Instrumental Activities of Daily Living Scale | 已补充来源说明；完整核验范围须读具体说明；HIGN 2019修订两页原件全部视觉核对：当前指南、八项题目和分值、使用注记；1969原研究目前只确认书目，全文未取得。 |
 | VR-AG-006-BASE | Mini Nutritional Assessment | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-MC-001-BASE | Edinburgh Postnatal Depression Scale | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-MC-002-BASE | Strengths and Difficulties Questionnaire | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
@@ -220,7 +220,7 @@
 | VR-OH-002-152 | Copenhagen Burnout Inventory Student Version | 已补充来源说明；完整核验范围须读具体说明；Campos等2013出版社开放原论文方法、结果、讨论及图1原页已核读；尚未锁定中文题本与独立中文验证，不把职业版19题直接改词代替学生版。 |
 | VR-OH-004-153 | Professional Quality of Life Scale Version III | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-OH-004-154 | Professional Quality of Life Scale Version IV | 已补充来源说明；完整核验范围须读具体说明；官网IV到5修订对照一页已视觉核对，2010手册第72页FAQ已读；IV独立历史题本和完整评分附件仍待取得。 |
-| VR-AG-005-155 | Lawton IADL historical sex-specific scoring | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
+| VR-AG-005-155 | Lawton IADL historical sex-specific scoring | 已补充来源说明；完整核验范围须读具体说明；HIGN 2019指南对历史性别协议和现代八项建议的明确区分已核；旧版下载链接404，未取得1969原论文及旧版原页。 |
 | VR-MC-001-156 | Edinburgh Postnatal Depression Scale, 5-item research form (Rochat et al.) | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-MC-001-157 | Edinburgh Postnatal Depression Scale, 3-item research form (Rochat et al.) | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-MC-003-158 | PedsQL 3.0 Asthma Module | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
