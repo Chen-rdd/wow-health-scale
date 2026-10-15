@@ -1629,10 +1629,10 @@ export const versions = [
     "parent": "",
     "relation": "基准",
     "population": "成人",
-    "scoring": "原始提出时间、阈值及人群限制",
+    "scoring": "0–4；通常终生经历，筛查后需进一步评估",
     "chinese": "中文版本待核验",
     "copyrightRisk": "低",
-    "status": "经典文献已定位"
+    "status": "英文来源已核；中文题文待核"
   },
   {
     "id": "VR-MA-001-BASE",
@@ -3573,10 +3573,10 @@ export const versions = [
     "parent": "",
     "relation": "开发",
     "population": "成人",
-    "scoring": "0–40",
-    "chinese": "WHO中文材料",
+    "scoring": "0–40；标准杯与回顾期按具体原件",
+    "chinese": "开发者四种中文原件已查看；研究逐字对应待核",
     "copyrightRisk": "低",
-    "status": "已核验"
+    "status": "WHO手册与原件已核；中文研究待核"
   },
   {
     "id": "VR-HB-004-083",
@@ -3591,10 +3591,10 @@ export const versions = [
     "parent": "AUDIT",
     "relation": "截取前3题",
     "population": "成人",
-    "scoring": "0–12；性别/场景界点",
-    "chinese": "中文研究存在",
+    "scoring": "0–12；原国际版与美国适配版分开",
+    "chinese": "确切中文短表及独立研究待核",
     "copyrightRisk": "低",
-    "status": "已核验"
+    "status": "英文原研究已核；中文待核"
   },
   {
     "id": "VR-HB-005-084",
@@ -3609,10 +3609,10 @@ export const versions = [
     "parent": "",
     "relation": "开发",
     "population": "吸烟者",
-    "scoring": "版本专用计分",
+    "scoring": "历史8题0–11；与FTND计分不同",
     "chinese": "中文状态待核验",
     "copyrightRisk": "中",
-    "status": "已核验"
+    "status": "历史结构已核；1978全文待取"
   },
   {
     "id": "VR-HB-005-085",
@@ -3628,9 +3628,9 @@ export const versions = [
     "relation": "删改更名",
     "population": "卷烟吸烟者",
     "scoring": "0–10",
-    "chinese": "中文版本存在",
+    "chinese": "具体中文译本与研究待核",
     "copyrightRisk": "中",
-    "status": "已核验"
+    "status": "1991英文Table 3已核；中文待核"
   },
   {
     "id": "VR-HB-006-086",
@@ -3645,10 +3645,10 @@ export const versions = [
     "parent": "CAGE",
     "relation": "构念扩展",
     "population": "成人",
-    "scoring": "0–4",
+    "scoring": "0–4；工具包≥1阳性，非诊断",
     "chinese": "中文待核验",
     "copyrightRisk": "低",
-    "status": "已核验"
+    "status": "英文题本已核；1995全文与中文待核"
   },
   {
     "id": "VR-MA-001-087",

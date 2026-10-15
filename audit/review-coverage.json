@@ -2,8 +2,8 @@
   "summary": {
     "records": 248,
     "selectableRecords": 213,
-    "recordsWithSourcedProfiles": 129,
-    "selectableRecordsWithoutSourcedProfiles": 84,
+    "recordsWithSourcedProfiles": 135,
+    "selectableRecordsWithoutSourcedProfiles": 78,
     "registeredForms": 16,
     "exportableForms": 4,
     "warning": "说明覆盖数量不是完整题本、独立中文验证或授权完成数量。别名合并后的前台数量另计。"
@@ -628,14 +628,17 @@
       "familyId": "HB-006",
       "name": "CAGE Questionnaire",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "大学公开CAGE英文四题及计分、JAMA 2008历史评论核读；1984原论文仅出版社摘要与书目确认，未宣称全文已读。",
+      "sources": [
+        "https://jamanetwork.com/journals/jama/fullarticle/182810",
+        "https://www.hiv.uw.edu/page/substance-use/cage"
+      ],
       "primaryReference": {
-        "title": "Detecting Alcoholism",
+        "title": "Detecting alcoholism. The CAGE questionnaire.",
         "url": "https://doi.org/10.1001/jama.1984.03350140051025",
-        "role": "系列背景文献"
+        "role": "1984经典介绍；1970会议提出另见历史说明"
       },
       "registeredForms": []
     },
@@ -2715,10 +2718,14 @@
       "familyId": "HB-003",
       "name": "AUDIT",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "WHO 2001手册开发、施测、计分及附录B/C相关章节核读，英文访谈表和计分原页视觉核对；开发者列出的四种中文原件五页全部查看。1993直接开发论文全文另待取得。",
+      "sources": [
+        "https://alcoholscreen.org/cmsb/uploads/2001-audit-the-alcohol-use-disorders-identification-test-guidelines-for-use-in-primary-care-geneva-world-health-organization-2001-second-edition.pdf",
+        "https://alcoholscreen.org/about/faqs/",
+        "https://auditscreen.org/translations/"
+      ],
       "primaryReference": {
         "title": "Development of the Alcohol Use Disorders Identification Test (AUDIT): WHO Collaborative Project on Early Detection of Persons with Harmful Alcohol Consumption--II.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/8329970/",
@@ -2731,14 +2738,19 @@
       "familyId": "HB-004",
       "name": "AUDIT-C",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "1998七页原始研究的方法、结果及讨论核读，第1790页回答与计分视觉核对；VA两页卡片取得，2007男女阈值研究仅核对正式摘要。",
+      "sources": [
+        "https://alcoholscreen.org/cmsb/uploads/1998-the-audit-alcohol-consumption-questions-(audit-c)an-effective-brief-screening-test-for-problem-drinking.pdf",
+        "https://www.niaaa.nih.gov/health-professionals-communities/core-resource-on-alcohol/screen-and-assess-use-quick-effective-methods",
+        "https://pubmed.ncbi.nlm.nih.gov/17451397/",
+        "https://auditscreen.org/translations/"
+      ],
       "primaryReference": {
-        "title": "Effectiveness of the derived Alcohol Use Disorders Identification Test (AUDIT-C) in screening for alcohol use disorders and risk drinking in the US general population.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/15897730/",
-        "role": "相关研究（开发、验证或应用）"
+        "title": "The AUDIT alcohol consumption questions (AUDIT-C): an effective brief screening test for problem drinking. Ambulatory Care Quality Improvement Project (ACQUIP).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9738608/",
+        "role": "直接短版验证研究；2007男女阈值研究另见说明"
       },
       "registeredForms": []
     },
@@ -2747,14 +2759,18 @@
       "familyId": "HB-005",
       "name": "Fagerström Tolerance Questionnaire",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "1978提出文献书目及出版社摘要定位；1991原论文对FTQ逐项计分与修订原因已读，APA公开八题页面文字交叉核对。1978完整原件尚未取得。",
+      "sources": [
+        "https://cpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/4/869/files/2010/10/91_Heatherton_etal_BJA.pdf",
+        "https://www.apa.org/pubs/videos/4310588-scale",
+        "https://doi.org/10.1016/0306-4603(78)90024-2"
+      ],
       "primaryReference": {
-        "title": "Assessing nicotine dependence: a comparison of the Fagerström Tolerance Questionnaire (FTQ) with the Fagerström Test for Nicotine Dependence (FTND) in a clinical sample.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/7942248/",
-        "role": "相关研究（开发、验证或应用）"
+        "title": "Measuring degree of physical dependence to tobacco smoking with reference to individualization of treatment.",
+        "url": "https://doi.org/10.1016/0306-4603(78)90024-2",
+        "role": "FTQ提出文献；当前仅出版社摘要与书目，全文待取"
       },
       "registeredForms": []
     },
@@ -2763,14 +2779,16 @@
       "familyId": "HB-005",
       "name": "Fagerström Test for Nicotine Dependence",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "作者机构仓储1991十页文件取得；相关方法、计分、信度与讨论核读，期刊第1125页Table 3全部六题及权限脚注视觉核对。",
+      "sources": [
+        "https://cpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/4/869/files/2010/10/91_Heatherton_etal_BJA.pdf"
+      ],
       "primaryReference": {
-        "title": "Assessing nicotine dependence: a comparison of the Fagerström Tolerance Questionnaire (FTQ) with the Fagerström Test for Nicotine Dependence (FTND) in a clinical sample.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/7942248/",
-        "role": "相关研究（开发、验证或应用）"
+        "title": "The Fagerstrom Test for Nicotine Dependence: a revision of the Fagerstrom Tolerance Questionnaire.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1932883/",
+        "role": "直接修订开发；原文Table 3含六题评分"
       },
       "registeredForms": []
     },
@@ -2779,14 +2797,17 @@
       "familyId": "HB-006",
       "name": "CAGE-AID",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "大学提供两页英文题本、计分及权限注记全部视觉核对；1995研究书目与摘要确认，正文未取得，统计数值按工具包所引研究呈现。",
+      "sources": [
+        "https://adai.uw.edu/instruments/pdf/CAGE-AID.pdf",
+        "https://pubmed.ncbi.nlm.nih.gov/7778330/"
+      ],
       "primaryReference": {
-        "title": "Screening for substance abuse among adolescents validity of the CAGE-AID in youth mental health care.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/19444724/",
-        "role": "相关研究（开发、验证或应用）"
+        "title": "Conjoint screening questionnaires for alcohol and other drug abuse: criterion validity in a primary care practice.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7778330/",
+        "role": "成人基层医疗直接验证；摘要已核，正文待取"
       },
       "registeredForms": []
     },
