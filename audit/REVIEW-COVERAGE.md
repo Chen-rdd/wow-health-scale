@@ -2,7 +2,7 @@
 
 由 `node scripts/inventory-review-coverage.mjs` 生成。说明覆盖不等于完整科学核验；未将缺失材料标为完成。
 
-登记248条，其中213条可选择；122条有单独来源说明，91条仍待补充。原件表单16份，开放导出4份。
+登记248条，其中213条可选择；129条有单独来源说明，84条仍待补充。原件表单16份，开放导出4份。
 
 | 记录 | 名称 | 状态与核对范围 |
 | --- | --- | --- |
@@ -28,11 +28,11 @@
 | VR-HL-002-BASE | 12-item Short Form Health Literacy Survey Questionnaire | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-HL-003-BASE | Short Test of Functional Health Literacy in Adults | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-HL-004-BASE | Newest Vital Sign | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-HL-005-BASE | eHealth Literacy Scale | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-SS-001-BASE | Multidimensional Scale of Perceived Social Support | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
+| VR-HL-005-BASE | eHealth Literacy Scale | 已补充来源说明；完整核验范围须读具体说明；2006出版社HTML及Europe PMC正式全文XML的方法、结果、局限及题目表已核读；原附录DOC已下载并提取全部文字，未完成原DOC视觉排版核验；正文PDF本地请求为空，未记下载成功。 |
+| VR-SS-001-BASE | Multidimensional Scale of Perceived Social Support | 已补充来源说明；完整核验范围须读具体说明；作者现行两页英文题本和评分全部视觉核对，作者提供的1988原论文第30—39页正文、方法、结果及讨论已读；中文具体译本及研究另待核。 |
 | VR-SS-002-BASE | UCLA Loneliness Scale | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-SS-003-BASE | Lubben Social Network Scale | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-SS-004-BASE | Oslo Social Support Scale | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
+| VR-SS-004-BASE | Oslo Social Support Scale | 已补充来源说明；完整核验范围须读具体说明；2018标准化研究公开PDF与方法、结果、讨论已核读，第2—3页题文和回答编码视觉核对；两项补充文件已取得。最早来源链、中文独立验证及漏答规则仍待补。 |
 | VR-SS-005-BASE | Medical Outcomes Study Social Support Survey | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-HB-001-BASE | International Physical Activity Questionnaire | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-HB-002-BASE | Global Physical Activity Questionnaire version 2 | 已补充来源说明；完整核验范围须读具体说明；WHO v2英文分析指南及题本、清理表原页；中文原件、中文研究及再分发条件尚待核对。 |
@@ -126,10 +126,10 @@
 | VR-QL-005-058 | PROMIS Early Childhood Parent-Report Global Health 8a v1.0 | 已补充来源说明；完整核验范围须读具体说明；第14、23页幼儿表及换算表原页已核对；具体中文原件和验证研究待补。 |
 | VR-QL-006-059 | Satisfaction With Life Scale (7-point response format) | 已补充来源说明；完整核验范围须读具体说明；英文原件、官网繁体研究版及使用条件；未完成中文独立验证研究核对。 |
 | VR-QL-006-060 | Satisfaction With Life Scale (5-point response format) | 已补充来源说明；完整核验范围须读具体说明；五级形式的开发者指引；完整五级题本及中文验证仍待核对。 |
-| VR-HL-001-061 | HLS-EU-Q47 | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-HL-001-062 | HLS-EU-Q16 | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-HL-001-063 | HLS19-Q12 | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-HL-002-064 | HLS-SF12 | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
+| VR-HL-001-061 | HLS-EU-Q47 | 已补充来源说明；完整核验范围须读具体说明；2013开发研究正式全文XML及完整英文47题两页附录已核，附录全部视觉核对；指数公式另核2019亚洲研究。原版完整评分手册、中文47题原件及独立验证仍待补。 |
+| VR-HL-001-062 | HLS-EU-Q16 | 已补充来源说明；完整核验范围须读具体说明；2020冰岛Q16翻译研究全文与第3页原评分描述已核读和视觉检查；原始选题开发材料、正式英文／中文独立题本仍待取得，不称冰岛研究是最初开发。 |
+| VR-HL-001-063 | HLS19-Q12 | 已补充来源说明；完整核验范围须读具体说明；M-POHL 2025年8月两套计分说明相关章节与第2—3页原页核对；2025年10月译本表已视觉核对。2022开发研究XML、2024中文验证全文及7页附件相关章节已读，附件1两页全部视觉检查；中文正式施测表和合同仍待取得。 |
+| VR-HL-002-064 | HLS-SF12 | 已补充来源说明；完整核验范围须读具体说明；2019六地开发验证研究全文XML及2023大陆验证全文PDF/XML已核读；中文研究第3页公式及末页检查。尚未取得2023文中所指完整中文附录，不把研究存在当作题本逐字匹配完成。 |
 | VR-SS-002-065 | UCLA Loneliness Scale original | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-SS-002-066 | Revised UCLA Loneliness Scale | 已补充来源说明；完整核验范围须读具体说明；1980年开发论文、Table 1及评分键；中文译本、统一漏答规则与权限仍待核对。 |
 | VR-SS-002-067 | UCLA Loneliness Scale Version 3 | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |

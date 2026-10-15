@@ -267,8 +267,8 @@ export const versionReferences = {
     "doi": "10.2196/jmir.8.4.e27",
     "pmid": "17213046",
     "url": "https://pubmed.ncbi.nlm.nih.gov/17213046/",
-    "role": "系列背景文献",
-    "confidence": "family",
+    "role": "核心8题开发研究；附录另含2补充题",
+    "confidence": "version",
     "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/17213046/"
   },
   "VR-SS-001-BASE": {
@@ -279,8 +279,8 @@ export const versionReferences = {
     "doi": "10.1207/s15327752jpa5201_2",
     "pmid": "",
     "url": "https://doi.org/10.1207/s15327752jpa5201_2",
-    "role": "系列背景文献",
-    "confidence": "family",
+    "role": "原始12题开发研究",
+    "confidence": "version",
     "metadataSource": "https://api.crossref.org/works/10.1207%2Fs15327752jpa5201_2"
   },
   "VR-SS-002-BASE": {
@@ -308,15 +308,16 @@ export const versionReferences = {
     "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/16921004/"
   },
   "VR-SS-004-BASE": {
-    "title": "Original provenance and scoring documentation require targeted review.",
-    "authors": "",
-    "journal": "",
-    "year": "",
-    "doi": "",
-    "pmid": "",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Oslo+Social+Support+Scale+OSSS-3",
-    "role": "系列背景文献",
-    "confidence": "family"
+    "title": "Social support in the general population: standardization of the Oslo social support scale (OSSS-3)",
+    "authors": "Kocalevent RD, Berg L, Beutel ME, Hinz A, Zenger M, Härter M, Nater U, Brähler E",
+    "journal": "BMC Psychology",
+    "year": "2018",
+    "doi": "10.1186/s40359-018-0249-9",
+    "pmid": "30016997",
+    "url": "https://link.springer.com/article/10.1186/s40359-018-0249-9",
+    "role": "标准化研究；非最早开发来源",
+    "confidence": "version",
+    "metadataSource": "https://link.springer.com/article/10.1186/s40359-018-0249-9"
   },
   "VR-SS-005-BASE": {
     "title": "The MOS social support survey.",
@@ -1473,17 +1474,16 @@ export const versionReferences = {
     "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/16367493/"
   },
   "VR-HL-001-061": {
-    "title": "Do adolescents understand the items of the European Health Literacy Survey Questionnaire (HLS-EU-Q47) - German version? Findings from cognitive interviews of the project \"Measurement of Health Literacy Among Adolescents\" (MOHLAA) in Germany.",
-    "authors": "Domanska OM, Firnges C, Bollweg TM, Sørensen K, Holmberg C, Jordan S",
-    "journal": "Archives of public health = Archives belges de sante publique",
-    "year": "2018",
-    "doi": "10.1186/s13690-018-0276-2",
-    "pmid": "30009022",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/30009022/",
-    "role": "相关研究（开发、验证或应用）",
+    "title": "Measuring health literacy in populations: illuminating the design and development process of the European Health Literacy Survey Questionnaire (HLS-EU-Q)",
+    "authors": "Sørensen K, Van den Broucke S, Pelikan JM, Fullam J, Doyle G, Slonska Z, Kondilis B, Stoffels V, Osborne RH, Brand H",
+    "journal": "BMC Public Health",
+    "year": "2013",
+    "doi": "10.1186/1471-2458-13-948",
+    "pmid": "24112855",
+    "url": "https://link.springer.com/article/10.1186/1471-2458-13-948",
+    "role": "母版直接开发研究；英文完整附录已核",
     "confidence": "version",
-    "matchScore": 12,
-    "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/30009022/"
+    "metadataSource": "https://link.springer.com/article/10.1186/1471-2458-13-948"
   },
   "VR-HL-001-062": {
     "title": "Translation and cross-cultural adaptation of the European Health Literacy Survey Questionnaire, HLS-EU-Q16: the Icelandic version.",
@@ -1493,7 +1493,7 @@ export const versionReferences = {
     "doi": "10.1186/s12889-020-8162-6",
     "pmid": "31937293",
     "url": "https://pubmed.ncbi.nlm.nih.gov/31937293/",
-    "role": "相关研究（开发、验证或应用）",
+    "role": "冰岛译本与适配研究；非最早开发",
     "confidence": "version",
     "matchScore": 12,
     "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/31937293/"
@@ -1506,7 +1506,7 @@ export const versionReferences = {
     "doi": "10.3390/ijerph192114129",
     "pmid": "36361025",
     "url": "https://pubmed.ncbi.nlm.nih.gov/36361025/",
-    "role": "相关研究（开发、验证或应用）",
+    "role": "直接开发与跨国验证研究；不代替中文独立研究",
     "confidence": "version",
     "matchScore": 12,
     "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/36361025/"
@@ -1519,7 +1519,7 @@ export const versionReferences = {
     "doi": "10.3928/24748307-20190225-01",
     "pmid": "31294310",
     "url": "https://pubmed.ncbi.nlm.nih.gov/31294310/",
-    "role": "相关研究（开发、验证或应用）",
+    "role": "亚洲短版直接开发及验证研究",
     "confidence": "version",
     "matchScore": 11,
     "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/31294310/"

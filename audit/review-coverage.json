@@ -2,8 +2,8 @@
   "summary": {
     "records": 248,
     "selectableRecords": 213,
-    "recordsWithSourcedProfiles": 122,
-    "selectableRecordsWithoutSourcedProfiles": 91,
+    "recordsWithSourcedProfiles": 129,
+    "selectableRecordsWithoutSourcedProfiles": 84,
     "registeredForms": 16,
     "exportableForms": 4,
     "warning": "说明覆盖数量不是完整题本、独立中文验证或授权完成数量。别名合并后的前台数量另计。"
@@ -441,14 +441,17 @@
       "familyId": "HL-005",
       "name": "eHealth Literacy Scale",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2006出版社HTML及Europe PMC正式全文XML的方法、结果、局限及题目表已核读；原附录DOC已下载并提取全部文字，未完成原DOC视觉排版核验；正文PDF本地请求为空，未记下载成功。",
+      "sources": [
+        "https://www.jmir.org/2006/4/e27/",
+        "https://www.jmir.org/api/download?alt_name=jmir_v8i4e27_app1.doc&filename=701a0d670f10d4a0a6eb434b24da3f77.doc"
+      ],
       "primaryReference": {
         "title": "eHEALS: The eHealth Literacy Scale.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/17213046/",
-        "role": "系列背景文献"
+        "role": "核心8题开发研究；附录另含2补充题"
       },
       "registeredForms": []
     },
@@ -457,14 +460,17 @@
       "familyId": "SS-001",
       "name": "Multidimensional Scale of Perceived Social Support",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "作者现行两页英文题本和评分全部视觉核对，作者提供的1988原论文第30—39页正文、方法、结果及讨论已读；中文具体译本及研究另待核。",
+      "sources": [
+        "https://12fab08f-d2d3-ce70-6d1a-9d3fa0d8a67b.filesusr.com/ugd/5119f9_2f88fadcd382463daf5821e8af94a865.pdf",
+        "https://gzimet.wixsite.com/mspss"
+      ],
       "primaryReference": {
         "title": "The Multidimensional Scale of Perceived Social Support",
         "url": "https://doi.org/10.1207/s15327752jpa5201_2",
-        "role": "系列背景文献"
+        "role": "原始12题开发研究"
       },
       "registeredForms": []
     },
@@ -505,14 +511,16 @@
       "familyId": "SS-004",
       "name": "Oslo Social Support Scale",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2018标准化研究公开PDF与方法、结果、讨论已核读，第2—3页题文和回答编码视觉核对；两项补充文件已取得。最早来源链、中文独立验证及漏答规则仍待补。",
+      "sources": [
+        "https://link.springer.com/article/10.1186/s40359-018-0249-9"
+      ],
       "primaryReference": {
-        "title": "Original provenance and scoring documentation require targeted review.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Oslo+Social+Support+Scale+OSSS-3",
-        "role": "系列背景文献"
+        "title": "Social support in the general population: standardization of the Oslo social support scale (OSSS-3)",
+        "url": "https://link.springer.com/article/10.1186/s40359-018-0249-9",
+        "role": "标准化研究；非最早开发来源"
       },
       "registeredForms": []
     },
@@ -2315,14 +2323,18 @@
       "familyId": "HL-001",
       "name": "HLS-EU-Q47",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2013开发研究正式全文XML及完整英文47题两页附录已核，附录全部视觉核对；指数公式另核2019亚洲研究。原版完整评分手册、中文47题原件及独立验证仍待补。",
+      "sources": [
+        "https://link.springer.com/article/10.1186/1471-2458-13-948",
+        "https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2F1471-2458-13-948/MediaObjects/12889_2012_5945_MOESM1_ESM.pdf",
+        "https://doi.org/10.3928/24748307-20190225-01"
+      ],
       "primaryReference": {
-        "title": "Do adolescents understand the items of the European Health Literacy Survey Questionnaire (HLS-EU-Q47) - German version? Findings from cognitive interviews of the project \"Measurement of Health Literacy Among Adolescents\" (MOHLAA) in Germany.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/30009022/",
-        "role": "相关研究（开发、验证或应用）"
+        "title": "Measuring health literacy in populations: illuminating the design and development process of the European Health Literacy Survey Questionnaire (HLS-EU-Q)",
+        "url": "https://link.springer.com/article/10.1186/1471-2458-13-948",
+        "role": "母版直接开发研究；英文完整附录已核"
       },
       "registeredForms": []
     },
@@ -2331,14 +2343,16 @@
       "familyId": "HL-001",
       "name": "HLS-EU-Q16",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2020冰岛Q16翻译研究全文与第3页原评分描述已核读和视觉检查；原始选题开发材料、正式英文／中文独立题本仍待取得，不称冰岛研究是最初开发。",
+      "sources": [
+        "https://link.springer.com/article/10.1186/s12889-020-8162-6"
+      ],
       "primaryReference": {
         "title": "Translation and cross-cultural adaptation of the European Health Literacy Survey Questionnaire, HLS-EU-Q16: the Icelandic version.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/31937293/",
-        "role": "相关研究（开发、验证或应用）"
+        "role": "冰岛译本与适配研究；非最早开发"
       },
       "registeredForms": []
     },
@@ -2347,14 +2361,18 @@
       "familyId": "HL-001",
       "name": "HLS19-Q12",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "M-POHL 2025年8月两套计分说明相关章节与第2—3页原页核对；2025年10月译本表已视觉核对。2022开发研究XML、2024中文验证全文及7页附件相关章节已读，附件1两页全部视觉检查；中文正式施测表和合同仍待取得。",
+      "sources": [
+        "https://m-pohl.net/Factsheets",
+        "https://m-pohl.net/HLS19Instruments",
+        "https://link.springer.com/article/10.1186/s12889-024-17977-1"
+      ],
       "primaryReference": {
         "title": "Measuring Comprehensive, General Health Literacy in the General Adult Population: The Development and Validation of the HLS19-Q12 Instrument in Seventeen Countries.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/36361025/",
-        "role": "相关研究（开发、验证或应用）"
+        "role": "直接开发与跨国验证研究；不代替中文独立研究"
       },
       "registeredForms": []
     },
@@ -2363,14 +2381,17 @@
       "familyId": "HL-002",
       "name": "HLS-SF12",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2019六地开发验证研究全文XML及2023大陆验证全文PDF/XML已核读；中文研究第3页公式及末页检查。尚未取得2023文中所指完整中文附录，不把研究存在当作题本逐字匹配完成。",
+      "sources": [
+        "https://doi.org/10.3928/24748307-20190225-01",
+        "https://link.springer.com/article/10.1186/s12889-023-15237-2"
+      ],
       "primaryReference": {
         "title": "Development and Validation of a New Short-Form Health Literacy Instrument (HLS-SF12) for the General Public in Six Asian Countries.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/31294310/",
-        "role": "相关研究（开发、验证或应用）"
+        "role": "亚洲短版直接开发及验证研究"
       },
       "registeredForms": []
     },

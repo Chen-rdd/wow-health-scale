@@ -450,13 +450,13 @@ export const families = [
     "priority": "扩展",
     "target": "简短社会支持",
     "population": "一般人群调查",
-    "citation": "Original provenance and scoring documentation require targeted review.",
-    "identifier": "待核验",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/?term=Oslo+Social+Support+Scale+OSSS-3",
+    "citation": "Kocalevent RD et al. Social support in the general population: standardization of the OSSS-3. BMC Psychology. 2018.",
+    "identifier": "10.1186/s40359-018-0249-9（标准化研究）",
+    "sourceUrl": "https://link.springer.com/article/10.1186/s40359-018-0249-9",
     "chinese": "中文版本待核验",
     "copyrightRisk": "低",
     "verification": "锁定原始来源及评分分类依据",
-    "status": "来源待核验"
+    "status": "标准化全文已核；开发来源与中文待核"
   },
   {
     "id": "SS-005",
@@ -1431,10 +1431,10 @@ export const versions = [
     "parent": "",
     "relation": "基准",
     "population": "一般成人、学生及患者",
-    "scoring": "中文版来源、结构争议与数字环境变化",
+    "scoring": "核心8项求和8—40；附录补充两题不计分",
     "chinese": "存在多个中文版本",
     "copyrightRisk": "低至中",
-    "status": "原始文献已定位"
+    "status": "原文与附录文本已核；中文待核"
   },
   {
     "id": "VR-SS-001-BASE",
@@ -1449,10 +1449,10 @@ export const versions = [
     "parent": "",
     "relation": "基准",
     "population": "一般人群及患者",
-    "scoring": "确认推荐中文版及三因子结构",
+    "scoring": "三维及总体均值1—7；分组非通用常模",
     "chinese": "存在多个中文研究",
     "copyrightRisk": "低至中",
-    "status": "原始文献已定位"
+    "status": "作者原件与开发研究已核；中文待核"
   },
   {
     "id": "VR-SS-002-BASE",
@@ -1503,10 +1503,10 @@ export const versions = [
     "parent": "",
     "relation": "基准",
     "population": "一般人群调查",
-    "scoring": "锁定原始来源及评分分类依据",
+    "scoring": "3—14；分组非诊断，德国常模不直接外推",
     "chinese": "中文版本待核验",
     "copyrightRisk": "低",
-    "status": "来源待核验"
+    "status": "标准化原文已核；最早来源与中文待核"
   },
   {
     "id": "VR-SS-005-BASE",
@@ -3195,10 +3195,10 @@ export const versions = [
     "parent": "",
     "relation": "开发",
     "population": "成人",
-    "scoring": "0–50指数",
+    "scoring": "四级有效回答；不知道5不计分，0—50指数",
     "chinese": "中文证据存在",
     "copyrightRisk": "低至中",
-    "status": "已核验"
+    "status": "开发原文及英文附录已核；中文与手册待补"
   },
   {
     "id": "VR-HL-001-062",
@@ -3213,10 +3213,10 @@ export const versions = [
     "parent": "Q47",
     "relation": "缩短",
     "population": "成人",
-    "scoring": "专用缺失与指数规则",
+    "scoring": "二分类0—16；漏答须绑定研究规则",
     "chinese": "中文证据存在",
     "copyrightRisk": "低至中",
-    "status": "已核验"
+    "status": "冰岛译本研究已核；母版与中文原件待补"
   },
   {
     "id": "VR-HL-001-063",
@@ -3228,13 +3228,13 @@ export const versions = [
     "abbreviation": "HLS19-Q12",
     "role": "国际项目短版",
     "itemCount": "12题",
-    "parent": "HLS-EU家族",
+    "parent": "HLS19-Q47／HLS-EU-Q12",
     "relation": "重新选题",
     "population": "成人",
-    "scoring": "不可与HLS-SF12合并",
-    "chinese": "中文状态待核验",
+    "scoring": "两套0—100计分；至少10／12题有效",
+    "chinese": "2024郑州验证全文已核；正式中文表及协议待取得",
     "copyrightRisk": "低至中",
-    "status": "已核验"
+    "status": "官方计分及中文研究已核；题本协议待取得"
   },
   {
     "id": "VR-HL-002-064",
@@ -3248,11 +3248,11 @@ export const versions = [
     "itemCount": "12题",
     "parent": "HLS-EU-Q47",
     "relation": "缩短验证",
-    "population": "成人",
-    "scoring": "0–50指数",
-    "chinese": "含中文语境证据",
+    "population": "原研究15岁以上；2023大陆研究12岁以上",
+    "scoring": "(均值−1)×50／3；不套HLS19比例分",
+    "chinese": "2023大陆简体研究已核；完整题本待取得",
     "copyrightRisk": "低至中",
-    "status": "已核验"
+    "status": "原始及大陆研究已核；中文完整附录待补"
   },
   {
     "id": "VR-SS-002-065",
