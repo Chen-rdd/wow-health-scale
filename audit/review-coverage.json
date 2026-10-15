@@ -2,8 +2,8 @@
   "summary": {
     "records": 248,
     "selectableRecords": 213,
-    "recordsWithSourcedProfiles": 91,
-    "selectableRecordsWithoutSourcedProfiles": 122,
+    "recordsWithSourcedProfiles": 93,
+    "selectableRecordsWithoutSourcedProfiles": 120,
     "registeredForms": 16,
     "exportableForms": 4,
     "warning": "说明覆盖数量不是完整题本、独立中文验证或授权完成数量。别名合并后的前台数量另计。"
@@ -62,11 +62,12 @@
       "name": "Generalized Anxiety Disorder-7",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-09-15",
-      "reviewScope": "按现有逐条来源说明；不得视作所有译本完整验证",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2006年原始研究全文及Figure 1原页；英文七项、回答锚点与功能附加题已对应。中文研究实际题本的逐字对应仍待补。",
       "sources": [
         "https://pubmed.ncbi.nlm.nih.gov/16717171/",
         "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+        "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/410326/",
         "https://www.researchgate.net/publication/281360109_Reliability_and_validity_of_a_generalized_anxiety_scale_in_general_hospital_outpatients",
         "https://www.phqscreeners.com/select-screener",
         "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/GAD-7_English.pdf",
@@ -84,7 +85,14 @@
           "sourceUrl": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/GAD-7_English.pdf",
           "exportReady": false,
           "blockReason": "原件与Word输出已核对；浏览器打印分页及另存PDF仍待人工检查，暂不开放正式导出。",
-          "studyEvidence": []
+          "studyEvidence": [
+            {
+              "label": "Spitzer等2006原始研究：英文七个核心项",
+              "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/410326/",
+              "status": "题文已匹配",
+              "note": "Figure 1印刷页1094与本库所用官方英文表的七个核心条目及0–3锚点已对应；研究图另含功能影响题，当前官方一页英文原件未含，不能擅自补入。仅证明英文核心对应，不证明任何中文译本的效度。"
+            }
+          ]
         },
         {
           "id": "gad-7-zh-mainland",
@@ -543,12 +551,15 @@
     {
       "id": "VR-HB-002-BASE",
       "familyId": "HB-002",
-      "name": "Global Physical Activity Questionnaire",
+      "name": "Global Physical Activity Questionnaire version 2",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "WHO v2英文分析指南及题本、清理表原页；中文原件、中文研究及再分发条件尚待核对。",
+      "sources": [
+        "https://www.who.int/docs/default-source/ncds/ncd-surveillance/gpaq-analysis-guide.pdf?sfvrsn=1e83d571_2",
+        "https://www.who.int/publications/m/item/global-physical-activity-questionnaire"
+      ],
       "primaryReference": {
         "title": "WHO STEPS instrument and GPAQ analysis guidance.",
         "url": "https://www.who.int/teams/noncommunicable-diseases/surveillance/systems-tools/physical-activity-surveillance",
@@ -3883,10 +3894,13 @@
       "familyId": "HB-002",
       "name": "Global Physical Activity Questionnaire version 1",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "确认WHO分析指南仅适用于v2；v1完整施测原件及独立计分尚未取得。",
+      "sources": [
+        "https://www.who.int/docs/default-source/ncds/ncd-surveillance/gpaq-analysis-guide.pdf?sfvrsn=1e83d571_2",
+        "https://www.who.int/publications/m/item/global-physical-activity-questionnaire"
+      ],
       "primaryReference": {
         "title": "WHO STEPS instrument and GPAQ analysis guidance.",
         "url": "https://www.who.int/teams/noncommunicable-diseases/surveillance/systems-tools/physical-activity-surveillance",

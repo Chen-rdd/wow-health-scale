@@ -24,9 +24,11 @@
       "referenceRoles": [
         "系列背景文献"
       ],
-      "accessStatus": "metadata_record_only; full text and supplement review pending",
+      "accessStatus": "open_access_downloaded; English core items and anchors visually matched to Figure 1; Chinese form correspondence pending",
       "siRequested": true,
-      "needsVersionMatch": true
+      "needsVersionMatch": true,
+      "sourceUrl": "https://depts.washington.edu/psychres/wordpress/wp-content/uploads/2017/09/gad7_ref.pdf",
+      "supplementStatus": "not located in current publisher article listing; absence not proven"
     },
     {
       "title": "WHO Regional Office for Europe. Well-Being Measures in Primary Health Care: The DepCare Project. 1998.",

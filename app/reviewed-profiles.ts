@@ -7,6 +7,7 @@ import {kidscreenProfiles} from './reviewed-profiles-kidscreen';
 import {ipaqProfiles} from './reviewed-profiles-ipaq';
 import {whoqolProfiles} from './reviewed-profiles-whoqol';
 import {asqProfiles} from './reviewed-profiles-asq';
+import {healthBehaviourProfiles} from './reviewed-profiles-health-behaviour';
 const base='https://dass.psy.unsw.edu.au/';
 const p=(text:string,path:string,label:string):EvidenceParagraph=>({text,source:base+path,label});
 const scope=p('抑郁维度关注情绪低落、兴趣或愉悦感减少、自我贬低与缺乏主动性；焦虑维度侧重自主神经唤起、躯体紧张及恐惧体验；压力维度关注难以放松、持续紧绷、易激惹及不耐烦。三个维度相关，但测量内容不同。','over.htm','开发者对测量构念的定义');
@@ -19,6 +20,7 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
 ...ipaqProfiles,
 ...whoqolProfiles,
 ...asqProfiles,
+...healthBehaviourProfiles,
 "VR-PH-005-014":{
   "reviewed": "2026-10-14",
   "reviewScope": "官网现行普通话核心及附加表的可读取文字、评分FAQ；新源文件下载403，原页视觉、哈希和实际打印仍未确认。",
@@ -286,7 +288,8 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
   ]
 },
 "VR-PH-002-BASE":{
-  "reviewed": "2026-09-15",
+  "reviewed": "2026-10-15",
+  "reviewScope": "2006年原始研究全文及Figure 1原页；英文七项、回答锚点与功能附加题已对应。中文研究实际题本的逐字对应仍待补。",
   "definition": [
     {
       "text": "GAD-7（广泛性焦虑障碍七项量表）是一份自评症状工具，最初面向基层医疗中的广泛性焦虑问题开发。内容包括紧张、难以控制担忧、过度担忧、难以放松、坐立不安、易激惹及害怕不良事情发生，用于筛查和量化焦虑症状；不能单凭分数确诊某一种焦虑障碍。",
@@ -300,6 +303,7 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
     }
   ],
   "scoring": [
+    {"text":"原始研究Figure 1（印刷页1094）包含七个计分项与独立功能影响附加题。已对照本库官方英文表的七项和0–3回答锚点；本库所用一页英文原件未包含该功能附加题，不能据研究图擅自补入并称为同一原件。","source":"https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/410326/","label":"原始研究题本图与所用原件的区别"},
     {
       "text": "评估过去两周，七题各0–3分，总分0–21分，无反向题。5、10、15是常用严重程度分界，需结合研究人群解释。功能影响信息不能擅自加入七题总分。",
       "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",

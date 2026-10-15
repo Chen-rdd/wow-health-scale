@@ -2862,11 +2862,18 @@ export const verifiedForms:VerifiedForm[] = [
     "translationEvidence": "官方英文原件已重新核对；中文译本研究的匹配状态不用于判定本英文题本。使用时仍需核对目标人群的适用性。",
     "usage": "保留官方题文与选项。开发者允许复制、翻译、展示及分发；评分用于症状评估或筛查，不能单凭总分确诊。",
     "exportReady": false,
-    "studyEvidence": [],
+    "studyEvidence": [
+      {
+        "label": "Spitzer等2006原始研究：英文七个核心项",
+        "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/410326/",
+        "status": "题文已匹配",
+        "note": "Figure 1印刷页1094与本库所用官方英文表的七个核心条目及0–3锚点已对应；研究图另含功能影响题，当前官方一页英文原件未含，不能擅自补入。仅证明英文核心对应，不证明任何中文译本的效度。"
+      }
+    ],
     "audit": {
-      "date": "2026-10-13",
+      "date": "2026-10-15",
       "source": "重新下载官方PDF，SHA256与登记值一致。",
-      "items": "逐题文本比较并视觉核对原件；题号、页码、指导语、选项及附加题已核对。",
+      "items": "逐题文本比较并视觉核对原件；题号、页码、指导语、选项及附加题已核对。 另核对2006原始研究Figure 1原页：英文核心七项与锚点相符；研究图附加功能题与本库所用原件的差别单列说明。",
       "scoring": "按对应官方评分键或手册核对；缺失规则无明确依据时不补零、不自动插补。",
       "rights": "DASS/DASS-Y按官方禁止修改或出售条件；PHQ/GAD按原件转载说明，保留署名与来源。",
       "layout": "配套Word已转为PDF并检查全部页面；中文字体、表格分页及PHQ-9附加题已修正。HTML内容与同一快照一致；浏览器打印预览因自动安全检查拦截而未完成。"

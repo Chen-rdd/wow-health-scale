@@ -2,12 +2,12 @@
 
 由 `node scripts/inventory-review-coverage.mjs` 生成。说明覆盖不等于完整科学核验；未将缺失材料标为完成。
 
-登记248条，其中213条可选择；91条有单独来源说明，122条仍待补充。原件表单16份，开放导出4份。
+登记248条，其中213条可选择；93条有单独来源说明，120条仍待补充。原件表单16份，开放导出4份。
 
 | 记录 | 名称 | 状态与核对范围 |
 | --- | --- | --- |
 | VR-PH-001-BASE | Patient Health Questionnaire-9 | 已补充来源说明；完整核验范围须读具体说明；按现有逐条来源说明；不得视作所有译本完整验证 |
-| VR-PH-002-BASE | Generalized Anxiety Disorder-7 | 已补充来源说明；完整核验范围须读具体说明；按现有逐条来源说明；不得视作所有译本完整验证 |
+| VR-PH-002-BASE | Generalized Anxiety Disorder-7 | 已补充来源说明；完整核验范围须读具体说明；2006年原始研究全文及Figure 1原页；英文七项、回答锚点与功能附加题已对应。中文研究实际题本的逐字对应仍待补。 |
 | VR-PH-003-BASE | Depression Anxiety Stress Scales | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-PH-004-BASE | Perceived Stress Scale | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-PH-005-BASE | Kessler Psychological Distress Scales | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
@@ -35,7 +35,7 @@
 | VR-SS-004-BASE | Oslo Social Support Scale | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-SS-005-BASE | Medical Outcomes Study Social Support Survey | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-HB-001-BASE | International Physical Activity Questionnaire | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-HB-002-BASE | Global Physical Activity Questionnaire | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
+| VR-HB-002-BASE | Global Physical Activity Questionnaire version 2 | 已补充来源说明；完整核验范围须读具体说明；WHO v2英文分析指南及题本、清理表原页；中文原件、中文研究及再分发条件尚待核对。 |
 | VR-HB-003-BASE | Alcohol Use Disorders Identification Test | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-HB-004-BASE | Alcohol Use Disorders Identification Test–Consumption | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-HB-005-BASE | Fagerström Test for Nicotine Dependence | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
@@ -214,7 +214,7 @@
 | VR-HB-001-146 | IPAQ Short Form Usual Week Telephone | 已补充来源说明；完整核验范围须读具体说明；原始八种形式的研究摘要及2005评分协议全文；各中文原件、跳答和独立研究仍待逐一核对。 |
 | VR-HB-001-147 | IPAQ Long Form Usual Week Self-Administered | 已补充来源说明；完整核验范围须读具体说明；原始八种形式的研究摘要及2005评分协议全文；各中文原件、跳答和独立研究仍待逐一核对。 |
 | VR-HB-001-148 | IPAQ Long Form Usual Week Telephone | 已补充来源说明；完整核验范围须读具体说明；原始八种形式的研究摘要及2005评分协议全文；各中文原件、跳答和独立研究仍待逐一核对。 |
-| VR-HB-002-149 | Global Physical Activity Questionnaire version 1 | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
+| VR-HB-002-149 | Global Physical Activity Questionnaire version 1 | 已补充来源说明；完整核验范围须读具体说明；确认WHO分析指南仅适用于v2；v1完整施测原件及独立计分尚未取得。 |
 | VR-MA-002-150 | Medication Adherence Report Scale 5-item | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-OH-003-151 | Oldenburg Burnout Inventory Student Version | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-OH-002-152 | Copenhagen Burnout Inventory Student Version | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |

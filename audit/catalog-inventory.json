@@ -2834,7 +2834,7 @@
     "versions": [
       {
         "id": "VR-HB-002-BASE",
-        "name": "Global Physical Activity Questionnaire",
+        "name": "Global Physical Activity Questionnaire version 2",
         "selectable": true,
         "sources": [
           {
