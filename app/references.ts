@@ -1070,21 +1070,21 @@ export const versionReferences = {
     "doi": "10.1016/S1389-9457(00)00065-4",
     "pmid": "11438246",
     "url": "https://pubmed.ncbi.nlm.nih.gov/11438246/",
-    "role": "系列背景文献",
-    "confidence": "family",
+    "role": "两周自评直接开发研究；正文索引核对，原页待验",
+    "confidence": "version",
     "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/11438246/"
   },
   "VR-SL-002-029": {
-    "title": "Validation of the Insomnia Severity Index as an outcome measure for insomnia research.",
-    "authors": "Bastien CH, Vallières A, Morin CM",
-    "journal": "Sleep medicine",
-    "year": "2001",
-    "doi": "10.1016/S1389-9457(00)00065-4",
-    "pmid": "11438246",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/11438246/",
-    "role": "系列背景文献",
-    "confidence": "family",
-    "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/11438246/"
+    "title": "The Insomnia Severity Index: psychometric indicators to detect insomnia cases and evaluate treatment response.",
+    "authors": "Morin CM; Belleville G; Bélanger L; Ivers H",
+    "journal": "Sleep",
+    "year": "2011",
+    "doi": "10.1093/sleep/34.5.601",
+    "pmid": "21532953",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3079939/",
+    "role": "一月患者自评直接研究；PMC正文核对",
+    "confidence": "version",
+    "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/21532953/"
   },
   "VR-SL-002-030": {
     "title": "Validation of the Insomnia Severity Index as an outcome measure for insomnia research.",
@@ -1094,8 +1094,8 @@ export const versionReferences = {
     "doi": "10.1016/S1389-9457(00)00065-4",
     "pmid": "11438246",
     "url": "https://pubmed.ncbi.nlm.nih.gov/11438246/",
-    "role": "系列背景文献",
-    "confidence": "family",
+    "role": "研究2临床评定直接证据；原件与中文待取",
+    "confidence": "version",
     "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/11438246/"
   },
   "VR-SL-002-031": {
@@ -1106,8 +1106,8 @@ export const versionReferences = {
     "doi": "10.1016/S1389-9457(00)00065-4",
     "pmid": "11438246",
     "url": "https://pubmed.ncbi.nlm.nih.gov/11438246/",
-    "role": "系列背景文献",
-    "confidence": "family",
+    "role": "研究2重要他人直接证据；原件与中文待取",
+    "confidence": "version",
     "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/11438246/"
   },
   "VR-SL-003-032": {
