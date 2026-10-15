@@ -2,7 +2,7 @@
 
 由 `node scripts/inventory-review-coverage.mjs` 生成。说明覆盖不等于完整科学核验；未将缺失材料标为完成。
 
-登记248条，其中213条可选择；115条有单独来源说明，98条仍待补充。原件表单16份，开放导出4份。
+登记248条，其中213条可选择；122条有单独来源说明，91条仍待补充。原件表单16份，开放导出4份。
 
 | 记录 | 名称 | 状态与核对范围 |
 | --- | --- | --- |
@@ -46,9 +46,9 @@
 | VR-MA-004-BASE | Summary of Diabetes Self-Care Activities | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-MA-005-BASE | Self-Efficacy for Managing Chronic Disease 6-Item Scale | 已补充来源说明；完整核验范围须读具体说明；SMRC官方两页英文题本、计分及使用条件原页；具体中文译本和独立中文研究待核。 |
 | VR-OH-001-BASE | Maslach Burnout Inventory | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-OH-002-BASE | Copenhagen Burnout Inventory | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
+| VR-OH-002-BASE | Copenhagen Burnout Inventory | 已补充来源说明；完整核验范围须读具体说明；NFA的PUMA研究英文CBI题本两页，完整题项、回答类别及计分原页已核对；具体中文译本、学生改编及独立研究另待核。 |
 | VR-OH-003-BASE | Oldenburg Burnout Inventory | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-OH-004-BASE | Professional Quality of Life Scale, Version 5 | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
+| VR-OH-004-BASE | Professional Quality of Life Scale, Version 5 | 已补充来源说明；完整核验范围须读具体说明；现行官网英文自评分表三页、简体护理语境表一页均已视觉核对；2010手册施测、评分、解释及FAQ相关章节已读，未宣称74页逐页检查。 |
 | VR-OH-005-BASE | Effort–Reward Imbalance Questionnaire | 目录导航；不是独立施测表；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-AG-001-BASE | FRAIL Scale | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-AG-002-BASE | Tilburg Frailty Indicator | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
@@ -158,8 +158,8 @@
 | VR-OH-001-090 | MBI-HSS for Medical Personnel | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-OH-001-091 | MBI-General Survey | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-OH-001-092 | MBI-Educators Survey | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-OH-005-093 | ERI long form | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-OH-005-094 | ERI short form | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
+| VR-OH-005-093 | ERI long form | 已补充来源说明；完整核验范围须读具体说明；官方简体长版三页、2012英文长版一页均核对原页；2014手册结构、编码及比值章节已核读。中文所列2004／2005验证论文全文尚未核读，不能把两代长版当同一表。 |
+| VR-OH-005-094 | ERI short form | 已补充来源说明；完整核验范围须读具体说明；官方简体短版三页、2012英文短版一页均核对原页；2014评分手册相关章节及Li等2012英文验证研究方法、结果、局限与第433页双语附录已核读；补充附件另记获取状态。 |
 | VR-AG-004-095 | Original Barthel Index 0–100 | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-AG-004-096 | Barthel Index 0–20 | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-AG-004-097 | Modified Barthel Index 0–100 | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
@@ -216,10 +216,10 @@
 | VR-HB-001-148 | IPAQ Long Form Usual Week Telephone | 已补充来源说明；完整核验范围须读具体说明；原始八种形式的研究摘要及2005评分协议全文；各中文原件、跳答和独立研究仍待逐一核对。 |
 | VR-HB-002-149 | Global Physical Activity Questionnaire version 1 | 已补充来源说明；完整核验范围须读具体说明；确认WHO分析指南仅适用于v2；v1完整施测原件及独立计分尚未取得。 |
 | VR-MA-002-150 | Medication Adherence Report Scale 5-item | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-OH-003-151 | Oldenburg Burnout Inventory Student Version | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-OH-002-152 | Copenhagen Burnout Inventory Student Version | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
+| VR-OH-003-151 | Oldenburg Burnout Inventory Student Version | 已补充来源说明；完整核验范围须读具体说明；Campos等2012葡语学生版开放论文方法、结果、讨论及原页表2、图1已核读；中文译本、目标人群验证及计分方向需另锁定，不将职业版直接套用。 |
+| VR-OH-002-152 | Copenhagen Burnout Inventory Student Version | 已补充来源说明；完整核验范围须读具体说明；Campos等2013出版社开放原论文方法、结果、讨论及图1原页已核读；尚未锁定中文题本与独立中文验证，不把职业版19题直接改词代替学生版。 |
 | VR-OH-004-153 | Professional Quality of Life Scale Version III | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
-| VR-OH-004-154 | Professional Quality of Life Scale Version IV | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
+| VR-OH-004-154 | Professional Quality of Life Scale Version IV | 已补充来源说明；完整核验范围须读具体说明；官网IV到5修订对照一页已视觉核对，2010手册第72页FAQ已读；IV独立历史题本和完整评分附件仍待取得。 |
 | VR-AG-005-155 | Lawton IADL historical sex-specific scoring | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-MC-001-156 | Edinburgh Postnatal Depression Scale, 5-item research form (Rochat et al.) | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |
 | VR-MC-001-157 | Edinburgh Postnatal Depression Scale, 3-item research form (Rochat et al.) | 历史索引；逐项证据复核待完成；完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对 |

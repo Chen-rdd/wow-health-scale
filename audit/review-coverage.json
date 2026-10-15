@@ -2,8 +2,8 @@
   "summary": {
     "records": 248,
     "selectableRecords": 213,
-    "recordsWithSourcedProfiles": 115,
-    "selectableRecordsWithoutSourcedProfiles": 98,
+    "recordsWithSourcedProfiles": 122,
+    "selectableRecordsWithoutSourcedProfiles": 91,
     "registeredForms": 16,
     "exportableForms": 4,
     "warning": "说明覆盖数量不是完整题本、独立中文验证或授权完成数量。别名合并后的前台数量另计。"
@@ -734,10 +734,13 @@
       "familyId": "OH-002",
       "name": "Copenhagen Burnout Inventory",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "NFA的PUMA研究英文CBI题本两页，完整题项、回答类别及计分原页已核对；具体中文译本、学生改编及独立研究另待核。",
+      "sources": [
+        "https://nfa.dk/media/a4wheblj/cbi-scales.pdf",
+        "https://nfa.dk/vaerktoejer/spoergeskemaer/spoergeskema-til-maaling-af-udbraendthed-cbi/copenhagen-burnout-inventory-cbi"
+      ],
       "primaryReference": {
         "title": "The Copenhagen Burnout Inventory: A new tool for the assessment of burnout",
         "url": "https://doi.org/10.1080/02678370500297720",
@@ -766,10 +769,13 @@
       "familyId": "OH-004",
       "name": "Professional Quality of Life Scale, Version 5",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "现行官网英文自评分表三页、简体护理语境表一页均已视觉核对；2010手册施测、评分、解释及FAQ相关章节已读，未宣称74页逐页检查。",
+      "sources": [
+        "https://proqol.org/proqol-measure",
+        "https://proqol.org/proqol-manual"
+      ],
       "primaryReference": {
         "title": "Stamm BH. The Concise ProQOL Manual, 2nd ed. 2010.",
         "url": "https://proqol.org/",
@@ -2864,10 +2870,13 @@
       "familyId": "OH-005",
       "name": "ERI long form",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "官方简体长版三页、2012英文长版一页均核对原页；2014手册结构、编码及比值章节已核读。中文所列2004／2005验证论文全文尚未核读，不能把两代长版当同一表。",
+      "sources": [
+        "https://www.uniklinik-duesseldorf.de/fileadmin/Fuer-Patienten-und-Besucher/Kliniken-Zentren-Institute/Institute/Institut_fuer_Medizinische_Soziologie/Forschung/Chinese_long_ERI.pdf",
+        "https://www.uniklinik-duesseldorf.de/fileadmin/Fuer-Patienten-und-Besucher/Kliniken-Zentren-Institute/Institute/Institut_fuer_Medizinische_Soziologie/Dateien/ERI/PsychometricProperties.pdf"
+      ],
       "primaryReference": {
         "title": "Adverse health effects of high-effort/low-reward conditions.",
         "url": "https://doi.org/10.1037/1076-8998.1.1.27",
@@ -2880,14 +2889,17 @@
       "familyId": "OH-005",
       "name": "ERI short form",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "官方简体短版三页、2012英文短版一页均核对原页；2014评分手册相关章节及Li等2012英文验证研究方法、结果、局限与第433页双语附录已核读；补充附件另记获取状态。",
+      "sources": [
+        "https://www.uniklinik-duesseldorf.de/fileadmin/Fuer-Patienten-und-Besucher/Kliniken-Zentren-Institute/Institute/Institut_fuer_Medizinische_Soziologie/Forschung/Chinese_short_ERI.pdf",
+        "https://www.jstage.jst.go.jp/article/joh/54/6/54_12-0106-BR/_article"
+      ],
       "primaryReference": {
-        "title": "Adverse health effects of high-effort/low-reward conditions.",
-        "url": "https://doi.org/10.1037/1076-8998.1.1.27",
-        "role": "系列背景文献"
+        "title": "Validation of a Short Measure of Effort-Reward Imbalance in the Workplace: Evidence from China",
+        "url": "https://www.jstage.jst.go.jp/article/joh/54/6/54_12-0106-BR/_article",
+        "role": "中文短版验证研究"
       },
       "registeredForms": []
     },
@@ -4004,14 +4016,16 @@
       "familyId": "OH-003",
       "name": "Oldenburg Burnout Inventory Student Version",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "Campos等2012葡语学生版开放论文方法、结果、讨论及原页表2、图1已核读；中文译本、目标人群验证及计分方向需另锁定，不将职业版直接套用。",
+      "sources": [
+        "https://www.scielo.br/j/prc/a/7zgKNFznCFY6wTS4HvKGWMR/?lang=en"
+      ],
       "primaryReference": {
-        "title": "The job demands-resources model of burnout.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/11419809/",
-        "role": "系列背景文献"
+        "title": "Oldenburg Burnout Inventory - student version: cultural adaptation and validation into Portuguese",
+        "url": "https://www.scielo.br/j/prc/a/7zgKNFznCFY6wTS4HvKGWMR/?lang=en",
+        "role": "葡语学生版直接改编与验证研究"
       },
       "registeredForms": []
     },
@@ -4020,14 +4034,16 @@
       "familyId": "OH-002",
       "name": "Copenhagen Burnout Inventory Student Version",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "Campos等2013出版社开放原论文方法、结果、讨论及图1原页已核读；尚未锁定中文题本与独立中文验证，不把职业版19题直接改词代替学生版。",
+      "sources": [
+        "https://www.scielo.br/j/prc/a/FwPMLj7WGdFjFyBdrgDvFRw/?lang=en"
+      ],
       "primaryReference": {
-        "title": "The Copenhagen Burnout Inventory: A new tool for the assessment of burnout",
-        "url": "https://doi.org/10.1080/02678370500297720",
-        "role": "系列背景文献"
+        "title": "Copenhagen Burnout Inventory - student version: adaptation and transcultural validation for Portugal and Brazil",
+        "url": "https://www.scielo.br/j/prc/a/FwPMLj7WGdFjFyBdrgDvFRw/?lang=en",
+        "role": "葡语学生版直接改编与验证研究"
       },
       "registeredForms": []
     },
@@ -4052,10 +4068,13 @@
       "familyId": "OH-004",
       "name": "Professional Quality of Life Scale Version IV",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "官网IV到5修订对照一页已视觉核对，2010手册第72页FAQ已读；IV独立历史题本和完整评分附件仍待取得。",
+      "sources": [
+        "https://proqol.org/proqol-measure",
+        "https://proqol.org/proqol-manual"
+      ],
       "primaryReference": {
         "title": "Stamm BH. The Concise ProQOL Manual, 2nd ed. 2010.",
         "url": "https://proqol.org/",

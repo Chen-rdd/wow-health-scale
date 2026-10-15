@@ -1894,16 +1894,16 @@ export const versionReferences = {
     "metadataSource": "https://api.crossref.org/works/10.1037%2F1076-8998.1.1.27"
   },
   "VR-OH-005-094": {
-    "title": "Adverse health effects of high-effort/low-reward conditions.",
-    "authors": "Johannes Siegrist",
-    "journal": "Journal of Occupational Health Psychology",
-    "year": "1996",
-    "doi": "10.1037/1076-8998.1.1.27",
-    "pmid": "",
-    "url": "https://doi.org/10.1037/1076-8998.1.1.27",
-    "role": "系列背景文献",
-    "confidence": "family",
-    "metadataSource": "https://api.crossref.org/works/10.1037%2F1076-8998.1.1.27"
+    "title": "Validation of a Short Measure of Effort-Reward Imbalance in the Workplace: Evidence from China",
+    "authors": "Li J, Loerbroks A, Shang L, Wege N, Wahrendorf M, Siegrist J",
+    "journal": "Journal of Occupational Health",
+    "year": "2012",
+    "doi": "10.1539/joh.12-0106-BR",
+    "pmid": "23060028",
+    "url": "https://www.jstage.jst.go.jp/article/joh/54/6/54_12-0106-BR/_article",
+    "role": "中文短版验证研究",
+    "confidence": "version",
+    "metadataSource": "https://www.jstage.jst.go.jp/article/joh/54/6/54_12-0106-BR/_article"
   },
   "VR-AG-004-095": {
     "title": "Barthel index for stroke trials: development, properties, and application.",
@@ -2573,28 +2573,28 @@ export const versionReferences = {
     "metadataSource": "https://api.crossref.org/works/10.1111%2Fbcp.14193"
   },
   "VR-OH-003-151": {
-    "title": "The job demands-resources model of burnout.",
-    "authors": "Demerouti E, Bakker AB, Nachreiner F, Schaufeli WB",
-    "journal": "The Journal of applied psychology",
-    "year": "2001",
-    "doi": "10.1037/0021-9010.86.3.499",
-    "pmid": "11419809",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/11419809/",
-    "role": "系列背景文献",
-    "confidence": "family",
-    "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/11419809/"
+    "title": "Oldenburg Burnout Inventory - student version: cultural adaptation and validation into Portuguese",
+    "authors": "Campos JADB, Carlotto MS, Marôco J",
+    "journal": "Psicologia: Reflexão e Crítica",
+    "year": "2012",
+    "doi": "10.1590/S0102-79722012000400010",
+    "pmid": "",
+    "url": "https://www.scielo.br/j/prc/a/7zgKNFznCFY6wTS4HvKGWMR/?lang=en",
+    "role": "葡语学生版直接改编与验证研究",
+    "confidence": "version",
+    "metadataSource": "https://www.scielo.br/j/prc/a/7zgKNFznCFY6wTS4HvKGWMR/?lang=en"
   },
   "VR-OH-002-152": {
-    "title": "The Copenhagen Burnout Inventory: A new tool for the assessment of burnout",
-    "authors": "Tage S. Kristensen; Marianne Borritz; Ebbe Villadsen; Karl B. Christensen",
-    "journal": "Work &amp; Stress",
-    "year": "2005",
-    "doi": "10.1080/02678370500297720",
+    "title": "Copenhagen Burnout Inventory - student version: adaptation and transcultural validation for Portugal and Brazil",
+    "authors": "Campos JADB, Carlotto MS, Marôco J",
+    "journal": "Psicologia: Reflexão e Crítica",
+    "year": "2013",
+    "doi": "10.1590/S0102-79722013000100010",
     "pmid": "",
-    "url": "https://doi.org/10.1080/02678370500297720",
-    "role": "系列背景文献",
-    "confidence": "family",
-    "metadataSource": "https://api.crossref.org/works/10.1080%2F02678370500297720"
+    "url": "https://www.scielo.br/j/prc/a/FwPMLj7WGdFjFyBdrgDvFRw/?lang=en",
+    "role": "葡语学生版直接改编与验证研究",
+    "confidence": "version",
+    "metadataSource": "https://www.scielo.br/j/prc/a/FwPMLj7WGdFjFyBdrgDvFRw/?lang=en"
   },
   "VR-OH-004-153": {
     "title": "Stamm BH. The Concise ProQOL Manual, 2nd ed. 2010.",
