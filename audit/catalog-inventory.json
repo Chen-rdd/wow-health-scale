@@ -918,7 +918,7 @@
       },
       {
         "label": "B-PSQI研究与表单",
-        "url": "https://www.sleep.pitt.edu/sites/default/files/assets/Instrument%20Materials/B-PSQI%202021.pdf",
+        "url": "https://www.sleep.pitt.edu/sites/default/files/assets/Instrument%20Materials/B-PSQI-Version%202.pdf",
         "kind": "题目与选项",
         "scope": "B-PSQI"
       },
@@ -949,7 +949,7 @@
         },
         {
           "label": "B-PSQI研究与表单",
-          "url": "https://www.sleep.pitt.edu/sites/default/files/assets/Instrument%20Materials/B-PSQI%202021.pdf",
+          "url": "https://www.sleep.pitt.edu/sites/default/files/assets/Instrument%20Materials/B-PSQI-Version%202.pdf",
           "kind": "题目与选项",
           "scope": "B-PSQI"
         },
@@ -3215,7 +3215,7 @@
     "administration": {
       "scope": "MMAS-4与MMAS-8",
       "answers": "按获许可的正式表单使用，不自行改写或将4题补写为8题。",
-      "scoring": "计分键与版本、正反向题及最后一题回答格式对应，需使用许可文件；本页不提供未经授权的完整评分键。",
+      "scoring": "计分键与版本、正反向题及最后一题回答格式对应，需使用许可文件；本页不提供未经授权的完整评分键；MMAS-8的2008开发研究已于2023撤稿，不沿用其诊断性能。",
       "access": "权利方提供有偿许可和译本申请；不提交申请或购买。",
       "resources": [
         {
@@ -3411,7 +3411,7 @@
     ],
     "administration": {
       "scope": "SDSCA修订核心及扩展题组",
-      "answers": "多数题报告过去7天实施行为的天数，吸烟等题采用独立格式。",
+      "answers": "多数题报告过去7天行为天数；核心第2题为过去一月平均每周天数，吸烟等另用独立格式。",
       "scoring": "饮食、运动、血糖监测和足部护理分别计算；吸烟单独报告。反向饮食题及扩展条目依原论文附录，不合成未经验证的总体分。",
       "access": "原始修订论文包含附录题目及评分；不将任意25题拼接表认作固定官方表单。",
       "resources": [
@@ -3552,7 +3552,7 @@
     "administration": {
       "scope": "MBI-HSS、HSS(MP)、ES、GS",
       "answers": "各表采用相应职业语境的频率回答；必须按所获正式表单填写。",
-      "scoring": "各维度独立计分，HSS/ES与GS的题量和维度命名不同。使用许可包内评分键，不把不同维度简单相加作为统一倦怠总分。",
+      "scoring": "各维度独立计分，HSS/ES与GS的题量和维度命名不同。使用许可包内评分键，不把不同维度简单相加作为统一倦怠总分；2016第四版已撤去无诊断效度的旧截点。",
       "access": "Mind Garden许可包包括表单与评分键，并按购买施测次数授权；不在本网站复制完整收费题目。",
       "resources": [
         {
@@ -3773,7 +3773,7 @@
     ],
     "administration": {
       "scope": "ProQOL 5；III和IV查历史规则",
-      "answers": "ProQOL 5采用1–5频率回答，历史IV版的0分处理不同。",
+      "answers": "ProQOL 5采用1–5频率回答，2005第三次修订手册的0分反向保持0，历史版不能套V5。",
       "scoring": "同情满足、倦怠、继发性创伤压力分别计分；按正式键处理反向题。部分译本评分文字已过时，官网要求以英文自评分表为准；不将三维合成诊断分数。",
       "access": "官网允许署名、不修改、不出售条件下复制；提供简体中文及其他译本。",
       "resources": [

@@ -43,13 +43,18 @@ export const barthelProfiles:Record<string,ReviewedProfile>={
     ]
   },
   "VR-AG-004-096": {
-    "reviewed": "2026-10-15",
-    "reviewScope": "Alberta Health Services 2015髋部骨折路径采用的两页0—20题本与指导语全部视觉核对；Collin等1988仅正式摘要。中文该形式原件和原论文全文仍待取。",
+    "reviewed": "2026-10-16",
+    "reviewScope": "1988原论文经Taylor & Francis交大SSO取得，四页文件含出版封页及印刷61—63页，三页论文、Table1／2和完整Appendix均文字及视觉核对。AHS2015两页仍作为后期机构协议分别记录；确切中文和用途许可仍待。附录星号为研究后修改，不能称所有修订细则均按原研究直接验证。",
     "definition": [
       {
         "text": "十项基本活动的0—20形式，记录实际完成情况与所需帮助。AHS原页给出具体报告来源和指导语；不是十题每题统一0—2。",
         "source": "https://www.albertahealthservices.ca/assets/about/scn/ahs-scn-bjh-hf-barthel-index-of-adls.pdf",
         "label": "医疗机构正式路径题本"
+      },
+      {
+        "text": "原研究明确把0—100的五分步长重记为0—20的一分步长，以免制造过高精度印象。发表附录部分细则在研究后修改并加星号，不能把修订后全部指导语都当作已经在本研究原样检验。",
+        "source": "https://doi.org/10.3109/09638288809164103",
+        "label": "1988第61页方法及第63页附录星号"
       }
     ],
     "scoring": [
@@ -59,9 +64,9 @@ export const barthelProfiles:Record<string,ReviewedProfile>={
         "label": "两页原件权重与结构"
       },
       {
-        "text": "通常参考24—48小时；排便／排尿指导另问过去一周。AHS表页与指导页对排尿“偶发”的边界分别写每日最多一次和少于每日一次，实施前应依正式协议澄清，不能只写统一两天回顾。",
-        "source": "https://www.albertahealthservices.ca/assets/about/scn/ahs-scn-bjh-hf-barthel-index-of-adls.pdf",
-        "label": "不同项目时间窗与原页边界"
+        "text": "通常参考过去24—48小时，但排便／排尿另按前一周。1988原附录与AHS后期重印均存在排尿“偶发”的表内／指南边界差别：表列每日最多一次，指南少于每日一次；不自行裁定恰好每日一次。须依据所选正式协议澄清并记录。",
+        "source": "https://doi.org/10.3109/09638288809164103",
+        "label": "第63页原附录与AHS后期协议分别核对"
       }
     ],
     "translations": [
@@ -73,37 +78,42 @@ export const barthelProfiles:Record<string,ReviewedProfile>={
     ],
     "limits": [
       {
-        "text": "1988研究25名患者，以自报、熟悉患者的护士及两名观察者比较，摘要称4／20分差可能反映真实差异；AHS重印另写变化>2分。两者不是统一MCID，不能直接作所有患者的康复达标线。",
-        "source": "https://pubmed.ncbi.nlm.nih.gov/3403500/",
-        "label": "原研究摘要与路径重印的解释差异"
+        "text": "25名患者中卒中13、头伤11、非器质性症状1，含12—25岁8人；不是纯老年或纯卒中样本。排除七名各次均满分及三名未完成四次评定者。四种信息方式Kendall一致系数W0.93，不是Pearson相关或ICC；仅一人四种总分完全一致，且该人仍有项目分歧，高系数不等同逐项一致。",
+        "source": "https://doi.org/10.3109/09638288809164103",
+        "label": "第61—62页样本、排除及一致性"
       },
       {
         "text": "MedChi版权方现行入口引向Mapi查询。公开重印的非商业使用说明与现行具体用途、改编、译本或网站再分发条件分别确认；学校文献权限不替代这些条件。",
         "source": "https://www.medchi.org/Your-Resource/Barthel-Index",
         "label": "版权方现行获取入口"
+      },
+      {
+        "text": "原文讨论同时写总分变化>2分“可能”真实、4／20分差“高度可能”真实，两种表述均在同篇原文，不能仅据摘要与AHS表述不同而断定相互矛盾。这是该小样本的测量差异解释，不是统一MCID、康复目标或所有人群达标线。认知受损时自报可能明显高估，须结合知情护士／家属和实际表现。",
+        "source": "https://doi.org/10.3109/09638288809164103",
+        "label": "第62页讨论与方法解释边界"
       }
     ]
   },
   "VR-AG-004-097": {
-    "reviewed": "2026-10-15",
-    "reviewScope": "Shah等1989及Leung等2007直接研究均仅正式摘要；马耳他临床养老机构公开四页Shah重印全部视觉查看，仅作结构核对。中文论文全文和附录尚未取得，未新增完整题本。",
+    "reviewed": "2026-10-16",
+    "reviewScope": "Shah等1989七页原PDF经交大ScienceDirect权限取得，相关开发方法、结果、讨论及两页Appendix全文核读，印刷页705表2、707表4和708—709附录全部视觉核对；Leung等2007仍仅摘要，完整中文施测原件与许可仍待。",
     "definition": [
       {
-        "text": "Shah改良扩大每项分档以区分较细的依赖程度，原开发摘要为澳大利亚258名首次卒中住院康复患者。α＝0.90对比原计分0.87，是该样本证据，不等于所有译本均提高相同程度。",
-        "source": "https://pubmed.ncbi.nlm.nih.gov/2760661/",
-        "label": "1989直接开发摘要"
+        "text": "Shah改良为各功能设五个依赖档次。原研究使用1984年澳大利亚布里斯班258名首次卒中住院康复者的入院与出院资料；本研究主要比较内部一致性及项目分布，不把作者所称敏感性改善当作已确立所有人群的MCID或诊断效度。",
+        "source": "https://doi.org/10.1016/0895-4356(89)90065-6",
+        "label": "1989原文第703、705—707页"
       }
     ],
     "scoring": [
       {
-        "text": "临床重印各项五档，最高5、10、15分的项目分别采用0／1／3／4／5、0／2／5／8／10、0／3／8／12／15；总分0—100。档次非等间隔，不能把0—20的题分乘5后冒充此版本。",
-        "source": "https://elderlyhomes.church.mt/wp-content/uploads/2021/04/3.-Modified-Barthel-Index-SHAH-VERSION-SELF-CARE-ASSESSMENT.pdf",
-        "label": "四页重印五档权重"
+        "text": "表2的1—5是档位代码，须换算为项目加权分：最高5、10、15的项目分别用0／1／3／4／5、0／2／5／8／10、0／3／8／12／15，再合计0—100。不是把十项代码直接相加，也不是将0—20表乘5得到五档改良版。",
+        "source": "https://doi.org/10.1016/0895-4356(89)90065-6",
+        "label": "1989第705页Table 2及代码转换说明"
       },
       {
-        "text": "轮椅仅在步行项为0且受过轮椅训练时替代评定，不额外相加。重印第4页依赖分段和回家预测仅作为该重印的说明；未将其不清晰排版或未经中文验证的预测变成自动分级规则。",
-        "source": "https://elderlyhomes.church.mt/wp-content/uploads/2021/04/3.-Modified-Barthel-Index-SHAH-VERSION-SELF-CARE-ASSESSMENT.pdf",
-        "label": "替代项目及解释边界"
+        "text": "轮椅仅在步行档位代码为1（步行加权分为0）且患者已受轮椅训练时替代步行评定，最高5分，不与步行额外相加。原附录步行／轮椅距离写50 metres/yards，保留原文单位写法，不能声称两单位物理等价。速度慢本身不在无需他人帮助时扣分；监督、安全及具体操作须依项目说明。",
+        "source": "https://doi.org/10.1016/0895-4356(89)90065-6",
+        "label": "1989表2脚注及第705、708—709页Appendix"
       }
     ],
     "translations": [
@@ -114,6 +124,11 @@ export const barthelProfiles:Record<string,ReviewedProfile>={
       }
     ],
     "limits": [
+      {
+        "text": "表4入院时改良／原计分α为0.9004／0.8673，出院为0.9276／0.9238；这是同一样本内部一致性，不是本研究新测的评定者间或重测系数。原文提示康复中心表现不必等同家中表现，其他损伤类别仍需研究。原文未建立统一漏答插补，不据其分段或旧重印回家预测自动决定照护或去向。",
+        "source": "https://doi.org/10.1016/0895-4356(89)90065-6",
+        "label": "1989第707页Table 4、讨论及结论"
+      },
       {
         "text": "2007摘要研究目的称评定者间信度，结果段却写重测信度；只有摘要时不替作者消除该差异。本批保留两组样本和两因子解释75.7%的信息，不把摘要κ值当作所有设计细节已核实。",
         "source": "https://pubmed.ncbi.nlm.nih.gov/17981850/",

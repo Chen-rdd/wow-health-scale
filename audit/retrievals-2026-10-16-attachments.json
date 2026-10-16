@@ -1,0 +1,51 @@
+[
+  {
+    "file": "eri-2012-supplement-1.jpg",
+    "url": "https://www.jstage.jst.go.jp/article/joh/54/6/54_12-0106-BR/_supplement/54_12-0106-BR_1.jpg",
+    "bytes": 2473320,
+    "sha256": "a543ce31da61a56bb7f710bfbae563755fa2f68de18f4a5e8835ace127f35210",
+    "status": "downloaded_and_scope_reviewed",
+    "reviewed": "2026-10-16",
+    "accessMode": "public publisher Chrome download",
+    "scope": "Publisher JPG 3960x3034; all16 English/Chinese items, four anchors and reverse stars visually checked. Official short Chinese PDF p2 also visually rechecked; OC1 and OC6 wording differ.",
+    "redistribution": "local only"
+  },
+  {
+    "file": "hls-eu-asia-2017-publisher-supplement.pdf",
+    "url": "https://www.jstage.jst.go.jp/article/jea/27/2/27_JE11/_article#supplimentary-materials-wrap",
+    "bytes": 2021625,
+    "sha256": "630fae8c6df8a8e4510d036724febabd5c4febc85e530aadafbc0fa55c8d4165",
+    "status": "downloaded_and_scope_reviewed",
+    "reviewed": "2026-10-16",
+    "accessMode": "public publisher Chrome download",
+    "scope": "Publisher supplement27_JE11_1.pdf,26pages; text extracted; Mandarin version pp21-23 all47 items/instructions/anchors visually reviewed. Other7 language sections not fully visually checked; PMC DOCX remains unavailable, publisher PDF acquired instead.",
+    "redistribution": "local only"
+  },
+  {
+    "url": "https://www.jstage.jst.go.jp/article/joh/54/6/54_12-0106-BR/_article/_tab/-char/en?cdstat=&nologrec=&tabId=DNSFRK&revision=",
+    "status": "failed",
+    "error": "Public dynamic tab request returned journal platform homepage, not supplement; no attachment success claimed. Native article page download subsequently succeeded."
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/4119888/bin/NIHMS590169-supplement-Moser_JCE_Suppl_12.pdf",
+    "status": "publisher_verification_waiting_user",
+    "scope": "Native Chrome article accessible; supplement link reached browser checking reCAPTCHA then returned article. No verification performed, no attachment obtained; user asked to inspect while independent work continues. User subsequently confirmed no visible verification control; keep pending, do not auto retry."
+  },
+  {
+    "file": "mmos8-2012-supplement.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/4119888/bin/NIHMS590169-supplement-Moser_JCE_Suppl_12.pdf",
+    "bytes": 218587,
+    "sha256": "fd223b446db8e8ff9cd0defdb1e0e0e7464210cccee2be18c70d3561053762a2",
+    "status": "downloaded_and_scope_reviewed",
+    "reviewed": "2026-10-16",
+    "pages": 9,
+    "visualReviewedPages": [
+      3,
+      5,
+      8
+    ],
+    "scope": "Native Chrome later showed PDF loaded after user reported no visible challenge. Saved using PDF download button. All9 pages text read; Tables2/4/6 visually reviewed. No complete questionnaire, Chinese wording or routine missing-item rule in this supplement.",
+    "verification": "No CAPTCHA solved or claimed; browser page became available. Earlier waiting record retained.",
+    "redistribution": "local only"
+  }
+]

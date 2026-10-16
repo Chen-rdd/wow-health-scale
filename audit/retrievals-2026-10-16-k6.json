@@ -1,0 +1,27 @@
+[
+  {
+    "file": "k6-kang-2015-institutional.pdf",
+    "url": "https://doi.org/10.1016/j.comppsych.2015.08.011",
+    "accessMode": "Shanghai Jiao Tong University institutional ScienceDirect Chrome",
+    "reviewed": "2026-10-16",
+    "status": "native_fulltext_downloaded",
+    "pages": 8,
+    "bytes": 423707,
+    "sha256": "a2fe5881adf979ce92f12b03a72b71781be1900b1a3317fec6e439e8a4cf5f72",
+    "visualReviewedPrintedPages": [
+      107,
+      108,
+      109,
+      110
+    ],
+    "scope": "Full relevant methods/results/discussion/limitations text read; no complete Chinese6-item questionnaire printed. Recall period modified from past30days to worst30days during past12months. No separately labelled SI link observed in inspected article outline/body; not proof none exists.",
+    "redistribution": "local only"
+  },
+  {
+    "doi": "10.1097/NCC.0000000000000392",
+    "reviewed": "2026-10-16",
+    "status": "carsi_waiting_user",
+    "scope": "User tried library entry and reported unable to open. Read-only observed Ovid Welcome at ovidsp.dc2.ovid.com showing empty User ID/Password/Login. No credentials entered, no institution-access identity shown; subscription entitlement not established. Defer without repeated login attempts; ScienceDirect institutional access separately works.",
+    "downloaded": false
+  }
+]

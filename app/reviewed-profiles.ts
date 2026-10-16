@@ -21,6 +21,9 @@ import {uclaProfiles} from './reviewed-profiles-ucla';
 import {barthelProfiles} from './reviewed-profiles-barthel';
 import {sleepIsiProfiles} from './reviewed-profiles-sleep-isi';
 import {sleepEssAisProfiles} from './reviewed-profiles-sleep-ess-ais';
+import {largeBatchOneProfiles} from './reviewed-profiles-large-batch-one';
+import {largeBatchTwoProfiles} from './reviewed-profiles-large-batch-two';
+import {largeBatchThreeProfiles} from './reviewed-profiles-large-batch-three';
 const base='https://dass.psy.unsw.edu.au/';
 const p=(text:string,path:string,label:string):EvidenceParagraph=>({text,source:base+path,label});
 const scope=p('抑郁维度关注情绪低落、兴趣或愉悦感减少、自我贬低与缺乏主动性；焦虑维度侧重自主神经唤起、躯体紧张及恐惧体验；压力维度关注难以放松、持续紧绷、易激惹及不耐烦。三个维度相关，但测量内容不同。','over.htm','开发者对测量构念的定义');
@@ -47,6 +50,9 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
 ...sleepIsiProfiles,
 ...barthelProfiles,
 ...uclaProfiles,
+...largeBatchOneProfiles,
+...largeBatchTwoProfiles,
+...largeBatchThreeProfiles,
 "VR-PH-005-014":{
   "reviewed": "2026-10-15",
   "reviewScope": "普通话K6／K10三页官方PDF已重新下载，哈希一致；核心、附加、跳答及署名原页已核对。粤语、独立中文研究及本库实际打印仍待核对。",
@@ -85,8 +91,8 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
   ]
 },
 "VR-PH-005-013":{
-  "reviewed": "2026-10-15",
-  "reviewScope": "普通话K6／K10三页官方PDF已重新下载，哈希一致；核心、附加、跳答及署名原页已核对。粤语、独立中文研究及本库实际打印仍待核对。",
+  "reviewed": "2026-10-16",
+  "reviewScope": "普通话K6／K10官方三页PDF及核心、附加、跳答、署名已核。2015大学生直接验证已通过机构权限取得8页原PDF，方法、结果、表2、讨论及局限核读，印刷页107—110视觉核对；研究改用过去12个月最严重30天，并非官网过去30天题本逐字验证。CHIS完整HTML已核，粤语原件及实际打印仍待。",
   "definition": [
     {
       "text": "K6从K10删去四题，是六项心理困扰短版；直接来源为K10。它缩短施测时间，并非把K10分数按比例换算。",
@@ -104,6 +110,11 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
       "text": "部分官方表单所印1–5是回答代码，顺序从“全部时间”到“无”。计算0–4症状分时需反向重编码，不能直接相加。缺失处理没有唯一官方算法，应事先确定研究规则。",
       "source": "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Scoring_K6_K10.pdf",
       "label": "评分与缺失FAQ"
+    },
+    {
+      "text": "2015研究六项0—4，总分0—24；12／13切分即≥13，敏感度0.83、特异度0.79、阳性预测值0.60、阴性预测值0.93，针对该研究回顾期与CIDI-3.1严重精神疾病筛查。不能把该结果直接当官网过去30天表或所有中文人群的诊断标准。",
+      "source": "https://doi.org/10.1016/j.comppsych.2015.08.011",
+      "label": "2015原文第107—109页方法与表2"
     }
   ],
   "translations": [
@@ -111,6 +122,11 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
       "label": "作者官网 普通话及粤语译本",
       "url": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
       "note": "已取得普通话K6／K10三页原件并核对：第1页为核心，第2页为比较平时、功能及就医附加问题，全答“无”时后续影响问题可跳过；第3页署黄悦勤和刘平翻译。粤语及独立中文验证另核对。"
+    },
+    {
+      "label": "Kang等2015大陆大学生K6直接验证全文",
+      "url": "https://doi.org/10.1016/j.comppsych.2015.08.011",
+      "note": "西南一所综合大学，8289人参加初筛、222人重测及CIDI-3.1访谈；α0.84、32—53天重测Spearman r0.79。方法明确将回顾期改为过去12个月最严重的30天，以对应12个月SMI访谈；未刊完整中文六项题文，不能称与黄悦勤／刘平官网过去30天表逐字匹配。"
     }
   ],
   "limits": [
@@ -118,12 +134,22 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
       "text": "作者允许免费使用，要求保留版权并引用指定文献。网站收录或免费使用不等于已完成目标人群验证。",
       "source": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
       "label": "作者官方说明"
+    },
+    {
+      "text": "CHIS成人跨语言研究44,846人含普通话和粤语，发现部分项目存在种族／语言差异项目功能。不同语言群不能仅因使用K6便默认分数完全等价；它也不是大陆官网译本的独立逐字验证。",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5468522/",
+      "label": "跨语言测量等值研究全文"
+    },
+    {
+      "text": "该研究发现74份K6漏答后只纳入完整个案8215人；这不是开发者统一漏答规则，不自行补0。图1另标N＝7775，与讨论的完整个案数不一致，保留原文差异。222人访谈样本按初筛高低分分层招募，配合率38.54%，不能把其中预测值直接当全部大学生的普遍预测值；连续总分AUC0.85与表2单一切分AUC0.81亦分开。",
+      "source": "https://doi.org/10.1016/j.comppsych.2015.08.011",
+      "label": "2015抽样方法、图1、表2及局限原页"
     }
   ]
 },
 "VR-PH-005-012":{
-  "reviewed": "2026-10-15",
-  "reviewScope": "普通话K6／K10三页官方PDF已重新下载，哈希一致；核心、附加、跳答及署名原页已核对。粤语、独立中文研究及本库实际打印仍待核对。",
+  "reviewed": "2026-10-16",
+  "reviewScope": "普通话K6／K10三页官方PDF已重新下载，哈希一致；核心、附加、跳答及署名原页已核对。粤语、独立中文研究及本库实际打印仍待核对。 续核2021流动儿童研究全文及Bu2017患癌儿童家长验证摘要；各研究译本与官网完整中文表仍未逐字对应。",
   "definition": [
     {
       "text": "K10以十项情绪相关症状评估非特异性心理困扰，官网表单回顾过去30天。它用于筛查和描述困扰程度，不把抑郁、焦虑等疾病分别确诊。",
@@ -148,6 +174,16 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
       "label": "作者官网 普通话及粤语译本",
       "url": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
       "note": "已取得普通话K6／K10三页原件并核对：第1页为核心，第2页为比较平时、功能及就医附加问题，全答“无”时后续影响问题可跳过；第3页署黄悦勤和刘平翻译。粤语及独立中文验证另核对。"
+    },
+    {
+      "label": "Bu等2017患癌儿童家长验证摘要",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27257800/",
+      "note": "广州便利样本206和103人，α0.93、两因子；此为研究自行翻译的C-K10，不能因此认定与官网黄悦勤／刘平题文相同。"
+    },
+    {
+      "label": "2021杭州流动儿童测量不变性全文",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8671765/",
+      "note": "11—16岁便利样本，基于Bu译本。研究为模型估计合并五档为三档；不能把合并类别模型的性别不变性结果当作原五级表在所有中文人群等值。正文样本总数339与男192＋女135不一致，人数缺口未自行补造。"
     }
   ],
   "limits": [
@@ -155,6 +191,11 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
       "text": "作者允许免费使用，要求保留版权并引用指定文献。网站收录或免费使用不等于已完成目标人群验证。",
       "source": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
       "label": "作者官方说明"
+    },
+    {
+      "text": "研究说明数据和Mplus代码需向作者索取；本次未发送申请。正文及已检索结果尚不能解决正式中文题文与评分原件的对应。",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8671765/",
+      "label": "模型分析及原件缺口"
     }
   ]
 },
@@ -221,7 +262,7 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
   ]
 },
 "VR-PH-001-003":{
-  "reviewed": "2026-09-13",
+  "reviewed": "2026-10-16",
   "definition": [
     {
       "text": "PHQ-8从PHQ-9删除第9题，即死亡或自伤想法题，保留其他八题，评估过去两周抑郁症状。它可用于人群研究，但不包含这一风险信息。",
@@ -241,6 +282,16 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
       "label": "官方译本与短版派生说明",
       "url": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
       "note": "手册第7页允许从正式译本选择对应条目形成短版。必须保留所用译本和题号；这不自动证明短版在目标人群的效度。"
+    },
+    {
+      "label": "2022大陆农村学生PHQ-8应用研究全文",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9141636/",
+      "note": "采用0—3八项，并引用既有PHQ-9及其他人群研究支持；这属于应用证据，不能作为本网站大陆八题表已独立验证。论文频率天数段与官方文字锚点需保持来源区分。"
+    },
+    {
+      "label": "2025台湾消防员纵向应用全文",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12743514/",
+      "note": "基线494、随访349，文中PHQ-8α0.92；从PHQ-9去自伤项并采用既有阈值，未进行独立诊断访谈验证或刊完整繁体八题。不能仅凭α宣称现有台湾表筛查界点已验证。"
     }
   ],
   "limits": [
@@ -248,8 +299,14 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
       "text": "本条已核对结构与计分关系，完整施测材料和具体中文验证证据仍在整理。未核实的题目或缺失规则不以推测补全。",
       "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
       "label": "开发者手册 第2至3页"
+    },
+    {
+      "text": "台湾研究说明删自伤项的操作原因；这不表示研究者因此无需风险处置流程，也不等于PHQ-8可以检出已删除的风险信息。本网站不据其应用研究新增自动诊断。",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12743514/",
+      "label": "研究改写与解释边界"
     }
-  ]
+  ],
+  "reviewScope": "原开发手册结构、范围与派生规则；2022大陆学生、2025台湾消防员应用研究完整HTML方法核读，未取得与本网站两份地区表逐字对应的施测原件或独立诊断验证。"
 },
 "VR-PH-001-002":{
   "reviewed": "2026-09-13",

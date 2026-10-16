@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-16",
+  "method": "Codex in-app browser actual viewport1280x900 and390x900, each of eight updated detail pages navigated; documentElement.clientWidth and scrollWidth read from rendered DOM, H1 and metadata checked.",
+  "checks": [
+    {
+      "id": "VR-SS-002-065",
+      "requestedWidth": 1280,
+      "width": 1280,
+      "scrollWidth": 1280,
+      "metadata": true
+    },
+    {
+      "id": "VR-SS-002-069",
+      "requestedWidth": 1280,
+      "width": 1280,
+      "scrollWidth": 1280,
+      "metadata": true
+    },
+    {
+      "id": "VR-SS-002-072",
+      "requestedWidth": 1280,
+      "width": 1280,
+      "scrollWidth": 1280,
+      "metadata": true
+    },
+    {
+      "id": "VR-MA-003-BASE",
+      "requestedWidth": 1280,
+      "width": 1280,
+      "scrollWidth": 1280,
+      "metadata": true
+    },
+    {
+      "id": "VR-AG-004-096",
+      "requestedWidth": 1280,
+      "width": 1280,
+      "scrollWidth": 1280,
+      "metadata": true
+    },
+    {
+      "id": "VR-AG-001-BASE",
+      "requestedWidth": 1280,
+      "width": 1280,
+      "scrollWidth": 1280,
+      "metadata": true
+    },
+    {
+      "id": "VR-AG-002-BASE",
+      "requestedWidth": 1280,
+      "width": 1280,
+      "scrollWidth": 1280,
+      "metadata": true
+    },
+    {
+      "id": "VR-SL-003-033",
+      "requestedWidth": 1280,
+      "width": 1280,
+      "scrollWidth": 1280,
+      "metadata": true
+    },
+    {
+      "id": "VR-SS-002-065",
+      "requestedWidth": 390,
+      "width": 390,
+      "scrollWidth": 390,
+      "metadata": true
+    },
+    {
+      "id": "VR-SS-002-069",
+      "requestedWidth": 390,
+      "width": 390,
+      "scrollWidth": 390,
+      "metadata": true
+    },
+    {
+      "id": "VR-SS-002-072",
+      "requestedWidth": 390,
+      "width": 390,
+      "scrollWidth": 390,
+      "metadata": true
+    },
+    {
+      "id": "VR-MA-003-BASE",
+      "requestedWidth": 390,
+      "width": 390,
+      "scrollWidth": 390,
+      "metadata": true
+    },
+    {
+      "id": "VR-AG-004-096",
+      "requestedWidth": 390,
+      "width": 390,
+      "scrollWidth": 390,
+      "metadata": true
+    },
+    {
+      "id": "VR-AG-001-BASE",
+      "requestedWidth": 390,
+      "width": 390,
+      "scrollWidth": 390,
+      "metadata": true
+    },
+    {
+      "id": "VR-AG-002-BASE",
+      "requestedWidth": 390,
+      "width": 390,
+      "scrollWidth": 390,
+      "metadata": true
+    },
+    {
+      "id": "VR-SL-003-033",
+      "requestedWidth": 390,
+      "width": 390,
+      "scrollWidth": 390,
+      "metadata": true
+    }
+  ],
+  "overflowFailures": [],
+  "screenshotsActuallyViewed": "ESS-CHAD top and metadata area at1280x900 and390x900; also initial default435x724 top. No obvious overlap in those views. Not full8 screenshot review or all211 mobile review.",
+  "viewportRestored": true,
+  "finding": "ESS-CHAD related-reference note still said abstract-only despite source panel fulltext update; corrected reference role/note and2017 paragraph scope.",
+  "finalReferenceRecheck": {
+    "updatedNotePresent": true,
+    "staleAbstractOnlyNoteAbsent": true,
+    "scope2017Explicit": true,
+    "restoredWidth": 435
+  }
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "file": "isi-ais-chung-2011-institutional.pdf",
+    "doi": "10.1016/j.sleep.2010.09.019",
+    "url": "https://doi.org/10.1016/j.sleep.2010.09.019",
+    "status": "downloaded",
+    "accessMode": "Shanghai Jiao Tong University institutional ScienceDirect Chrome",
+    "reviewed": "2026-10-16",
+    "bytes": 278946,
+    "sha256": "02396f9411d723f0598b1366238cf497b7d10126f6345faef4c8e0773cd61b82",
+    "pages": 8,
+    "visualReviewedPrintedPages": [
+      464,
+      465,
+      469
+    ],
+    "scope": "Methods/results/discussion and complete English item tables read; pp464/465/469 visual. Actual recall standardized to pastmonth; Chinese questionnaires available on author request, not printed. Interviews290, retest258, ROC264, complete comparisons1431 must not conflate.",
+    "redistribution": "local only"
+  },
+  {
+    "file": "isi-ais-chung-2011-supplement.doc",
+    "doi": "10.1016/j.sleep.2010.09.019",
+    "url": "https://doi.org/10.1016/j.sleep.2010.09.019",
+    "status": "downloaded",
+    "accessMode": "Shanghai Jiao Tong University institutional ScienceDirect Chrome",
+    "reviewed": "2026-10-16",
+    "bytes": 120832,
+    "sha256": "b0511a919130d1cb2167d178aa010905691334c7a0fe4a875f2053edb259c88f",
+    "pages": null,
+    "visualReviewedPrintedPages": [],
+    "scope": "Publisher Word supplement (OLE header verified); textutil extracted English endorsement Tables1-3, no Chinese full form. Text review only, no original-layout visual verification.",
+    "redistribution": "local only"
+  },
+  {
+    "file": "isi-ais-chung-2011-disclosures.zip",
+    "doi": "10.1016/j.sleep.2010.09.019",
+    "url": "https://doi.org/10.1016/j.sleep.2010.09.019",
+    "status": "downloaded",
+    "accessMode": "Shanghai Jiao Tong University institutional ScienceDirect Chrome",
+    "reviewed": "2026-10-16",
+    "bytes": 1502590,
+    "sha256": "74680f58012af0fb9b66d636fcb302b668929ed110cdad937196ae7c5456b5d0",
+    "pages": null,
+    "visualReviewedPrintedPages": [],
+    "scope": "Publisher labelled conflict-of-interest ZIP; CRC verified, threePDF names inventoried, not scored questionnaire or scientific supplement.",
+    "redistribution": "local only"
+  }
+]

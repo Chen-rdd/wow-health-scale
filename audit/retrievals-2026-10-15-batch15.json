@@ -1,0 +1,273 @@
+[
+  {
+    "file": "pedsql-scoring.pdf",
+    "url": "https://pedsql.org/PedsQL-Scoring.pdf",
+    "bytes": 1566085,
+    "sha256": "384c4ac99a500b385495c928911c759013de923421e2a2f61d5c68ec29a83a78",
+    "type": "application/pdf",
+    "status": "downloaded"
+  },
+  {
+    "file": "pedsql-about.html",
+    "url": "https://www.pedsql.org/about_pedsql.html",
+    "bytes": 6522,
+    "sha256": "123cb12d3290c1f76492a216c9533d492a8943728889722d4794b3b3a8c0bb49",
+    "type": "text/html",
+    "status": "downloaded"
+  },
+  {
+    "file": "epds-short-2013.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3778840/",
+    "bytes": 212914,
+    "sha256": "c615ac3e39967c84c9856b6e911a07e3d8a7ec458fc5345504e44dee56950ca5",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "epds-nsw.html",
+    "url": "https://www.mhcs.health.nsw.gov.au/publications/epds",
+    "bytes": 1788537,
+    "sha256": "8c7be3625c8d88dd7b881259622fbca6f72107b242d956463bb72a9db8a1ce0b",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "sf-v2-datasheet.pdf",
+    "url": "https://www.qualitymetric.com/wp-content/uploads/2022/03/QM-SF-36v2-and-SF-12v2-DataSheet-v2.pdf",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "file": "sf36v2-iqvia.html",
+    "url": "https://coas.iqvia.com/COAs/sf-36v2-health-survey-standard",
+    "bytes": 82413,
+    "sha256": "437699db167c792c3f3bd2b00a626a22899b9fc5b0c10a2aad267091c7b167c7",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded",
+    "scope": "仅动态门户HTML壳；未取得可读产品详情或许可题本"
+  },
+  {
+    "file": "b15-16338915-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16338915%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 5986,
+    "sha256": "482e0da7068300af8c311e749256a34bdec2354e5ea8e5e1a26ba912f5df872c",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "b15-3651732-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:3651732%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 3964,
+    "sha256": "c01f1e008241f14fabefd0e91ecb27dbea28e05b54b439b68ca134a5931bed83",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "b15-8628042-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:8628042%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 5501,
+    "sha256": "d920d8ee165f9f7571e1134ce73f9af55410e7dc299453bcf236ff441e3ef72f",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "b15-32121371-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32121371%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 5343,
+    "sha256": "dae03d702d16573e83696ff7a2e675eadefffe59a2de93116ffb3e1b76388801",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "b15-11468499-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:11468499%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 5620,
+    "sha256": "00a94c0be1c15b5ece9c5e19949fa5dd35796a8c406a9dc59e69fb96d1146ea5",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "b15-23615932-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:23615932%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 8326,
+    "sha256": "c242b07b8a4fd16a44741a206758ad27cf72cac9e83b69bdbae0449cce7aca23",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "b15-1593914-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:1593914%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 4317,
+    "sha256": "cac75422bf12b51ec5cb7dc2313cc93a8c3d86a1b252c81d6274020953dbf9c7",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "nvs-original.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1466931/",
+    "bytes": 173603,
+    "sha256": "8441f2cb559888f126755bc47d66a74f88349e9e9f7140790f9419fb253c80df",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "nvs-toolkit.pdf",
+    "url": "https://cdn.pfizer.com/pfizercom/health/nvs_flipbook_english_final.pdf",
+    "bytes": 1497399,
+    "sha256": "3d7b73b92bcae06aa5efdf33748cf6d67110f7aac804084a78b13f8b461a8aa2",
+    "type": "application/pdf",
+    "status": "downloaded"
+  },
+  {
+    "file": "sf12v2-2020.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7141358/",
+    "bytes": 197064,
+    "sha256": "5e7910756e3c27ab2f4e53478514fff121b5e99cf0828e26e199f410188fc763",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "sf36-acute-1997.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1070196/",
+    "bytes": 107339,
+    "sha256": "1c8e29641cbba20e1e0c5502ae6368ed5dcd6f1956db31510c0f664f33886ade",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded",
+    "scope": "正式摘要、参考文献及扫描页索引；非可读全文正文"
+  },
+  {
+    "file": "pedsql-asthma-cn.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3161836/",
+    "bytes": 228490,
+    "sha256": "c21e45259d031b523fceed031f5462245f33ba16f9cca747dae0b12fd5d5828e",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "epds-cn-page.html",
+    "url": "https://www.mhcs.health.nsw.gov.au/publications/epds/chinese-simplified",
+    "bytes": 1534613,
+    "sha256": "02e522d63c96fc3d0b0d6bab03f4282e81e67ee2261813254d5d0f3ee6f19f5a",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "epds-en-page.html",
+    "url": "https://www.mhcs.health.nsw.gov.au/publications/epds/english",
+    "bytes": 1533919,
+    "sha256": "dfe2db475f9185b6b1ee1548fb3e4b4f96d26754ea46c87ac40c3408ae3d5804",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "sf36v2-acute-iqvia.html",
+    "url": "https://coas.iqvia.com/COAs/sf-36v2-health-survey-acute",
+    "bytes": 82413,
+    "sha256": "ebc7d1afd871e9c0ff16ffc496810210a20b60b70bf59d351bdb5075f8c79f23",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded",
+    "scope": "仅动态门户HTML壳；未取得可读产品详情或许可题本"
+  },
+  {
+    "file": "sf12v2-iqvia.html",
+    "url": "https://coas.iqvia.com/COAs/sf-12v2-health-survey-standard",
+    "bytes": 82413,
+    "sha256": "484733e96c7892097facddee4a0d9c01d779dbf10340494bd52bc801fea8ca9b",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded",
+    "scope": "仅动态门户HTML壳；未取得可读产品详情或许可题本"
+  },
+  {
+    "file": "sf12v2-acute-iqvia.html",
+    "url": "https://coas.iqvia.com/COAs/sf-12v2-health-survey-acute",
+    "bytes": 82413,
+    "sha256": "74cc932f527407d4f84c4f89d420ad63c2bafdeff0f1a02665e370c95bd18283",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded",
+    "scope": "仅动态门户HTML壳；未取得可读产品详情或许可题本"
+  },
+  {
+    "file": "b15-9240286-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:9240286%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 5882,
+    "sha256": "eabbd522295ca5b63353c83ac6099d2dc4719eea608d625b5e0de872fa2586b2",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "b15-15259457-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:15259457%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 4581,
+    "sha256": "35fac3b26759b423cf35eca01b7359b97b9972d1fd5f469a62816ab30169750f",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "b15-12610013-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:12610013%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 5120,
+    "sha256": "e58e09f99b1b8beef5ad46c632983e09501536f55aabf33996e72c8a118364cb",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "epds-nsw-zh.pdf",
+    "url": "https://www.mhcs.health.nsw.gov.au/publications/epds/chinese-simplified/@@download/file",
+    "bytes": 385837,
+    "sha256": "9f2fa127beb62eca285578ceb92c28ce6f89756e12c5d8834fcb64543bd306c9",
+    "type": "application/pdf",
+    "status": "downloaded"
+  },
+  {
+    "file": "epds-nsw-en.pdf",
+    "url": "https://www.mhcs.health.nsw.gov.au/publications/epds/english/@@download/file",
+    "bytes": 194030,
+    "sha256": "30b810c8aa95df99e47cb4f217aa9dd0c2cd6ff2428e9356686cdcf81436408b",
+    "type": "application/pdf",
+    "status": "downloaded"
+  },
+  {
+    "file": "sf36-current.html",
+    "url": "https://www.qualitymetric.com/health-surveys/the-sf-36v2-health-survey/",
+    "bytes": 82413,
+    "sha256": "437699db167c792c3f3bd2b00a626a22899b9fc5b0c10a2aad267091c7b167c7",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded",
+    "scope": "仅动态门户HTML壳；未取得可读产品详情或许可题本"
+  },
+  {
+    "file": "sf12-current.html",
+    "url": "https://www.qualitymetric.com/health-surveys/the-sf-12v2-health-survey/",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "file": "b15-11932914-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:11932914%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 5851,
+    "sha256": "0642dafc0fdb2a66b16fcb55c321e27c97ac0c2dc122471ce4f9b0d29b62291e",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "b15-11920407-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:11920407%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 6055,
+    "sha256": "b4d488a124763c5bb35bcf403e4679c376c94a0ad23ca0ac04f5f848ea877911",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "b15-21819618-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:21819618%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 7116,
+    "sha256": "c7c0294e8af2ac3ccf085cade75572f17cf28ec5a492097ab7f9f8e525b0e3c8",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://www.qualitymetric.com/wp-content/uploads/2022/03/QM-SF-36v2-and-SF-12v2-DataSheet-v2.pdf",
+    "status": "search_index_text_only",
+    "scope": "官方2022 FAQ搜索索引可读；网络请求404，无有效PDF原件，不宣称视觉核验"
+  }
+]

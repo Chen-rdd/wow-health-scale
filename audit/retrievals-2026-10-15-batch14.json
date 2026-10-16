@@ -1,0 +1,330 @@
+[
+  {
+    "file": "5c-2018.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6285469/",
+    "bytes": 413039,
+    "sha256": "3679677067ba9f18f79af563c5931ba2d93399815a2519cb3ce9874ab064d8bc",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "avhs-2021.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8475604/",
+    "bytes": 180708,
+    "sha256": "770c0488ab1e05d264f1ad8e4f0767f64054a1103c3d8da2fe3d059b99941cc8",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "mmos8-2012.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4119888/",
+    "bytes": 220528,
+    "sha256": "014d4cbf59f44ca3f3a6d54f506c9017b33bf43de7974c9fd6e8ec7dbf367f58",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "mbi-official.html",
+    "url": "https://www.mindgarden.com/117-maslach-burnout-inventory-mbi",
+    "bytes": 81532,
+    "sha256": "5b48075a24b396f5851e53569893ced03c34f3cc3a9335a81e77cf602bdfc74d",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "psqi-current-instruments.html",
+    "url": "https://www.sleep.pitt.edu/research/measures-and-study-instruments",
+    "bytes": 48217,
+    "sha256": "6036c069773908eaa585a465bb1d30293cc79540eff1afcbd658d845cacf8d0d",
+    "type": "text/html; charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "batch14-8843498-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:8843498%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 6526,
+    "sha256": "086db482587960b30c37479fab6e3649478c270d95b71f32b00df588e545d4ce",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "batch14-16987212-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16987212%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 5192,
+    "sha256": "b54a9b33f5e11d610cfbbaec4c6f75481dc02071b8dfef4a84c7220502ad71d6",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "batch14-18181417-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:18181417%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 3225,
+    "sha256": "de9ec6ca77007a024d4124ff159b8359c90a66691f0ced057e37bb4f76234d1f",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "batch14-33119375-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:33119375%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 6289,
+    "sha256": "5e0924c7fa9b982b9711cb2c7b21007f87bc975e827003ea259c09a906eeedc7",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "batch14-11419809-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:11419809%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 4320,
+    "sha256": "e3da904efab31510a4d40040d4125eaec174c827b6dd19096981d879c5ae6aaa",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "batch14-25896384-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:25896384%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 9170,
+    "sha256": "8f8f580d064ebe8b14ba135dc1bab7429de32c1928779344584e42f079bd5533",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "batch14-10519466-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:10519466%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 3978,
+    "sha256": "6ee26f32f75fdb40d519e5868cc95d85989572e7a91048cf5ca568432cd62f84",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "b-psqi-official.pdf",
+    "url": "https://www.sleep.pitt.edu/sites/default/files/assets/Instrument%20Materials/B-PSQI-Version%202.pdf",
+    "bytes": 53657,
+    "sha256": "67105944d15ad32bf69afb2f5298f2b30896aef0dd8d825feb9f74bcdc7e33a8",
+    "type": "application/pdf",
+    "status": "downloaded"
+  },
+  {
+    "file": "psqi-a-official.pdf",
+    "url": "https://www.sleep.pitt.edu/sites/default/files/assets/Instrument%20Materials/UPitt%20-%20PTSD%20specific%20Sleep%20Quality%20Assessment%20Addendum%20for%20Capturing%20Trauma%20related%20Sleep%20Disturbances%20-%2002238.pdf",
+    "bytes": 174678,
+    "sha256": "a5b3854a78ee021ac472a9563948a0d9cbc1c35fc564b5aaa4fae8d9fadb51df",
+    "type": "application/pdf",
+    "status": "downloaded"
+  },
+  {
+    "file": "mmos8-si.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/4119888/bin/NIHMS590169-supplement-Moser_JCE_Suppl_12.pdf",
+    "bytes": 1817,
+    "sha256": "3feee3dc1e6ea91353d5181da7012653087e068fe57f35a17f4f2afd598830da",
+    "type": "text/html; charset=utf-8",
+    "status": "failed",
+    "error": "Response is not PDF; validation or HTML page"
+  },
+  {
+    "file": "proqol-2005-manual.pdf",
+    "url": "https://compassionfatigue.org/pages/ProQOLManualOct05.pdf",
+    "bytes": 388383,
+    "sha256": "889a697cb310ccb4b6440fa94b24e3545dd008b9e72722dc64d5b36d98718e03",
+    "type": "application/pdf",
+    "status": "downloaded"
+  },
+  {
+    "file": "whoqol100-official.html",
+    "url": "https://www.who.int/tools/whoqol/whoqol-100",
+    "bytes": 99993,
+    "sha256": "a10b9310add953db3ec66d614826b240fe472f4d897a5557dd044b8d67f70191",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "batch14-15533706-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:15533706%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 4976,
+    "sha256": "4398126715cfcfe16d529dedea65b9ec69246f29b54b00d2c910e13c4ed228fc",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "batch14-33769209-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:33769209%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 7491,
+    "sha256": "513ba6dfc61c6146ac3939c010b5b7a70832c1109d3f100b39f93cce73489a71",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "whoqol100-en-au.zip",
+    "url": "https://cdn.who.int/media/docs/default-source/publishing-policies/whoqol/english-australia-whoqol-100---bref.zip?sfvrsn=ae797474_2",
+    "bytes": 864702,
+    "sha256": "176a2bfda3b0468352e2a3dcd6124c58df1f06199a104f25b3a9170cf9b3c588",
+    "type": "application/x-zip-compressed",
+    "status": "downloaded"
+  },
+  {
+    "file": "whoqol100-cantonese.zip",
+    "url": "https://cdn.who.int/media/docs/default-source/publishing-policies/whoqol/cantonese-whoqol-100.zip?sfvrsn=bd8561b8_2",
+    "bytes": 2335896,
+    "sha256": "70685e57d76210048d8a716912cf08f6716586819396ab6c1367f1226ac8b9de",
+    "type": "application/x-zip-compressed",
+    "status": "downloaded"
+  },
+  {
+    "file": "whoqol-user-manual.pdf",
+    "url": "https://iris.who.int/bitstream/handle/10665/77932/WHO_HIS_HSI_Rev.2012.03_eng.pdf?sequence=1",
+    "bytes": 755,
+    "sha256": "a859cc83d11508435744f1ce4fb6f39396083c22e60bea3f872887eb2dd1863f",
+    "type": "text/html; charset=UTF-8",
+    "status": "failed",
+    "error": "Response format does not match requested PDF/ZIP/DOCX"
+  },
+  {
+    "file": "olbi-cn-2021.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8685855/",
+    "bytes": 197877,
+    "sha256": "90e24e46929bab63a4e9f09f9609843b4dcd8369a65b3df8226cb1343523b361",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "5c-si-1.docx",
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0208601.s001&type=supplementary",
+    "bytes": 21157,
+    "sha256": "76f9fc1328b2db488f248cc96810724a992df6def9cd073243cc8136e66a2ce9",
+    "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "status": "downloaded"
+  },
+  {
+    "file": "5c-si-2.docx",
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0208601.s002&type=supplementary",
+    "bytes": 66659,
+    "sha256": "5daac7dd399749a56f71bf099b02eadb2fb29e033be355f6907d00cf03142fbc",
+    "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "status": "downloaded"
+  },
+  {
+    "file": "5c-si-3.docx",
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0208601.s003&type=supplementary",
+    "bytes": 29759,
+    "sha256": "ea43fd1e651a148f95b773ad344cfaf45c05ff152a5e28d94c0b3bc657510eab",
+    "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "status": "downloaded"
+  },
+  {
+    "file": "5c-si-4.docx",
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0208601.s004&type=supplementary",
+    "bytes": 21561,
+    "sha256": "7d10abbee232b08e847b2276028087c01af011dc0751a91aee0033fce74b58be",
+    "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "status": "downloaded"
+  },
+  {
+    "file": "5c-si-5.docx",
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0208601.s005&type=supplementary",
+    "bytes": 1757122,
+    "sha256": "b0a61001f76776d6b95d6b99b41928f3017884e3d9fca1c6f5cef8221ffdda93",
+    "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "status": "downloaded"
+  },
+  {
+    "file": "5c-si-6.docx",
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0208601.s006&type=supplementary",
+    "bytes": 24080,
+    "sha256": "0b7c2d38878219513c53ecdf35fb92b527f4301438fc65f6395019816c1a77f3",
+    "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "status": "downloaded"
+  },
+  {
+    "file": "5c-si-7.docx",
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0208601.s007&type=supplementary",
+    "bytes": 1742150,
+    "sha256": "0b888df313adf44c37ea40d4d9b37ffff241eb34a7311ae9e992b4db38b6211c",
+    "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "status": "downloaded"
+  },
+  {
+    "file": "vhs-2018-shapiro.pdf",
+    "url": "https://www.mcgill.ca/healthpsychologylab/files/healthpsychologylab/thevaccinehesitancyscale_shapiro_0.pdf",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "file": "vhs-2015-larson.pdf",
+    "url": "https://willschulz.com/papers/2015_Measuring_Vaccine_Hesitancy.pdf",
+    "bytes": 1131759,
+    "sha256": "c3aaac9bcbe772ea9959e772ae1db5df4db2710b34dc61666580fb61accbc490",
+    "type": "application/pdf",
+    "status": "downloaded"
+  },
+  {
+    "file": "vhs-2018-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:29289384%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 9589,
+    "sha256": "b3c0c75598d7c94336da0df4d890a07bd3d1e61fd0a69bd013127e7fef97a774",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "mbi-cutoff-caveat.pdf",
+    "url": "https://www.mindgarden.com/documents/MBI-Cutoff-Caveat.pdf",
+    "bytes": 151503,
+    "sha256": "37cf2bd594ba687ea7155725d163dbe0bf1c9cbe2f85648213298e1cad225b2b",
+    "type": "application/pdf",
+    "status": "downloaded"
+  },
+  {
+    "file": "mbi-hss.html",
+    "url": "https://www.mindgarden.com/314-mbi-human-services-survey",
+    "bytes": 66969,
+    "sha256": "48a5027d2c8f5346e5ad35655267cdd323cf24a10f834c1a2c4ec3e20970b599",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "mbi-mp.html",
+    "url": "https://www.mindgarden.com/315-mbi-human-services-survey-medical-personnel",
+    "bytes": 67803,
+    "sha256": "4f075d8c97480f37473dfcac3417cc206b6e3355fcd3ddf35c95bb21a633cce0",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "mbi-gs.html",
+    "url": "https://www.mindgarden.com/312-mbi-general-survey",
+    "bytes": 66927,
+    "sha256": "83cd81bdbc52721484416614c90465170ac1d9f85428c3aa05666d0e227a13f8",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "mbi-es.html",
+    "url": "https://www.mindgarden.com/316-mbi-educators-survey",
+    "bytes": 66339,
+    "sha256": "e39a3b70c657eeedf6b50a62e72319872c59bbcaf025ed7f15c1dd0dff457f4d",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "b14-Australian version_Manual and questionnaires_WHOQOL-100 and BREF.pdf",
+    "bytes": 897253,
+    "sha256": "acd6fb4c0e523f587f5f475acfd520faed077385b074de1ac07edda67acd65d7",
+    "status": "extracted",
+    "parentArchive": "whoqol100-en-au.zip",
+    "scope": "仅相关章节和标题核读；不表示全份逐题视觉复核"
+  },
+  {
+    "file": "b14-Cantonese Self-Administered version.pdf",
+    "bytes": 394890,
+    "sha256": "50c71a67f2feed179766a6e7fedd42e1e65856cef92789981e5860022b36da48",
+    "status": "extracted",
+    "parentArchive": "whoqol100-cantonese.zip",
+    "scope": "仅相关章节和标题核读；不表示全份逐题视觉复核"
+  },
+  {
+    "file": "b14-Cantonese_interview version v13 Sept 03.pdf",
+    "bytes": 619500,
+    "sha256": "f36dce1cbbd91caab958eedbc84f7a32ee51e7a8390c15f8dbcd0f8b489cf18d",
+    "status": "extracted",
+    "parentArchive": "whoqol100-cantonese.zip",
+    "scope": "仅相关章节和标题核读；不表示全份逐题视觉复核"
+  }
+]

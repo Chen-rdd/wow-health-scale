@@ -15,3 +15,7 @@ public/review/
 audit/html-review/
 audit/forms-snapshot.json
 audit/references-snapshot.json
+
+# Local task handoff and upload receipts
+audit/LOCAL-RESUME.md
+audit/local-upload-receipt.json

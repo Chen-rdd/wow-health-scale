@@ -1,0 +1,270 @@
+[
+  {
+    "file": "hls19-2022-supp-api.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9659295/supplementaryFiles",
+    "status": "failed",
+    "error": "The read operation timed out"
+  },
+  {
+    "file": "mmos8-2012-supp-api.zip",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4119888/supplementaryFiles",
+    "bytes": 296,
+    "sha256": "7d3c9b24364644ade1b36a5ebfc8570a50f20b6a6056d1367f0850a3a4159d2e",
+    "type": "application/xml",
+    "status": "failed",
+    "error": "Response not ZIP"
+  },
+  {
+    "file": "hls19-2022-supp-publisher.zip",
+    "url": "https://mdpi-res.com/d_attachment/ijerph/ijerph-19-14129/article_deploy/ijerph-19-14129-s001.zip",
+    "bytes": 430776,
+    "sha256": "87f1ba8e22c5c6dd45e337832828d69209de7143af0460acb144dfd6327c8140",
+    "type": "application/zip",
+    "status": "downloaded"
+  },
+  {
+    "file": "eri-2012-supp-page-current.html",
+    "url": "https://www.jstage.jst.go.jp/article/joh/54/6/54_12-0106-BR/_supplement/-char/en",
+    "status": "failed",
+    "error": "HTTP Error 404: 404"
+  },
+  {
+    "file": "hls-eu-2015-eight-countries.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4668324/",
+    "bytes": 161484,
+    "sha256": "931d2a6f478b68f179823431c99effedc91eabce708bf6c904904de861179739",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "hls-eu-2017-asia.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5328731/",
+    "bytes": 216093,
+    "sha256": "30cca71ee43da86540d2c06af821bcf7be34db02518867282e4aed16a7093443",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "hls-eu-consortium-2012-executive.pdf",
+    "url": "https://fgoe.org/sites/fgoe.org/files/project-attachments/Final%20report%20incl%20front%20page%20May%202012.pdf",
+    "bytes": 99637,
+    "sha256": "d08c1f6d97c609ee751de9446fbf43887f87e396a34789712ddb678ba2d1d806",
+    "type": "application/pdf",
+    "status": "downloaded"
+  },
+  {
+    "file": "hls-q16-austria-2013-report.pdf",
+    "url": "https://oepgk.at/wp-content/uploads/2020/02/bericht_die_gesundheitskompetenz_von_15-jaehrigen_jugendlich.pdf",
+    "bytes": 550324,
+    "sha256": "8e48aaa0a70e102858a41cb23401ae1b758fd2ef14e45f41613c02bd7bbc1c30",
+    "type": "text/html; charset=utf-8",
+    "status": "failed",
+    "error": "Not PDF"
+  },
+  {
+    "file": "hls19-2022-si-Supplementary_TableS3.pdf",
+    "parentArchive": "hls19-2022-supp-publisher.zip",
+    "bytes": 186266,
+    "sha256": "77afe2f942839cfccadafcedad731f36b88553cf36bb13140518a7471b368d6e",
+    "pages": 1,
+    "status": "extracted_and_visually_checked"
+  },
+  {
+    "file": "hls19-2022-si-Supplementary_TableS2.pdf",
+    "parentArchive": "hls19-2022-supp-publisher.zip",
+    "bytes": 152597,
+    "sha256": "503a30ed7dba03f06dce4935364f87ac44c85ef1ce0c6135f3c6bc28ca94000e",
+    "pages": 1,
+    "status": "extracted_and_visually_checked"
+  },
+  {
+    "file": "hls19-2022-si-Supplementary_TableS1.pdf",
+    "parentArchive": "hls19-2022-supp-publisher.zip",
+    "bytes": 151501,
+    "sha256": "c199e7e3873fe3c7037fc9243839d696873744d51966f2acd7d83a865cee7be4",
+    "pages": 1,
+    "status": "extracted_and_visually_checked"
+  },
+  {
+    "file": "hls-eu-2017-asia-supp.docx",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/5328731/bin/je-27-080-s001.docx",
+    "bytes": 1817,
+    "sha256": "cae6e9ace5cda1e7e519ae7ea835bfc9ca100325e540003591cc2659d2111dda",
+    "type": "text/html; charset=utf-8",
+    "status": "failed",
+    "error": "Not DOCX"
+  },
+  {
+    "file": "k6-language-equivalence.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5468522/",
+    "bytes": 205937,
+    "sha256": "1689a8b85dd3b2771b34e337b3f559f5c71949913e98434f6bd07a0633b81e46",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "k10-migrant-children-2021.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8671765/",
+    "bytes": 213579,
+    "sha256": "6e1a3e2ec51a24faf42ba35ef3c3c91a8710ebe386d95f90d5eacae60a8300c6",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "phq8-taiwan-firefighters.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12743514/",
+    "bytes": 197107,
+    "sha256": "ec0c4e57cba8639491e55ff34150c5c71388b09c383351f9c10f61f08e7c0edc",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "phq8-rural-adolescents-2022.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9141636/",
+    "bytes": 343894,
+    "sha256": "5537aa47973ceaba6581fc3ccc32f644d6c631b235126bc9ca8694bc2bc67670",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "k10-parent-27257800-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:27257800%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 6644,
+    "sha256": "158874094d10412db07f0f77fb506ce70c737ac27ac6ca2226fc7aebc00d3b1b",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "k6-undergraduate-2015-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1016/j.comppsych.2015.08.011&format=json&resultType=core",
+    "bytes": 9540,
+    "sha256": "27b6e8d39fa2c129c7a313beec752f38872ee08718bbe1e165ec7a44047dd888",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "k6-language-equivalence-si.docx",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/5468522/bin/NIHMS776028-supplement-Figures.docx",
+    "bytes": 1817,
+    "sha256": "91c2e7856f7ea4d50772834254b4df9a8bb81adff8875769a7b179b08b663110",
+    "type": "text/html; charset=utf-8",
+    "status": "failed",
+    "error": "Not DOCX; no valid supplementary document obtained"
+  },
+  {
+    "file": "k10-migrant-children-si.docx",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/8671765/bin/BRB3-11-e2417-s001.docx",
+    "bytes": 1817,
+    "sha256": "834591fd3015ea37b34c6996fdb3951428457a2f1df16c26beb30372adc53469",
+    "type": "text/html; charset=utf-8",
+    "status": "failed",
+    "error": "Not DOCX; no valid supplementary document obtained"
+  },
+  {
+    "file": "phq8-taiwan-firefighters-si.docx",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/12743514/bin/mmc1.docx",
+    "bytes": 1817,
+    "sha256": "1c92393b2aefa54d22bd6230c4fbc7ebba4ade1f9a325eb1379e593c01e8e881",
+    "type": "text/html; charset=utf-8",
+    "status": "failed",
+    "error": "Not DOCX; no valid supplementary document obtained"
+  },
+  {
+    "file": "tfi-2010-author.pdf",
+    "url": "https://www.researchgate.net/publication/profile/Jos-Mga-Schols/publication/44638590_The_Tilburg_Frailty_Indicator_Psychometric_Properties/links/5a789d740f7e9b41dbd435f4/The-Tilburg-Frailty-Indicator-Psychometric-Properties.pdf",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.researchgate.net/publication/44638590_The_Tilburg_Frailty_Indicator_Psychometric_Properties",
+    "status": "web_text_read",
+    "reviewed": "2026-10-16",
+    "scope": "Author Schols uploaded original 2010 study; read methods, Reliability, concurrent validity and Appendix 1 scoring text. No PDF or page visual acquired.",
+    "doi": "10.1016/j.jamda.2009.11.003"
+  },
+  {
+    "file": "sdm-q9-traditional-2017.pdf",
+    "url": "https://www.patient-als-partner.de/media/sdm-q-9_mandarin.pdf",
+    "bytes": 81147,
+    "sha256": "3775f2e7b92d6b7d872f734f9ab4cce727314d6f57ac2808039d5641f77cd54c",
+    "type": "application/pdf",
+    "status": "downloaded"
+  },
+  {
+    "file": "sdm-qdoc-traditional-2017.pdf",
+    "url": "https://www.patient-als-partner.de/media/sdm-q-doc_mandarin.pdf",
+    "bytes": 156774,
+    "sha256": "bde54f4cb8b39cdcfb8a45e2aeb8af4775c8a5da8cca4da5436ec0eb85a46898",
+    "type": "application/pdf",
+    "status": "downloaded"
+  },
+  {
+    "file": "sdm-official-language-page.html",
+    "url": "https://www.patient-als-partner.de/index.php?article_id=20&clang=2",
+    "bytes": 19699,
+    "sha256": "6672f840e905c6df4ae6c14d75cc71cd8ad5575e871ee59648c38286eb7b7746",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "sdm-wu-2019-abstract.html",
+    "url": "https://doi.org/10.1097/NCC.0000000000000607",
+    "bytes": 160659,
+    "sha256": "1215c8b64f873e20e3d50fa83186d450ef3fc9f122558fbef5039f989e9a0484",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "sdm-persian-2019.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6588807/",
+    "bytes": 242328,
+    "sha256": "d4475960e18d81ebd8fc3d25d68da34fa6ba1948926c4def19eb796d3bd4fee1",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "url": "https://cdn.journals.lww.com/cancernursingonline/Abstract/2019/05000/Rasch_Analysis_of_the_9_Item_Shared_Decision.15.aspx",
+    "status": "failed",
+    "error": "Web tool HTTP 402; author-linked abstract route not full PDF. Canonical DOI abstract read separately."
+  },
+  {
+    "file": "isi-2011-upenn.pdf",
+    "url": "https://www.med.upenn.edu/cbti/assets/user-content/documents/Morin2011_ISIindex-psychometricindicators.pdf",
+    "bytes": 493649,
+    "sha256": "35753797d4bb9b2c28034e0975adef415757a67d51b0e71afcb07cb1c5f1a12d",
+    "type": "application/pdf",
+    "status": "downloaded",
+    "pages": 8,
+    "visualReviewedPrintedPages": [
+      601,
+      602,
+      604,
+      605,
+      607
+    ],
+    "scope": "PDF identity, methods, Table 1 anchors, Table 2 thresholds, discussion. Not all eight pages visually reviewed."
+  },
+  {
+    "file": "isi-2011-upenn.pdf",
+    "status": "visual_review_completed",
+    "reviewed": "2026-10-16",
+    "visualReviewedPrintedPages": [
+      601,
+      602,
+      603,
+      604,
+      605,
+      606,
+      607,
+      608
+    ],
+    "scope": "Follow-up reviewed remaining printed pages603/606/608; all8 pages now visually checked over two passes. Prior partial-scope record retained."
+  },
+  {
+    "source": "cnki-sdm-2019-two-articles",
+    "url": "https://kns.cnki.net/res/category/journal",
+    "reviewed": "2026-10-16",
+    "status": "verification_auto_failed",
+    "scope": "User authorized current CAPTCHA attempt. Refreshed visible AX refresh control once and browser page once; screenshots still show blank overlay/close control, no puzzle or slider. No drag performed, no verification passed. User also reports no control visible. Later computer-use tool reports Mac locked; manual unlock needed before resuming native Chrome. Neither target SDM full text downloaded."
+  }
+]

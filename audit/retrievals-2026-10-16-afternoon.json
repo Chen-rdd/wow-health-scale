@@ -1,0 +1,179 @@
+[
+  {
+    "doi": "10.1016/0895-4356(89)90065-6",
+    "title": "Improving the sensitivity of the Barthel Index for stroke rehabilitation",
+    "url": "https://www.sciencedirect.com/science/article/pii/0895435689900656",
+    "file": "barthel-shah-1989-institutional.pdf",
+    "status": "native_fulltext_downloaded",
+    "accessMode": "Shanghai Jiao Tong University institutional ScienceDirect Chrome",
+    "reviewed": "2026-10-16",
+    "pages": 7,
+    "bytes": 694128,
+    "sha256": "2c5104c15578870d2e69b0b1b0d33e96372a6c0376f845a933c21281fa72be67",
+    "visualReviewedPrintedPages": [
+      705,
+      707,
+      708,
+      709
+    ],
+    "scope": "Relevant development methods/results/discussion and complete internal Appendix text read; Tables2/4 and both Appendix pages visually checked. No separately labelled SI observed on inspected article landing/PDF; not proof none exists.",
+    "verification": "Current visible checkbox clicked once after contemporaneous user authorization; then7page PDF opened.",
+    "redistribution": "local only"
+  },
+  {
+    "doi": "10.1111/j.1360-0443.1993.tb02093.x",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1360-0443.1993.tb02093.x",
+    "status": "carsi_waiting_user",
+    "scope": "PDF leads to institutional login. Selected SJTU, accepted current terms once after user authorization; institutional suggestion then returned to consent page. Did not repeatedly accept. No fulltext obtained; not institution no entitlement."
+  },
+  {
+    "url": "https://archive.org/metadata/wisconsinmedical9419stat",
+    "status": "failed_after_retry",
+    "scope": "One authorized public metadata request timed out35s; target is Brown1995pp135-140 only, not whole journal download. Harvard guide confirms1995archive volume; no article obtained."
+  },
+  {
+    "doi": "10.1016/S0022-3999(00)00095-7",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022399900000957",
+    "file": "ais-soldatos-2000-institutional.pdf",
+    "status": "native_fulltext_downloaded",
+    "accessMode": "Shanghai Jiao Tong University institutional ScienceDirect Chrome",
+    "reviewed": "2026-10-16",
+    "pages": 6,
+    "bytes": 129422,
+    "sha256": "17d6c53b2bedbfc9b73bbbdd7bcb417f7ccaae634d015f061a87b8e823ef5a97",
+    "visualReviewedPrintedPages": [
+      556,
+      557,
+      559
+    ],
+    "scope": "Relevant methods/results/discussion text read;2000complete English internalAppendix checked.2003same299sample explicitly, PPV/NPV assumptions not prospective separate population. No separately labelledSIobserved on inspected landing/PDF, notproofnone.",
+    "redistribution": "local only"
+  },
+  {
+    "doi": "10.1016/S0022-3999(02)00604-9",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022399902006049",
+    "file": "ais-soldatos-2003-institutional.pdf",
+    "status": "native_fulltext_downloaded",
+    "accessMode": "Shanghai Jiao Tong University institutional ScienceDirect Chrome",
+    "reviewed": "2026-10-16",
+    "pages": 5,
+    "bytes": 182942,
+    "sha256": "cf5933d073156f492d054932aa95f5555143abf4029b98f33ca1008f4a86ccc4",
+    "visualReviewedPrintedPages": [
+      264,
+      265,
+      266
+    ],
+    "scope": "Relevant methods/results/discussion text read;2000complete English internalAppendix checked.2003same299sample explicitly, PPV/NPV assumptions not prospective separate population. No separately labelledSIobserved on inspected landing/PDF, notproofnone.",
+    "redistribution": "local only"
+  },
+  {
+    "doi": "10.1177/0269215507077286",
+    "url": "https://journals.sagepub.com/doi/10.1177/0269215507077286",
+    "status": "no_authorized_pdf_found",
+    "scope": "PolyUauthorrepositorymetadataonly;SageInstitutionoptionsstayloadingaftercookiechoiceandonepagereload.Noemail/passwordentered.NoPDFobtained."
+  },
+  {
+    "doi": "10.1016/j.jamda.2009.11.003",
+    "url": "https://www.sciencedirect.com/science/article/pii/S152586100900406X",
+    "file": "tfi-gobbens-2010-institutional.pdf",
+    "status": "native_fulltext_downloaded",
+    "accessMode": "Shanghai Jiao Tong University institutional ScienceDirect Chrome",
+    "reviewed": "2026-10-16",
+    "pages": 12,
+    "bytes": 163910,
+    "sha256": "658cd597a623e09437e7d3d5fab8390dc7d8f7106c8ac26199b420ccd6b6f40b",
+    "visualReviewedPrintedPages": [
+      348,
+      349,
+      352,
+      354,
+      355
+    ],
+    "scope": "Relevant methods/reliability/concurrent validity/discussion and complete internalAppendix text read. Englishbacktranslation noted, not exact local university3pagePDF. No separatelylabelledSIobserved on inspectedlanding/PDF, notproofnone.",
+    "redistribution": "local only"
+  },
+  {
+    "doi": "10.1016/j.vaccine.2017.12.043",
+    "url": "https://www.mcgill.ca/healthpsychologylab/files/healthpsychologylab/thevaccinehesitancyscale_shapiro_0.pdf",
+    "status": "url_needs_repair",
+    "file": "vhs-shapiro-2018-author.html",
+    "bytes": 64692,
+    "scope": "NewindexedauthorURLreturnedHTMLPagenotfound,webalso404;notvalidPDF. PreservedasHTML,notsuccess."
+  },
+  {
+    "doi": "10.1016/j.vaccine.2017.12.043",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0264410X17317966",
+    "file": "vhs-shapiro-2018-institutional.pdf",
+    "status": "native_fulltext_downloaded",
+    "accessMode": "Shanghai Jiao Tong University institutional ScienceDirect Chrome",
+    "reviewed": "2026-10-16",
+    "pages": 8,
+    "bytes": 379089,
+    "sha256": "1fb2613cab17183336d4acf614b50e59678b09fef45897099339e970330f64e8",
+    "visualReviewedPrintedPages": [
+      661,
+      662,
+      663,
+      664
+    ],
+    "scope": "PDFrelevantmethods/results/discussion/limitations read;DOCX ZIPCRCpassedandtableXMLtextreadA1-A3andA10-A12,notWordlayoutvisual. Original10English/FrenchitemsandkeysfoundinSI;9analysisdropsoriginal10.Noredistribution.",
+    "redistribution": "local only"
+  },
+  {
+    "doi": "10.1016/j.vaccine.2017.12.043",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0264410X17317966-mmc1.docx",
+    "file": "vhs-shapiro-2018-supplement.docx",
+    "status": "native_fulltext_downloaded",
+    "accessMode": "Shanghai Jiao Tong University institutional ScienceDirect Chrome",
+    "reviewed": "2026-10-16",
+    "pages": null,
+    "bytes": 86468,
+    "sha256": "1b79cb821dce28f4ea3699445de1cc0340388110867b8ee90df26b5a2bfd03ca",
+    "visualReviewedPrintedPages": [],
+    "scope": "PDFrelevantmethods/results/discussion/limitations read;DOCX ZIPCRCpassedandtableXMLtextreadA1-A3andA10-A12,notWordlayoutvisual. Original10English/FrenchitemsandkeysfoundinSI;9analysisdropsoriginal10.Noredistribution.",
+    "redistribution": "local only"
+  },
+  {
+    "doi": "10.1016/S0920-9964(99)00130-9",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0920996499001309",
+    "file": "mars-thompson-2000-institutional.pdf",
+    "status": "native_fulltext_downloaded",
+    "accessMode": "Shanghai Jiao Tong University institutional ScienceDirect Chrome",
+    "reviewed": "2026-10-16",
+    "pages": 7,
+    "bytes": 122026,
+    "sha256": "9c71d18e201062f6ca24ef3759155869287c721229a3706a201cd818f63b104d",
+    "visualReviewedPrintedPages": [
+      245,
+      246,
+      247
+    ],
+    "scope": "Relevantmethods/results/discussion and complete internalAppendix text read;notfullitemscoringmanual. No separatelylabelledSIobserved on inspectedlanding/PDF,notproofnone.",
+    "redistribution": "local only"
+  },
+  {
+    "doi": "10.1037/pas0000959",
+    "url": "https://www.sleep.pitt.edu/sites/default/files/assets/Instrument%20Materials/B-PSQI%202021.pdf",
+    "file": "bpsqi-sancho-2021-author.pdf",
+    "status": "open_access_downloaded",
+    "accessMode": "developer University of Pittsburgh public article copy",
+    "reviewed": "2026-10-16",
+    "pages": 11,
+    "bytes": 461991,
+    "sha256": "bb72a58635cb89ea3b8f7202955a84fe3db178da69c16b1f73e133b13d515fe5",
+    "visualReviewedPrintedPages": [
+      116,
+      117,
+      118
+    ],
+    "scope": "Relevantmethods/results/discussion/table2-5 read;6questions5scoreditems0-15explicit;cut>5againstISI>=8;fullcontinuousconversionkeynotestablished. APAlandingblockedwebtool,independentSIcheckunresolved;nodistributionlicenseinferred.",
+    "redistribution": "local only"
+  },
+  {
+    "doi": "10.1111/j.1524-4733.2008.00400.x",
+    "url": "https://www.valueinhealthjournal.com/article/S1098-3015(10)60682-1/fulltext",
+    "status": "publisher_blocked_waiting_user",
+    "scope": "Publicpublisherwebtool403;ChromeARMSnavigationinterruptedbyforegroundstatechangetwice.NoPDFobtained,nobypassorcredentials. PriorfulltextwebreadingremainsseparatefromPDFvisualreview."
+  }
+]

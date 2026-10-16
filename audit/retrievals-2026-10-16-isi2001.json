@@ -1,0 +1,21 @@
+[
+  {
+    "file": "isi-bastien-2001-institutional.pdf",
+    "doi": "10.1016/S1389-9457(00)00065-4",
+    "url": "https://doi.org/10.1016/S1389-9457(00)00065-4",
+    "status": "native_fulltext_downloaded",
+    "accessMode": "Shanghai Jiao Tong University institutional ScienceDirect Chrome",
+    "reviewed": "2026-10-16",
+    "pages": 11,
+    "bytes": 247840,
+    "sha256": "fc1155481a9efa368b1606472bb0799de5d059f3e137a270ced7b0c0de630eb5",
+    "visualReviewedPrintedPages": [
+      299,
+      300,
+      302,
+      303
+    ],
+    "scope": "Figure1 patient questionnaire, section2.1.2, study2 procedure and Tables2-4 visually reviewed; relevant full-text methods/results/discussion read. No separately labelled SI link observed, not proof none exists. Figure1 does not provide separate clinician/significant-other forms.",
+    "redistribution": "local only"
+  }
+]

@@ -2,8 +2,8 @@
   "summary": {
     "records": 248,
     "selectableRecords": 213,
-    "recordsWithSourcedProfiles": 158,
-    "selectableRecordsWithoutSourcedProfiles": 55,
+    "recordsWithSourcedProfiles": 213,
+    "selectableRecordsWithoutSourcedProfiles": 0,
     "registeredForms": 16,
     "exportableForms": 4,
     "warning": "说明覆盖数量不是完整题本、独立中文验证或授权完成数量。别名合并后的前台数量另计。"
@@ -217,10 +217,13 @@
       "familyId": "SL-001",
       "name": "Pittsburgh Sleep Quality Index",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-14",
+      "reviewScope": "PSQI通用登记别名；复用已核对的026原版来源说明，本次不是新增独立工具或再完成一份中文原件核验。",
+      "sources": [
+        "https://www.sleep.pitt.edu/research/measures-and-study-instruments",
+        "https://www.sleep.pitt.edu/sites/default/files/assets/Instrument%20Materials/Exhibit%20A-PSQI%20scoring.pdf"
+      ],
       "primaryReference": {
         "title": "The Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and research.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/2748771/",
@@ -409,10 +412,12 @@
       "familyId": "HL-003",
       "name": "Short Test of Functional Health Literacy in Adults",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "1999直接开发正式摘要核读；未取得完整题材、答案、权重或中文版。",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/14528569/"
+      ],
       "primaryReference": {
         "title": "Development of a brief test to measure functional health literacy.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/14528569/",
@@ -425,10 +430,13 @@
       "familyId": "HL-004",
       "name": "Newest Vital Sign",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2005开发完整HTML方法／结果与表格、官方六页工具包取得，第3页实施与筛查分段视觉核对；正式中文标签尚未取得。",
+      "sources": [
+        "https://cdn.pfizer.com/pfizercom/health/nvs_flipbook_english_final.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC1466931/"
+      ],
       "primaryReference": {
         "title": "Quick assessment of literacy in primary care: the newest vital sign.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/16338915/",
@@ -663,14 +671,17 @@
       "familyId": "MA-002",
       "name": "Medication Adherence Rating Scale",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "Thompson2000七页原PDF经交大ScienceDirect取得，相关方法、结果、讨论及完整Appendix A文字核读，印刷页245表1／2与246—247附录视觉核对。英文十题及过去一周指导语已取；附录要求联系作者补充评分程序，未当作正式逐题计分手册或中文许可已取得。",
+      "sources": [
+        "https://doi.org/10.1016/S0920-9964(99)00130-9",
+        "https://pubmed.ncbi.nlm.nih.gov/10785582/"
+      ],
       "primaryReference": {
         "title": "Reliability and validity of a new Medication Adherence Rating Scale (MARS) for the psychoses.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/10785582/",
-        "role": "系列背景文献"
+        "role": "直接开发研究；原文表1／2及英文附录已核"
       },
       "registeredForms": []
     },
@@ -679,14 +690,17 @@
       "familyId": "MA-003",
       "name": "Adherence to Refills and Medications Scale",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "2009六页原PDF经显示交大机构身份的ScienceDirect取得，相关方法、结果、局限文字核读；印刷119、121、122页（Table2—4）视觉核对。原14号及删去1／9后的十二题映射可核，独立正式题本、确切中文、漏答及用途许可仍待。原页未见独立标注附件，不断言不存在。",
+      "sources": [
+        "https://doi.org/10.1111/j.1524-4733.2008.00400.x",
+        "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1524-4733.2008.00400.x"
+      ],
       "primaryReference": {
         "title": "Development and evaluation of the Adherence to Refills and Medications Scale (ARMS) among low-literacy patients with chronic disease.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/19911444/",
-        "role": "系列背景文献"
+        "role": "十二题直接开发研究；原PDF方法及表2—4已核"
       },
       "registeredForms": []
     },
@@ -695,10 +709,12 @@
       "familyId": "MA-004",
       "name": "Summary of Diabetes Self-Care Activities",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2000正式摘要；原作者Toobert上传的全文网页中修订讨论、附录与计分文字经检索工具核读；出版社PDF及本地作者页请求均被拒，未取得有效PDF或视觉原页。",
+      "sources": [
+        "https://www.researchgate.net/publication/12423077_The_Summary_of_Diabetes_Self-Care_Activities_measure_results_from_7_studies_and_a_revised_scale"
+      ],
       "primaryReference": {
         "title": "The summary of diabetes self-care activities measure: results from 7 studies and a revised scale.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/10895844/",
@@ -764,10 +780,13 @@
       "familyId": "OH-003",
       "name": "Oldenburg Burnout Inventory",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2001开发背景摘要；2010作者公开研究附录文字；2022中文护士研究完整HTML方法、结果与附录核读，中文实际施测题文未取得。",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8685855/",
+        "https://doi.org/10.1037/a0019408"
+      ],
       "primaryReference": {
         "title": "The job demands-resources model of burnout.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/11419809/",
@@ -816,12 +835,12 @@
       "name": "FRAIL Scale",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "2012开放正文的研究样本、FRAIL方法、讨论及Appendix 1核读，SLU一页RGA相关区域视觉核对；2018中文适配研究目前只核对正式摘要。",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "2012开放正文相关章节与Appendix 1已核读，SLU一页RGA相关区域视觉核对；2018大陆研究正式全文及六页PDF已取得，方法、结果、讨论、两附录文字核读，印刷13—17页及表1—5／附录视觉核对。附录标题为Chinese Version但实际题文为英文，完整中文施测措辞仍缺。",
       "sources": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC4515112/",
-        "https://www.slu.edu/medicine/internal-medicine/geriatric-medicine/aging-successfully/-pdf/rapid-geriatric-assessment.pdf",
-        "https://pubmed.ncbi.nlm.nih.gov/28757330/"
+        "https://doi.org/10.1016/j.jamda.2017.06.011",
+        "https://www.slu.edu/medicine/internal-medicine/geriatric-medicine/aging-successfully/-pdf/rapid-geriatric-assessment.pdf"
       ],
       "primaryReference": {
         "title": "A simple frailty questionnaire (FRAIL) predicts outcomes in middle aged African Americans.",
@@ -836,18 +855,19 @@
       "name": "Tilburg Frailty Indicator",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "大学三页英文原件的公开可读文字、计分键已核；本地取得因TLS／403失败，原页视觉复核仍待。2010及2017大陆研究仅摘要，2021台湾研究正式XML相关方法／结果／局限已读。",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "大学独立三页英文PDF本地获取及原页视觉仍待；其公开可读计分键已核。2010原PDF12页相关方法、信度、并存效度、讨论及Appendix 1文字核读，348／349／352／354／355视觉核对。2017大陆原PDF8页与独立中文DOCX已取得，方法、结果、局限及附件15项文字核读，22／24／27及表5视觉核对；独立DOCX在WPS中原生打开，全一页15项、列头及不适用“有时”格视觉核对。2021台湾正式XML相关章节已读，不等于台湾中文原件取得。",
       "sources": [
-        "https://www.tilburguniversity.edu/sites/default/files/download/tfieng_2.pdf",
+        "https://doi.org/10.1016/j.jamda.2009.11.003",
+        "https://doi.org/10.1016/j.archger.2017.07.001",
         "https://doi.org/10.3390/healthcare9091193",
         "https://www.tilburguniversity.edu/nl/onderzoek/instituten-en-researchgroepen/tranzo/academischewerkplaatsen/ouderen/praktijk-producten",
-        "https://pubmed.ncbi.nlm.nih.gov/28734173/"
+        "https://ars.els-cdn.com/content/image/1-s2.0-S0167494316303193-mmc1.docx"
       ],
       "primaryReference": {
         "title": "The Tilburg Frailty Indicator: psychometric properties.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/20511102/",
-        "role": "直接心理测量研究（当前仅摘要）；大学英文题本另核"
+        "role": "直接心理测量研究；原PDF相关章节与完整英文附录已核"
       },
       "registeredForms": []
     },
@@ -928,10 +948,12 @@
       "familyId": "MC-001",
       "name": "Edinburgh Postnatal Depression Scale",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "1987原始开发摘要、NSW官方指导及中英各一页PDF取得，简体中文十题、七天回顾与第10题单列评分视觉核对；未把语言翻译核验当独立临床验证。",
+      "sources": [
+        "https://www.mhcs.health.nsw.gov.au/publications/epds"
+      ],
       "primaryReference": {
         "title": "Detection of postnatal depression. Development of the 10-item Edinburgh Postnatal Depression Scale.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/3651732/",
@@ -1059,10 +1081,12 @@
       "familyId": "KA-001",
       "name": "Vaccine Hesitancy Scale",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2015原研究11页作者公开PDF取得，方法、讨论及Appendix B十题文字核读；本条是开发来源入口，与家长具体题组分开标注。",
+      "sources": [
+        "https://doi.org/10.1016/j.vaccine.2015.04.037"
+      ],
       "primaryReference": {
         "title": "Measuring vaccine hesitancy: The development of a survey tool.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/25896384/",
@@ -1128,10 +1152,12 @@
       "name": "Patient Health Questionnaire-8",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-09-13",
-      "reviewScope": "按现有逐条来源说明；不得视作所有译本完整验证",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "原开发手册结构、范围与派生规则；2022大陆学生、2025台湾消防员应用研究完整HTML方法核读，未取得与本网站两份地区表逐字对应的施测原件或独立诊断验证。",
       "sources": [
-        "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf"
+        "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12743514/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9141636/"
       ],
       "primaryReference": {
         "title": "The diagnostic accuracy of the Patient Health Questionnaire-2 (PHQ-2), Patient Health Questionnaire-8 (PHQ-8), and Patient Health Questionnaire-9 (PHQ-9) for detecting major depression: protocol for a systematic review and individual patient data meta-analyses.",
@@ -1446,11 +1472,13 @@
       "name": "Kessler Psychological Distress Scale-10",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "普通话K6／K10三页官方PDF已重新下载，哈希一致；核心、附加、跳答及署名原页已核对。粤语、独立中文研究及本库实际打印仍待核对。",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "普通话K6／K10三页官方PDF已重新下载，哈希一致；核心、附加、跳答及署名原页已核对。粤语、独立中文研究及本库实际打印仍待核对。 续核2021流动儿童研究全文及Bu2017患癌儿童家长验证摘要；各研究译本与官网完整中文表仍未逐字对应。",
       "sources": [
         "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
-        "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Scoring_K6_K10.pdf"
+        "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Scoring_K6_K10.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8671765/",
+        "https://pubmed.ncbi.nlm.nih.gov/27257800/"
       ],
       "primaryReference": {
         "title": "Interpreting scores on the Kessler Psychological Distress Scale (K10).",
@@ -1474,11 +1502,13 @@
       "name": "Kessler Psychological Distress Scale-6",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "普通话K6／K10三页官方PDF已重新下载，哈希一致；核心、附加、跳答及署名原页已核对。粤语、独立中文研究及本库实际打印仍待核对。",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "普通话K6／K10官方三页PDF及核心、附加、跳答、署名已核。2015大学生直接验证已通过机构权限取得8页原PDF，方法、结果、表2、讨论及局限核读，印刷页107—110视觉核对；研究改用过去12个月最严重30天，并非官网过去30天题本逐字验证。CHIS完整HTML已核，粤语原件及实际打印仍待。",
       "sources": [
         "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
-        "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Scoring_K6_K10.pdf"
+        "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Scoring_K6_K10.pdf",
+        "https://doi.org/10.1016/j.comppsych.2015.08.011",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5468522/"
       ],
       "primaryReference": {
         "title": "The psychometric properties of the Kessler Psychological Distress Scale (K6) in a general population sample of adolescents.",
@@ -1592,14 +1622,16 @@
       "familyId": "PH-007",
       "name": "WHO Well-Being Questionnaire-28",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "1996直接研究正式摘要；28题历史结构与10题提取关系核读，未取得原始题本或评分全文。",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/8843498/"
+      ],
       "primaryReference": {
-        "title": "WHO-5官方出版物及历史说明",
-        "url": "https://www.who.int/publications/m/item/WHO-UCN-MSD-MHE-2024.01",
-        "role": "官方版本资料；具体译本验证另核对"
+        "title": "The WHO (Ten) Well-Being Index: validation in diabetes.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8843498/",
+        "role": "历史28题结构与10题提取研究；仅摘要"
       },
       "registeredForms": []
     },
@@ -1608,14 +1640,16 @@
       "familyId": "PH-007",
       "name": "WHO Well-Being Index-10",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "1996直接研究正式摘要；28题历史结构与10题提取关系核读，未取得原始题本或评分全文。",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/8843498/"
+      ],
       "primaryReference": {
         "title": "The WHO (Ten) Well-Being Index: validation in diabetes.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/8843498/",
-        "role": "WHO-10版本研究"
+        "role": "对应版本直接研究；仅摘要"
       },
       "registeredForms": []
     },
@@ -1735,14 +1769,17 @@
       "familyId": "SL-001",
       "name": "Brief Pittsburgh Sleep Quality Index",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "开发者一页英文六题原件此前已视觉核对；现从匹兹堡大学取得2021开发11页全文，相关方法、结果、讨论及表2—5文字核读，第116—118页视觉核对。总分结构与研究界点已补；完整逐项换档算法、中文原件、APA独立附件检查仍待。",
+      "sources": [
+        "https://www.sleep.pitt.edu/research/measures-and-study-instruments",
+        "https://www.sleep.pitt.edu/sites/default/files/assets/Instrument%20Materials/B-PSQI%202021.pdf"
+      ],
       "primaryReference": {
         "title": "Brief version of the Pittsburgh Sleep Quality Index (B-PSQI) and measurement invariance across gender and age in a population-based sample.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/33119375/",
-        "role": "相关研究（开发、验证或应用）"
+        "role": "六问／五计分项直接开发研究；全文表2—5已核"
       },
       "registeredForms": []
     },
@@ -1752,18 +1789,19 @@
       "name": "ISI patient self-report, 2 weeks",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "2001作者上传全文的公开索引文字核对第2.1.2节、两组样本与表4；原PDF下载失败，图1原页尚未视觉核对。2011 PMC正文用于比较一月形式；中文2011研究仅正式摘要。",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "2001原研究11页PDF通过交大机构权限取得；方法、两组样本、结果及讨论核读，印刷页299／300／302／303视觉核对图1、两周描述、研究2程序及表2—4。图1是患者自评表，不代替临床或重要他人独立完整题本。中文施测原件与用途许可仍待。 香港2011中文直接研究8页PDF与补充表已取得，实际统一为一月，不能归为本两周表逐字验证。",
       "sources": [
         "https://pubmed.ncbi.nlm.nih.gov/11438246/",
-        "https://pubmed.ncbi.nlm.nih.gov/21493134/",
+        "https://doi.org/10.1016/S1389-9457(00)00065-4",
+        "https://doi.org/10.1016/j.sleep.2010.09.019",
         "https://eprovide.mapi-trust.org/isi-insomnia-severity-index/",
         "https://eprovide.mapi-trust.org/instruments/insomnia-severity-index"
       ],
       "primaryReference": {
         "title": "Validation of the Insomnia Severity Index as an outcome measure for insomnia research.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/11438246/",
-        "role": "两周自评直接开发研究；正文索引核对，原页待验"
+        "role": "两周自评直接验证全文；2001图1及方法原页已核"
       },
       "registeredForms": []
     },
@@ -1773,17 +1811,19 @@
       "name": "ISI patient self-report, 1 month",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "2011 PMC正文相关方法、分析、表2及讨论已核读并在本地保存HTML；XML两次500、PDF返回验证页，未声称PDF原页已视觉核验。中文一月施测原件仍未取得。",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "2011 PMC正文与本地UPenn八页原PDF（印刷页601—608）均已核；原页分两轮完成全八页视觉检查，含方法、缺失处理、Table 1—5及Figure 1—3。此前XML500／PMC PDF验证页失败保留。中文一月施测原件及用途许可仍未取得。 香港Chung2011八页全文相关方法、结果和表10已核，印刷页464／465／469视觉核对；独立DOC补充表文字核读，完整中文表仍待。",
       "sources": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC3079939/",
+        "https://www.med.upenn.edu/cbti/assets/user-content/documents/Morin2011_ISIindex-psychometricindicators.pdf",
         "https://eprovide.mapi-trust.org/isi-insomnia-severity-index/",
+        "https://doi.org/10.1016/j.sleep.2010.09.019",
         "https://eprovide.mapi-trust.org/instruments/insomnia-severity-index"
       ],
       "primaryReference": {
         "title": "The Insomnia Severity Index: psychometric indicators to detect insomnia cases and evaluate treatment response.",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3079939/",
-        "role": "一月患者自评直接研究；PMC正文核对"
+        "role": "一月患者自评直接研究；PMC正文及UPenn八页原PDF已核"
       },
       "registeredForms": []
     },
@@ -1793,8 +1833,8 @@
       "name": "ISI clinician-rated",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "2001作者上传全文公开索引文字核对研究2程序、表2与表4；官方专页确认临床访谈模式。现行临床评定许可原件、完整锚点及中文对应研究未取得。",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "2001原研究11页PDF通过交大机构权限取得；方法、两组样本、结果及讨论核读，印刷页299／300／302／303视觉核对图1、两周描述、研究2程序及表2—4。图1是患者自评表，不代替临床或重要他人独立完整题本。中文施测原件与用途许可仍待。",
       "sources": [
         "https://eprovide.mapi-trust.org/isi-insomnia-severity-index/",
         "https://pubmed.ncbi.nlm.nih.gov/11438246/",
@@ -1803,7 +1843,7 @@
       "primaryReference": {
         "title": "Validation of the Insomnia Severity Index as an outcome measure for insomnia research.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/11438246/",
-        "role": "研究2临床评定直接证据；原件与中文待取"
+        "role": "研究2临床评定原页已核；独立现行题本与中文待取"
       },
       "registeredForms": []
     },
@@ -1813,8 +1853,8 @@
       "name": "ISI significant-other",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "2001作者上传全文公开索引文字核对重要他人形式及表4；官方专页确认其按对患者的了解评定。独立现行题本、中文原件及专属阈值未取得。",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "2001原研究11页PDF通过交大机构权限取得；方法、两组样本、结果及讨论核读，印刷页299／300／302／303视觉核对图1、两周描述、研究2程序及表2—4。图1是患者自评表，不代替临床或重要他人独立完整题本。中文施测原件与用途许可仍待。",
       "sources": [
         "https://eprovide.mapi-trust.org/isi-insomnia-severity-index/",
         "https://pubmed.ncbi.nlm.nih.gov/11438246/",
@@ -1824,7 +1864,7 @@
       "primaryReference": {
         "title": "Validation of the Insomnia Severity Index as an outcome measure for insomnia research.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/11438246/",
-        "role": "研究2重要他人直接证据；原件与中文待取"
+        "role": "研究2重要他人原页已核；独立现行题本与中文待取"
       },
       "registeredForms": []
     },
@@ -1855,18 +1895,18 @@
       "name": "Epworth Sleepiness Scale for Children and Adolescents",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "2017学校样本及2022发作性睡病研究正式摘要核对，官方获取入口已定位；官网PDF请求TLS失败，未称原文或完整ESS-CHAD许可题本已取。",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "2017六页原PDF经交大ScienceDirect取得，方法、结果、讨论及局限文字核读，印刷31—34及表1—4／相关图视觉核对。另取得独立ZIP，四份文件名为COI披露表的PDF在当前阅读器只显示XFA占位页，未称内容视觉审核完成。2022一周临床研究七页PDF及另一COI ZIP亦取得，后者八份PDF只读到XFA占位，内容未审核；正文方法、结果、局限文字核读，79／82—84及Figure 1、表2—4视觉核对；图1完整英文研究样本表已核，现行正式许可题本、中文及报告者对应仍待。",
       "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/28449902/",
-        "https://pubmed.ncbi.nlm.nih.gov/34920345/",
+        "https://doi.org/10.1016/j.sleep.2017.01.014",
+        "https://doi.org/10.1016/j.sleep.2021.11.003",
         "https://www.mapi-trust.org/news-events/events/webinars/epworth-sleepiness-scale",
         "https://eprovide.mapi-trust.org/instruments/epworth-sleepiness-scale-child-adolescent"
       ],
       "primaryReference": {
         "title": "Validation of the Epworth Sleepiness Scale for Children and Adolescents using Rasch analysis.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/28449902/",
-        "role": "学校青少年直接验证；2022一周临床研究另列"
+        "role": "2017学校两周形式原全文已核；2022一周临床全文另列"
       },
       "registeredForms": []
     },
@@ -1876,17 +1916,19 @@
       "name": "Athens Insomnia Scale-8",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "2000开发及2003界点研究正式摘要核对；Canadian Sleep Society公开手册第25页八题、锚点及指导语全部视觉查看，不称两篇研究全文已读。",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "2000开发研究6页原PDF经交大机构权限取得，相关方法、结果、讨论及Appendix A文字核读，印刷页556／557／559视觉核对；2003五页界点原PDF亦已取得，方法、结果、讨论核读，印刷页264—266视觉核对。Canadian Sleep Society重印第25页亦已查看。另已取得香港Chung2011八页全文及独立DOC统计附件，方法、中文适配与表10核读，印刷页464／465／469视觉核对；完整中文题文仍待。",
       "sources": [
         "https://pubmed.ncbi.nlm.nih.gov/11033374/",
+        "https://doi.org/10.1016/S0022-3999(00)00095-7",
+        "https://doi.org/10.1016/S0022-3999(02)00604-9",
         "https://css-scs.ca/wp-content/uploads/2016/05/Insomnia_Adult_Child.pdf",
-        "https://pubmed.ncbi.nlm.nih.gov/12932801/"
+        "https://doi.org/10.1016/j.sleep.2010.09.019"
       ],
       "primaryReference": {
         "title": "Athens Insomnia Scale: validation of an instrument based on ICD-10 criteria.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/11033374/",
-        "role": "直接开发研究（当前仅摘要）；重印原页另核"
+        "role": "直接开发研究；原文方法、表2—4及英文附录已核"
       },
       "registeredForms": []
     },
@@ -1896,15 +1938,16 @@
       "name": "Athens Insomnia Scale-5",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "2000原研究摘要明确AIS-5为前五项；公开八题重印原页用于核查其项目与锚点，独立五题原件、全文及中文材料未取得。",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "2000原开发6页PDF已取得，方法、结果、讨论与Appendix A文字核读，印刷页556／557／559视觉核对。原文明确AIS-5为前五项及0—15范围，附录为完整八题表；未另取得独立五题版排印或中文施测原件。",
       "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/11033374/"
+        "https://pubmed.ncbi.nlm.nih.gov/11033374/",
+        "https://doi.org/10.1016/S0022-3999(00)00095-7"
       ],
       "primaryReference": {
         "title": "Athens Insomnia Scale: validation of an instrument based on ICD-10 criteria.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/11033374/",
-        "role": "直接开发研究（当前仅摘要）；重印原页另核"
+        "role": "直接开发研究；原文方法、表2—4及英文附录已核"
       },
       "registeredForms": []
     },
@@ -1932,10 +1975,12 @@
       "familyId": "QL-001",
       "name": "WHOQOL-100",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "WHO官方澳大利亚89页手册及问卷包、粤语资料包取得；澳版评分相关页核读，第31、33页渲染，其中第31页视觉核对；香港自填第一页文字确认112题试用标记。",
+      "sources": [
+        "https://www.who.int/tools/whoqol/whoqol-100"
+      ],
       "primaryReference": {
         "title": "The World Health Organization WHOQOL-100: tests of the universality of Quality of Life in 15 different cultural groups worldwide.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/10519466/",
@@ -1968,14 +2013,16 @@
       "familyId": "QL-002",
       "name": "SF-36 version 1 standard",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "原始开发正式摘要；正式许可题本与逐项评分键未取得。",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/1593914/"
+      ],
       "primaryReference": {
-        "title": "Ware JE Jr, Sherbourne CD. The MOS 36-item short-form health survey. Med Care. 1992.",
-        "url": "https://www.qualitymetric.com/health-surveys/the-sf-36v2-health-survey/",
-        "role": "系列背景文献"
+        "title": "The MOS 36-item short-form health survey (SF-36). I. Conceptual framework and item selection.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1593914/",
+        "role": "对应版本直接研究；本批仅正式摘要"
       },
       "registeredForms": []
     },
@@ -1984,14 +2031,16 @@
       "familyId": "QL-002",
       "name": "SF-36 version 1 acute",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "1997直接比较正式摘要及PMC扫描页索引；未取得可读全文扫描PDF，不声称全文已核验。",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC1070196/"
+      ],
       "primaryReference": {
-        "title": "Ware JE Jr, Sherbourne CD. The MOS 36-item short-form health survey. Med Care. 1992.",
-        "url": "https://www.qualitymetric.com/health-surveys/the-sf-36v2-health-survey/",
-        "role": "系列背景文献"
+        "title": "Comparison of responses to SF-36 Health Survey questions with one-week and four-week recall periods.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9240286/",
+        "role": "对应版本直接研究；本批仅正式摘要"
       },
       "registeredForms": []
     },
@@ -2000,10 +2049,13 @@
       "familyId": "QL-002",
       "name": "SF-36 version 2 standard",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "IQVIA官方目录入口、2022出版方评分FAQ搜索索引与相关研究；产品页本地响应是动态壳，旧FAQ PDF404，未取得正式手册。",
+      "sources": [
+        "https://coas.iqvia.com/OurCoas/en",
+        "https://www.qualitymetric.com/wp-content/uploads/2022/03/QM-SF-36v2-and-SF-12v2-DataSheet-v2.pdf"
+      ],
       "primaryReference": {
         "title": "SF-36v2官方产品与许可资料",
         "url": "https://coas.iqvia.com/COAs/sf-36v2-health-survey-standard",
@@ -2016,14 +2068,17 @@
       "familyId": "QL-002",
       "name": "SF-36 version 2 acute",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "IQVIA官方目录入口、2022出版方评分FAQ搜索索引与相关研究；产品页本地响应是动态壳，旧FAQ PDF404，未取得正式手册。",
+      "sources": [
+        "https://coas.iqvia.com/OurCoas/en",
+        "https://www.qualitymetric.com/wp-content/uploads/2022/03/QM-SF-36v2-and-SF-12v2-DataSheet-v2.pdf"
+      ],
       "primaryReference": {
         "title": "Ware JE Jr, Sherbourne CD. The MOS 36-item short-form health survey. Med Care. 1992.",
         "url": "https://www.qualitymetric.com/health-surveys/the-sf-36v2-health-survey/",
-        "role": "系列背景文献"
+        "role": "家族历史背景；不是该急性形式的直接开发验证"
       },
       "registeredForms": []
     },
@@ -2032,10 +2087,12 @@
       "familyId": "QL-003",
       "name": "SF-12 version 1 standard",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "原始开发正式摘要；正式许可题本与逐项评分键未取得。",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/8628042/"
+      ],
       "primaryReference": {
         "title": "A 12-Item Short-Form Health Survey: construction of scales and preliminary tests of reliability and validity.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/8628042/",
@@ -2048,10 +2105,13 @@
       "familyId": "QL-003",
       "name": "SF-12 version 2 standard",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2020美国65岁以上研究完整HTML方法／结果核读；这是应用验证，不是原始v2开发手册。",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7141358/",
+        "https://www.qualitymetric.com/wp-content/uploads/2022/03/QM-SF-36v2-and-SF-12v2-DataSheet-v2.pdf"
+      ],
       "primaryReference": {
         "title": "Reliability and Validity of the Short-Form 12 Item Version 2 (SF-12v2) Health-Related Quality of Life Survey and Disutilities Associated with Relevant Conditions in the U.S. Older Adult Population.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/32121371/",
@@ -2064,14 +2124,16 @@
       "familyId": "QL-003",
       "name": "SF-12 acute forms",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "IQVIA官方目录入口、2022出版方评分FAQ搜索索引与相关研究；产品页本地响应是动态壳，旧FAQ PDF404，未取得正式手册。",
+      "sources": [
+        "https://coas.iqvia.com/OurCoas/en"
+      ],
       "primaryReference": {
         "title": "A 12-Item Short-Form Health Survey: construction of scales and preliminary tests of reliability and validity.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/8628042/",
-        "role": "系列背景文献"
+        "role": "家族历史背景；不是该急性形式的直接开发验证"
       },
       "registeredForms": []
     },
@@ -2381,12 +2443,16 @@
       "name": "HLS-EU-Q47",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "2013开发研究正式全文XML及完整英文47题两页附录已核，附录全部视觉核对；指数公式另核2019亚洲研究。原版完整评分手册、中文47题原件及独立验证仍待补。",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "2013开发全文XML及英文47题两页附录已核并视觉检查；2015八国总量表80%规则及2017亚洲研究公式已核。2017出版社26页独立附件已取得，繁体普通话47项第21—23页全部视觉核对；其余语言未逐页视觉验收。2012执行摘要不当完整手册，2013奥地利地区报告114页已取，33—35页计分及缺失规则原页核对，表与文字存在不一致；完整旧手册和其他地区题本仍待。",
       "sources": [
         "https://link.springer.com/article/10.1186/1471-2458-13-948",
         "https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2F1471-2458-13-948/MediaObjects/12889_2012_5945_MOESM1_ESM.pdf",
-        "https://doi.org/10.3928/24748307-20190225-01"
+        "https://doi.org/10.3928/24748307-20190225-01",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4668324/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5328731/",
+        "https://www.jstage.jst.go.jp/article/jea/27/2/27_JE11/_article#supplimentary-materials-wrap",
+        "https://fgoe.org/sites/fgoe.org/files/project-attachments/Gesundheitskompetenz_Bundesl%C3%A4nder_%C3%96ffentlich.pdf"
       ],
       "primaryReference": {
         "title": "Measuring health literacy in populations: illuminating the design and development process of the European Health Literacy Survey Questionnaire (HLS-EU-Q)",
@@ -2419,10 +2485,11 @@
       "name": "HLS19-Q12",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "M-POHL 2025年8月两套计分说明相关章节与第2—3页原页核对；2025年10月译本表已视觉核对。2022开发研究XML、2024中文验证全文及7页附件相关章节已读，附件1两页全部视觉检查；中文正式施测表和合同仍待取得。",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "M-POHL 2025年8月两套计分说明相关章节与第2—3页原页核对；2025年10月译本表已视觉核对。2022开发XML及独立ZIP内三张单页S1／S2／S3表取得并视觉核对；2024中文验证全文及7页附件相关章节已读，中文正式施测表和合同仍待取得。",
       "sources": [
         "https://m-pohl.net/Factsheets",
+        "https://mdpi-res.com/d_attachment/ijerph/ijerph-19-14129/article_deploy/ijerph-19-14129-s001.zip",
         "https://m-pohl.net/HLS19Instruments",
         "https://link.springer.com/article/10.1186/s12889-024-17977-1"
       ],
@@ -2458,17 +2525,16 @@
       "name": "UCLA Loneliness Scale original",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "1978开发正式摘要；1996原文第21页对原版全负向措辞的回顾已视觉核对。1978全文与原始题文／编码尚未取得，不将后续修订版原件代替。",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "1978开发者大学网站五页扫描原文（第290—294页）全部视觉核读，含第291—292页完整二十题及指导语。原始编码、研究各分母与常模限制已核；中文原件、漏答和再分发条件仍待。出版社落地页当前不可读，独立附件尚未完成排查。",
       "sources": [
-        "https://www.iscet.pt/uploads/obSolidao/artigo_base_ucla_loneliness_scale_v3.pdf",
-        "https://pubmed.ncbi.nlm.nih.gov/660402/",
+        "https://sites.lifesci.ucla.edu/peplaulab/wp-content/uploads/sites/141/2017/07/Russel_Peplau_Ferguson_78.pdf",
         "https://peplau.psych.ucla.edu/loneliness/"
       ],
       "primaryReference": {
         "title": "Developing a measure of loneliness.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/660402/",
-        "role": "对应版本研究；不代表中文题本已匹配"
+        "role": "1978原全文五页已核；中文题本及独立验证待匹配"
       },
       "registeredForms": []
     },
@@ -2535,8 +2601,8 @@
       "name": "UCLA 8-item Loneliness Scale (Hays & DiMatteo)",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "1987 Hays／DiMatteo直接开发正式摘要；Wu／Yao2008台湾学生直接研究公开摘要与引言索引文字核对。两篇全文、原八题计分原页及完整中文题本尚未取得。",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "Hays1987开发仍仅正式摘要，Taylor&Francis在交大SSO后明确显示该篇不在当前机构可访问内容内。Wu／Yao2008台湾研究10页原PDF已取得，相关方法、结果和讨论文字核读；1764、1767—1769页及Table1—3视觉核对。完整中文题文、翻译流程、原开发计分原页与独立附件仍待。",
       "sources": [
         "https://doi.org/10.1207/s15327752jpa5101_6",
         "https://doi.org/10.1016/j.paid.2008.02.003",
@@ -2545,7 +2611,7 @@
       "primaryReference": {
         "title": "A short-form measure of loneliness.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/3572711/",
-        "role": "Hays八题直接开发研究；仅正式摘要"
+        "role": "Hays八题开发摘要；2008台湾全文验证另见说明"
       },
       "registeredForms": []
     },
@@ -2592,16 +2658,18 @@
       "name": "UCLA Loneliness Scale 6-item Neto version",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "Neto2014 PMC全文HTML取得并核对方法、Table1—3、缺失处理及讨论；XML500、尚无PDF原页视觉核验。1992开发历史仅作者2014回顾与正式出版书目，未称1992全文取得。",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "1992原开发扫描文件八页（印刷15—21页及版权页）全部视觉核读；书目为15—22，未见印刷22页，刊页完整性待确认；第19页第一因子六项与2014 Table1同组确认，但1992未独立排印六题施测顺序。2014出版社七页原PDF已取得，相关方法、结果与局限文字核读，印刷315—317页及Table1—3视觉核对；PMC旧失败仅作历史。中文原件、许可及独立附件排查未完成。",
       "sources": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC5549168/",
+        "https://doi.org/10.2224/sbp.1992.20.1.15",
+        "https://doi.org/10.1007/s10433-014-0312-1",
         "https://peplau.psych.ucla.edu/loneliness/"
       ],
       "primaryReference": {
         "title": "Psychometric analysis of the short-form UCLA Loneliness Scale (ULS-6) in older adults.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/28804337/",
-        "role": "相关研究（开发、验证或应用）"
+        "role": "2014老年六题直接验证；1992六题开发原文另见来源说明"
       },
       "registeredForms": []
     },
@@ -2693,10 +2761,13 @@
       "familyId": "SS-005",
       "name": "Modified MOS Social Support Survey 8-item",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "2012原研究完整HTML相关方法、结果及表格已核读；本轮取得独立9页补充PDF，七张表及页序文字核读，第3／5／8页模型与老年子样本原页视觉核对。附件不含完整题文、中文表或通用漏答算法。",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4119888/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/instance/4119888/bin/NIHMS590169-supplement-Moser_JCE_Suppl_12.pdf"
+      ],
       "primaryReference": {
         "title": "The eight-item modified Medical Outcomes Study Social Support Survey: psychometric evaluation showed excellent performance",
         "url": "https://doi.org/10.1016/j.jclinepi.2012.04.007",
@@ -2835,17 +2906,16 @@
       "name": "Fagerström Tolerance Questionnaire",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "1978提出文献书目及出版社摘要定位；1991原论文对FTQ逐项计分与修订原因已读，APA公开八题页面文字交叉核对。1978完整原件尚未取得。",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "1978原始研究7页PDF通过交大机构权限取得；三实验相关方法／结果／讨论及Appendix1计分文字核读，印刷页236、238、241视觉核对八题及原计分。1991修订原研究仍另作比较；中文译本、漏答与用途许可仍待。",
       "sources": [
         "https://cpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/4/869/files/2010/10/91_Heatherton_etal_BJA.pdf",
-        "https://www.apa.org/pubs/videos/4310588-scale",
         "https://doi.org/10.1016/0306-4603(78)90024-2"
       ],
       "primaryReference": {
         "title": "Measuring degree of physical dependence to tobacco smoking with reference to individualization of treatment.",
         "url": "https://doi.org/10.1016/0306-4603(78)90024-2",
-        "role": "FTQ提出文献；当前仅出版社摘要与书目，全文待取"
+        "role": "FTQ原始全文已核；1978八题及Appendix1计分原页已核"
       },
       "registeredForms": []
     },
@@ -2891,14 +2961,16 @@
       "familyId": "MA-001",
       "name": "4-item Morisky scale",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "1986四项直接开发正式摘要及权利方许可页面核读；原始全文、许可评分键及中文原件未得。",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/3945130/"
+      ],
       "primaryReference": {
-        "title": "Review of the four item Morisky Medication Adherence Scale (MMAS-4) and eight item Morisky Medication Adherence Scale (MMAS-8)",
-        "url": "https://doi.org/10.24926/iip.v5i3.347",
-        "role": "相关研究（开发、验证或应用）"
+        "title": "Concurrent and predictive validity of a self-reported measure of medication adherence.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3945130/",
+        "role": "四项原始开发研究；本批仅摘要"
       },
       "registeredForms": []
     },
@@ -2907,10 +2979,13 @@
       "familyId": "MA-001",
       "name": "8-item Morisky Medication Adherence Scale",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "现有2015波斯语验证摘要及2023期刊撤稿声明全文核读，正式许可题本和中文原件未得。",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10497024/",
+        "https://pubmed.ncbi.nlm.nih.gov/25946926/"
+      ],
       "primaryReference": {
         "title": "Validation of the Persian Version of the 8-Item Morisky Medication Adherence Scale (MMAS-8) in Iranian Hypertensive Patients.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/25946926/",
@@ -2923,14 +2998,17 @@
       "familyId": "OH-001",
       "name": "MBI-Human Services Survey",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "出版方公开版本目录与截点撤销说明；未取得正式题本、第四版手册或中文许可材料。",
+      "sources": [
+        "https://www.mindgarden.com/314-mbi-human-services-survey",
+        "https://www.mindgarden.com/documents/MBI-Cutoff-Caveat.pdf"
+      ],
       "primaryReference": {
         "title": "The bifactor model of the Maslach Burnout Inventory-Human Services Survey (MBI-HSS)--an alternative measurement model of burnout.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/23349135/",
-        "role": "相关研究（开发、验证或应用）"
+        "role": "应用或验证研究；题量及现行规范另见出版方，不作为原始手册"
       },
       "registeredForms": []
     },
@@ -2939,14 +3017,17 @@
       "familyId": "OH-001",
       "name": "MBI-HSS for Medical Personnel",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "出版方公开版本目录与截点撤销说明；未取得正式题本、第四版手册或中文许可材料。",
+      "sources": [
+        "https://www.mindgarden.com/315-mbi-human-services-survey-medical-personnel",
+        "https://www.mindgarden.com/documents/MBI-Cutoff-Caveat.pdf"
+      ],
       "primaryReference": {
         "title": "Psychometric properties of the Maslach Burnout Inventory for Medical Personnel (MBI-HSS-MP).",
         "url": "https://pubmed.ncbi.nlm.nih.gov/35169645/",
-        "role": "相关研究（开发、验证或应用）"
+        "role": "应用或验证研究；题量及现行规范另见出版方，不作为原始手册"
       },
       "registeredForms": []
     },
@@ -2955,14 +3036,17 @@
       "familyId": "OH-001",
       "name": "MBI-General Survey",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "出版方公开版本目录与截点撤销说明；未取得正式题本、第四版手册或中文许可材料。",
+      "sources": [
+        "https://www.mindgarden.com/312-mbi-general-survey",
+        "https://www.mindgarden.com/documents/MBI-Cutoff-Caveat.pdf"
+      ],
       "primaryReference": {
         "title": "The factorial validity of the Maslach Burnout Inventory‐General Survey (MBI‐GS) across occupational groups and nations",
         "url": "https://doi.org/10.1348/096317900166877",
-        "role": "相关研究（开发、验证或应用）"
+        "role": "应用或验证研究；题量及现行规范另见出版方，不作为原始手册"
       },
       "registeredForms": []
     },
@@ -2971,14 +3055,17 @@
       "familyId": "OH-001",
       "name": "MBI-Educators Survey",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "出版方公开版本目录与截点撤销说明；未取得正式题本、第四版手册或中文许可材料。",
+      "sources": [
+        "https://www.mindgarden.com/316-mbi-educators-survey",
+        "https://www.mindgarden.com/documents/MBI-Cutoff-Caveat.pdf"
+      ],
       "primaryReference": {
         "title": "Teacher burnout in pre-schools: A cross-cultural factorial validity, measurement invariance and latent mean comparison of the Maslach Burnout Inventory, Educators Survey (MBI-ES)",
         "url": "https://doi.org/10.1016/j.childyouth.2018.09.041",
-        "role": "相关研究（开发、验证或应用）"
+        "role": "应用或验证研究；题量及现行规范另见出版方，不作为原始手册"
       },
       "registeredForms": []
     },
@@ -3007,11 +3094,12 @@
       "name": "ERI short form",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "官方简体短版三页、2012英文短版一页均核对原页；2014评分手册相关章节及Li等2012英文验证研究方法、结果、局限与第433页双语附录已核读；补充附件另记获取状态。",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "官方简体短版三页、2012英文短版一页、2014评分手册相关章节及Li等2012正文与第433页附录已核读。出版社独立JPG附件已取得并视觉核对16项、四级回答及反向标记；与官网简体表对照，内在投入第1及6项措辞不同，不能称完整逐字一致。",
       "sources": [
         "https://www.uniklinik-duesseldorf.de/fileadmin/Fuer-Patienten-und-Besucher/Kliniken-Zentren-Institute/Institute/Institut_fuer_Medizinische_Soziologie/Forschung/Chinese_short_ERI.pdf",
-        "https://www.jstage.jst.go.jp/article/joh/54/6/54_12-0106-BR/_article"
+        "https://www.jstage.jst.go.jp/article/joh/54/6/54_12-0106-BR/_article",
+        "https://www.jstage.jst.go.jp/article/joh/54/6/54_12-0106-BR/_supplement/54_12-0106-BR_1.jpg"
       ],
       "primaryReference": {
         "title": "Validation of a Short Measure of Effort-Reward Imbalance in the Workplace: Evidence from China",
@@ -3047,18 +3135,18 @@
       "name": "Barthel Index 0–20",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "Alberta Health Services 2015髋部骨折路径采用的两页0—20题本与指导语全部视觉核对；Collin等1988仅正式摘要。中文该形式原件和原论文全文仍待取。",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "1988原论文经Taylor & Francis交大SSO取得，四页文件含出版封页及印刷61—63页，三页论文、Table1／2和完整Appendix均文字及视觉核对。AHS2015两页仍作为后期机构协议分别记录；确切中文和用途许可仍待。附录星号为研究后修改，不能称所有修订细则均按原研究直接验证。",
       "sources": [
         "https://www.albertahealthservices.ca/assets/about/scn/ahs-scn-bjh-hf-barthel-index-of-adls.pdf",
-        "https://pubmed.ncbi.nlm.nih.gov/3403500/",
+        "https://doi.org/10.3109/09638288809164103",
         "https://www.medchi.org/Your-Resource/Barthel-Index",
         "https://eprovide.mapi-trust.org/instruments/barthel-index"
       ],
       "primaryReference": {
         "title": "The Barthel ADL Index: a reliability study.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/3403500/",
-        "role": "0—20直接信度研究；仅摘要"
+        "role": "0—20直接信度研究；原文三页及完整附录已核"
       },
       "registeredForms": []
     },
@@ -3068,18 +3156,17 @@
       "name": "Modified Barthel Index 0–100",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "Shah等1989及Leung等2007直接研究均仅正式摘要；马耳他临床养老机构公开四页Shah重印全部视觉查看，仅作结构核对。中文论文全文和附录尚未取得，未新增完整题本。",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "Shah等1989七页原PDF经交大ScienceDirect权限取得，相关开发方法、结果、讨论及两页Appendix全文核读，印刷页705表2、707表4和708—709附录全部视觉核对；Leung等2007仍仅摘要，完整中文施测原件与许可仍待。",
       "sources": [
-        "https://pubmed.ncbi.nlm.nih.gov/2760661/",
-        "https://elderlyhomes.church.mt/wp-content/uploads/2021/04/3.-Modified-Barthel-Index-SHAH-VERSION-SELF-CARE-ASSESSMENT.pdf",
+        "https://doi.org/10.1016/0895-4356(89)90065-6",
         "https://pubmed.ncbi.nlm.nih.gov/17981850/",
         "https://www.medchi.org/Your-Resource/Barthel-Index"
       ],
       "primaryReference": {
         "title": "Improving the sensitivity of the Barthel Index for stroke rehabilitation.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/2760661/",
-        "role": "Shah改良直接开发研究；仅摘要"
+        "role": "Shah改良直接开发研究；原文表2、表4及附录已核"
       },
       "registeredForms": []
     },
@@ -3614,10 +3701,12 @@
       "familyId": "MC-003",
       "name": "PedsQL 4.0 child self-report",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "官方191页评分手册v21.3（2023年3月）取得，第7／9页文字核读、第9页视觉核对；2001直接开发正式摘要已读。",
+      "sources": [
+        "https://pedsql.org/PedsQL-Scoring.pdf"
+      ],
       "primaryReference": {
         "title": "PedsQL 4.0: reliability and validity of the Pediatric Quality of Life Inventory version 4.0 generic core scales in healthy and patient populations.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/11468499/",
@@ -3630,10 +3719,12 @@
       "familyId": "MC-003",
       "name": "PedsQL 4.0 parent proxy",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "官方191页评分手册v21.3（2023年3月）取得，第7／9页文字核读、第9页视觉核对；2001直接开发正式摘要已读。",
+      "sources": [
+        "https://pedsql.org/PedsQL-Scoring.pdf"
+      ],
       "primaryReference": {
         "title": "PedsQL 4.0: reliability and validity of the Pediatric Quality of Life Inventory version 4.0 generic core scales in healthy and patient populations.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/11468499/",
@@ -3821,10 +3912,16 @@
       "familyId": "PE-003",
       "name": "SDM-Q-9 patient",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "官方2018简体及2017繁体原件已取得并视觉核对；2019简体中文直接研究经知网机构权限取得7页PDF，方法、九项中文题文、缺失处理、信度、模型及讨论原页核对。论文九项与2018官网表比对，1／2／3／5／6存在文字差异；未称逐字匹配。原始德国开发研究和Wu2019仍仅摘要，八题患者模型不赋给简体或医生版。",
+      "sources": [
+        "https://www.patient-als-partner.de/media/sdm-q-9_simplified_chinese_final.pdf",
+        "https://pubmed.ncbi.nlm.nih.gov/19879711/",
+        "https://doi.org/10.11817/j.issn.1672-7347.2019.180316",
+        "https://doi.org/10.1097/NCC.0000000000000607",
+        "https://www.patient-als-partner.de/media/sdm-q-9_mandarin.pdf"
+      ],
       "primaryReference": {
         "title": "The 9-item Shared Decision Making Questionnaire (SDM-Q-9). Development and psychometric properties in a primary care sample.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/19879711/",
@@ -3837,14 +3934,16 @@
       "familyId": "PE-002",
       "name": "CAHPS Clinician & Group Adult Survey 3.1",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "AHRQ官方页面及对应英文3.1 PDF可读文字经检索工具核读；本地页面／PDF下载403，未保存有效原件或完成视觉核验。",
+      "sources": [
+        "https://www.ahrq.gov/cahps/surveys-guidance/cg/index.html"
+      ],
       "primaryReference": {
-        "title": "AHRQ CAHPS program documentation and survey-specific development papers.",
-        "url": "https://www.ahrq.gov/cahps/index.html",
-        "role": "系列背景文献"
+        "title": "CAHPS Clinician & Group Adult Survey 3.1",
+        "url": "https://www.ahrq.gov/cahps/surveys-guidance/cg/index.html",
+        "role": "AHRQ具体成人3.1版本规范"
       },
       "registeredForms": []
     },
@@ -3853,14 +3952,16 @@
       "familyId": "PE-002",
       "name": "CAHPS Clinician & Group Child Survey 3.1",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "AHRQ官方页面及对应英文3.1 PDF可读文字经检索工具核读；本地页面／PDF下载403，未保存有效原件或完成视觉核验。",
+      "sources": [
+        "https://www.ahrq.gov/cahps/surveys-guidance/cg/index.html"
+      ],
       "primaryReference": {
-        "title": "AHRQ CAHPS program documentation and survey-specific development papers.",
-        "url": "https://www.ahrq.gov/cahps/index.html",
-        "role": "系列背景文献"
+        "title": "CAHPS Clinician & Group Child Survey 3.1",
+        "url": "https://www.ahrq.gov/cahps/surveys-guidance/cg/index.html",
+        "role": "AHRQ具体儿童3.1版本规范"
       },
       "registeredForms": []
     },
@@ -3869,14 +3970,16 @@
       "familyId": "PE-002",
       "name": "CAHPS Clinician & Group Visit Survey 4.0 beta",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "AHRQ当前官方4.0 beta说明及英文PDF文字核读；本地下载403，未取得有效原件或视觉核验。",
+      "sources": [
+        "https://www.ahrq.gov/cahps/surveys-guidance/cg/index.html"
+      ],
       "primaryReference": {
-        "title": "AHRQ CAHPS program documentation and survey-specific development papers.",
-        "url": "https://www.ahrq.gov/cahps/index.html",
-        "role": "系列背景文献"
+        "title": "CAHPS Clinician & Group Visit Survey 4.0 (beta)",
+        "url": "https://www.ahrq.gov/cahps/surveys-guidance/cg/index.html",
+        "role": "AHRQ仍未完成正式现场测试的beta说明"
       },
       "registeredForms": []
     },
@@ -3885,14 +3988,16 @@
       "familyId": "PE-002",
       "name": "Hospital CAHPS Adult Survey",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "官方当前首页及2025出院日期起适用的八页FAQ取得，相关结构、实施、报告期文字核读；未取得完整指定模式中文题本。",
+      "sources": [
+        "https://www.hcahpsonline.org/globalassets/hcahps/facts/2025-hcahps-faqs.pdf"
+      ],
       "primaryReference": {
-        "title": "AHRQ CAHPS program documentation and survey-specific development papers.",
-        "url": "https://www.ahrq.gov/cahps/index.html",
-        "role": "系列背景文献"
+        "title": "The HCAHPS Survey FAQ: January 1, 2025 discharges and forward",
+        "url": "https://www.hcahpsonline.org/globalassets/hcahps/facts/2025-hcahps-faqs.pdf",
+        "role": "CMS出院期对应32项及报告期规范"
       },
       "registeredForms": []
     },
@@ -3901,14 +4006,16 @@
       "familyId": "PE-002",
       "name": "CAHPS Home Health Care Survey",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "CMS当前改版说明、官方材料页及2026年3月修订中英各五页PDF取得；简体封面2026年4月起使用标记视觉核对，正文题量／题号文字核读。",
+      "sources": [
+        "https://www.cms.gov/medicare/quality/home-health-quality-reporting-program/home-health-care-cahpsr-hhcahps-survey"
+      ],
       "primaryReference": {
-        "title": "AHRQ CAHPS program documentation and survey-specific development papers.",
-        "url": "https://www.ahrq.gov/cahps/index.html",
-        "role": "系列背景文献"
+        "title": "HHCAHPS revised survey effective April 2026",
+        "url": "https://www.cms.gov/medicare/quality/home-health-quality-reporting-program/home-health-care-cahpsr-hhcahps-survey",
+        "role": "CMS 2026改版及25题新原件"
       },
       "registeredForms": []
     },
@@ -3917,14 +4024,16 @@
       "familyId": "PE-002",
       "name": "CAHPS Health Plan Survey 5.1 Commercial",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "AHRQ官方5.1页面核读；明确提供成人／儿童、Medicaid／Commercial英西语包，ZIP下载403，未取得完整全部表单。",
+      "sources": [
+        "https://www.ahrq.gov/cahps/surveys-guidance/hp/index.html"
+      ],
       "primaryReference": {
-        "title": "AHRQ CAHPS program documentation and survey-specific development papers.",
-        "url": "https://www.ahrq.gov/cahps/index.html",
-        "role": "系列背景文献"
+        "title": "CAHPS Health Plan Survey 5.1: Commercial",
+        "url": "https://www.ahrq.gov/cahps/surveys-guidance/hp/index.html",
+        "role": "AHRQ健康计划5.1商业形式入口"
       },
       "registeredForms": []
     },
@@ -3933,14 +4042,16 @@
       "familyId": "PE-002",
       "name": "CAHPS Health Plan Survey 5.1 Medicaid",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "AHRQ官方5.1页面核读；明确提供成人／儿童、Medicaid／Commercial英西语包，ZIP下载403，未取得完整全部表单。",
+      "sources": [
+        "https://www.ahrq.gov/cahps/surveys-guidance/hp/index.html"
+      ],
       "primaryReference": {
-        "title": "AHRQ CAHPS program documentation and survey-specific development papers.",
-        "url": "https://www.ahrq.gov/cahps/index.html",
-        "role": "系列背景文献"
+        "title": "CAHPS Health Plan Survey 5.1: Medicaid",
+        "url": "https://www.ahrq.gov/cahps/surveys-guidance/hp/index.html",
+        "role": "AHRQ健康计划5.1 Medicaid形式入口"
       },
       "registeredForms": []
     },
@@ -3949,10 +4060,16 @@
       "familyId": "PE-003",
       "name": "SDM-Q-Doc",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "官方2018简体及2017繁体原件已取得并视觉核对；2019简体中文直接研究经知网机构权限取得4页PDF，方法、缺失处理、信度、模型及讨论原页核对。原论文未刊完整九项题文，不能标为2018官网表逐字匹配。原始德国开发研究和Wu2019仍仅摘要，八题患者模型不赋给简体或医生版。",
+      "sources": [
+        "https://www.patient-als-partner.de/media/sdm-q-doc_simplified_chinese_version_final.pdf",
+        "https://pubmed.ncbi.nlm.nih.gov/22480628/",
+        "https://doi.org/10.16128/j.cnki.1005-3611.2019.01.012",
+        "https://doi.org/10.1097/NCC.0000000000000607",
+        "https://www.patient-als-partner.de/media/sdm-q-doc_mandarin.pdf"
+      ],
       "primaryReference": {
         "title": "Development and psychometric properties of the Shared Decision Making Questionnaire--physician version (SDM-Q-Doc).",
         "url": "https://pubmed.ncbi.nlm.nih.gov/22480628/",
@@ -3965,10 +4082,12 @@
       "familyId": "KA-002",
       "name": "5C long form",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2018原研究完整HTML及七份DOCX补充材料取得；正式最终版表格与相关计分文字、补充表研究设计核读；未声称全部附件图形视觉复核。",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6285469/"
+      ],
       "primaryReference": {
         "title": "Beyond confidence: Development of a measure assessing the 5C psychological antecedents of vaccination.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/30532274/",
@@ -3981,10 +4100,12 @@
       "familyId": "KA-002",
       "name": "5C short form",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2018原研究完整HTML及七份DOCX补充材料取得；正式最终版表格与相关计分文字、补充表研究设计核读；未声称全部附件图形视觉复核。",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6285469/"
+      ],
       "primaryReference": {
         "title": "Beyond confidence: Development of a measure assessing the 5C psychological antecedents of vaccination.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/30532274/",
@@ -3997,14 +4118,17 @@
       "familyId": "PH-006",
       "name": "General Health Questionnaire-20",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2006芬兰直接比较研究及2008斐济研究正式摘要核读；正式GHQ-20许可题本未取得。",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/16987212/",
+        "https://pubmed.ncbi.nlm.nih.gov/18181417/"
+      ],
       "primaryReference": {
-        "title": "Goldberg DP. The Detection of Psychiatric Illness by Questionnaire. 1972.",
-        "url": "https://support.gl-education.com/knowledge-base/assessments/general-health-questionnaire-support/about-the-general-health-questionnaire/faqs",
-        "role": "系列背景文献"
+        "title": "A comparative assessment of the factor structures and psychometric properties of the GHQ-12 and the GHQ-20 based on data from a Finnish population-based sample.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16987212/",
+        "role": "对应版本直接研究；仅摘要"
       },
       "registeredForms": []
     },
@@ -4013,14 +4137,16 @@
       "familyId": "SL-001",
       "name": "Pittsburgh Sleep Quality Index Addendum for PTSD",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2005直接开发摘要及大学技术说明取得；大学两页PDF为技术许可简介，非七题施测表。",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/15533706/"
+      ],
       "primaryReference": {
-        "title": "The Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and research.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/2748771/",
-        "role": "系列背景文献"
+        "title": "A brief sleep scale for Posttraumatic Stress Disorder: Pittsburgh Sleep Quality Index Addendum for PTSD.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15533706/",
+        "role": "对应版本直接研究；仅摘要"
       },
       "registeredForms": []
     },
@@ -4132,10 +4258,12 @@
       "familyId": "MA-002",
       "name": "Medication Adherence Report Scale 5-item",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "Chan／Horne2020原研究完整HTML方法、题目筛选与结果核读；未取得完整中文原件。",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7319010/"
+      ],
       "primaryReference": {
         "title": "The Medication Adherence Report Scale: A measurement tool for eliciting patients' reports of nonadherence",
         "url": "https://doi.org/10.1111/bcp.14193",
@@ -4184,14 +4312,16 @@
       "familyId": "OH-004",
       "name": "Professional Quality of Life Scale Version III",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2005年29页手册取得，第三次修订沿革及评分章节核读，第2、11页视觉核对；尚未配齐同修订施测原件。",
+      "sources": [
+        "https://compassionfatigue.org/pages/ProQOLManualOct05.pdf"
+      ],
       "primaryReference": {
-        "title": "Stamm BH. The Concise ProQOL Manual, 2nd ed. 2010.",
-        "url": "https://proqol.org/",
-        "role": "系列背景文献"
+        "title": "The ProQOL Manual, October 2005",
+        "url": "https://compassionfatigue.org/pages/ProQOLManualOct05.pdf",
+        "role": "第三次修订的历史手册；原评分章节已读"
       },
       "registeredForms": []
     },
@@ -4238,10 +4368,12 @@
       "familyId": "MC-001",
       "name": "Edinburgh Postnatal Depression Scale, 5-item research form (Rochat et al.)",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "Rochat2013完整HTML方法、表2／3和讨论核读；109名南非孕期妇女的同一研究样本开发分析，非外部独立复验。",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3778840/"
+      ],
       "primaryReference": {
         "title": "Detection of antenatal depression in rural HIV-affected populations with short and ultrashort versions of the Edinburgh Postnatal Depression Scale (EPDS).",
         "url": "https://pubmed.ncbi.nlm.nih.gov/23615932/",
@@ -4254,10 +4386,12 @@
       "familyId": "MC-001",
       "name": "Edinburgh Postnatal Depression Scale, 3-item research form (Rochat et al.)",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "Rochat2013完整HTML方法、表2／3和讨论核读；109名南非孕期妇女的同一研究样本开发分析，非外部独立复验。",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3778840/"
+      ],
       "primaryReference": {
         "title": "Detection of antenatal depression in rural HIV-affected populations with short and ultrashort versions of the Edinburgh Postnatal Depression Scale (EPDS).",
         "url": "https://pubmed.ncbi.nlm.nih.gov/23615932/",
@@ -4270,14 +4404,17 @@
       "familyId": "MC-003",
       "name": "PedsQL 3.0 Asthma Module",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "官方评分手册第25／27页相关文字核读；未声称全部191页逐页视觉复核。",
+      "sources": [
+        "https://pedsql.org/PedsQL-Scoring.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3161836/"
+      ],
       "primaryReference": {
-        "title": "PedsQL 4.0: reliability and validity of the Pediatric Quality of Life Inventory version 4.0 generic core scales in healthy and patient populations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/11468499/",
-        "role": "系列背景文献"
+        "title": "The PedsQL in pediatric asthma: reliability and validity of the Pediatric Quality of Life Inventory generic core scales and asthma module.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15259457/",
+        "role": "对应版本直接研究；本批仅正式摘要"
       },
       "registeredForms": []
     },
@@ -4286,14 +4423,16 @@
       "familyId": "MC-003",
       "name": "PedsQL 3.0 Diabetes Module",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "官方评分手册第60／62页相关文字核读；未声称全部191页逐页视觉复核。",
+      "sources": [
+        "https://pedsql.org/PedsQL-Scoring.pdf"
+      ],
       "primaryReference": {
-        "title": "PedsQL 4.0: reliability and validity of the Pediatric Quality of Life Inventory version 4.0 generic core scales in healthy and patient populations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/11468499/",
-        "role": "系列背景文献"
+        "title": "The PedsQL in type 1 and type 2 diabetes: reliability and validity of the Pediatric Quality of Life Inventory Generic Core Scales and type 1 Diabetes Module.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12610013/",
+        "role": "对应版本直接研究；本批仅正式摘要"
       },
       "registeredForms": []
     },
@@ -4302,14 +4441,16 @@
       "familyId": "MC-003",
       "name": "PedsQL 3.0 Cancer Module",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "官方评分手册第39／41／43页相关文字核读；未声称全部191页逐页视觉复核。",
+      "sources": [
+        "https://pedsql.org/PedsQL-Scoring.pdf"
+      ],
       "primaryReference": {
-        "title": "PedsQL 4.0: reliability and validity of the Pediatric Quality of Life Inventory version 4.0 generic core scales in healthy and patient populations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/11468499/",
-        "role": "系列背景文献"
+        "title": "The PedsQL in pediatric cancer: reliability and validity of the Pediatric Quality of Life Inventory Generic Core Scales, Multidimensional Fatigue Scale, and Cancer Module.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11932914/",
+        "role": "对应版本直接研究；本批仅正式摘要"
       },
       "registeredForms": []
     },
@@ -4318,14 +4459,16 @@
       "familyId": "MC-003",
       "name": "PedsQL 3.0 Cardiac Module",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "官方评分手册第46／48／50页相关文字核读；第50页视觉核对。",
+      "sources": [
+        "https://pedsql.org/PedsQL-Scoring.pdf"
+      ],
       "primaryReference": {
-        "title": "PedsQL 4.0: reliability and validity of the Pediatric Quality of Life Inventory version 4.0 generic core scales in healthy and patient populations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/11468499/",
-        "role": "系列背景文献"
+        "title": "Scaling and Scoring of the Pediatric Quality of Life Inventory: PedsQL 3.0 Cardiac Module",
+        "url": "https://pedsql.org/PedsQL-Scoring.pdf",
+        "role": "官方心脏模块评分专章，第45—50页；不是通用核心验证"
       },
       "registeredForms": []
     },
@@ -4334,14 +4477,16 @@
       "familyId": "MC-003",
       "name": "PedsQL 3.0 Rheumatology Module",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "官方评分手册第160／162／164页相关文字核读；未声称全部191页逐页视觉复核。",
+      "sources": [
+        "https://pedsql.org/PedsQL-Scoring.pdf"
+      ],
       "primaryReference": {
-        "title": "PedsQL 4.0: reliability and validity of the Pediatric Quality of Life Inventory version 4.0 generic core scales in healthy and patient populations.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/11468499/",
-        "role": "系列背景文献"
+        "title": "The PedsQL in pediatric rheumatology: reliability, validity, and responsiveness of the Pediatric Quality of Life Inventory Generic Core Scales and Rheumatology Module.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11920407/",
+        "role": "对应版本直接研究；本批仅正式摘要"
       },
       "registeredForms": []
     },
@@ -4350,14 +4495,18 @@
       "familyId": "KA-001",
       "name": "Vaccine Hesitancy Scale parental version",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "2015原十题附录已核；2018家长验证八页原PDF及独立DOCX补充材料现经交大机构权限取得。相关方法、结果、局限与补充表A1—A3、A10—A12文字核读，原文第661—664页视觉核对；DOCX核对包结构及表格文字，未称Word原排版视觉完成。中文原件与许可仍待。",
+      "sources": [
+        "https://doi.org/10.1016/j.vaccine.2017.12.043",
+        "https://ars.els-cdn.com/content/image/1-s2.0-S0264410X17317966-mmc1.docx",
+        "https://pubmed.ncbi.nlm.nih.gov/29289384/"
+      ],
       "primaryReference": {
-        "title": "Measuring vaccine hesitancy: The development of a survey tool.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/25896384/",
-        "role": "系列背景文献"
+        "title": "The vaccine hesitancy scale: Psychometric properties and validation.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29289384/",
+        "role": "家长十题施测／九题分析直接研究；原文及英法补充表已核"
       },
       "registeredForms": []
     },
@@ -4366,10 +4515,12 @@
       "familyId": "KA-001",
       "name": "Adult Vaccine Hesitancy Scale",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2021成人改编全文HTML方法与结果核读；包含中国、美国三轮线上调查，未取得完整中文施测附件。",
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8475604/"
+      ],
       "primaryReference": {
         "title": "Modification of a vaccine hesitancy scale for use in adult vaccinations in the United States and China",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8475604/",
@@ -4401,10 +4552,12 @@
       "familyId": "MA-004",
       "name": "Revised SDSCA core",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2000正式摘要；原作者Toobert上传的全文网页中修订讨论、附录与计分文字经检索工具核读；出版社PDF及本地作者页请求均被拒，未取得有效PDF或视觉原页。",
+      "sources": [
+        "https://www.researchgate.net/publication/12423077_The_Summary_of_Diabetes_Self-Care_Activities_measure_results_from_7_studies_and_a_revised_scale"
+      ],
       "primaryReference": {
         "title": "The summary of diabetes self-care activities measure: results from 7 studies and a revised scale.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/10895844/",
@@ -4417,10 +4570,12 @@
       "familyId": "MA-004",
       "name": "Revised SDSCA expanded item set",
       "selectable": true,
-      "status": "历史索引；逐项证据复核待完成",
-      "reviewDate": null,
-      "reviewScope": "完整题文、选项、计分、漏答、中文研究及权限仍待逐一核对",
-      "sources": [],
+      "status": "已补充来源说明；完整核验范围须读具体说明",
+      "reviewDate": "2026-10-15",
+      "reviewScope": "2000正式摘要；原作者Toobert上传的全文网页中修订讨论、附录与计分文字经检索工具核读；出版社PDF及本地作者页请求均被拒，未取得有效PDF或视觉原页。",
+      "sources": [
+        "https://www.researchgate.net/publication/12423077_The_Summary_of_Diabetes_Self-Care_Activities_measure_results_from_7_studies_and_a_revised_scale"
+      ],
       "primaryReference": {
         "title": "The summary of diabetes self-care activities measure: results from 7 studies and a revised scale.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/10895844/",
