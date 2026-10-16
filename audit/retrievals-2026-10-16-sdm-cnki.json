@@ -1,0 +1,36 @@
+[
+  {
+    "file": "sdm-q9-luo-xiao-2019-cnki.pdf",
+    "doi": "https://doi.org/10.11817/j.issn.1672-7347.2019.180316",
+    "source": "CNKI authenticated Shanghai Jiao Tong University Chrome PDF download",
+    "status": "native_fulltext_downloaded",
+    "reviewed": "2026-10-16",
+    "bytes": 952967,
+    "sha256": "75d3560a9ab3b34a7cc23ca76551c5c09dcefb91606c274e17e90fa2c74b18d6",
+    "pages": 7,
+    "visualReviewedPrintedPages": [
+      825,
+      826,
+      827
+    ],
+    "supportingInformation": "No separately labelled SI link observed in inspected CNKI detail page or PDF; this is not confirmation that none exists.",
+    "redistribution": "local only; no paper, form, extracted text or rendered page uploaded"
+  },
+  {
+    "file": "sdm-qdoc-luo-xiao-2019-cnki.pdf",
+    "doi": "https://doi.org/10.16128/j.cnki.1005-3611.2019.01.012",
+    "source": "CNKI authenticated Shanghai Jiao Tong University Chrome PDF download",
+    "status": "native_fulltext_downloaded",
+    "reviewed": "2026-10-16",
+    "bytes": 1019854,
+    "sha256": "2d43fa897574c92367d4d4e1be8916ac6c80800bd376df30c06eb1c8c566575e",
+    "pages": 4,
+    "visualReviewedPrintedPages": [
+      60,
+      61,
+      62
+    ],
+    "supportingInformation": "No separately labelled SI link observed in inspected CNKI detail page or PDF; this is not confirmation that none exists.",
+    "redistribution": "local only; no paper, form, extracted text or rendered page uploaded"
+  }
+]

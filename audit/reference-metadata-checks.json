@@ -1,0 +1,2849 @@
+[
+  {
+    "versionId": "VR-PH-001-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11556941",
+      "title": "The PHQ-9: validity of a brief depression severity measure.",
+      "authors": "Kroenke K, Spitzer RL, Williams JB",
+      "journal": "Journal of general internal medicine",
+      "year": "2001",
+      "doi": "10.1046/j.1525-1497.2001.016009606.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11556941/"
+    }
+  },
+  {
+    "versionId": "VR-PH-002-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "16717171",
+      "title": "A brief measure for assessing generalized anxiety disorder: the GAD-7.",
+      "authors": "Spitzer RL, Kroenke K, Williams JB, Löwe B",
+      "journal": "Archives of internal medicine",
+      "year": "2006",
+      "doi": "10.1001/archinte.166.10.1092",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/16717171/"
+    }
+  },
+  {
+    "versionId": "VR-PH-003-BASE",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-PH-004-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "6668417",
+      "title": "A global measure of perceived stress.",
+      "authors": "Cohen S, Kamarck T, Mermelstein R",
+      "journal": "Journal of health and social behavior",
+      "year": "1983",
+      "doi": "",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/6668417/"
+    }
+  },
+  {
+    "versionId": "VR-PH-005-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "12214795",
+      "title": "Short screening scales to monitor population prevalences and trends in non-specific psychological distress.",
+      "authors": "Kessler RC, Andrews G, Colpe LJ, Hiripi E, Mroczek DK, Normand SL, Walters EE, Zaslavsky AM",
+      "journal": "Psychological medicine",
+      "year": "2002",
+      "doi": "10.1017/s0033291702006074",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/12214795/"
+    }
+  },
+  {
+    "versionId": "VR-PH-006-BASE",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-PH-007-BASE",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-PH-008-BASE",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-SL-001-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "2748771",
+      "title": "The Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and research.",
+      "authors": "Buysse DJ, Reynolds CF, Monk TH, Berman SR, Kupfer DJ",
+      "journal": "Psychiatry research",
+      "year": "1989",
+      "doi": "10.1016/0165-1781(89)90047-4",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/2748771/"
+    }
+  },
+  {
+    "versionId": "VR-SL-002-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11438246",
+      "title": "Validation of the Insomnia Severity Index as an outcome measure for insomnia research.",
+      "authors": "Bastien CH, Vallières A, Morin CM",
+      "journal": "Sleep medicine",
+      "year": "2001",
+      "doi": "10.1016/s1389-9457(00)00065-4",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11438246/"
+    }
+  },
+  {
+    "versionId": "VR-SL-003-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "1798888",
+      "title": "A new method for measuring daytime sleepiness: the Epworth sleepiness scale.",
+      "authors": "Johns MW",
+      "journal": "Sleep",
+      "year": "1991",
+      "doi": "10.1093/sleep/14.6.540",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/1798888/"
+    }
+  },
+  {
+    "versionId": "VR-SL-004-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11033374",
+      "title": "Athens Insomnia Scale: validation of an instrument based on ICD-10 criteria.",
+      "authors": "Soldatos CR, Dikeos DG, Paparrigopoulos TJ",
+      "journal": "Journal of psychosomatic research",
+      "year": "2000",
+      "doi": "10.1016/s0022-3999(00)00095-7",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11033374/"
+    }
+  },
+  {
+    "versionId": "VR-QL-001-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9626712",
+      "title": "Development of the World Health Organization WHOQOL-BREF quality of life assessment. The WHOQOL Group.",
+      "authors": "",
+      "journal": "Psychological medicine",
+      "year": "1998",
+      "doi": "10.1017/s0033291798006667",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9626712/"
+    }
+  },
+  {
+    "versionId": "VR-QL-002-BASE",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-QL-003-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "8628042",
+      "title": "A 12-Item Short-Form Health Survey: construction of scales and preliminary tests of reliability and validity.",
+      "authors": "Ware J, Kosinski M, Keller SD",
+      "journal": "Medical care",
+      "year": "1996",
+      "doi": "10.1097/00005650-199603000-00003",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/8628042/"
+    }
+  },
+  {
+    "versionId": "VR-QL-004-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "10109801",
+      "title": "EuroQol--a new facility for the measurement of health-related quality of life.",
+      "authors": "EuroQol Group",
+      "journal": "Health policy (Amsterdam, Netherlands)",
+      "year": "1990",
+      "doi": "10.1016/0168-8510(90)90421-9",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/10109801/"
+    }
+  },
+  {
+    "versionId": "VR-QL-005-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "19543809",
+      "title": "Development of physical and mental health summary scores from the patient-reported outcomes measurement information system (PROMIS) global items.",
+      "authors": "Hays RD, Bjorner JB, Revicki DA, Spritzer KL, Cella D",
+      "journal": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation",
+      "year": "2009",
+      "doi": "10.1007/s11136-009-9496-9",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/19543809/"
+    }
+  },
+  {
+    "versionId": "VR-QL-006-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "16367493",
+      "title": "The Satisfaction With Life Scale.",
+      "authors": "Diener E, Emmons RA, Larsen RJ, Griffin S",
+      "journal": "Journal of personality assessment",
+      "year": "1985",
+      "doi": "10.1207/s15327752jpa4901_13",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/16367493/"
+    }
+  },
+  {
+    "versionId": "VR-HL-001-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "24112855",
+      "title": "Measuring health literacy in populations: illuminating the design and development process of the European Health Literacy Survey Questionnaire (HLS-EU-Q).",
+      "authors": "Sørensen K, Van den Broucke S, Pelikan JM, Fullam J, Doyle G, Slonska Z, Kondilis B, Stoffels V, Osborne RH, Brand H, HLS-EU Consortium",
+      "journal": "BMC public health",
+      "year": "2013",
+      "doi": "10.1186/1471-2458-13-948",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/24112855/"
+    }
+  },
+  {
+    "versionId": "VR-HL-002-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "31294310",
+      "title": "Development and Validation of a New Short-Form Health Literacy Instrument (HLS-SF12) for the General Public in Six Asian Countries.",
+      "authors": "Duong TV, Aringazina A, Kayupova G, Nurjanah , Pham TV, Pham KM, Truong TQ, Nguyen KT, Oo WM, Su TT, Majid HA, Sørensen K, Lin IF, Chang Y, Yang SH, Chang PWS",
+      "journal": "Health literacy research and practice",
+      "year": "2019",
+      "doi": "10.3928/24748307-20190225-01",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/31294310/"
+    }
+  },
+  {
+    "versionId": "VR-HL-003-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "14528569",
+      "title": "Development of a brief test to measure functional health literacy.",
+      "authors": "Baker DW, Williams MV, Parker RM, Gazmararian JA, Nurss J",
+      "journal": "Patient education and counseling",
+      "year": "1999",
+      "doi": "10.1016/s0738-3991(98)00116-5",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/14528569/"
+    }
+  },
+  {
+    "versionId": "VR-HL-004-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "16338915",
+      "title": "Quick assessment of literacy in primary care: the newest vital sign.",
+      "authors": "Weiss BD, Mays MZ, Martz W, Castro KM, DeWalt DA, Pignone MP, Mockbee J, Hale FA",
+      "journal": "Annals of family medicine",
+      "year": "2005",
+      "doi": "10.1370/afm.405",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/16338915/"
+    }
+  },
+  {
+    "versionId": "VR-HL-005-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "17213046",
+      "title": "eHEALS: The eHealth Literacy Scale.",
+      "authors": "Norman CD, Skinner HA",
+      "journal": "Journal of medical Internet research",
+      "year": "2006",
+      "doi": "10.2196/jmir.8.4.e27",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/17213046/"
+    }
+  },
+  {
+    "versionId": "VR-SS-001-BASE",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-SS-002-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "8576833",
+      "title": "UCLA Loneliness Scale (Version 3): reliability, validity, and factor structure.",
+      "authors": "Russell DW",
+      "journal": "Journal of personality assessment",
+      "year": "1996",
+      "doi": "10.1207/s15327752jpa6601_2",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/8576833/"
+    }
+  },
+  {
+    "versionId": "VR-SS-003-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "16921004",
+      "title": "Performance of an abbreviated version of the Lubben Social Network Scale among three European community-dwelling older adult populations.",
+      "authors": "Lubben J, Blozik E, Gillmann G, Iliffe S, von Renteln Kruse W, Beck JC, Stuck AE",
+      "journal": "The Gerontologist",
+      "year": "2006",
+      "doi": "10.1093/geront/46.4.503",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/16921004/"
+    }
+  },
+  {
+    "versionId": "VR-SS-004-BASE",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-SS-005-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "2035047",
+      "title": "The MOS social support survey.",
+      "authors": "Sherbourne CD, Stewart AL",
+      "journal": "Social science & medicine (1982)",
+      "year": "1991",
+      "doi": "10.1016/0277-9536(91)90150-b",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/2035047/"
+    }
+  },
+  {
+    "versionId": "VR-HB-001-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "12900694",
+      "title": "International physical activity questionnaire: 12-country reliability and validity.",
+      "authors": "Craig CL, Marshall AL, Sjöström M, Bauman AE, Booth ML, Ainsworth BE, Pratt M, Ekelund U, Yngve A, Sallis JF, Oja P",
+      "journal": "Medicine and science in sports and exercise",
+      "year": "2003",
+      "doi": "10.1249/01.MSS.0000078924.61453.FB",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/12900694/"
+    }
+  },
+  {
+    "versionId": "VR-HB-002-BASE",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-HB-003-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "8329970",
+      "title": "Development of the Alcohol Use Disorders Identification Test (AUDIT): WHO Collaborative Project on Early Detection of Persons with Harmful Alcohol Consumption--II.",
+      "authors": "Saunders JB, Aasland OG, Babor TF, de la Fuente JR, Grant M",
+      "journal": "Addiction (Abingdon, England)",
+      "year": "1993",
+      "doi": "10.1111/j.1360-0443.1993.tb02093.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/8329970/"
+    }
+  },
+  {
+    "versionId": "VR-HB-004-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9738608",
+      "title": "The AUDIT alcohol consumption questions (AUDIT-C): an effective brief screening test for problem drinking. Ambulatory Care Quality Improvement Project (ACQUIP). Alcohol Use Disorders Identification Test.",
+      "authors": "Bush K, Kivlahan DR, McDonell MB, Fihn SD, Bradley KA",
+      "journal": "Archives of internal medicine",
+      "year": "1998",
+      "doi": "10.1001/archinte.158.16.1789",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9738608/"
+    }
+  },
+  {
+    "versionId": "VR-HB-005-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "1932883",
+      "title": "The Fagerström Test for Nicotine Dependence: a revision of the Fagerström Tolerance Questionnaire.",
+      "authors": "Heatherton TF, Kozlowski LT, Frecker RC, Fagerström KO",
+      "journal": "British journal of addiction",
+      "year": "1991",
+      "doi": "10.1111/j.1360-0443.1991.tb01879.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/1932883/"
+    }
+  },
+  {
+    "versionId": "VR-HB-006-BASE",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MA-001-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "3945130",
+      "title": "Concurrent and predictive validity of a self-reported measure of medication adherence.",
+      "authors": "Morisky DE, Green LW, Levine DM",
+      "journal": "Medical care",
+      "year": "1986",
+      "doi": "10.1097/00005650-198601000-00007",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/3945130/"
+    }
+  },
+  {
+    "versionId": "VR-MA-002-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "10785582",
+      "title": "Reliability and validity of a new Medication Adherence Rating Scale (MARS) for the psychoses.",
+      "authors": "Thompson K, Kulkarni J, Sergejew AA",
+      "journal": "Schizophrenia research",
+      "year": "2000",
+      "doi": "10.1016/s0920-9964(99)00130-9",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/10785582/"
+    }
+  },
+  {
+    "versionId": "VR-MA-003-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "19911444",
+      "title": "Development and evaluation of the Adherence to Refills and Medications Scale (ARMS) among low-literacy patients with chronic disease.",
+      "authors": "Kripalani S, Risser J, Gatti ME, Jacobson TA",
+      "journal": "Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research",
+      "year": "2009",
+      "doi": "10.1111/j.1524-4733.2008.00400.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/19911444/"
+    }
+  },
+  {
+    "versionId": "VR-MA-004-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "10895844",
+      "title": "The summary of diabetes self-care activities measure: results from 7 studies and a revised scale.",
+      "authors": "Toobert DJ, Hampson SE, Glasgow RE",
+      "journal": "Diabetes care",
+      "year": "2000",
+      "doi": "10.2337/diacare.23.7.943",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/10895844/"
+    }
+  },
+  {
+    "versionId": "VR-MA-005-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "10413387",
+      "title": "Evidence suggesting that a chronic disease self-management program can improve health status while reducing hospitalization: a randomized trial.",
+      "authors": "Lorig KR, Sobel DS, Stewart AL, Brown BW, Bandura A, Ritter P, Gonzalez VM, Laurent DD, Holman HR",
+      "journal": "Medical care",
+      "year": "1999",
+      "doi": "10.1097/00005650-199901000-00003",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/10413387/"
+    }
+  },
+  {
+    "versionId": "VR-OH-001-BASE",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-OH-002-BASE",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-OH-003-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11419809",
+      "title": "The job demands-resources model of burnout.",
+      "authors": "Demerouti E, Bakker AB, Nachreiner F, Schaufeli WB",
+      "journal": "The Journal of applied psychology",
+      "year": "2001",
+      "doi": "",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11419809/"
+    }
+  },
+  {
+    "versionId": "VR-OH-004-BASE",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-OH-005-BASE",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-AG-001-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "23764209",
+      "title": "Frailty consensus: a call to action.",
+      "authors": "Morley JE, Vellas B, van Kan GA, Anker SD, Bauer JM, Bernabei R, Cesari M, Chumlea WC, Doehner W, Evans J, Fried LP, Guralnik JM, Katz PR, Malmstrom TK, McCarter RJ, Gutierrez Robledo LM, Rockwood K, von Haehling S, Vandewoude MF, Walston J",
+      "journal": "Journal of the American Medical Directors Association",
+      "year": "2013",
+      "doi": "10.1016/j.jamda.2013.03.022",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/23764209/"
+    }
+  },
+  {
+    "versionId": "VR-AG-002-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "20511102",
+      "title": "The Tilburg Frailty Indicator: psychometric properties.",
+      "authors": "Gobbens RJ, van Assen MA, Luijkx KG, Wijnen-Sponselee MT, Schols JM",
+      "journal": "Journal of the American Medical Directors Association",
+      "year": "2010",
+      "doi": "10.1016/j.jamda.2009.11.003",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/20511102/"
+    }
+  },
+  {
+    "versionId": "VR-AG-003-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "16757522",
+      "title": "Validity and reliability of the Edmonton Frail Scale.",
+      "authors": "Rolfson DB, Majumdar SR, Tsuyuki RT, Tahir A, Rockwood K",
+      "journal": "Age and ageing",
+      "year": "2006",
+      "doi": "10.1093/ageing/afl041",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/16757522/"
+    }
+  },
+  {
+    "versionId": "VR-AG-004-BASE",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-AG-005-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "5349366",
+      "title": "Assessment of older people: self-maintaining and instrumental activities of daily living.",
+      "authors": "Lawton MP, Brody EM",
+      "journal": "The Gerontologist",
+      "year": "1969",
+      "doi": "",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/5349366/"
+    }
+  },
+  {
+    "versionId": "VR-AG-006-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11382797",
+      "title": "Screening for undernutrition in geriatric practice: developing the short-form mini-nutritional assessment (MNA-SF).",
+      "authors": "Rubenstein LZ, Harker JO, Salvà A, Guigoz Y, Vellas B",
+      "journal": "The journals of gerontology. Series A, Biological sciences and medical sciences",
+      "year": "2001",
+      "doi": "10.1093/gerona/56.6.m366",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11382797/"
+    }
+  },
+  {
+    "versionId": "VR-MC-001-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "3651732",
+      "title": "Detection of postnatal depression. Development of the 10-item Edinburgh Postnatal Depression Scale.",
+      "authors": "Cox JL, Holden JM, Sagovsky R",
+      "journal": "The British journal of psychiatry : the journal of mental science",
+      "year": "1987",
+      "doi": "10.1192/bjp.150.6.782",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/3651732/"
+    }
+  },
+  {
+    "versionId": "VR-MC-002-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9255702",
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "authors": "Goodman R",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": "1997",
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9255702/"
+    }
+  },
+  {
+    "versionId": "VR-MC-003-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11468499",
+      "title": "PedsQL 4.0: reliability and validity of the Pediatric Quality of Life Inventory version 4.0 generic core scales in healthy and patient populations.",
+      "authors": "Varni JW, Seid M, Kurtin PS",
+      "journal": "Medical care",
+      "year": "2001",
+      "doi": "10.1097/00005650-200108000-00006",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11468499/"
+    }
+  },
+  {
+    "versionId": "VR-MC-004-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "19807604",
+      "title": "KIDSCREEN-52 quality-of-life measure for children and adolescents.",
+      "authors": "Ravens-Sieberer U, Gosch A, Rajmil L, Erhart M, Bruil J, Duer W, Auquier P, Power M, Abel T, Czemy L, Mazur J, Czimbalmos A, Tountas Y, Hagquist C, Kilroe J, Kidscreen Group E",
+      "journal": "Expert review of pharmacoeconomics & outcomes research",
+      "year": "2005",
+      "doi": "10.1586/14737167.5.3.353",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/19807604/"
+    }
+  },
+  {
+    "versionId": "VR-MC-005-BASE",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-PE-001-BASE",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-PE-002-BASE",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-PE-003-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "19879711",
+      "title": "The 9-item Shared Decision Making Questionnaire (SDM-Q-9). Development and psychometric properties in a primary care sample.",
+      "authors": "Kriston L, Scholl I, Hölzel L, Simon D, Loh A, Härter M",
+      "journal": "Patient education and counseling",
+      "year": "2010",
+      "doi": "10.1016/j.pec.2009.09.034",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/19879711/"
+    }
+  },
+  {
+    "versionId": "VR-KA-001-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "25896384",
+      "title": "Measuring vaccine hesitancy: The development of a survey tool.",
+      "authors": "Larson HJ, Jarrett C, Schulz WS, Chaudhuri M, Zhou Y, Dube E, Schuster M, MacDonald NE, Wilson R, SAGE Working Group on Vaccine Hesitancy",
+      "journal": "Vaccine",
+      "year": "2015",
+      "doi": "10.1016/j.vaccine.2015.04.037",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/25896384/"
+    }
+  },
+  {
+    "versionId": "VR-KA-002-BASE",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "30532274",
+      "title": "Beyond confidence: Development of a measure assessing the 5C psychological antecedents of vaccination.",
+      "authors": "Betsch C, Schmid P, Heinemeier D, Korn L, Holtmann C, Böhm R",
+      "journal": "PloS one",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0208601",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/30532274/"
+    }
+  },
+  {
+    "versionId": "VR-PH-001-001",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "10568646",
+      "title": "Validation and utility of a self-report version of PRIME-MD: the PHQ primary care study. Primary Care Evaluation of Mental Disorders. Patient Health Questionnaire.",
+      "authors": "Spitzer RL, Kroenke K, Williams JB",
+      "journal": "JAMA",
+      "year": "1999",
+      "doi": "10.1001/jama.282.18.1737",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/10568646/"
+    }
+  },
+  {
+    "versionId": "VR-PH-001-002",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "17397440",
+      "title": "Validity of the Patient Health Questionnaire 2 (PHQ-2) in identifying major depression in older people.",
+      "authors": "Li C, Friedman B, Conwell Y, Fiscella K",
+      "journal": "Journal of the American Geriatrics Society",
+      "year": "2007",
+      "doi": "10.1111/j.1532-5415.2007.01103.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/17397440/"
+    }
+  },
+  {
+    "versionId": "VR-PH-001-003",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "25348422",
+      "title": "The diagnostic accuracy of the Patient Health Questionnaire-2 (PHQ-2), Patient Health Questionnaire-8 (PHQ-8), and Patient Health Questionnaire-9 (PHQ-9) for detecting major depression: protocol for a systematic review and individual patient data meta-analyses.",
+      "authors": "Thombs BD, Benedetti A, Kloda LA, Levis B, Nicolau I, Cuijpers P, Gilbody S, Ioannidis JP, McMillan D, Patten SB, Shrier I, Steele RJ, Ziegelstein RC",
+      "journal": "Systematic reviews",
+      "year": "2014",
+      "doi": "10.1186/2046-4053-3-124",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/25348422/"
+    }
+  },
+  {
+    "versionId": "VR-PH-001-004",
+    "status": "元数据有差异",
+    "mismatch": {
+      "year": {
+        "registered": "2009",
+        "pubmed": "2010"
+      }
+    },
+    "pubmed": {
+      "pmid": "19616305",
+      "title": "A 4-item measure of depression and anxiety: validation and standardization of the Patient Health Questionnaire-4 (PHQ-4) in the general population.",
+      "authors": "Löwe B, Wahl I, Rose M, Spitzer C, Glaesmer H, Wingenfeld K, Schneider A, Brähler E",
+      "journal": "Journal of affective disorders",
+      "year": "2010",
+      "doi": "10.1016/j.jad.2009.06.019",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/19616305/"
+    }
+  },
+  {
+    "versionId": "VR-PH-002-005",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "26596588",
+      "title": "Validation of the Generalized Anxiety Disorder-7 (GAD-7) and GAD-2 in patients with migraine.",
+      "authors": "Seo JG, Park SP",
+      "journal": "The journal of headache and pain",
+      "year": "2015",
+      "doi": "10.1186/s10194-015-0583-8",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/26596588/"
+    }
+  },
+  {
+    "versionId": "VR-PH-003-006",
+    "status": "元数据有差异",
+    "mismatch": {
+      "year": {
+        "registered": "2022",
+        "pubmed": "2021"
+      }
+    },
+    "pubmed": {
+      "pmid": "35058818",
+      "title": "Confirmatory Factor Analysis of Three Versions of the Depression Anxiety Stress Scale (DASS-42, DASS-21, and DASS-12) in Polish Adults.",
+      "authors": "Makara-Studzińska M, Tyburski E, Załuski M, Adamczyk K, Mesterhazy J, Mesterhazy A",
+      "journal": "Frontiers in psychiatry",
+      "year": "2021",
+      "doi": "10.3389/fpsyt.2021.770532",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/35058818/"
+    }
+  },
+  {
+    "versionId": "VR-PH-003-007",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "16004657",
+      "title": "The short-form version of the Depression Anxiety Stress Scales (DASS-21): construct validity and normative data in a large non-clinical sample.",
+      "authors": "Henry JD, Crawford JR",
+      "journal": "The British journal of clinical psychology",
+      "year": "2005",
+      "doi": "10.1348/014466505X29657",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/16004657/"
+    }
+  },
+  {
+    "versionId": "VR-PH-003-008",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "35496218",
+      "title": "Development and Psychometric Properties of the DASS-Youth (DASS-Y): An Extension of the Depression Anxiety Stress Scales (DASS) to Adolescents and Children.",
+      "authors": "Szabo M, Lovibond PF",
+      "journal": "Frontiers in psychology",
+      "year": "2022",
+      "doi": "10.3389/fpsyg.2022.766890",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/35496218/"
+    }
+  },
+  {
+    "versionId": "VR-PH-004-009",
+    "status": "元数据有差异",
+    "mismatch": {
+      "year": {
+        "registered": "2023",
+        "pubmed": "2024"
+      }
+    },
+    "pubmed": {
+      "pmid": "37341705",
+      "title": "A systematic review and meta-analytic confirmatory factor analysis of the perceived stress scale (PSS-10 and PSS-14).",
+      "authors": "Yılmaz Koğar E, Koğar H",
+      "journal": "Stress and health : journal of the International Society for the Investigation of Stress",
+      "year": "2024",
+      "doi": "10.1002/smi.3285",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/37341705/"
+    }
+  },
+  {
+    "versionId": "VR-PH-004-010",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "21159169",
+      "title": "Validation of the Arabic version of the Cohen Perceived Stress Scale (PSS-10) among pregnant and postpartum women.",
+      "authors": "Chaaya M, Osman H, Naassan G, Mahfoud Z",
+      "journal": "BMC psychiatry",
+      "year": "2010",
+      "doi": "10.1186/1471-244X-10-111",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/21159169/"
+    }
+  },
+  {
+    "versionId": "VR-PH-004-011",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "24155195",
+      "title": "New, normative, English-sample data for the Short Form Perceived Stress Scale (PSS-4).",
+      "authors": "Warttig SL, Forshaw MJ, South J, White AK",
+      "journal": "Journal of health psychology",
+      "year": "2013",
+      "doi": "10.1177/1359105313508346",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/24155195/"
+    }
+  },
+  {
+    "versionId": "VR-PH-005-012",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11824981",
+      "title": "Interpreting scores on the Kessler Psychological Distress Scale (K10).",
+      "authors": "Andrews G, Slade T",
+      "journal": "Australian and New Zealand journal of public health",
+      "year": "2001",
+      "doi": "10.1111/j.1467-842x.2001.tb00310.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11824981/"
+    }
+  },
+  {
+    "versionId": "VR-PH-005-013",
+    "status": "元数据有差异",
+    "mismatch": {
+      "year": {
+        "registered": "2015",
+        "pubmed": "2016"
+      }
+    },
+    "pubmed": {
+      "pmid": "26619095",
+      "title": "The psychometric properties of the Kessler Psychological Distress Scale (K6) in a general population sample of adolescents.",
+      "authors": "Mewton L, Kessler RC, Slade T, Hobbs MJ, Brownhill L, Birrell L, Tonks Z, Teesson M, Newton N, Chapman C, Allsop S, Hides L, McBride N, Andrews G",
+      "journal": "Psychological assessment",
+      "year": "2016",
+      "doi": "10.1037/pas0000239",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/26619095/"
+    }
+  },
+  {
+    "versionId": "VR-PH-005-014",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "12214795",
+      "title": "Short screening scales to monitor population prevalences and trends in non-specific psychological distress.",
+      "authors": "Kessler RC, Andrews G, Colpe LJ, Hiripi E, Mroczek DK, Normand SL, Walters EE, Zaslavsky AM",
+      "journal": "Psychological medicine",
+      "year": "2002",
+      "doi": "10.1017/s0033291702006074",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/12214795/"
+    }
+  },
+  {
+    "versionId": "VR-PH-006-015",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-PH-006-016",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "2633776",
+      "title": "The factor structure of the General Health Questionnaire (GHQ-30). A reliability study on 6317 community residents.",
+      "authors": "Huppert FA, Walters DE, Day NE, Elliott BJ",
+      "journal": "The British journal of psychiatry : the journal of mental science",
+      "year": "1989",
+      "doi": "10.1192/bjp.155.2.178",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/2633776/"
+    }
+  },
+  {
+    "versionId": "VR-PH-006-017",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "22093128",
+      "title": "General Health Questionnaire - 28 (GHQ-28).",
+      "authors": "Sterling M",
+      "journal": "Journal of physiotherapy",
+      "year": "2011",
+      "doi": "10.1016/S1836-9553(11)70060-1",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/22093128/"
+    }
+  },
+  {
+    "versionId": "VR-PH-006-018",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-PH-007-019",
+    "status": "元数据有差异",
+    "mismatch": {
+      "year": {
+        "registered": "2010",
+        "pubmed": "1996"
+      }
+    },
+    "pubmed": {
+      "pmid": "8843498",
+      "title": "The WHO (Ten) Well-Being Index: validation in diabetes.",
+      "authors": "Bech P, Gudex C, Johansen KS",
+      "journal": "Psychotherapy and psychosomatics",
+      "year": "1996",
+      "doi": "10.1159/000289073",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/8843498/"
+    }
+  },
+  {
+    "versionId": "VR-PH-007-020",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11824831",
+      "title": "Validity of the five-item WHO Well-Being Index (WHO-5) in an elderly population.",
+      "authors": "Bonsignore M, Barkow K, Jessen F, Heun R",
+      "journal": "European archives of psychiatry and clinical neuroscience",
+      "year": "2001",
+      "doi": "10.1007/BF03035123",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11824831/"
+    }
+  },
+  {
+    "versionId": "VR-PH-008-021",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "8037935",
+      "title": "Screening for depression in well older adults: evaluation of a short form of the CES-D (Center for Epidemiologic Studies Depression Scale).",
+      "authors": "Andresen EM, Malmgren JA, Carter WB, Patrick DL",
+      "journal": "American journal of preventive medicine",
+      "year": "1994",
+      "doi": "",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/8037935/"
+    }
+  },
+  {
+    "versionId": "VR-PH-008-022",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "28211550",
+      "title": "Assessment of depressiveness in population. Psychometric evaluation of the Polish version of the CESD-R.",
+      "authors": "Koziara K",
+      "journal": "Psychiatria polska",
+      "year": "2016",
+      "doi": "10.12740/PP/61614",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/28211550/"
+    }
+  },
+  {
+    "versionId": "VR-PH-008-023",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "28068955",
+      "title": "Validation of the 10-item Centre for Epidemiological Studies Depression Scale (CES-D-10) in Zulu, Xhosa and Afrikaans populations in South Africa.",
+      "authors": "Baron EC, Davies T, Lund C",
+      "journal": "BMC psychiatry",
+      "year": "2017",
+      "doi": "10.1186/s12888-016-1178-x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/28068955/"
+    }
+  },
+  {
+    "versionId": "VR-PH-008-024",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-PH-008-025",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "3728717",
+      "title": "Assessment of depression in childhood and adolescence: an evaluation of the Center for Epidemiological Studies Depression Scale for Children (CES-DC).",
+      "authors": "Faulstich ME, Carey MP, Ruggiero L, Enyart P, Gresham F",
+      "journal": "The American journal of psychiatry",
+      "year": "1986",
+      "doi": "10.1176/ajp.143.8.1024",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/3728717/"
+    }
+  },
+  {
+    "versionId": "VR-SL-001-026",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "1947597",
+      "title": "Quantification of subjective sleep quality in healthy elderly men and women using the Pittsburgh Sleep Quality Index (PSQI).",
+      "authors": "Buysse DJ, Reynolds CF, Monk TH, Hoch CC, Yeager AL, Kupfer DJ",
+      "journal": "Sleep",
+      "year": "1991",
+      "doi": "",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/1947597/"
+    }
+  },
+  {
+    "versionId": "VR-SL-001-027",
+    "status": "元数据有差异",
+    "mismatch": {
+      "year": {
+        "registered": "2020",
+        "pubmed": "2021"
+      }
+    },
+    "pubmed": {
+      "pmid": "33119375",
+      "title": "Brief version of the Pittsburgh Sleep Quality Index (B-PSQI) and measurement invariance across gender and age in a population-based sample.",
+      "authors": "Sancho-Domingo C, Carballo JL, Coloma-Carmona A, Buysse DJ",
+      "journal": "Psychological assessment",
+      "year": "2021",
+      "doi": "10.1037/pas0000959",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/33119375/"
+    }
+  },
+  {
+    "versionId": "VR-SL-002-028",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11438246",
+      "title": "Validation of the Insomnia Severity Index as an outcome measure for insomnia research.",
+      "authors": "Bastien CH, Vallières A, Morin CM",
+      "journal": "Sleep medicine",
+      "year": "2001",
+      "doi": "10.1016/s1389-9457(00)00065-4",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11438246/"
+    }
+  },
+  {
+    "versionId": "VR-SL-002-029",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11438246",
+      "title": "Validation of the Insomnia Severity Index as an outcome measure for insomnia research.",
+      "authors": "Bastien CH, Vallières A, Morin CM",
+      "journal": "Sleep medicine",
+      "year": "2001",
+      "doi": "10.1016/s1389-9457(00)00065-4",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11438246/"
+    }
+  },
+  {
+    "versionId": "VR-SL-002-030",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11438246",
+      "title": "Validation of the Insomnia Severity Index as an outcome measure for insomnia research.",
+      "authors": "Bastien CH, Vallières A, Morin CM",
+      "journal": "Sleep medicine",
+      "year": "2001",
+      "doi": "10.1016/s1389-9457(00)00065-4",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11438246/"
+    }
+  },
+  {
+    "versionId": "VR-SL-002-031",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11438246",
+      "title": "Validation of the Insomnia Severity Index as an outcome measure for insomnia research.",
+      "authors": "Bastien CH, Vallières A, Morin CM",
+      "journal": "Sleep medicine",
+      "year": "2001",
+      "doi": "10.1016/s1389-9457(00)00065-4",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11438246/"
+    }
+  },
+  {
+    "versionId": "VR-SL-003-032",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "19110886",
+      "title": "Relationships between the Pittsburgh Sleep Quality Index (PSQI), Epworth Sleepiness Scale (ESS), and clinical/polysomnographic measures in a community sample.",
+      "authors": "Buysse DJ, Hall ML, Strollo PJ, Kamarck TW, Owens J, Lee L, Reis SE, Matthews KA",
+      "journal": "Journal of clinical sleep medicine : JCSM : official publication of the American Academy of Sleep Medicine",
+      "year": "2008",
+      "doi": "",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/19110886/"
+    }
+  },
+  {
+    "versionId": "VR-SL-003-033",
+    "status": "元数据有差异",
+    "mismatch": {
+      "year": {
+        "registered": "2021",
+        "pubmed": "2022"
+      }
+    },
+    "pubmed": {
+      "pmid": "34920345",
+      "title": "Validation of the Epworth Sleepiness Scale for Children and Adolescents (ESS-CHAD) questionnaire in pediatric patients with narcolepsy with cataplexy aged 7-16 years.",
+      "authors": "Wang YG, Menno D, Chen A, Steininger TL, Morris S, Black J, Profant J, Johns MW",
+      "journal": "Sleep medicine",
+      "year": "2022",
+      "doi": "10.1016/j.sleep.2021.11.003",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/34920345/"
+    }
+  },
+  {
+    "versionId": "VR-SL-004-034",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11033374",
+      "title": "Athens Insomnia Scale: validation of an instrument based on ICD-10 criteria.",
+      "authors": "Soldatos CR, Dikeos DG, Paparrigopoulos TJ",
+      "journal": "Journal of psychosomatic research",
+      "year": "2000",
+      "doi": "10.1016/s0022-3999(00)00095-7",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11033374/"
+    }
+  },
+  {
+    "versionId": "VR-SL-004-035",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11033374",
+      "title": "Athens Insomnia Scale: validation of an instrument based on ICD-10 criteria.",
+      "authors": "Soldatos CR, Dikeos DG, Paparrigopoulos TJ",
+      "journal": "Journal of psychosomatic research",
+      "year": "2000",
+      "doi": "10.1016/s0022-3999(00)00095-7",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11033374/"
+    }
+  },
+  {
+    "versionId": "VR-SL-004-036",
+    "status": "元数据有差异",
+    "mismatch": {
+      "year": {
+        "registered": "2021",
+        "pubmed": "2023"
+      }
+    },
+    "pubmed": {
+      "pmid": "34766856",
+      "title": "Assessing sleep problems and daytime functioning: a translation, adaption, and validation of the Athens Insomnia Scale for non-clinical application (AIS-NCA).",
+      "authors": "Sattler S, Seddig D, Zerbini G",
+      "journal": "Psychology & health",
+      "year": "2023",
+      "doi": "10.1080/08870446.2021.1998498",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/34766856/"
+    }
+  },
+  {
+    "versionId": "VR-QL-001-037",
+    "status": "元数据有差异",
+    "mismatch": {
+      "doi": {
+        "registered": "10.1037/0278-6133.18.5.495",
+        "pubmed": "10.1037//0278-6133.18.5.495"
+      }
+    },
+    "pubmed": {
+      "pmid": "10519466",
+      "title": "The World Health Organization WHOQOL-100: tests of the universality of Quality of Life in 15 different cultural groups worldwide.",
+      "authors": "Power M, Harper A, Bullinger M",
+      "journal": "Health psychology : official journal of the Division of Health Psychology, American Psychological Association",
+      "year": "1999",
+      "doi": "10.1037//0278-6133.18.5.495",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/10519466/"
+    }
+  },
+  {
+    "versionId": "VR-QL-001-038",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-QL-002-039",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-QL-002-040",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-QL-002-041",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "32412942",
+      "title": "Developing a New Version of the SF-6D Health State Classification System From the SF-36v2: SF-6Dv2.",
+      "authors": "Brazier JE, Mulhern BJ, Bjorner JB, Gandek B, Rowen D, Alonso J, Vilagut G, Ware JE, SF-6Dv2 International Project Group",
+      "journal": "Medical care",
+      "year": "2020",
+      "doi": "10.1097/MLR.0000000000001325",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/32412942/"
+    }
+  },
+  {
+    "versionId": "VR-QL-002-042",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-QL-003-043",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "8628042",
+      "title": "A 12-Item Short-Form Health Survey: construction of scales and preliminary tests of reliability and validity.",
+      "authors": "Ware J, Kosinski M, Keller SD",
+      "journal": "Medical care",
+      "year": "1996",
+      "doi": "10.1097/00005650-199603000-00003",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/8628042/"
+    }
+  },
+  {
+    "versionId": "VR-QL-003-044",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "32121371",
+      "title": "Reliability and Validity of the Short-Form 12 Item Version 2 (SF-12v2) Health-Related Quality of Life Survey and Disutilities Associated with Relevant Conditions in the U.S. Older Adult Population.",
+      "authors": "Shah CH, Brown JD",
+      "journal": "Journal of clinical medicine",
+      "year": "2020",
+      "doi": "10.3390/jcm9030661",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/32121371/"
+    }
+  },
+  {
+    "versionId": "VR-QL-003-045",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "8628042",
+      "title": "A 12-Item Short-Form Health Survey: construction of scales and preliminary tests of reliability and validity.",
+      "authors": "Ware J, Kosinski M, Keller SD",
+      "journal": "Medical care",
+      "year": "1996",
+      "doi": "10.1097/00005650-199603000-00003",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/8628042/"
+    }
+  },
+  {
+    "versionId": "VR-QL-004-046",
+    "status": "元数据有差异",
+    "mismatch": {
+      "year": {
+        "registered": "2012",
+        "pubmed": "2013"
+      }
+    },
+    "pubmed": {
+      "pmid": "23184421",
+      "title": "Measurement properties of the EQ-5D-5L compared to the EQ-5D-3L across eight patient groups: a multi-country study.",
+      "authors": "Janssen MF, Pickard AS, Golicki D, Gudex C, Niewada M, Scalone L, Swinburn P, Busschbach J",
+      "journal": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation",
+      "year": "2013",
+      "doi": "10.1007/s11136-012-0322-4",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/23184421/"
+    }
+  },
+  {
+    "versionId": "VR-QL-004-047",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "21479777",
+      "title": "Development and preliminary testing of the new five-level version of EQ-5D (EQ-5D-5L).",
+      "authors": "Herdman M, Gudex C, Lloyd A, Janssen M, Kind P, Parkin D, Bonsel G, Badia X",
+      "journal": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation",
+      "year": "2011",
+      "doi": "10.1007/s11136-011-9903-x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/21479777/"
+    }
+  },
+  {
+    "versionId": "VR-QL-004-048",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "34781978",
+      "title": "Comparing measurement properties of EQ-5D-Y-3L and EQ-5D-Y-5L in paediatric patients.",
+      "authors": "Fitriana TS, Purba FD, Rahmatika R, Muhaimin R, Sari NM, Bonsel G, Stolk E, Busschbach JJV",
+      "journal": "Health and quality of life outcomes",
+      "year": "2021",
+      "doi": "10.1186/s12955-021-01889-4",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/34781978/"
+    }
+  },
+  {
+    "versionId": "VR-QL-004-049",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "30739287",
+      "title": "EQ-5D-Y-5L: developing a revised EQ-5D-Y with increased response categories.",
+      "authors": "Kreimeier S, Åström M, Burström K, Egmar AC, Gusi N, Herdman M, Kind P, Perez-Sousa MA, Greiner W",
+      "journal": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation",
+      "year": "2019",
+      "doi": "10.1007/s11136-019-02115-x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/30739287/"
+    }
+  },
+  {
+    "versionId": "VR-QL-005-050",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "19543809",
+      "title": "Development of physical and mental health summary scores from the patient-reported outcomes measurement information system (PROMIS) global items.",
+      "authors": "Hays RD, Bjorner JB, Revicki DA, Spritzer KL, Cella D",
+      "journal": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation",
+      "year": "2009",
+      "doi": "10.1007/s11136-009-9496-9",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/19543809/"
+    }
+  },
+  {
+    "versionId": "VR-QL-005-051",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "33978855",
+      "title": "Dutch reference values for the Patient-Reported Outcomes Measurement Information System Scale v1.2 - Global Health (PROMIS-GH).",
+      "authors": "Elsman EBM, Roorda LD, Crins MHP, Boers M, Terwee CB",
+      "journal": "Journal of patient-reported outcomes",
+      "year": "2021",
+      "doi": "10.1186/s41687-021-00314-0",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/33978855/"
+    }
+  },
+  {
+    "versionId": "VR-QL-005-052",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "29757325",
+      "title": "Two-item PROMIS® global physical and mental health scales.",
+      "authors": "Hays RD, Schalet BD, Spritzer KL, Cella D",
+      "journal": "Journal of patient-reported outcomes",
+      "year": "2017",
+      "doi": "10.1186/s41687-017-0003-8",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/29757325/"
+    }
+  },
+  {
+    "versionId": "VR-QL-005-053",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "29757325",
+      "title": "Two-item PROMIS® global physical and mental health scales.",
+      "authors": "Hays RD, Schalet BD, Spritzer KL, Cella D",
+      "journal": "Journal of patient-reported outcomes",
+      "year": "2017",
+      "doi": "10.1186/s41687-017-0003-8",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/29757325/"
+    }
+  },
+  {
+    "versionId": "VR-QL-005-054",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "19543809",
+      "title": "Development of physical and mental health summary scores from the patient-reported outcomes measurement information system (PROMIS) global items.",
+      "authors": "Hays RD, Bjorner JB, Revicki DA, Spritzer KL, Cella D",
+      "journal": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation",
+      "year": "2009",
+      "doi": "10.1007/s11136-009-9496-9",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/19543809/"
+    }
+  },
+  {
+    "versionId": "VR-QL-005-055",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "19543809",
+      "title": "Development of physical and mental health summary scores from the patient-reported outcomes measurement information system (PROMIS) global items.",
+      "authors": "Hays RD, Bjorner JB, Revicki DA, Spritzer KL, Cella D",
+      "journal": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation",
+      "year": "2009",
+      "doi": "10.1007/s11136-009-9496-9",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/19543809/"
+    }
+  },
+  {
+    "versionId": "VR-QL-005-056",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "33606180",
+      "title": "Psychometric properties of the Patient-Reported Outcomes Measurement Information System (PROMIS®) pediatric item bank peer relationships in the Dutch general population.",
+      "authors": "Luijten MAJ, van Litsenburg RRL, Terwee CB, Grootenhuis MA, Haverman L",
+      "journal": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation",
+      "year": "2021",
+      "doi": "10.1007/s11136-021-02781-w",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/33606180/"
+    }
+  },
+  {
+    "versionId": "VR-QL-005-057",
+    "status": "元数据有差异",
+    "mismatch": {
+      "year": {
+        "registered": "2021",
+        "pubmed": "2022"
+      }
+    },
+    "pubmed": {
+      "pmid": "34586583",
+      "title": "Assessing anger and irritability in children: psychometric evaluation and normative data for the German version of the PROMIS® Parent Proxy Anger Scale.",
+      "authors": "Kaman A, Otto C, Devine J, Erhart M, Döpfner M, Banaschewski T, Görtz-Dorten A, Hanisch C, Kölch M, Roessner V, Ravens-Sieberer U",
+      "journal": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation",
+      "year": "2022",
+      "doi": "10.1007/s11136-021-03001-1",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/34586583/"
+    }
+  },
+  {
+    "versionId": "VR-QL-005-058",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "19543809",
+      "title": "Development of physical and mental health summary scores from the patient-reported outcomes measurement information system (PROMIS) global items.",
+      "authors": "Hays RD, Bjorner JB, Revicki DA, Spritzer KL, Cella D",
+      "journal": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation",
+      "year": "2009",
+      "doi": "10.1007/s11136-009-9496-9",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/19543809/"
+    }
+  },
+  {
+    "versionId": "VR-QL-006-059",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "16367493",
+      "title": "The Satisfaction With Life Scale.",
+      "authors": "Diener E, Emmons RA, Larsen RJ, Griffin S",
+      "journal": "Journal of personality assessment",
+      "year": "1985",
+      "doi": "10.1207/s15327752jpa4901_13",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/16367493/"
+    }
+  },
+  {
+    "versionId": "VR-QL-006-060",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "16367493",
+      "title": "The Satisfaction With Life Scale.",
+      "authors": "Diener E, Emmons RA, Larsen RJ, Griffin S",
+      "journal": "Journal of personality assessment",
+      "year": "1985",
+      "doi": "10.1207/s15327752jpa4901_13",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/16367493/"
+    }
+  },
+  {
+    "versionId": "VR-HL-001-061",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "30009022",
+      "title": "Do adolescents understand the items of the European Health Literacy Survey Questionnaire (HLS-EU-Q47) - German version? Findings from cognitive interviews of the project \"Measurement of Health Literacy Among Adolescents\" (MOHLAA) in Germany.",
+      "authors": "Domanska OM, Firnges C, Bollweg TM, Sørensen K, Holmberg C, Jordan S",
+      "journal": "Archives of public health = Archives belges de sante publique",
+      "year": "2018",
+      "doi": "10.1186/s13690-018-0276-2",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/30009022/"
+    }
+  },
+  {
+    "versionId": "VR-HL-001-062",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "31937293",
+      "title": "Translation and cross-cultural adaptation of the European Health Literacy Survey Questionnaire, HLS-EU-Q16: the Icelandic version.",
+      "authors": "Gustafsdottir SS, Sigurdardottir AK, Arnadottir SA, Heimisson GT, Mårtensson L",
+      "journal": "BMC public health",
+      "year": "2020",
+      "doi": "10.1186/s12889-020-8162-6",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/31937293/"
+    }
+  },
+  {
+    "versionId": "VR-HL-001-063",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "36361025",
+      "title": "Measuring Comprehensive, General Health Literacy in the General Adult Population: The Development and Validation of the HLS19-Q12 Instrument in Seventeen Countries.",
+      "authors": "Pelikan JM, Link T, Straßmayr C, Waldherr K, Alfers T, Bøggild H, Griebler R, Lopatina M, Mikšová D, Nielsen MG, Peer S, Vrdelja M, HLS19 Consortium of the WHO Action Network M-POHL",
+      "journal": "International journal of environmental research and public health",
+      "year": "2022",
+      "doi": "10.3390/ijerph192114129",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/36361025/"
+    }
+  },
+  {
+    "versionId": "VR-HL-002-064",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "31294310",
+      "title": "Development and Validation of a New Short-Form Health Literacy Instrument (HLS-SF12) for the General Public in Six Asian Countries.",
+      "authors": "Duong TV, Aringazina A, Kayupova G, Nurjanah , Pham TV, Pham KM, Truong TQ, Nguyen KT, Oo WM, Su TT, Majid HA, Sørensen K, Lin IF, Chang Y, Yang SH, Chang PWS",
+      "journal": "Health literacy research and practice",
+      "year": "2019",
+      "doi": "10.3928/24748307-20190225-01",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/31294310/"
+    }
+  },
+  {
+    "versionId": "VR-SS-002-065",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "31349835",
+      "title": "Reliability and validity of Japanese versions of the UCLA loneliness scale version 3 for use among mothers with infants and toddlers: a cross-sectional study.",
+      "authors": "Arimoto A, Tadaka E",
+      "journal": "BMC women's health",
+      "year": "2019",
+      "doi": "10.1186/s12905-019-0792-4",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/31349835/"
+    }
+  },
+  {
+    "versionId": "VR-SS-002-066",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-SS-002-067",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-SS-002-068",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "31999891",
+      "title": "Development and validation of a 6-item Revised UCLA Loneliness Scale (RULS-6) using Rasch analysis.",
+      "authors": "Wongpakaran N, Wongpakaran T, Pinyopornpanish M, Simcharoen S, Suradom C, Varnado P, Kuntawong P",
+      "journal": "British journal of health psychology",
+      "year": "2020",
+      "doi": "10.1111/bjhp.12404",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/31999891/"
+    }
+  },
+  {
+    "versionId": "VR-SS-002-069",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-SS-002-070",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "28804337",
+      "title": "Psychometric analysis of the short-form UCLA Loneliness Scale (ULS-6) in older adults.",
+      "authors": "Neto F",
+      "journal": "European journal of ageing",
+      "year": "2014",
+      "doi": "10.1007/s10433-014-0312-1",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/28804337/"
+    }
+  },
+  {
+    "versionId": "VR-SS-002-071",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "8576833",
+      "title": "UCLA Loneliness Scale (Version 3): reliability, validity, and factor structure.",
+      "authors": "Russell DW",
+      "journal": "Journal of personality assessment",
+      "year": "1996",
+      "doi": "10.1207/s15327752jpa6601_2",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/8576833/"
+    }
+  },
+  {
+    "versionId": "VR-SS-002-072",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "28804337",
+      "title": "Psychometric analysis of the short-form UCLA Loneliness Scale (ULS-6) in older adults.",
+      "authors": "Neto F",
+      "journal": "European journal of ageing",
+      "year": "2014",
+      "doi": "10.1007/s10433-014-0312-1",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/28804337/"
+    }
+  },
+  {
+    "versionId": "VR-SS-003-073",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "16921004",
+      "title": "Performance of an abbreviated version of the Lubben Social Network Scale among three European community-dwelling older adult populations.",
+      "authors": "Lubben J, Blozik E, Gillmann G, Iliffe S, von Renteln Kruse W, Beck JC, Stuck AE",
+      "journal": "The Gerontologist",
+      "year": "2006",
+      "doi": "10.1093/geront/46.4.503",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/16921004/"
+    }
+  },
+  {
+    "versionId": "VR-SS-003-074",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "16921004",
+      "title": "Performance of an abbreviated version of the Lubben Social Network Scale among three European community-dwelling older adult populations.",
+      "authors": "Lubben J, Blozik E, Gillmann G, Iliffe S, von Renteln Kruse W, Beck JC, Stuck AE",
+      "journal": "The Gerontologist",
+      "year": "2006",
+      "doi": "10.1093/geront/46.4.503",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/16921004/"
+    }
+  },
+  {
+    "versionId": "VR-SS-003-075",
+    "status": "元数据有差异",
+    "mismatch": {
+      "year": {
+        "registered": "2014",
+        "pubmed": "2016"
+      }
+    },
+    "pubmed": {
+      "pmid": "25428591",
+      "title": "Rasch Analysis of the Lubben Social Network Scale-6 (LSNS-6).",
+      "authors": "Gray J, Kim J, Ciesla JR, Yao P",
+      "journal": "Journal of applied gerontology : the official journal of the Southern Gerontological Society",
+      "year": "2016",
+      "doi": "10.1177/0733464814560468",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/25428591/"
+    }
+  },
+  {
+    "versionId": "VR-SS-005-076",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "26608434",
+      "title": "Psychometric testing of the Chinese version of the Medical Outcomes Study Social Support Survey among people living with HIV/AIDS in China.",
+      "authors": "Yu Y, Yang JP, Shiu CS, Simoni JM, Xiao S, Chen WT, Rao D, Wang M",
+      "journal": "Applied nursing research : ANR",
+      "year": "2015",
+      "doi": "10.1016/j.apnr.2015.03.006",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/26608434/"
+    }
+  },
+  {
+    "versionId": "VR-SS-005-077",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-HB-001-078",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "12900694",
+      "title": "International physical activity questionnaire: 12-country reliability and validity.",
+      "authors": "Craig CL, Marshall AL, Sjöström M, Bauman AE, Booth ML, Ainsworth BE, Pratt M, Ekelund U, Yngve A, Sallis JF, Oja P",
+      "journal": "Medicine and science in sports and exercise",
+      "year": "2003",
+      "doi": "10.1249/01.MSS.0000078924.61453.FB",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/12900694/"
+    }
+  },
+  {
+    "versionId": "VR-HB-001-079",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "12900694",
+      "title": "International physical activity questionnaire: 12-country reliability and validity.",
+      "authors": "Craig CL, Marshall AL, Sjöström M, Bauman AE, Booth ML, Ainsworth BE, Pratt M, Ekelund U, Yngve A, Sallis JF, Oja P",
+      "journal": "Medicine and science in sports and exercise",
+      "year": "2003",
+      "doi": "10.1249/01.MSS.0000078924.61453.FB",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/12900694/"
+    }
+  },
+  {
+    "versionId": "VR-HB-001-080",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "12900694",
+      "title": "International physical activity questionnaire: 12-country reliability and validity.",
+      "authors": "Craig CL, Marshall AL, Sjöström M, Bauman AE, Booth ML, Ainsworth BE, Pratt M, Ekelund U, Yngve A, Sallis JF, Oja P",
+      "journal": "Medicine and science in sports and exercise",
+      "year": "2003",
+      "doi": "10.1249/01.MSS.0000078924.61453.FB",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/12900694/"
+    }
+  },
+  {
+    "versionId": "VR-HB-001-081",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "12900694",
+      "title": "International physical activity questionnaire: 12-country reliability and validity.",
+      "authors": "Craig CL, Marshall AL, Sjöström M, Bauman AE, Booth ML, Ainsworth BE, Pratt M, Ekelund U, Yngve A, Sallis JF, Oja P",
+      "journal": "Medicine and science in sports and exercise",
+      "year": "2003",
+      "doi": "10.1249/01.MSS.0000078924.61453.FB",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/12900694/"
+    }
+  },
+  {
+    "versionId": "VR-HB-003-082",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "8329970",
+      "title": "Development of the Alcohol Use Disorders Identification Test (AUDIT): WHO Collaborative Project on Early Detection of Persons with Harmful Alcohol Consumption--II.",
+      "authors": "Saunders JB, Aasland OG, Babor TF, de la Fuente JR, Grant M",
+      "journal": "Addiction (Abingdon, England)",
+      "year": "1993",
+      "doi": "10.1111/j.1360-0443.1993.tb02093.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/8329970/"
+    }
+  },
+  {
+    "versionId": "VR-HB-004-083",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "15897730",
+      "title": "Effectiveness of the derived Alcohol Use Disorders Identification Test (AUDIT-C) in screening for alcohol use disorders and risk drinking in the US general population.",
+      "authors": "Dawson DA, Grant BF, Stinson FS, Zhou Y",
+      "journal": "Alcoholism, clinical and experimental research",
+      "year": "2005",
+      "doi": "10.1097/01.alc.0000164374.32229.a2",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/15897730/"
+    }
+  },
+  {
+    "versionId": "VR-HB-005-084",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "7942248",
+      "title": "Assessing nicotine dependence: a comparison of the Fagerström Tolerance Questionnaire (FTQ) with the Fagerström Test for Nicotine Dependence (FTND) in a clinical sample.",
+      "authors": "Payne TJ, Smith PO, McCracken LM, McSherry WC, Antony MM",
+      "journal": "Addictive behaviors",
+      "year": "1994",
+      "doi": "10.1016/0306-4603(94)90032-9",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/7942248/"
+    }
+  },
+  {
+    "versionId": "VR-HB-005-085",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "7942248",
+      "title": "Assessing nicotine dependence: a comparison of the Fagerström Tolerance Questionnaire (FTQ) with the Fagerström Test for Nicotine Dependence (FTND) in a clinical sample.",
+      "authors": "Payne TJ, Smith PO, McCracken LM, McSherry WC, Antony MM",
+      "journal": "Addictive behaviors",
+      "year": "1994",
+      "doi": "10.1016/0306-4603(94)90032-9",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/7942248/"
+    }
+  },
+  {
+    "versionId": "VR-HB-006-086",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "19444724",
+      "title": "Screening for substance abuse among adolescents validity of the CAGE-AID in youth mental health care.",
+      "authors": "Couwenbergh C, Van Der Gaag RJ, Koeter M, De Ruiter C, Van den Brink W",
+      "journal": "Substance use & misuse",
+      "year": "2009",
+      "doi": "10.1080/10826080802484264",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/19444724/"
+    }
+  },
+  {
+    "versionId": "VR-MA-001-087",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MA-001-088",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "25946926",
+      "title": "Validation of the Persian Version of the 8-Item Morisky Medication Adherence Scale (MMAS-8) in Iranian Hypertensive Patients.",
+      "authors": "Moharamzad Y, Saadat H, Nakhjavan Shahraki B, Rai A, Saadat Z, Aerab-Sheibani H, Naghizadeh MM, Morisky DE",
+      "journal": "Global journal of health science",
+      "year": "2015",
+      "doi": "10.5539/gjhs.v7n4p173",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/25946926/"
+    }
+  },
+  {
+    "versionId": "VR-OH-001-089",
+    "status": "元数据有差异",
+    "mismatch": {
+      "year": {
+        "registered": "2013",
+        "pubmed": "2014"
+      }
+    },
+    "pubmed": {
+      "pmid": "23349135",
+      "title": "The bifactor model of the Maslach Burnout Inventory-Human Services Survey (MBI-HSS)--an alternative measurement model of burnout.",
+      "authors": "Mészáros V, Adám S, Szabó M, Szigeti R, Urbán R",
+      "journal": "Stress and health : journal of the International Society for the Investigation of Stress",
+      "year": "2014",
+      "doi": "10.1002/smi.2481",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/23349135/"
+    }
+  },
+  {
+    "versionId": "VR-OH-001-090",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "35169645",
+      "title": "Psychometric properties of the Maslach Burnout Inventory for Medical Personnel (MBI-HSS-MP).",
+      "authors": "Lin CY, Alimoradi Z, Griffiths MD, Pakpour AH",
+      "journal": "Heliyon",
+      "year": "2022",
+      "doi": "10.1016/j.heliyon.2022.e08868",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/35169645/"
+    }
+  },
+  {
+    "versionId": "VR-OH-001-091",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-OH-001-092",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-OH-005-093",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-OH-005-094",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-AG-004-095",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "21372310",
+      "title": "Barthel index for stroke trials: development, properties, and application.",
+      "authors": "Quinn TJ, Langhorne P, Stott DJ",
+      "journal": "Stroke",
+      "year": "2011",
+      "doi": "10.1161/STROKEAHA.110.598540",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/21372310/"
+    }
+  },
+  {
+    "versionId": "VR-AG-004-096",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "10436097",
+      "title": "Use of the Barthel index and modified Rankin scale in acute stroke trials.",
+      "authors": "Sulter G, Steen C, De Keyser J",
+      "journal": "Stroke",
+      "year": "1999",
+      "doi": "10.1161/01.str.30.8.1538",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/10436097/"
+    }
+  },
+  {
+    "versionId": "VR-AG-004-097",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "31995563",
+      "title": "Determining the cut-off score for the Modified Barthel Index and the Modified Rankin Scale for assessment of functional independence and residual disability after stroke.",
+      "authors": "Lee SY, Kim DY, Sohn MK, Lee J, Lee SG, Shin YI, Kim SY, Oh GJ, Lee YH, Lee YS, Joo MC, Lee SY, Ahn J, Chang WH, Choi JY, Kang SH, Kim IY, Han J, Kim YH",
+      "journal": "PloS one",
+      "year": "2020",
+      "doi": "10.1371/journal.pone.0226324",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/31995563/"
+    }
+  },
+  {
+    "versionId": "VR-AG-006-098",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11382797",
+      "title": "Screening for undernutrition in geriatric practice: developing the short-form mini-nutritional assessment (MNA-SF).",
+      "authors": "Rubenstein LZ, Harker JO, Salvà A, Guigoz Y, Vellas B",
+      "journal": "The journals of gerontology. Series A, Biological sciences and medical sciences",
+      "year": "2001",
+      "doi": "10.1093/gerona/56.6.m366",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11382797/"
+    }
+  },
+  {
+    "versionId": "VR-AG-006-099",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "23432907",
+      "title": "Short-form Mini-Nutritional Assessment with either BMI or calf circumference is effective in rating the nutritional status of elderly Taiwanese -- results of a national cohort study.",
+      "authors": "Tsai AC, Chang TL, Wang JY",
+      "journal": "The British journal of nutrition",
+      "year": "2013",
+      "doi": "10.1017/S0007114513000366",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/23432907/"
+    }
+  },
+  {
+    "versionId": "VR-AG-006-100",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "19812868",
+      "title": "Validation of the Mini Nutritional Assessment short-form (MNA-SF): a practical tool for identification of nutritional status.",
+      "authors": "Kaiser MJ, Bauer JM, Ramsch C, Uter W, Guigoz Y, Cederholm T, Thomas DR, Anthony P, Charlton KE, Maggio M, Tsai AC, Grathwohl D, Vellas B, Sieber CC, MNA-International Group",
+      "journal": "The journal of nutrition, health & aging",
+      "year": "2009",
+      "doi": "10.1007/s12603-009-0214-7",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/19812868/"
+    }
+  },
+  {
+    "versionId": "VR-MC-002-101",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9255702",
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "authors": "Goodman R",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": "1997",
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9255702/"
+    }
+  },
+  {
+    "versionId": "VR-MC-002-102",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9255702",
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "authors": "Goodman R",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": "1997",
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9255702/"
+    }
+  },
+  {
+    "versionId": "VR-MC-002-103",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9255702",
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "authors": "Goodman R",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": "1997",
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9255702/"
+    }
+  },
+  {
+    "versionId": "VR-MC-002-104",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9255702",
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "authors": "Goodman R",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": "1997",
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9255702/"
+    }
+  },
+  {
+    "versionId": "VR-MC-002-105",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9255702",
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "authors": "Goodman R",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": "1997",
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9255702/"
+    }
+  },
+  {
+    "versionId": "VR-MC-002-106",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9255702",
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "authors": "Goodman R",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": "1997",
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9255702/"
+    }
+  },
+  {
+    "versionId": "VR-MC-002-107",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9255702",
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "authors": "Goodman R",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": "1997",
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9255702/"
+    }
+  },
+  {
+    "versionId": "VR-MC-002-108",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9255702",
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "authors": "Goodman R",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": "1997",
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9255702/"
+    }
+  },
+  {
+    "versionId": "VR-MC-002-109",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9255702",
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "authors": "Goodman R",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": "1997",
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9255702/"
+    }
+  },
+  {
+    "versionId": "VR-MC-002-110",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9255702",
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "authors": "Goodman R",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": "1997",
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9255702/"
+    }
+  },
+  {
+    "versionId": "VR-MC-002-111",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9255702",
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "authors": "Goodman R",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": "1997",
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9255702/"
+    }
+  },
+  {
+    "versionId": "VR-MC-002-112",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9255702",
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "authors": "Goodman R",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": "1997",
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9255702/"
+    }
+  },
+  {
+    "versionId": "VR-MC-002-113",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9255702",
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "authors": "Goodman R",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": "1997",
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9255702/"
+    }
+  },
+  {
+    "versionId": "VR-MC-002-114",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9255702",
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "authors": "Goodman R",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": "1997",
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9255702/"
+    }
+  },
+  {
+    "versionId": "VR-MC-002-115",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9255702",
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "authors": "Goodman R",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": "1997",
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9255702/"
+    }
+  },
+  {
+    "versionId": "VR-MC-002-116",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9255702",
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "authors": "Goodman R",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": "1997",
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9255702/"
+    }
+  },
+  {
+    "versionId": "VR-MC-002-117",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9255702",
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "authors": "Goodman R",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": "1997",
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9255702/"
+    }
+  },
+  {
+    "versionId": "VR-MC-002-118",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9255702",
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "authors": "Goodman R",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": "1997",
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9255702/"
+    }
+  },
+  {
+    "versionId": "VR-MC-002-119",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9255702",
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "authors": "Goodman R",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": "1997",
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9255702/"
+    }
+  },
+  {
+    "versionId": "VR-MC-002-120",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9255702",
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "authors": "Goodman R",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": "1997",
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9255702/"
+    }
+  },
+  {
+    "versionId": "VR-MC-002-121",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "9255702",
+      "title": "The Strengths and Difficulties Questionnaire: a research note.",
+      "authors": "Goodman R",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": "1997",
+      "doi": "10.1111/j.1469-7610.1997.tb01545.x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/9255702/"
+    }
+  },
+  {
+    "versionId": "VR-MC-003-122",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11468499",
+      "title": "PedsQL 4.0: reliability and validity of the Pediatric Quality of Life Inventory version 4.0 generic core scales in healthy and patient populations.",
+      "authors": "Varni JW, Seid M, Kurtin PS",
+      "journal": "Medical care",
+      "year": "2001",
+      "doi": "10.1097/00005650-200108000-00006",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11468499/"
+    }
+  },
+  {
+    "versionId": "VR-MC-003-123",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11468499",
+      "title": "PedsQL 4.0: reliability and validity of the Pediatric Quality of Life Inventory version 4.0 generic core scales in healthy and patient populations.",
+      "authors": "Varni JW, Seid M, Kurtin PS",
+      "journal": "Medical care",
+      "year": "2001",
+      "doi": "10.1097/00005650-200108000-00006",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11468499/"
+    }
+  },
+  {
+    "versionId": "VR-MC-004-124",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "19807604",
+      "title": "KIDSCREEN-52 quality-of-life measure for children and adolescents.",
+      "authors": "Ravens-Sieberer U, Gosch A, Rajmil L, Erhart M, Bruil J, Duer W, Auquier P, Power M, Abel T, Czemy L, Mazur J, Czimbalmos A, Tountas Y, Hagquist C, Kilroe J, Kidscreen Group E",
+      "journal": "Expert review of pharmacoeconomics & outcomes research",
+      "year": "2005",
+      "doi": "10.1586/14737167.5.3.353",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/19807604/"
+    }
+  },
+  {
+    "versionId": "VR-MC-004-125",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "19807604",
+      "title": "KIDSCREEN-52 quality-of-life measure for children and adolescents.",
+      "authors": "Ravens-Sieberer U, Gosch A, Rajmil L, Erhart M, Bruil J, Duer W, Auquier P, Power M, Abel T, Czemy L, Mazur J, Czimbalmos A, Tountas Y, Hagquist C, Kilroe J, Kidscreen Group E",
+      "journal": "Expert review of pharmacoeconomics & outcomes research",
+      "year": "2005",
+      "doi": "10.1586/14737167.5.3.353",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/19807604/"
+    }
+  },
+  {
+    "versionId": "VR-MC-004-126",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "19807604",
+      "title": "KIDSCREEN-52 quality-of-life measure for children and adolescents.",
+      "authors": "Ravens-Sieberer U, Gosch A, Rajmil L, Erhart M, Bruil J, Duer W, Auquier P, Power M, Abel T, Czemy L, Mazur J, Czimbalmos A, Tountas Y, Hagquist C, Kilroe J, Kidscreen Group E",
+      "journal": "Expert review of pharmacoeconomics & outcomes research",
+      "year": "2005",
+      "doi": "10.1586/14737167.5.3.353",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/19807604/"
+    }
+  },
+  {
+    "versionId": "VR-MC-004-127",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "19807604",
+      "title": "KIDSCREEN-52 quality-of-life measure for children and adolescents.",
+      "authors": "Ravens-Sieberer U, Gosch A, Rajmil L, Erhart M, Bruil J, Duer W, Auquier P, Power M, Abel T, Czemy L, Mazur J, Czimbalmos A, Tountas Y, Hagquist C, Kilroe J, Kidscreen Group E",
+      "journal": "Expert review of pharmacoeconomics & outcomes research",
+      "year": "2005",
+      "doi": "10.1586/14737167.5.3.353",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/19807604/"
+    }
+  },
+  {
+    "versionId": "VR-MC-004-128",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "19807604",
+      "title": "KIDSCREEN-52 quality-of-life measure for children and adolescents.",
+      "authors": "Ravens-Sieberer U, Gosch A, Rajmil L, Erhart M, Bruil J, Duer W, Auquier P, Power M, Abel T, Czemy L, Mazur J, Czimbalmos A, Tountas Y, Hagquist C, Kilroe J, Kidscreen Group E",
+      "journal": "Expert review of pharmacoeconomics & outcomes research",
+      "year": "2005",
+      "doi": "10.1586/14737167.5.3.353",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/19807604/"
+    }
+  },
+  {
+    "versionId": "VR-MC-004-129",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "19807604",
+      "title": "KIDSCREEN-52 quality-of-life measure for children and adolescents.",
+      "authors": "Ravens-Sieberer U, Gosch A, Rajmil L, Erhart M, Bruil J, Duer W, Auquier P, Power M, Abel T, Czemy L, Mazur J, Czimbalmos A, Tountas Y, Hagquist C, Kilroe J, Kidscreen Group E",
+      "journal": "Expert review of pharmacoeconomics & outcomes research",
+      "year": "2005",
+      "doi": "10.1586/14737167.5.3.353",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/19807604/"
+    }
+  },
+  {
+    "versionId": "VR-MC-005-130",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MC-005-131",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-PE-003-132",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "19879711",
+      "title": "The 9-item Shared Decision Making Questionnaire (SDM-Q-9). Development and psychometric properties in a primary care sample.",
+      "authors": "Kriston L, Scholl I, Hölzel L, Simon D, Loh A, Härter M",
+      "journal": "Patient education and counseling",
+      "year": "2010",
+      "doi": "10.1016/j.pec.2009.09.034",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/19879711/"
+    }
+  },
+  {
+    "versionId": "VR-PE-002-133",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-PE-002-134",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-PE-002-135",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-PE-002-136",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-PE-002-137",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-PE-002-138",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-PE-002-139",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-PE-003-140",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "19879711",
+      "title": "The 9-item Shared Decision Making Questionnaire (SDM-Q-9). Development and psychometric properties in a primary care sample.",
+      "authors": "Kriston L, Scholl I, Hölzel L, Simon D, Loh A, Härter M",
+      "journal": "Patient education and counseling",
+      "year": "2010",
+      "doi": "10.1016/j.pec.2009.09.034",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/19879711/"
+    }
+  },
+  {
+    "versionId": "VR-KA-002-141",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "30532274",
+      "title": "Beyond confidence: Development of a measure assessing the 5C psychological antecedents of vaccination.",
+      "authors": "Betsch C, Schmid P, Heinemeier D, Korn L, Holtmann C, Böhm R",
+      "journal": "PloS one",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0208601",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/30532274/"
+    }
+  },
+  {
+    "versionId": "VR-KA-002-142",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "30532274",
+      "title": "Beyond confidence: Development of a measure assessing the 5C psychological antecedents of vaccination.",
+      "authors": "Betsch C, Schmid P, Heinemeier D, Korn L, Holtmann C, Böhm R",
+      "journal": "PloS one",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0208601",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/30532274/"
+    }
+  },
+  {
+    "versionId": "VR-PH-006-143",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-SL-001-144",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "2748771",
+      "title": "The Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and research.",
+      "authors": "Buysse DJ, Reynolds CF, Monk TH, Berman SR, Kupfer DJ",
+      "journal": "Psychiatry research",
+      "year": "1989",
+      "doi": "10.1016/0165-1781(89)90047-4",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/2748771/"
+    }
+  },
+  {
+    "versionId": "VR-HB-001-145",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "12900694",
+      "title": "International physical activity questionnaire: 12-country reliability and validity.",
+      "authors": "Craig CL, Marshall AL, Sjöström M, Bauman AE, Booth ML, Ainsworth BE, Pratt M, Ekelund U, Yngve A, Sallis JF, Oja P",
+      "journal": "Medicine and science in sports and exercise",
+      "year": "2003",
+      "doi": "10.1249/01.MSS.0000078924.61453.FB",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/12900694/"
+    }
+  },
+  {
+    "versionId": "VR-HB-001-146",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "12900694",
+      "title": "International physical activity questionnaire: 12-country reliability and validity.",
+      "authors": "Craig CL, Marshall AL, Sjöström M, Bauman AE, Booth ML, Ainsworth BE, Pratt M, Ekelund U, Yngve A, Sallis JF, Oja P",
+      "journal": "Medicine and science in sports and exercise",
+      "year": "2003",
+      "doi": "10.1249/01.MSS.0000078924.61453.FB",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/12900694/"
+    }
+  },
+  {
+    "versionId": "VR-HB-001-147",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "12900694",
+      "title": "International physical activity questionnaire: 12-country reliability and validity.",
+      "authors": "Craig CL, Marshall AL, Sjöström M, Bauman AE, Booth ML, Ainsworth BE, Pratt M, Ekelund U, Yngve A, Sallis JF, Oja P",
+      "journal": "Medicine and science in sports and exercise",
+      "year": "2003",
+      "doi": "10.1249/01.MSS.0000078924.61453.FB",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/12900694/"
+    }
+  },
+  {
+    "versionId": "VR-HB-001-148",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "12900694",
+      "title": "International physical activity questionnaire: 12-country reliability and validity.",
+      "authors": "Craig CL, Marshall AL, Sjöström M, Bauman AE, Booth ML, Ainsworth BE, Pratt M, Ekelund U, Yngve A, Sallis JF, Oja P",
+      "journal": "Medicine and science in sports and exercise",
+      "year": "2003",
+      "doi": "10.1249/01.MSS.0000078924.61453.FB",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/12900694/"
+    }
+  },
+  {
+    "versionId": "VR-HB-002-149",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MA-002-150",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-OH-003-151",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11419809",
+      "title": "The job demands-resources model of burnout.",
+      "authors": "Demerouti E, Bakker AB, Nachreiner F, Schaufeli WB",
+      "journal": "The Journal of applied psychology",
+      "year": "2001",
+      "doi": "",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11419809/"
+    }
+  },
+  {
+    "versionId": "VR-OH-002-152",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-OH-004-153",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-OH-004-154",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-AG-005-155",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "5349366",
+      "title": "Assessment of older people: self-maintaining and instrumental activities of daily living.",
+      "authors": "Lawton MP, Brody EM",
+      "journal": "The Gerontologist",
+      "year": "1969",
+      "doi": "",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/5349366/"
+    }
+  },
+  {
+    "versionId": "VR-MC-001-156",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "23615932",
+      "title": "Detection of antenatal depression in rural HIV-affected populations with short and ultrashort versions of the Edinburgh Postnatal Depression Scale (EPDS).",
+      "authors": "Rochat TJ, Tomlinson M, Newell ML, Stein A",
+      "journal": "Archives of women's mental health",
+      "year": "2013",
+      "doi": "10.1007/s00737-013-0353-z",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/23615932/"
+    }
+  },
+  {
+    "versionId": "VR-MC-001-157",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "23615932",
+      "title": "Detection of antenatal depression in rural HIV-affected populations with short and ultrashort versions of the Edinburgh Postnatal Depression Scale (EPDS).",
+      "authors": "Rochat TJ, Tomlinson M, Newell ML, Stein A",
+      "journal": "Archives of women's mental health",
+      "year": "2013",
+      "doi": "10.1007/s00737-013-0353-z",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/23615932/"
+    }
+  },
+  {
+    "versionId": "VR-MC-003-158",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11468499",
+      "title": "PedsQL 4.0: reliability and validity of the Pediatric Quality of Life Inventory version 4.0 generic core scales in healthy and patient populations.",
+      "authors": "Varni JW, Seid M, Kurtin PS",
+      "journal": "Medical care",
+      "year": "2001",
+      "doi": "10.1097/00005650-200108000-00006",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11468499/"
+    }
+  },
+  {
+    "versionId": "VR-MC-003-159",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11468499",
+      "title": "PedsQL 4.0: reliability and validity of the Pediatric Quality of Life Inventory version 4.0 generic core scales in healthy and patient populations.",
+      "authors": "Varni JW, Seid M, Kurtin PS",
+      "journal": "Medical care",
+      "year": "2001",
+      "doi": "10.1097/00005650-200108000-00006",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11468499/"
+    }
+  },
+  {
+    "versionId": "VR-MC-003-160",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11468499",
+      "title": "PedsQL 4.0: reliability and validity of the Pediatric Quality of Life Inventory version 4.0 generic core scales in healthy and patient populations.",
+      "authors": "Varni JW, Seid M, Kurtin PS",
+      "journal": "Medical care",
+      "year": "2001",
+      "doi": "10.1097/00005650-200108000-00006",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11468499/"
+    }
+  },
+  {
+    "versionId": "VR-MC-003-161",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11468499",
+      "title": "PedsQL 4.0: reliability and validity of the Pediatric Quality of Life Inventory version 4.0 generic core scales in healthy and patient populations.",
+      "authors": "Varni JW, Seid M, Kurtin PS",
+      "journal": "Medical care",
+      "year": "2001",
+      "doi": "10.1097/00005650-200108000-00006",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11468499/"
+    }
+  },
+  {
+    "versionId": "VR-MC-003-162",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "11468499",
+      "title": "PedsQL 4.0: reliability and validity of the Pediatric Quality of Life Inventory version 4.0 generic core scales in healthy and patient populations.",
+      "authors": "Varni JW, Seid M, Kurtin PS",
+      "journal": "Medical care",
+      "year": "2001",
+      "doi": "10.1097/00005650-200108000-00006",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/11468499/"
+    }
+  },
+  {
+    "versionId": "VR-KA-001-163",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "25896384",
+      "title": "Measuring vaccine hesitancy: The development of a survey tool.",
+      "authors": "Larson HJ, Jarrett C, Schulz WS, Chaudhuri M, Zhou Y, Dube E, Schuster M, MacDonald NE, Wilson R, SAGE Working Group on Vaccine Hesitancy",
+      "journal": "Vaccine",
+      "year": "2015",
+      "doi": "10.1016/j.vaccine.2015.04.037",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/25896384/"
+    }
+  },
+  {
+    "versionId": "VR-KA-001-164",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "25896384",
+      "title": "Measuring vaccine hesitancy: The development of a survey tool.",
+      "authors": "Larson HJ, Jarrett C, Schulz WS, Chaudhuri M, Zhou Y, Dube E, Schuster M, MacDonald NE, Wilson R, SAGE Working Group on Vaccine Hesitancy",
+      "journal": "Vaccine",
+      "year": "2015",
+      "doi": "10.1016/j.vaccine.2015.04.037",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/25896384/"
+    }
+  },
+  {
+    "versionId": "VR-QL-004-165",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "30739287",
+      "title": "EQ-5D-Y-5L: developing a revised EQ-5D-Y with increased response categories.",
+      "authors": "Kreimeier S, Åström M, Burström K, Egmar AC, Gusi N, Herdman M, Kind P, Perez-Sousa MA, Greiner W",
+      "journal": "Quality of life research : an international journal of quality of life aspects of treatment, care and rehabilitation",
+      "year": "2019",
+      "doi": "10.1007/s11136-019-02115-x",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/30739287/"
+    }
+  },
+  {
+    "versionId": "VR-MA-004-166",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "10895844",
+      "title": "The summary of diabetes self-care activities measure: results from 7 studies and a revised scale.",
+      "authors": "Toobert DJ, Hampson SE, Glasgow RE",
+      "journal": "Diabetes care",
+      "year": "2000",
+      "doi": "10.2337/diacare.23.7.943",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/10895844/"
+    }
+  },
+  {
+    "versionId": "VR-MA-004-167",
+    "status": "标识及年份未发现差异",
+    "mismatch": {},
+    "pubmed": {
+      "pmid": "10895844",
+      "title": "The summary of diabetes self-care activities measure: results from 7 studies and a revised scale.",
+      "authors": "Toobert DJ, Hampson SE, Glasgow RE",
+      "journal": "Diabetes care",
+      "year": "2000",
+      "doi": "10.2337/diacare.23.7.943",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/10895844/"
+    }
+  },
+  {
+    "versionId": "VR-MC-005-168",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MC-005-169",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MC-005-170",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MC-005-171",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MC-005-172",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MC-005-173",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MC-005-174",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MC-005-175",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MC-005-176",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MC-005-177",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MC-005-178",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MC-005-179",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MC-005-180",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MC-005-181",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MC-005-182",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MC-005-183",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MC-005-184",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MC-005-185",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MC-005-186",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MC-005-187",
+    "status": "没有登记PMID，需其他来源核对"
+  },
+  {
+    "versionId": "VR-MC-005-188",
+    "status": "没有登记PMID，需其他来源核对"
+  }
+]

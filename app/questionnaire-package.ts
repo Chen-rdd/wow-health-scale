@@ -11,7 +11,7 @@ export function createQuestionnairePackage(draft:QuestionnaireDraft,registry:Ver
   if(!form)throw new Error('方案中的表单已不可用，请重新选择。');
   return structuredClone(form);
  });
- const blockers=forms.filter(f=>!f.exportReady).map(f=>({formId:f.id,label:f.label,reason:f.translationEvidence}));
+ const blockers=forms.filter(f=>!f.exportReady).map(f=>({formId:f.id,label:f.label,reason:f.exportBlockReason||'正式文件核验尚未完成；具体研究证据请查看题本说明。'}));
  return {
   schema:1 as const,createdAt,title:draft.title.trim()||'调查问卷',
   ready:blockers.length===0,blockers,
@@ -24,7 +24,8 @@ export function createQuestionnairePackage(draft:QuestionnaireDraft,registry:Ver
    options:f.options,items:f.items,dimensions:f.dimensions,
    rawSubscaleRange:f.rawSubscaleRange,comparisonMultiplier:f.comparisonMultiplier,
    scoringNote:f.scoringNote??'',translationEvidence:f.translationEvidence,
-   usage:f.usage,review:f.review,verifiedAt:f.verifiedAt,
+   usage:f.usage,review:f.review,verifiedAt:f.verifiedAt,studyEvidence:f.studyEvidence??[],
+   audit:f.audit,supplementaryItems:f.supplementaryItems??[],
    profile:structuredClone(reviewedProfiles[f.versionId]??null)})),
  };
 }

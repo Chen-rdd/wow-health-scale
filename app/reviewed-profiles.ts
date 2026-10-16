@@ -1,12 +1,61 @@
 export type EvidenceParagraph = {text:string;source:string;label:string};
-export type ReviewedProfile = {definition:EvidenceParagraph[];scoring:EvidenceParagraph[];translations:{label:string;url:string;note:string}[];limits:EvidenceParagraph[];reviewed:string};
+export type ReviewedProfile = {definition:EvidenceParagraph[];scoring:EvidenceParagraph[];translations:{label:string;url:string;note:string}[];limits:EvidenceParagraph[];reviewed:string;reviewScope?:string};
+import {historicalProfiles} from './reviewed-profiles-history';
+import {networksNutritionProfiles} from './reviewed-profiles-networks-nutrition';
+import {sdqProfiles} from './reviewed-profiles-sdq';
+import {kidscreenProfiles} from './reviewed-profiles-kidscreen';
+import {ipaqProfiles} from './reviewed-profiles-ipaq';
+import {whoqolProfiles} from './reviewed-profiles-whoqol';
+import {asqProfiles} from './reviewed-profiles-asq';
+import {healthBehaviourProfiles} from './reviewed-profiles-health-behaviour';
+import {careToolsProfiles} from './reviewed-profiles-care-tools';
+import {cesdProfiles} from './reviewed-profiles-cesd';
+import {promisProfiles} from './reviewed-profiles-promis';
+import {eq5dProfiles} from './reviewed-profiles-eq5d';
+import {workProfiles} from './reviewed-profiles-work';
+import {socialLiteracyProfiles} from './reviewed-profiles-social-literacy';
+import {healthLiteracyProfiles} from './reviewed-profiles-health-literacy';
+import {alcoholTobaccoProfiles} from './reviewed-profiles-alcohol-tobacco';
+import {frailtyFunctionProfiles} from './reviewed-profiles-frailty-function';
+import {uclaProfiles} from './reviewed-profiles-ucla';
+import {barthelProfiles} from './reviewed-profiles-barthel';
+import {sleepIsiProfiles} from './reviewed-profiles-sleep-isi';
+import {sleepEssAisProfiles} from './reviewed-profiles-sleep-ess-ais';
+import {largeBatchOneProfiles} from './reviewed-profiles-large-batch-one';
+import {largeBatchTwoProfiles} from './reviewed-profiles-large-batch-two';
+import {largeBatchThreeProfiles} from './reviewed-profiles-large-batch-three';
 const base='https://dass.psy.unsw.edu.au/';
 const p=(text:string,path:string,label:string):EvidenceParagraph=>({text,source:base+path,label});
 const scope=p('抑郁维度关注情绪低落、兴趣或愉悦感减少、自我贬低与缺乏主动性；焦虑维度侧重自主神经唤起、躯体紧张及恐惧体验；压力维度关注难以放松、持续紧绷、易激惹及不耐烦。三个维度相关，但测量内容不同。','over.htm','开发者对测量构念的定义');
 const restriction=p('本页用于研究者选表和获取施测资料，不提供公众自测或自动诊断。开发者对开放网站施测、结果反馈有专门要求；正式实施调查前应核对。','DASSFAQ.htm','官方FAQ第9、21项');
 export const reviewedProfiles:Record<string,ReviewedProfile>={
+...historicalProfiles,
+...networksNutritionProfiles,
+...sdqProfiles,
+...kidscreenProfiles,
+...ipaqProfiles,
+...whoqolProfiles,
+...asqProfiles,
+...healthBehaviourProfiles,
+...careToolsProfiles,
+...cesdProfiles,
+...promisProfiles,
+...eq5dProfiles,
+...workProfiles,
+...socialLiteracyProfiles,
+...healthLiteracyProfiles,
+...alcoholTobaccoProfiles,
+...frailtyFunctionProfiles,
+...sleepEssAisProfiles,
+...sleepIsiProfiles,
+...barthelProfiles,
+...uclaProfiles,
+...largeBatchOneProfiles,
+...largeBatchTwoProfiles,
+...largeBatchThreeProfiles,
 "VR-PH-005-014":{
-  "reviewed": "2026-09-13",
+  "reviewed": "2026-10-15",
+  "reviewScope": "普通话K6／K10三页官方PDF已重新下载，哈希一致；核心、附加、跳答及署名原页已核对。粤语、独立中文研究及本库实际打印仍待核对。",
   "definition": [
     {
       "text": "K6或K10含补充问题的表单，在核心情绪症状之外询问持续性、功能影响等信息。它直接扩展相应核心版本；补充问题不是新的核心症状条目。",
@@ -30,7 +79,7 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
     {
       "label": "作者官网 普通话及粤语译本",
       "url": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
-      "note": "普通话K6/K10、粤语K6已取得；具体题文、访谈跳转及中文验证研究仍在核对。"
+      "note": "已取得普通话K6／K10三页原件并核对：第1页为核心，第2页为比较平时、功能及就医附加问题，全答“无”时后续影响问题可跳过；第3页署黄悦勤和刘平翻译。粤语及独立中文验证另核对。"
     }
   ],
   "limits": [
@@ -42,7 +91,8 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
   ]
 },
 "VR-PH-005-013":{
-  "reviewed": "2026-09-13",
+  "reviewed": "2026-10-16",
+  "reviewScope": "普通话K6／K10官方三页PDF及核心、附加、跳答、署名已核。2015大学生直接验证已通过机构权限取得8页原PDF，方法、结果、表2、讨论及局限核读，印刷页107—110视觉核对；研究改用过去12个月最严重30天，并非官网过去30天题本逐字验证。CHIS完整HTML已核，粤语原件及实际打印仍待。",
   "definition": [
     {
       "text": "K6从K10删去四题，是六项心理困扰短版；直接来源为K10。它缩短施测时间，并非把K10分数按比例换算。",
@@ -60,13 +110,23 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
       "text": "部分官方表单所印1–5是回答代码，顺序从“全部时间”到“无”。计算0–4症状分时需反向重编码，不能直接相加。缺失处理没有唯一官方算法，应事先确定研究规则。",
       "source": "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Scoring_K6_K10.pdf",
       "label": "评分与缺失FAQ"
+    },
+    {
+      "text": "2015研究六项0—4，总分0—24；12／13切分即≥13，敏感度0.83、特异度0.79、阳性预测值0.60、阴性预测值0.93，针对该研究回顾期与CIDI-3.1严重精神疾病筛查。不能把该结果直接当官网过去30天表或所有中文人群的诊断标准。",
+      "source": "https://doi.org/10.1016/j.comppsych.2015.08.011",
+      "label": "2015原文第107—109页方法与表2"
     }
   ],
   "translations": [
     {
       "label": "作者官网 普通话及粤语译本",
       "url": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
-      "note": "普通话K6/K10、粤语K6已取得；具体题文、访谈跳转及中文验证研究仍在核对。"
+      "note": "已取得普通话K6／K10三页原件并核对：第1页为核心，第2页为比较平时、功能及就医附加问题，全答“无”时后续影响问题可跳过；第3页署黄悦勤和刘平翻译。粤语及独立中文验证另核对。"
+    },
+    {
+      "label": "Kang等2015大陆大学生K6直接验证全文",
+      "url": "https://doi.org/10.1016/j.comppsych.2015.08.011",
+      "note": "西南一所综合大学，8289人参加初筛、222人重测及CIDI-3.1访谈；α0.84、32—53天重测Spearman r0.79。方法明确将回顾期改为过去12个月最严重的30天，以对应12个月SMI访谈；未刊完整中文六项题文，不能称与黄悦勤／刘平官网过去30天表逐字匹配。"
     }
   ],
   "limits": [
@@ -74,11 +134,22 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
       "text": "作者允许免费使用，要求保留版权并引用指定文献。网站收录或免费使用不等于已完成目标人群验证。",
       "source": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
       "label": "作者官方说明"
+    },
+    {
+      "text": "CHIS成人跨语言研究44,846人含普通话和粤语，发现部分项目存在种族／语言差异项目功能。不同语言群不能仅因使用K6便默认分数完全等价；它也不是大陆官网译本的独立逐字验证。",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5468522/",
+      "label": "跨语言测量等值研究全文"
+    },
+    {
+      "text": "该研究发现74份K6漏答后只纳入完整个案8215人；这不是开发者统一漏答规则，不自行补0。图1另标N＝7775，与讨论的完整个案数不一致，保留原文差异。222人访谈样本按初筛高低分分层招募，配合率38.54%，不能把其中预测值直接当全部大学生的普遍预测值；连续总分AUC0.85与表2单一切分AUC0.81亦分开。",
+      "source": "https://doi.org/10.1016/j.comppsych.2015.08.011",
+      "label": "2015抽样方法、图1、表2及局限原页"
     }
   ]
 },
 "VR-PH-005-012":{
-  "reviewed": "2026-09-13",
+  "reviewed": "2026-10-16",
+  "reviewScope": "普通话K6／K10三页官方PDF已重新下载，哈希一致；核心、附加、跳答及署名原页已核对。粤语、独立中文研究及本库实际打印仍待核对。 续核2021流动儿童研究全文及Bu2017患癌儿童家长验证摘要；各研究译本与官网完整中文表仍未逐字对应。",
   "definition": [
     {
       "text": "K10以十项情绪相关症状评估非特异性心理困扰，官网表单回顾过去30天。它用于筛查和描述困扰程度，不把抑郁、焦虑等疾病分别确诊。",
@@ -102,7 +173,17 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
     {
       "label": "作者官网 普通话及粤语译本",
       "url": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
-      "note": "普通话K6/K10、粤语K6已取得；具体题文、访谈跳转及中文验证研究仍在核对。"
+      "note": "已取得普通话K6／K10三页原件并核对：第1页为核心，第2页为比较平时、功能及就医附加问题，全答“无”时后续影响问题可跳过；第3页署黄悦勤和刘平翻译。粤语及独立中文验证另核对。"
+    },
+    {
+      "label": "Bu等2017患癌儿童家长验证摘要",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27257800/",
+      "note": "广州便利样本206和103人，α0.93、两因子；此为研究自行翻译的C-K10，不能因此认定与官网黄悦勤／刘平题文相同。"
+    },
+    {
+      "label": "2021杭州流动儿童测量不变性全文",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8671765/",
+      "note": "11—16岁便利样本，基于Bu译本。研究为模型估计合并五档为三档；不能把合并类别模型的性别不变性结果当作原五级表在所有中文人群等值。正文样本总数339与男192＋女135不一致，人数缺口未自行补造。"
     }
   ],
   "limits": [
@@ -110,6 +191,11 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
       "text": "作者允许免费使用，要求保留版权并引用指定文献。网站收录或免费使用不等于已完成目标人群验证。",
       "source": "https://rckessler.scholars.harvard.edu/k10-and-k6-scales",
       "label": "作者官方说明"
+    },
+    {
+      "text": "研究说明数据和Mplus代码需向作者索取；本次未发送申请。正文及已检索结果尚不能解决正式中文题文与评分原件的对应。",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8671765/",
+      "label": "模型分析及原件缺口"
     }
   ]
 },
@@ -176,7 +262,7 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
   ]
 },
 "VR-PH-001-003":{
-  "reviewed": "2026-09-13",
+  "reviewed": "2026-10-16",
   "definition": [
     {
       "text": "PHQ-8从PHQ-9删除第9题，即死亡或自伤想法题，保留其他八题，评估过去两周抑郁症状。它可用于人群研究，但不包含这一风险信息。",
@@ -196,6 +282,16 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
       "label": "官方译本与短版派生说明",
       "url": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
       "note": "手册第7页允许从正式译本选择对应条目形成短版。必须保留所用译本和题号；这不自动证明短版在目标人群的效度。"
+    },
+    {
+      "label": "2022大陆农村学生PHQ-8应用研究全文",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9141636/",
+      "note": "采用0—3八项，并引用既有PHQ-9及其他人群研究支持；这属于应用证据，不能作为本网站大陆八题表已独立验证。论文频率天数段与官方文字锚点需保持来源区分。"
+    },
+    {
+      "label": "2025台湾消防员纵向应用全文",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12743514/",
+      "note": "基线494、随访349，文中PHQ-8α0.92；从PHQ-9去自伤项并采用既有阈值，未进行独立诊断访谈验证或刊完整繁体八题。不能仅凭α宣称现有台湾表筛查界点已验证。"
     }
   ],
   "limits": [
@@ -203,8 +299,14 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
       "text": "本条已核对结构与计分关系，完整施测材料和具体中文验证证据仍在整理。未核实的题目或缺失规则不以推测补全。",
       "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
       "label": "开发者手册 第2至3页"
+    },
+    {
+      "text": "台湾研究说明删自伤项的操作原因；这不表示研究者因此无需风险处置流程，也不等于PHQ-8可以检出已删除的风险信息。本网站不据其应用研究新增自动诊断。",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12743514/",
+      "label": "研究改写与解释边界"
     }
-  ]
+  ],
+  "reviewScope": "原开发手册结构、范围与派生规则；2022大陆学生、2025台湾消防员应用研究完整HTML方法核读，未取得与本网站两份地区表逐字对应的施测原件或独立诊断验证。"
 },
 "VR-PH-001-002":{
   "reviewed": "2026-09-13",
@@ -269,7 +371,8 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
   ]
 },
 "VR-PH-002-BASE":{
-  "reviewed": "2026-09-15",
+  "reviewed": "2026-10-15",
+  "reviewScope": "2006年原始研究全文及Figure 1原页；英文七项、回答锚点与功能附加题已对应。中文研究实际题本的逐字对应仍待补。",
   "definition": [
     {
       "text": "GAD-7（广泛性焦虑障碍七项量表）是一份自评症状工具，最初面向基层医疗中的广泛性焦虑问题开发。内容包括紧张、难以控制担忧、过度担忧、难以放松、坐立不安、易激惹及害怕不良事情发生，用于筛查和量化焦虑症状；不能单凭分数确诊某一种焦虑障碍。",
@@ -283,6 +386,7 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
     }
   ],
   "scoring": [
+    {"text":"原始研究Figure 1（印刷页1094）包含七个计分项与独立功能影响附加题。已对照本库官方英文表的七项和0–3回答锚点；本库所用一页英文原件未包含该功能附加题，不能据研究图擅自补入并称为同一原件。","source":"https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/410326/","label":"原始研究题本图与所用原件的区别"},
     {
       "text": "评估过去两周，七题各0–3分，总分0–21分，无反向题。5、10、15是常用严重程度分界，需结合研究人群解释。功能影响信息不能擅自加入七题总分。",
       "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
@@ -316,7 +420,8 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
   ]
 },
 "VR-PH-001-BASE":{
-  "reviewed": "2026-09-12",
+  "reviewed": "2026-10-15",
+  "reviewScope": "原始开发研究及官方题本；Wang 2014全文六页已取得并核读，正文未刊完整中文九题，确切译文对应仍未确认。",
   "definition": [
     {
       "text": "PHQ-9（患者健康问卷九项抑郁量表）是完整PHQ中的抑郁模块，采用自评方式量化抑郁症状严重程度。九题对应抑郁相关症状，涉及兴趣、情绪、睡眠、精力、食欲、自我评价、注意力、精神运动变化及死亡或自伤想法。它可用于筛查和追踪症状，但分数本身不能完成临床诊断。",
@@ -354,7 +459,7 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
     }
   ],
   "limits": [
-    {"text":"Wang等2014年在上海一个社区1045名参与者中，以MINI访谈为诊断对照，报告PHQ-9≥7的筛查阈值。此结果有具体样本和译本背景，不应替代所有人群的适用性核对；本目录题本与该研究施测中文题文尚未完成逐项匹配。","source":"https://pubmed.ncbi.nlm.nih.gov/25023953/","label":"Wang等，2014：中文社区验证研究"},
+    {"text":"Wang等2014全文：上海一个社区1045人接受MINI访谈，其中28人符合重性抑郁诊断。PHQ-9≥7时敏感度、特异度均0.86，阳性预测值仅0.15，AUC为0.92（95%CI 0.86—0.97）；筛查阳性不等于确诊。单一社区、阳性病例较少及女性占65%限制外推。正文没有完整中文九题，仍不能将本目录题本认定为该研究的确切译文。","source":"https://doi.org/10.1016/j.genhosppsych.2014.05.021","label":"Wang等，2014：中文社区验证研究"},
     {
       "text": "第9题阳性需要进一步评估，不能仅凭该题或总分判断自伤风险。调查实施前应安排相应的专业评估和转介流程。",
       "source": "https://www.phqscreeners.com/images/sites/g/files/g10016261/f/201412/instructions.pdf",
@@ -373,7 +478,7 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
   ]
 },
  'VR-PH-007-BASE':{
-  "reviewed": "2026-09-12",
+  "reviewed": "2026-10-14",
   "definition": [
     {
       "text": "WHO-5（世界卫生组织五项心理幸福感指数）是一份5题自评工具，询问过去两周的积极心理状态，包括愉快、平静、活力、醒后恢复感和日常兴趣。它帮助研究者描述心理幸福感水平及其变化；不直接诊断抑郁症，也不覆盖健康相关生活质量的全部领域。",
@@ -408,6 +513,16 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
       "label": "WHO网站收录的中文译本（2007年9月，标注1998年版）",
       "url": "https://cdn.who.int/media/docs/default-source/mental-health/who-5_chinese.pdf?download=true&sfvrsn=ed43f352_11",
       "note": "由Xu等翻译、Volinn协调。WHO附加说明指出该翻译早于2024年版权转让，不保证译文准确性，冲突以英文为准。具体译文与中文验证研究的对应关系仍在核查。"
+    },
+    {
+      "label": "WHO现行中国大陆中文入口（两页2007年译本）",
+      "url": "https://cdn.who.int/media/docs/default-source/mental-health/five-well-being-index-(who-5)/who5_chinese_pr.pdf",
+      "note": "已看两页原件：六级0–5、近两周，署Xu等翻译与Volinn协调。表内低分及任一题0／1的建议与2024英文说明分开，不把其10%变化说明当作普遍最小临床重要差异。"
+    },
+    {
+      "label": "Fung等2022：广东大学生中文研究",
+      "url": "https://doi.org/10.3389/fpubh.2022.872436",
+      "note": "903与511名大学生，两样本α为0.85与0.81，研究自述独立翻译／回译和预测试。论文表格列英文题目，未提供完整中文施测文本；不能因此确认与WHO官网Xu译本逐字相同，也不能外推为所有人群常模。"
     }
   ],
   "limits": [
@@ -416,37 +531,41 @@ export const reviewedProfiles:Record<string,ReviewedProfile>={
       "source": "https://cdn.who.int/media/docs/default-source/mental-health/who-5_english-original4da539d6ed4b49389e3afe47cda2326a.pdf?download=true&sfvrsn=ed43f352_11",
       "label": "WHO 2024英文原件"
     }
-  ]
+  ],
+  "reviewScope": "英文2024版及官网2007中文原页；2022年大学生研究与官网译文的逐字对应仍未确认。"
 },
  'VR-PH-003-006':{
-  reviewed:'2026-09-12',
+  reviewed:'2026-10-15',reviewScope:'官方42题题本与评分键、Chan等2012五页全文；Zuo/Chang译本来源已直接关联，中文完整施测题文未刊，逐字对应仍未完成。',
   definition:[p('DASS-42是由42个自评条目组成的抑郁—焦虑—压力量表，分别量化过去一周三类负性情绪状态的程度，每个维度14题。它适用于描述症状水平及其变化，不直接判定某一种精神障碍。','over.htm','官方概述'),scope],
   scoring:[p('每题按正式选项赋0、1、2或3分。按评分键分别相加14题，得到抑郁、焦虑、压力三个0–42分的分量表分数；无反向题。分数越高表示对应症状越重。','Download%20files/Dass_template.pdf','原版评分键'),p('缺失值应按分量表处理并预先声明规则。官网给出的经验建议是每个14题分量表最多容许2题缺失；这不是统一强制标准。不能把空白直接当作0分。','DASSFAQ.htm','官方FAQ第27项')],
   translations:[
-   {label:'简体中文：Zuo 与 Chang，42题',url:base+'Chinese/DASS42%20simplified%20Chinese.pdf',note:'已逐题核对原件；题序与英文一致。中文版验证研究的具体文本匹配仍在核查。'},
+   {label:'简体中文：Zuo 与 Chang，42题',url:base+'Chinese/DASS42%20simplified%20Chinese.pdf',note:'2026-10-13重新核对原件及校验值；题序与英文一致。Chan等2012五页全文明确采用此译本；表2只列英文，完整中文施测题文未刊，逐字匹配仍未确认。'},
+   {label:'Chan等2012：原始验证研究全文',url:'https://ir.psych.ac.cn/bitstream/311026/11513/1/WOS_000313764700126.pdf',note:'方法明确采用Zuo/Chang简体42题，未做回译；605名大学生、138名地震经历者及86名北京居民。未检查重测信度，也没有临床诊断访谈。表2只列英文，不能证明完整中文题文与现存题本逐字相同。'},
+   {label:'中文版来源与验证研究的直接原文线索',url:'https://ir.psych.ac.cn/bitstream/311026/20518/1/Cross-Cultural%20Validation%20of%20the%20Depression%20Anxiety%20Stress%20%20Scale%E2%80%9321%20in%20China.pdf',note:'Wang等2016正文第3页区分Zuo/Chang简体42题、Taouk等译本与台湾改编版，不能把这些中文版本合并。'},
    {label:'繁体中文：Calais Chan，42题',url:base+'Chinese/Chinese%20DASS%20Calais.pdf',note:'官方收录，原件已取得；逐题复核进行中。'},
    {label:'台湾用语：Lu Hui Chun，42题',url:base+'Chinese/Taiwanese%20DASS%20Lu%20Hui%20Chun.pdf',note:'对既有中文译本的适配，不能与其他译本混称；逐题复核进行中。'},
    {label:'台湾用语：Shing-Ping Su，42题',url:base+'Chinese/Shing-Ping%20Taiwanese%20DASS.pdf',note:'独立列出的译本；原件已取得，逐题复核进行中。'}],
   limits:[restriction,p('官网允许复制问卷，禁止修改或出售量表本身。官网收录译本不构成对译本质量的保证；仍需核对目标人群的验证证据。','DASSFAQ.htm','官方FAQ第3、25项')]
  },
  'VR-PH-003-007':{
-  reviewed:'2026-09-12',
+  reviewed:'2026-10-13',
   definition:[p('DASS-21由DASS-42的三个维度各选7题构成，共21题，仍评估过去一周的抑郁、焦虑和紧张/压力状态。它保留了三个维度，但不是原42题表的前21题。','over.htm','官方概述'),scope],
   scoring:[p('每题0–3分，各维度7题原始和为0–21分。官方评分模板要求将分量表原始和乘2，形成0–42分，用于与成人DASS常模或全版分数比较。报告时必须注明是否乘2，不能混用两种分值。','Chinese/Chinese%20DASS21%20scoring%20template.pdf','中文短版评分键'),p('缺失规则应在研究方案中明确；官网的经验建议是每个7题维度最多缺失1题，并利用该维度已回答条目处理。此建议不能与某篇研究的数据插补方法混为一谈。','DASSFAQ.htm','官方FAQ第27项')],
   translations:[{label:'繁体中文：Taouk Moussa、Lovibond 与 Laube，21题',url:base+'Chinese/Chinese%20DASS21.pdf',note:'由Calais Chan较早译本发展，官网提供专用评分键及2001年翻译研究报告；已核对题目与评分对应。'},
-   {label:'中文版翻译及验证报告（2001）',url:base+'Chinese/Chinese%20DASS21%20Paper.pdf',note:'请按报告人群解释；此文件的PDF元数据标题有误，正文标题为中文DASS21研究。'},
+   {label:'中文版翻译及验证报告（2001）',url:base+'Chinese/Chinese%20DASS21%20Paper.pdf',note:'本轮已读报告原文第9–11页：澳大利亚华语成人356人，报告翻译、回译及专家审核过程。官网将题本与报告关联，但报告不列完整中文施测题文；“来源关联”不等于逐字匹配。PDF元数据标题有误，以正文标题为准。'},
    {label:'中国人群验证研究：Wang 等，2016',url:'https://pubmed.ncbi.nlm.nih.gov/26619091/',note:'研究包括大学生及精神分裂症患者/对照。正文采用0–21原始分，并说明译文来源于Taouk等；不能把该研究自动绑定到任何网上简体21题表。'}],
   limits:[restriction]
  },
  'VR-PH-003-008':{
-  reviewed:'2026-09-12',
+  reviewed:'2026-10-13',
   definition:[p('DASS-Y是针对儿童青少年语言和体验开发的21题自评工具，评估过去一周的抑郁、焦虑及压力症状。开发者当前页面标注适用年龄为8–17岁。它是独立的青年版，不是给儿童直接填写成人DASS-21。','DASSY.htm','青年版官方说明')],
   scoring:[p('三个分量表各7题，每题0–3分，分别相加后各为0–21分。DASS-Y不乘2，不直接套用成人DASS或DASS-21的常模。','DASSY.htm','青年版评分说明'),p('官方青年版严重程度分界来自原开发样本的分位数，用于描述，不等于诊断阈值；用于其他地区或译本时需另核对。','DASS-Y%20cutoffs.htm','青年版分界值来源')],
-  translations:[{label:'简体中文：Luo 与 Tian',url:base+'DASS-Y%20Chinese%20(simplified)/Luo%20Tian%20simplified%20Chinese.htm',note:'官方收录；21题与四级选项已对照原件整理。具体译文与验证研究匹配仍在核查。'},
+  translations:[{label:'简体中文：Luo 与 Tian',url:base+'DASS-Y%20Chinese%20(simplified)/Luo%20Tian%20simplified%20Chinese.htm',note:'21题与Luo等2025研究补充表S1逐题匹配；研究涉及苏州404名14–17岁高职学生，不代表所有儿童人群已验证。补充表未列完整回答锚点，选项保留官方PDF。'},
+   {label:'Luo等2025研究及补充表S1',url:'https://link.springer.com/article/10.1007/s12144-025-08057-7',note:'已核对方法及研究题文。研究指出性别测量差异和部分条目理解困难；不能只保留“信效度良好”的结论。'},
    {label:'简体中文：Cao 与 Chen',url:base+'DASS-Y%20Chinese%20(simplified)/Cao%20Chen%20simplified%20Chinese.htm',note:'入口同时提供译本及2023年验证论文。原件选项为频率表述，与其他译本措辞不同，不自动互换。'},
    {label:'简体中文：Xie',url:base+'DASS-Y%20Chinese%20(simplified)/Xie%20simplified%20Chinese.htm',note:'官方目录列出，当前获取未成功，尚未核对完整表单。'},
    {label:'繁体中文：香港卫生署学生健康服务',url:base+'DASS-Y%20Chinese%20(traditional)/Hong%20Kong%20Health/Hong%20Kong%20Health%20traditional%20Chinese%20translation%20of%20DASS-Y.htm',note:'官方收录；21题及选项已对照原件整理，保留香港用语。匹配的独立验证证据尚待补充。'},
-   {label:'Cao等2023年验证研究',url:'https://doi.org/10.1186/s13034-023-00655-2',note:'研究分析对部分条目合并了回答类别。该研究处理不能直接替代原表0–3四级评分，也不能将修正后的测量结果直接归于未修正版本。'}],
+   {label:'Cao等2023年验证研究',url:'https://doi.org/10.1186/s13034-023-00655-2',note:'已核对补充表S1：21题按维度分组，映射后与官网题文对应，标点排版差异已记录。样本为1507名小学生和1131名中学生；部分分析合并回答类别，其修正结果不能直接归于未修正四级版本。'}],
   limits:[restriction]
  }
 };

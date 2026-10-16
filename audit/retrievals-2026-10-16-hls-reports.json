@@ -1,0 +1,30 @@
+[
+  {
+    "file": "hls-q16-austria-2013-repaired.pdf",
+    "url": "https://oepgk.at/website2023/wp-content/uploads/2020/02/bericht_die_gesundheitskompetenz_von_15-jaehrigen_jugendlich.pdf",
+    "reviewed": "2026-10-16",
+    "bytes": 550324,
+    "finalUrl": "https://oepgk.at/",
+    "type": "text/html; charset=utf-8",
+    "sha256": "702008cb03818daa956a22f7d14267e0aa3c7caea6b62a6b5b1dd8c12a5ae052",
+    "status": "failed",
+    "error": "Not PDF; no candidate PDF retained"
+  },
+  {
+    "file": "hls-austria-2013-regional-report.pdf",
+    "url": "https://fgoe.org/sites/fgoe.org/files/project-attachments/Gesundheitskompetenz_Bundesl%C3%A4nder_%C3%96ffentlich.pdf",
+    "reviewed": "2026-10-16",
+    "bytes": 1701227,
+    "finalUrl": "https://fgoe.org/sites/fgoe.org/files/project-attachments/Gesundheitskompetenz_Bundesl%C3%A4nder_%C3%96ffentlich.pdf",
+    "type": "application/pdf",
+    "sha256": "704d874a0bb19e61b025f1778d87de386bc584e5e16709009e417cdd6bf8e73f",
+    "status": "downloaded",
+    "pages": 114,
+    "visualReviewedPages": [
+      33,
+      34,
+      35
+    ],
+    "scope": "Read title/citation and section2.3 pp33-35, not full114-page content audit; not Q16 youth report. Table2-4 counts43/15/14/15 conflict with p35 at least80% prose."
+  }
+]

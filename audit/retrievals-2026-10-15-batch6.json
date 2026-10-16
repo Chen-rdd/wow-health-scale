@@ -1,0 +1,106 @@
+[
+  {
+    "file": "proqol5-selfscore.pdf",
+    "url": "https://img1.wsimg.com/blobby/go/dfc1e1a0-a1db-4456-9391-18746725179b/downloads/d166bd95-9656-4316-aed4-1e638bd194c8/ProQOL_5_English_Self-Score.pdf",
+    "bytes": 135172,
+    "sha256": "6761ddb5a170c6feadc9a50d2d2349f75a377b100c1be111f8128ee06f610a1f",
+    "pages": 3,
+    "status": "downloaded"
+  },
+  {
+    "file": "proqol4-5-comparison.pdf",
+    "url": "https://img1.wsimg.com/blobby/go/dfc1e1a0-a1db-4456-9391-18746725179b/downloads/59eb27a7-28e8-4487-a42c-08688f65eb18/ProQOL_4%20to%205%20Comparison.pdf",
+    "bytes": 114282,
+    "sha256": "ca935dc1b8707a758cc51a9ce1840e6bfc04cd66a3e63ac12f171afc8629cd59",
+    "pages": 1,
+    "status": "downloaded"
+  },
+  {
+    "file": "proqol5-zh-simplified.pdf",
+    "url": "https://img1.wsimg.com/blobby/go/dfc1e1a0-a1db-4456-9391-18746725179b/downloads/Chinese%20-%20Simplified.pdf",
+    "bytes": 62856,
+    "sha256": "09a8fcf0b14df49d09e6d18463a0e37d82d0e69ac00ca113a2ab7cdc398e5c9c",
+    "pages": 1,
+    "status": "downloaded"
+  },
+  {
+    "file": "proqol-manual.pdf",
+    "url": "https://img1.wsimg.com/blobby/go/dfc1e1a0-a1db-4456-9391-18746725179b/downloads/ProQOL%20Manual.pdf",
+    "bytes": 1626999,
+    "sha256": "8f56e3dcd8ca74f6e9dd3d5363b573f2c0f226f49e7a1e81ca5c512d81fad8e4",
+    "pages": 74,
+    "status": "downloaded"
+  },
+  {
+    "file": "cbi-official.pdf",
+    "url": "https://nfa.dk/media/a4wheblj/cbi-scales.pdf",
+    "bytes": 97343,
+    "sha256": "d75709eeb2089094672a6633ebb8372eaff3b3e04f8784b1bbc23b739751d9ca",
+    "pages": 2,
+    "status": "downloaded"
+  },
+  {
+    "file": "eri-short-en.pdf",
+    "url": "https://www.uniklinik-duesseldorf.de/fileadmin/Fuer-Patienten-und-Besucher/Kliniken-Zentren-Institute/Institute/Institut_fuer_Medizinische_Soziologie/Forschung/E_ERI_SHORT_NOV2012.pdf",
+    "bytes": 27244,
+    "sha256": "86b7f594032dd69210b32acb6c7725d79f1538dd995ca9c0fe0ea5419412eac5",
+    "pages": 1,
+    "status": "downloaded"
+  },
+  {
+    "file": "eri-long-en.pdf",
+    "url": "https://www.uniklinik-duesseldorf.de/fileadmin/Fuer-Patienten-und-Besucher/Kliniken-Zentren-Institute/Institute/Institut_fuer_Medizinische_Soziologie/Forschung/E_ERI_LONG_NOV2012.pdf",
+    "bytes": 27445,
+    "sha256": "18a29e96da2a1928e3c619fb7d676555356198c5a037d4aa87d279030da842fc",
+    "pages": 1,
+    "status": "downloaded"
+  },
+  {
+    "file": "eri-short-zh.pdf",
+    "url": "https://www.uniklinik-duesseldorf.de/fileadmin/Fuer-Patienten-und-Besucher/Kliniken-Zentren-Institute/Institute/Institut_fuer_Medizinische_Soziologie/Forschung/Chinese_short_ERI.pdf",
+    "bytes": 47450,
+    "sha256": "553b876d9153135e31e38144195e23d697d1f7673c678fbe41d1cc0cb19e19ce",
+    "pages": 3,
+    "status": "downloaded"
+  },
+  {
+    "file": "eri-long-zh.pdf",
+    "url": "https://www.uniklinik-duesseldorf.de/fileadmin/Fuer-Patienten-und-Besucher/Kliniken-Zentren-Institute/Institute/Institut_fuer_Medizinische_Soziologie/Forschung/Chinese_long_ERI.pdf",
+    "bytes": 54147,
+    "sha256": "74784882e24db7ed69c5c1b40dffb59c66373a1e2b3faba3d106d3afed1148e4",
+    "pages": 3,
+    "status": "downloaded"
+  },
+  {
+    "file": "eri-manual.pdf",
+    "url": "https://www.uniklinik-duesseldorf.de/fileadmin/Fuer-Patienten-und-Besucher/Kliniken-Zentren-Institute/Institute/Institut_fuer_Medizinische_Soziologie/Dateien/ERI/PsychometricProperties.pdf",
+    "bytes": 463668,
+    "sha256": "ab93505682fe96a8d76482f482c23f2c0e59abb3d7ac4972a63e623a802427a6",
+    "pages": 28,
+    "status": "downloaded"
+  },
+  {
+    "file": "cbi-student-2013.pdf",
+    "url": "https://www.scielo.br/j/prc/a/FwPMLj7WGdFjFyBdrgDvFRw/?format=pdf&lang=en",
+    "bytes": 3389358,
+    "sha256": "30f3e0519854df3315a9b22d9c4fab538d9a17acfa6f6967b14da00002e339fc",
+    "pages": 11,
+    "status": "downloaded"
+  },
+  {
+    "file": "eri-short-study-2012.pdf",
+    "url": "https://www.jstage.jst.go.jp/article/joh/54/6/54_12-0106-BR/_pdf/-char/en",
+    "bytes": 313655,
+    "sha256": "98f1710c6c50196578e2dfee51a64f4715490d533386583205f90576036ac1e5",
+    "pages": 7,
+    "status": "downloaded"
+  },
+  {
+    "file": "olbi-student-2012.pdf",
+    "url": "https://www.scielo.br/j/prc/a/7zgKNFznCFY6wTS4HvKGWMR/?format=pdf&lang=en",
+    "bytes": 584543,
+    "sha256": "e46222e594ca556452fdbfb188c047b362ed0ff4b08cbb9ac691cf7dcb59d5e9",
+    "pages": 10,
+    "status": "downloaded"
+  }
+]

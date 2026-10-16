@@ -1,0 +1,291 @@
+[
+  {
+    "file": "cahps-cg-current.html",
+    "url": "https://www.ahrq.gov/cahps/surveys-guidance/cg/index.html",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "cahps-hp-current.html",
+    "url": "https://www.ahrq.gov/cahps/surveys-guidance/hp/index.html",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "hcahps-current.html",
+    "url": "https://www.hcahpsonline.org/",
+    "bytes": 20481,
+    "sha256": "c3596b31f6286bd4b23d5d68958a6e99acbd63cd258effa290f20f61d00d408d",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "hcahps-2025-faq.pdf",
+    "url": "https://www.hcahpsonline.org/globalassets/hcahps/facts/2025-hcahps-faqs.pdf",
+    "bytes": 235764,
+    "sha256": "5b370aeeb169d5738640a3b02650d31ff11ec4e0e9474a50f0ac90a65ae6460c",
+    "type": "application/pdf",
+    "status": "downloaded"
+  },
+  {
+    "file": "hhcahps-current.html",
+    "url": "https://homehealthcahps.org/",
+    "bytes": 34973,
+    "sha256": "dd246a0722b89bf551cde78134bd328ba17abc5404393a18b30e318bfc9a358b",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "sdmq-home.html",
+    "url": "https://www.sdmq9.org/",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)>"
+  },
+  {
+    "file": "b16-14528569-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:14528569%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 5471,
+    "sha256": "1ab8a94893b84c38efcb10c75f7d95a21794ac29714793e9f6f57bdbc087de40",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "b16-10785582-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:10785582%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 4715,
+    "sha256": "41bd41c605fd4fde0966950d6190706ebde3fe1a816bdd300c3c0e381c083779",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "b16-19911444-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:19911444%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 5685,
+    "sha256": "2c28b2e64c498e4cfe8005160c4b5a78e92ea773cfa6798c45f1332748a9336d",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "b16-10895844-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:10895844%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 5272,
+    "sha256": "bb1cfbdf541415eedb7cb908843b53cd1ad58c43473fe816dbd2d6d777bc6624",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "b16-19879711-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:19879711%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 5234,
+    "sha256": "ff2729e89c2a452fc4c6ac6b6714143337e061528ae00d9a823e6e953579a568",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "b16-22480628-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:22480628%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 5701,
+    "sha256": "2e703725a7a1d3cbe1b0e28970cac87d49cce475b425391a1f331f4b8b783b88",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "b16-25946926-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:25946926%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 6839,
+    "sha256": "d365a55bda7c3ef07580bf23051c98d8db9859df3a0960fb6387e942958e984c",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "mars5-2020.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7319010/",
+    "bytes": 176393,
+    "sha256": "fe26e0f12a20a7c44dc4168bdf4c107faf340c74c518146e71f40bc4541f8496",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "mmas-retraction-2023.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10497024/",
+    "bytes": 91510,
+    "sha256": "2356bccf71682f48dab37feff1adb1dc42b5d5c5249d348c363264a4804874dc",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "sdsca-2000.pdf",
+    "url": "https://diabetesjournals.org/care/article-pdf/23/7/943/450689/10895844.pdf",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "arms-emory.html",
+    "url": "https://ott.emory.edu/industry/featured/arms.html",
+    "bytes": 58690,
+    "sha256": "c487f4ee6a24c67daf8d2c60836e0c037f2ff4b72d7a1375eb5af69cd60877e4",
+    "type": "text/html; charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "arms-original.html",
+    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1524-4733.2008.00400.x",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "sdmq-downloads.html",
+    "url": "https://www.patient-als-partner.de/index.php?article_id=20&clang=2",
+    "bytes": 19699,
+    "sha256": "6672f840e905c6df4ae6c14d75cc71cd8ad5575e871ee59648c38286eb7b7746",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "mmas-license.html",
+    "url": "https://www.moriskyscale.com/mmas-license-pricing.html",
+    "bytes": 166789,
+    "sha256": "e02dfa136c336bd317042a13ac7295ca162f0540e55ccadfbfa482948a7361f7",
+    "type": "text/html; charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "cahps-cg-adult31.pdf",
+    "url": "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/adult-english-cg-3-1-2351a.pdf",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "cahps-cg-child31.pdf",
+    "url": "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/child-english-cg-3-1-2353a.pdf",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "cahps-cg-visit40.pdf",
+    "url": "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/adult-eng-cg40-3351a.pdf",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "cahps-hp51.zip",
+    "url": "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/hp/HP51-survey.zip",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "hhcahps-cms-2026.html",
+    "url": "https://www.cms.gov/medicare/quality/home-health-quality-reporting-program/home-health-care-cahpsr-hhcahps-survey",
+    "bytes": 204514,
+    "sha256": "38dc2368a473d52de506e6e24c6193c8981ade84cdf1b87f293f10790fae9d14",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "hhcahps-materials.html",
+    "url": "https://homehealthcahps.org/Survey-and-Protocols/Survey-Materials",
+    "bytes": 83650,
+    "sha256": "61c8f912e37c5b16c87bcb8bdac9ed6f67daf20571c7a7e3a030df88a39843db",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "sdmq9-zh-simple.pdf",
+    "url": "https://www.patient-als-partner.de/media/sdm-q-9_simplified_chinese_final.pdf",
+    "bytes": 172771,
+    "sha256": "b3399e1b87db30dd25f571443c06bc984d37f0435edde2ae81aca1e17110523f",
+    "type": "application/pdf",
+    "status": "downloaded"
+  },
+  {
+    "file": "sdmqdoc-zh-simple.pdf",
+    "url": "https://www.patient-als-partner.de/media/sdm-q-doc_simplified_chinese_version_final.pdf",
+    "bytes": 174848,
+    "sha256": "da7d3ea52e5cb0dd7755af68c55e5aa6d7cf83f03c62d0a67ee9efcca332b90d",
+    "type": "application/pdf",
+    "status": "downloaded"
+  },
+  {
+    "file": "sdmq9-en.pdf",
+    "url": "https://www.patient-als-partner.de/media/sdm-q-9_english_version.pdf",
+    "bytes": 23360,
+    "sha256": "6469e6961144e08235fd2286b2329d82581de0449735e83f01f3b26c6406ece0",
+    "type": "application/pdf",
+    "status": "downloaded"
+  },
+  {
+    "file": "sdmqdoc-en.pdf",
+    "url": "https://www.patient-als-partner.de/media/sdm-q-doc_english_version.pdf",
+    "bytes": 23742,
+    "sha256": "190bc40656ca48cd03c87d10695d99e82def2eefde7154dee05d829f314a7e5c",
+    "type": "application/pdf",
+    "status": "downloaded"
+  },
+  {
+    "file": "b16-3945130-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:3945130%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 4176,
+    "sha256": "28818e7b5d387d97b4ce2b4bbe4ac612169856e8f7264faa7524dd22a66b299c",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "hhcahps-en-current.pdf",
+    "url": "https://homehealthcahps.org/Portals/0/SurveyMaterials/HHCAHPS_Questionnaire_English.pdf",
+    "bytes": 303693,
+    "sha256": "1dfe3aa06bf3eef177f1f68baa88ba60dfca726a48a5d71372b3e9512c7232df",
+    "type": "application/pdf",
+    "status": "downloaded"
+  },
+  {
+    "file": "hhcahps-zh-current.pdf",
+    "url": "https://homehealthcahps.org/Portals/0/SurveyMaterials/HHCAHPS_Questionnaire_SimplifiedChinese.pdf",
+    "bytes": 941467,
+    "sha256": "3c09854022bec08e071dc3a060eac8bc052bbf3beb7a594142c509f23541c6f2",
+    "type": "application/pdf",
+    "status": "downloaded"
+  },
+  {
+    "file": "hhcahps-composites-current.pdf",
+    "url": "https://homehealthcahps.org/Portals/0/SurveyMaterials/HHCAHPS_Composites_Global_Ratings.pdf",
+    "bytes": 97994,
+    "sha256": "25b91d013817036a9348f068cdb74273bb97de5cccc8b45199d2e4685e332ea7",
+    "type": "application/pdf",
+    "status": "downloaded"
+  },
+  {
+    "file": "mars-rating-mapi.html",
+    "url": "https://eprovide.mapi-trust.org/instruments/medication-adherence-rating-scale",
+    "bytes": 3132,
+    "sha256": "9fa07b96f987ac350a164af22e5fc91a2fc0d6a5de0ba00b095d05e88a7c509d",
+    "type": "text/html",
+    "status": "downloaded",
+    "scope": "动态网页壳，不是正式题本或可读完整目录"
+  },
+  {
+    "file": "sdsca-rg.html",
+    "url": "https://www.researchgate.net/publication/12423077_The_Summary_of_Diabetes_Self-Care_Activities_measure_results_from_7_studies_and_a_revised_scale",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://www.ahrq.gov/cahps/surveys-guidance/cg/index.html",
+    "status": "web_text_read_only",
+    "scope": "官方页面及成人／儿童3.1、成人Visit4.0 PDF文字经网页工具可读；本地下载403，未视觉复核"
+  },
+  {
+    "url": "https://www.ahrq.gov/cahps/surveys-guidance/hp/index.html",
+    "status": "web_text_read_only",
+    "scope": "官方5.1说明经网页工具核读，ZIP本地403"
+  },
+  {
+    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1524-4733.2008.00400.x",
+    "status": "web_text_read_only",
+    "scope": "出版社全文方法与表2／3及结果经网页工具核读，本地请求403；无PDF视觉"
+  },
+  {
+    "url": "https://www.researchgate.net/publication/12423077_The_Summary_of_Diabetes_Self-Care_Activities_measure_results_from_7_studies_and_a_revised_scale",
+    "status": "web_text_read_only",
+    "scope": "原作者Toobert上传全文网页，修订讨论、核心11／扩展14及附录计分文字核读；本地403，未取得有效PDF"
+  }
+]

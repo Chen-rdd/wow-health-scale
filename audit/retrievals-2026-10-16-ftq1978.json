@@ -1,0 +1,20 @@
+[
+  {
+    "file": "ftq-fagerstrom-1978-institutional.pdf",
+    "doi": "10.1016/0306-4603(78)90024-2",
+    "url": "https://www.sciencedirect.com/science/article/pii/0306460378900242",
+    "status": "native_fulltext_downloaded",
+    "accessMode": "Shanghai Jiao Tong University institutional ScienceDirect Chrome",
+    "reviewed": "2026-10-16",
+    "pages": 7,
+    "bytes": 143911,
+    "sha256": "ac357e416e15c8fabee2d56b9c879bd01c41124c0db20f99ffec949f1d288bf8",
+    "visualReviewedPrintedPages": [
+      236,
+      238,
+      241
+    ],
+    "scope": "Eight items and Appendix1 visually checked; relevant all3 experiment methods/results/discussion text read. Original26- category includes26, original0-11 explicit. Original item order differs later forms. No separately labelled SI observed on inspected page/PDF, not proof none exists.",
+    "redistribution": "local only"
+  }
+]

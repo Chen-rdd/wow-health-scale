@@ -1,0 +1,284 @@
+[
+  {
+    "file": "ucla-russell-1978-author.pdf",
+    "doi": "10.1207/s15327752jpa4203_11",
+    "url": "https://sites.lifesci.ucla.edu/peplaulab/wp-content/uploads/sites/141/2017/07/Russel_Peplau_Ferguson_78.pdf",
+    "status": "downloaded",
+    "date": "2026-10-16",
+    "bytes": 530666,
+    "sha256": "338280154347962d95d4fd81ee8d8d86f6d1176b61fa5a7d9ecdf2c128aa036f",
+    "pages": 5,
+    "visualReviewedPrintedPages": [
+      290,
+      291,
+      292,
+      293,
+      294
+    ],
+    "scope": "Complete5page author copy visually read; publisher landing inaccessible; independent SI check incomplete.",
+    "rawFilesLocalOnly": true,
+    "siStatus": "check_incomplete",
+    "completeness": "article_pages_present"
+  },
+  {
+    "file": "ucla-neto-1992-iscet.pdf",
+    "doi": "10.2224/sbp.1992.20.1.15",
+    "url": "https://www.iscet.pt/uploads/obSolidao/loneliness_portuguese_adolescents.pdf",
+    "status": "downloaded",
+    "date": "2026-10-16",
+    "bytes": 783266,
+    "sha256": "055f8251cb1b8e0cf9954d1de8a3f0384dbdb6045bdc6bfc2b63cb9e39fda65f",
+    "pages": 8,
+    "visualReviewedPrintedPages": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "scope": "8file pages include7printed article pages15-21 and copyright; bibliography15-22, printed22 not seen. Content relevant to development read; completeness NOT confirmed; independent SI incomplete.",
+    "rawFilesLocalOnly": true,
+    "siStatus": "check_incomplete",
+    "completeness": "unconfirmed_missing_printed22"
+  },
+  {
+    "file": "ucla-neto-2014-publisher-response.pdf",
+    "doi": "10.1007/s10433-014-0312-1",
+    "url": "https://link.springer.com/content/pdf/10.1007/s10433-014-0312-1.pdf",
+    "status": "downloaded",
+    "date": "2026-10-16",
+    "bytes": 201203,
+    "sha256": "d96596c09b7573e6500d6a073da1ff2a3b68ccf48baaac7b38eda11db1ae7667",
+    "pages": 7,
+    "visualReviewedPrintedPages": [
+      315,
+      316,
+      317
+    ],
+    "scope": "Publisher PDF obtained through normal public URL without credential transfer; relevant methods/results/limitations read, Table1-3 visual. No separate SI seen on inspected publisher landing, not proof none.",
+    "rawFilesLocalOnly": true,
+    "siStatus": "check_incomplete",
+    "completeness": "article_pages_present"
+  },
+  {
+    "file": "arms-kripalani-2009-institutional.pdf",
+    "doi": "10.1111/j.1524-4733.2008.00400.x",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1098301510606821",
+    "status": "downloaded",
+    "date": "2026-10-16",
+    "bytes": 109267,
+    "sha256": "3d73aa61f32b250fb100a446fc46c9155a01ba36a98275846479ea5a84c457a1",
+    "pages": 6,
+    "visualReviewedPrintedPages": [
+      119,
+      121,
+      122
+    ],
+    "scope": "Chrome with SJTU identity; PDF opened normally, no challenge operated. Methods/results/limitations and Table2-4 read. No separate SI observed on inspected landing, not proof none.",
+    "rawFilesLocalOnly": true,
+    "siStatus": "check_incomplete",
+    "completeness": "article_pages_present"
+  },
+  {
+    "file": "barthel-collin-1988-institutional.pdf",
+    "doi": "10.3109/09638288809164103",
+    "url": "https://www.tandfonline.com/doi/epdf/10.3109/09638288809164103?needAccess=true",
+    "status": "downloaded",
+    "date": "2026-10-16",
+    "bytes": 522930,
+    "sha256": "23f728337acd7cc095f6dd4d4644d1b1546fe68cca665c348ddc3a357ae20e8d",
+    "pages": 4,
+    "visualReviewedPrintedPages": [
+      61,
+      62,
+      63
+    ],
+    "scope": "SJTU institution selected via T&F SSO and automatically returned to3page ePDF; downloaded file includes publisher cover plus3original pages. All3article pages and complete appendix visually read; separate materials drawer not yet inspected.",
+    "rawFilesLocalOnly": true,
+    "siStatus": "check_incomplete",
+    "completeness": "article_pages_present"
+  },
+  {
+    "doi": "10.1093/geront/9.3_Part_1.179",
+    "status": "failed_after_retry",
+    "url": "https://www.eurohex.eu/bibliography/pdf/Lawton_Gerontol_1969-1502121986/Lawton_Gerontol_1969.pdf",
+    "scope": "NormalTLS certificate hostname mismatch on www and bare host, no TLS bypass; no file acquired. OUP web request failed. Not evidence school lacks subscription."
+  },
+  {
+    "doi": "10.1007/s10433-014-0312-1",
+    "status": "publisher_verification_waiting_user",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5549168/pdf/10433_2014_Article_312.pdf",
+    "file": "ucla-neto-2014-response.html",
+    "scope": "PMC request returned reCAPTCHA HTML, notPDF. Subsequently publisher normal PDF route succeeded; PMC failure retained as history."
+  },
+  {
+    "pmcid": "PMC1070196",
+    "status": "publisher_verification_waiting_user",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1070196/pdf/hsresearch00035-0117.pdf",
+    "file": "sf36-acute-1997-response.html",
+    "scope": "Known PDF link from previously saved article HTML returned reCAPTCHA HTML. No validation attempted, no validPDF acquired."
+  },
+  {
+    "doi": "10.1207/s15327752jpa5101_6",
+    "url": "https://www.tandfonline.com/doi/abs/10.1207/s15327752jpa5101_6",
+    "status": "library_no_permission",
+    "scope": "After successful SJTU T&F SSO, page explicitly states Content unavailable / This content is not available within Shanghai Jiaotong University. Specific article entitlement result; not all publisher or library content. No direct PDF retry, purchase or author contact."
+  },
+  {
+    "doi": "10.1016/j.paid.2008.02.003",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0191886908000536",
+    "file": "ucla-wu-yao-2008-institutional.pdf",
+    "status": "native_fulltext_downloaded",
+    "bytes": 179722,
+    "pages": 10,
+    "sha256": "731d435620d556988226e4e2e9d85ccefed939a809fbfa79407994b911ecde2f",
+    "visualReviewedPrintedPages": [
+      1764,
+      1767,
+      1768,
+      1769
+    ],
+    "scope": "Methods/results/discussion read; Tables1-3 and specified pages visually checked. No full Chinese questionnaire or complete translation procedure displayed. No independently labelled SI observed on inspected landing, not proof none. PDF opened normally without challenge operation; save confirmed by assistant.",
+    "siStatus": "check_incomplete",
+    "rawFilesLocalOnly": true
+  },
+  {
+    "file": "tfi-dong-2017-institutional.pdf",
+    "doi": "10.1016/j.archger.2017.07.001",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0167494316303193",
+    "status": "downloaded",
+    "date": "2026-10-16",
+    "bytes": 294248,
+    "sha256": "e597b35b7910bbc3b7ae2b215ccb1abae0fc7c1700872c3bf2bf270137aca814",
+    "pages": 8,
+    "visualReviewedPrintedPages": [
+      22,
+      24,
+      27
+    ],
+    "scope": "Relevant methods/results/limitations read, Table5 and printed22/24/27 visually checked. Transient robot page cleared normally without operating a challenge; assistant saved PDF.",
+    "rawFilesLocalOnly": true,
+    "siStatus": "independent_chinese_appendix_obtained",
+    "completeness": "article_pages_present"
+  },
+  {
+    "file": "tfi-dong-2017-supplement.docx",
+    "doi": "10.1016/j.archger.2017.07.001",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0167494316303193-mmc1.docx",
+    "status": "downloaded",
+    "date": "2026-10-16",
+    "bytes": 16965,
+    "sha256": "d13ef07d5a674c0c26239826b3a95a812f112bf4c1cf4cf1da108bfdcd671864",
+    "pages": 1,
+    "visualReviewedPrintedPages": [
+      1
+    ],
+    "scope": "Complete Chinese B15 appendix XML text read; opened native WPS and visually checked all one page, three answer columns and nonapplicable middle cells. No scoring numbers or full administration instructions; no new public questionnaire.",
+    "rawFilesLocalOnly": true,
+    "siStatus": "independent_chinese_appendix_obtained",
+    "completeness": "all15_chinese_items_present"
+  },
+  {
+    "file": "frail-dong-2018-institutional.pdf",
+    "doi": "10.1016/j.jamda.2017.06.011",
+    "url": "https://www.jamda.com/article/S1525-8610(17)30342-0/fulltext",
+    "status": "native_fulltext_downloaded",
+    "date": "2026-10-16",
+    "bytes": 257929,
+    "sha256": "6632adb2d2bdeca17d9c43c9cb599e0ef88c65beadbad33ad3e4a2db78e8ab81",
+    "pages": 6,
+    "visualReviewedPrintedPages": [
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "scope": "Institution header SJTU; original PDF saved by assistant. Methods/results/discussion and both embedded appendices read; printed13-17 and Tables1-5 visually checked. Appendix1 titled Chinese Version but displayed English items, not full Chinese wording. PDF weight loss >5 vs HTML >=5 conflict preserved; statistical methods Pearson/ICC terminology conflict retained.",
+    "rawFilesLocalOnly": true,
+    "siStatus": "embedded_appendices_obtained_independent_si_check_incomplete",
+    "completeness": "article_pages_present"
+  },
+  {
+    "doi": "10.1093/geront/9.3_Part_1.179",
+    "url": "https://academic.oup.com/gerontologist/article-abstract/9/3_Part_1/179/552574",
+    "date": "2026-10-16",
+    "status": "library_no_permission",
+    "scope": "Oxford institutional selector Shanghai Jiao Tong University -> jaccount automatic return; original article page states Signed in as Shanghai Jiao Tong University but You do not currently have access to this article. No file obtained, purchase or terms accepted. Specific article current entitlement only; no direct PDF retry."
+  },
+  {
+    "doi": "10.1093/sleep/14.6.540",
+    "url": "https://academic.oup.com/sleep/article-abstract/14/6/540/2742871",
+    "date": "2026-10-16",
+    "status": "library_no_permission",
+    "scope": "Oxford page Signed in as / Institutional account Shanghai Jiao Tong University but You do not currently have access to this article. No PDF acquired; no direct PDF retry, purchase or society-account login."
+  },
+  {
+    "file": "ess-chad-janssen-2017-institutional.pdf",
+    "doi": "10.1016/j.sleep.2017.01.014",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1389945717300497",
+    "date": "2026-10-16",
+    "status": "native_fulltext_downloaded",
+    "bytes": 697596,
+    "sha256": "5bde60a5a2f89a273183da6959233d4c9f851f84ec80b14d2ccfa10d28935dcc",
+    "rawFilesLocalOnly": true,
+    "pages": 6,
+    "visualReviewedPrintedPages": [
+      31,
+      32,
+      33,
+      34
+    ],
+    "scope": "Methods/results/discussion/limitations and Table1-4 read; printed31-34 visually checked. Two-week recall adaptation,29-person one-week retest,mode count307vs297 conflict and Table1 age range11-13vsabstract12-18 retained. No complete licensed form or Chinese wording.",
+    "siStatus": "independent_zip_downloaded_xfa_visual_pending"
+  },
+  {
+    "file": "ess-chad-janssen-2017-coi.zip",
+    "doi": "10.1016/j.sleep.2017.01.014",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S1389945717300497-mmc1.zip",
+    "date": "2026-10-16",
+    "status": "downloaded_content_review_blocked",
+    "bytes": 4646263,
+    "sha256": "2a23d5e2038dd2c8bb5139651aa43f23c069fc94ad4850c9f2dcc3f59603d293",
+    "rawFilesLocalOnly": true,
+    "pages": null,
+    "visualReviewedPrintedPages": [],
+    "scope": "ZIP CRC passed, four filenames labelled COI disclosures. Each PDF rendered only Please wait/XFA fallback; actual disclosure content not visually readable in current reader. Do not count fallback one page as actual form pages or claim content review complete.",
+    "siStatus": "independent_zip_downloaded_xfa_visual_pending"
+  },
+  {
+    "file": "ess-chad-wang-2022-publisher.pdf",
+    "doi": "10.1016/j.sleep.2021.11.003",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1389945721005529",
+    "date": "2026-10-16",
+    "status": "downloaded",
+    "bytes": 987523,
+    "sha256": "43e745a17427d7818293ce9716f76c0273b22b82385505707ec8aee3402656ab",
+    "rawFilesLocalOnly": true,
+    "pages": 7,
+    "visualReviewedPrintedPages": [
+      79,
+      82,
+      83,
+      84
+    ],
+    "scope": "Relevant methods/results/limitations read; printed79/82-84 Figure1 and Tables2-4 visual. Complete English one-week sample-only form in Figure1, separate Johns copyright retained.100/64/59 denominators,age subgroup ICC differences,caregiver assistance and non-randomized validation analysis boundaries recorded; no Chinese form or project license.",
+    "siStatus": "independent_zip_downloaded_xfa_content_pending"
+  },
+  {
+    "file": "ess-chad-wang-2022-coi.zip",
+    "doi": "10.1016/j.sleep.2021.11.003",
+    "url": "https://ars.els-cdn.com/content/image/1-s2.0-S1389945721005529-mmc1.zip",
+    "date": "2026-10-16",
+    "status": "downloaded_content_review_blocked",
+    "bytes": 9318200,
+    "sha256": "183a91abd6fe539615d3b0f9b73d953d0ecc74e64d33a4615a4cf7668aedc5b3",
+    "rawFilesLocalOnly": true,
+    "pages": null,
+    "visualReviewedPrintedPages": [],
+    "scope": "ZIP CRC passed,8PDF filenames indicate COI disclosures; all contain XFA Please wait fallback text in current reader. Actual disclosure contents not visually reviewed, fallback one page not actual page-count approval.",
+    "siStatus": "independent_zip_downloaded_xfa_content_pending"
+  }
+]

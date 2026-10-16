@@ -1,0 +1,222 @@
+[
+  {
+    "file": "ftnd-1991.pdf",
+    "url": "https://cpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/4/869/files/2010/10/91_Heatherton_etal_BJA.pdf",
+    "bytes": 686431,
+    "sha256": "7e995c4911640a73d63fa305005864af1592f7676c228052cc34cec348bb0580",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_author_repository",
+    "pages": 10
+  },
+  {
+    "file": "cage-aid-uw.pdf",
+    "url": "https://adai.uw.edu/instruments/pdf/CAGE-AID.pdf",
+    "bytes": 27418,
+    "sha256": "96deb73142788993d6fa48b66a7a2606fc206f1601298d5c9f538357c0b226b9",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_author_repository",
+    "pages": 2
+  },
+  {
+    "file": "audit-who-landing.html",
+    "url": "https://www.who.int/publications/i/item/WHO-MSD-MSB-01.6a",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "siRequested": true
+  },
+  {
+    "file": "audit-c-niaaa.html",
+    "url": "https://www.niaaa.nih.gov/health-professionals-communities/core-resource-on-alcohol/screen-and-assess-use-quick-effective-methods",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "siRequested": true
+  },
+  {
+    "file": "ftq-apa.html",
+    "url": "https://www.apa.org/pubs/videos/4310588-scale",
+    "bytes": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+    "status": "failed",
+    "siRequested": true,
+    "accessMode": "public_official_or_author_repository",
+    "error": "212-byte Incapsula security page, not instrument HTML; web-indexed text separately read"
+  },
+  {
+    "file": "cage-aid-uw.html",
+    "url": "https://www.hiv.uw.edu/page/substance-use/cage-aid",
+    "bytes": 127275,
+    "sha256": "627594998914604dedc11cc1ac12bab2b738c15d88b65f4995053c570c57005d",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_author_repository"
+  },
+  {
+    "file": "audit-who-manual.pdf",
+    "url": "https://iris.who.int/bitstream/handle/10665/67205/WHO_MSD_MSB_01.6a.pdf",
+    "status": "failed",
+    "error": "not PDF",
+    "siRequested": true
+  },
+  {
+    "file": "audit-c-1998.pdf",
+    "url": "https://alcoholscreen.org/cmsb/uploads/1998-the-audit-alcohol-consumption-questions-%28audit-c%29an-effective-brief-screening-test-for-problem-drinking.pdf",
+    "bytes": 103631,
+    "sha256": "7b306db4d7a7796e21e20f4faa0f06ec4309c8b7d5d5e52ed3cae39d76fe7e6f",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_author_repository",
+    "pages": 7
+  },
+  {
+    "file": "cage-2008-jama.html",
+    "url": "https://jamanetwork.com/journals/jama/fullarticle/182810",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "siRequested": true
+  },
+  {
+    "file": "audit-author-faq.html",
+    "url": "https://alcoholscreen.org/about/faqs/",
+    "bytes": 17532,
+    "sha256": "4144375ad72ad28239da4f8008da26d6b50d48ae5a274e6fc1f084ad4e3a803f",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_author_repository"
+  },
+  {
+    "file": "audit-c-va-card.pdf",
+    "url": "https://www.hepatitis.va.gov/pdf/auditC-card.pdf",
+    "bytes": 122322,
+    "sha256": "cdb6269ea86383b626701e5b1a31d61f98801316c6be73e99c568bb396d16d7e",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_author_repository",
+    "pages": 2
+  },
+  {
+    "file": "cage-aid-1995-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:7778330%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 4322,
+    "sha256": "112b68df52a555ee7c9292ba9bda5838f6c99e978ce2887a7d9c71faba6150e8",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_author_repository"
+  },
+  {
+    "file": "audit-who-author-manual.pdf",
+    "url": "https://alcoholscreen.org/cmsb/uploads/2001-audit-the-alcohol-use-disorders-identification-test-guidelines-for-use-in-primary-care-geneva-world-health-organization-2001-second-edition.pdf",
+    "bytes": 176128,
+    "sha256": "b1ece4a19906cd9347f87df73db25f27d6dfb229a1e198cba31bd0828662a6a1",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_author_repository",
+    "pages": 41
+  },
+  {
+    "file": "audit-cn-simplified.pdf",
+    "url": "https://auditscreen.org/cmsb/uploads/audit-simplified-chinese.pdf",
+    "bytes": 103376,
+    "sha256": "d35a30b33aba7bb9606180353e2c2ad8fc912251eb4425cb0512d31b7766ffbd",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_author_repository",
+    "pages": 2
+  },
+  {
+    "file": "audit-cn-traditional.pdf",
+    "url": "https://auditscreen.org/cmsb/uploads/audit-chinese.pdf",
+    "bytes": 159878,
+    "sha256": "0be0c3b0b6bd2d077460eda6e930bf3fa98b8598368d55c0af8bc3023f624961",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_author_repository",
+    "pages": 1
+  },
+  {
+    "file": "audit-cn-hongkong.pdf",
+    "url": "https://auditscreen.org/cmsb/uploads/audit-interviewer-version-chinese-hong-kong.pdf",
+    "bytes": 240782,
+    "sha256": "e3ad227ec79b6930cc46095894921ee438bdb5c46fb8fcd82af06fb6effdacb9",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_author_repository",
+    "pages": 1
+  },
+  {
+    "file": "audit-cn-taiwan.pdf",
+    "url": "https://auditscreen.org/cmsb/uploads/audit-interviewer-version-chinese-taiwan.pdf",
+    "bytes": 170804,
+    "sha256": "966037a0df33072eee34eae11af50cd80cf9753f209afd019354384157e3a841",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_author_repository",
+    "pages": 1
+  },
+  {
+    "file": "ftq-1978-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI:10.1016/0306-4603%2878%2990024-2&format=json&resultType=core",
+    "bytes": 195,
+    "sha256": "761b1dc19432d5cb144b4a7f6fb3fcb2a90cfd6b241637ded1e59095776e3c65",
+    "status": "no_results",
+    "siRequested": true,
+    "accessMode": "public_official_or_author_repository",
+    "error": "DOI query returned zero records; publisher abstract separately located, not full text"
+  },
+  {
+    "file": "audit-c-2007-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:17451397%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 7228,
+    "sha256": "8a77850504bee37105ed1d642d127caaebc4809739bcde43629361f30b45ffdb",
+    "status": "downloaded",
+    "siRequested": true,
+    "accessMode": "public_official_or_author_repository"
+  },
+  {
+    "source": "cage-1984-publisher",
+    "url": "https://jamanetwork.com/journals/jama/article-abstract/394693",
+    "status": "web_text_checked",
+    "scope": "abstract_and_bibliography_only",
+    "siRequested": true
+  },
+  {
+    "source": "cage-2008-commentary",
+    "url": "https://jamanetwork.com/journals/jama/fullarticle/182810",
+    "status": "web_text_checked",
+    "scope": "web_indexed_historical_commentary_read; local_fetch_403",
+    "siRequested": true
+  },
+  {
+    "source": "cage-uw",
+    "url": "https://www.hiv.uw.edu/page/substance-use/cage",
+    "status": "web_text_checked",
+    "scope": "public_four_items_and_scoring_read",
+    "siRequested": true
+  },
+  {
+    "source": "ftq-apa-indexed",
+    "url": "https://www.apa.org/pubs/videos/4310588-scale",
+    "status": "web_text_checked",
+    "scope": "web_indexed_text_read; local_security_page_not_article",
+    "siRequested": true
+  },
+  {
+    "source": "ftq-1978-publisher",
+    "url": "https://www.sciencedirect.com/science/article/pii/0306460378900242",
+    "status": "web_text_checked",
+    "scope": "indexed_abstract_only; direct_fetch_403",
+    "siRequested": true
+  },
+  {
+    "source": "audit-c-niaaa-indexed",
+    "url": "https://www.niaaa.nih.gov/health-professionals-communities/core-resource-on-alcohol/screen-and-assess-use-quick-effective-methods",
+    "status": "web_text_checked",
+    "scope": "version_distinction_read_via_web; local_fetch_403",
+    "siRequested": true
+  },
+  {
+    "status": "remaining_materials",
+    "scope": "1978 FTQ, 1984 CAGE, 1995 CAGE-AID full text and any associated supplements not acquired; 1993 AUDIT original full text and 2007 AUDIT-C full text also pending. Downloaded standalone manuals/forms do not prove original studies complete."
+  }
+]

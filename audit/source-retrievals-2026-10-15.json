@@ -1,0 +1,18 @@
+[
+  {
+    "key": "gpaq-analysis-guide",
+    "url": "https://www.who.int/docs/default-source/ncds/ncd-surveillance/gpaq-analysis-guide.pdf?sfvrsn=1e83d571_2",
+    "siRequested": true,
+    "pages": 23,
+    "status": "open_access_downloaded",
+    "bytes": 236966,
+    "sha256": "c957c7a54239834e86904a41525086649893f88d0f05172bb0c50202fdbd2ba4"
+  },
+  {
+    "key": "ftnd-iarc-appendix",
+    "url": "https://publications.iarc.fr/_publications/media/download/4000/4d15c7deb1289ad80811b1cde14b69a8ee06f2a2.pdf",
+    "siRequested": true,
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "file": "mspss-official.pdf",
+    "url": "https://12fab08f-d2d3-ce70-6d1a-9d3fa0d8a67b.filesusr.com/ugd/5119f9_2f88fadcd382463daf5821e8af94a865.pdf",
+    "bytes": 20585,
+    "sha256": "33bae372059e6415c1392ac69503100f9f298da45a40d8662f2e2701b1d39798",
+    "status": "downloaded",
+    "pages": 2
+  },
+  {
+    "file": "osss3-2018.pdf",
+    "url": "https://link.springer.com/content/pdf/10.1186/s40359-018-0249-9.pdf",
+    "bytes": 604663,
+    "sha256": "e912ff9c2049a3404abbfb6390a36b7b555e7222b9ac5fbc328225bea4bf2651",
+    "status": "downloaded",
+    "pages": 8
+  },
+  {
+    "file": "osss3-data-2018.xls",
+    "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2Fs40359-018-0249-9/MediaObjects/40359_2018_249_MOESM1_ESM.xls",
+    "status": "failed",
+    "error": "Response did not match required file signature; not saved"
+  },
+  {
+    "file": "osss3-data-key-2018.docx",
+    "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2Fs40359-018-0249-9/MediaObjects/40359_2018_249_MOESM2_ESM.docx",
+    "bytes": 13288,
+    "sha256": "0a44e5a3c55765662ab0da0fc72bf6e9ca9a2c3a8d9d0c682230e759a514873a",
+    "status": "downloaded"
+  },
+  {
+    "file": "eheals-original-2006.pdf",
+    "url": "https://www.jmir.org/2006/4/e27/PDF",
+    "status": "failed",
+    "error": "Response did not match required file signature; not saved"
+  },
+  {
+    "file": "eheals-original-landing.html",
+    "url": "https://www.jmir.org/2006/4/e27/",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "status": "failed",
+    "error": "Empty response; not usable HTML"
+  },
+  {
+    "file": "mspss-resources.html",
+    "url": "https://gzimet.wixsite.com/mspss/about-us",
+    "bytes": 323441,
+    "sha256": "a914c7d0782d448c11480c5dcbaa59e6e5642315f8c63304b49221dff6410c50",
+    "status": "downloaded"
+  },
+  {
+    "file": "mspss-resources-form.pdf",
+    "url": "https://12fab08f-d2d3-ce70-6d1a-9d3fa0d8a67b.filesusr.com/ugd/5119f9_b72b60c1285542cbb8ee2941a8e97c2b.pdf",
+    "bytes": 20585,
+    "sha256": "33bae372059e6415c1392ac69503100f9f298da45a40d8662f2e2701b1d39798",
+    "status": "downloaded",
+    "attempt": "Mozilla UA; validate signature",
+    "pages": 2
+  },
+  {
+    "file": "mspss-resources-2.pdf",
+    "url": "https://12fab08f-d2d3-ce70-6d1a-9d3fa0d8a67b.filesusr.com/ugd/5119f9_4ee5969eb9d0458dbeca49510531766d.pdf",
+    "bytes": 683149,
+    "sha256": "242c87ddb3ef4c3833eb66e9e61ae0e5009d965d0cca9809c5b51c9a2b79d296",
+    "status": "downloaded",
+    "attempt": "Mozilla UA; validate signature",
+    "pages": 12
+  },
+  {
+    "file": "mspss-resources-3.pdf",
+    "url": "https://12fab08f-d2d3-ce70-6d1a-9d3fa0d8a67b.filesusr.com/ugd/5119f9_664dc96d5f564c34b441b310c9392446.pdf",
+    "bytes": 45665,
+    "sha256": "e2de5f749027466165ddee9613e308ee1b4247d287cc13326360c23ed66b249c",
+    "status": "downloaded",
+    "attempt": "Mozilla UA; validate signature",
+    "pages": 1
+  },
+  {
+    "file": "mspss-resources-4.pdf",
+    "url": "https://12fab08f-d2d3-ce70-6d1a-9d3fa0d8a67b.filesusr.com/ugd/5119f9_1e904c771ccd4751ab1f7dad13fd0a28.pdf",
+    "bytes": 319446,
+    "sha256": "adf72f22c713ce200e49ef83f49c91b9f9aeb2dfcc650721fc147e3f00db3fbd",
+    "status": "downloaded",
+    "attempt": "Mozilla UA; validate signature",
+    "pages": 13
+  },
+  {
+    "file": "mspss-resources-5.pdf",
+    "url": "https://12fab08f-d2d3-ce70-6d1a-9d3fa0d8a67b.filesusr.com/ugd/5119f9_10900184506a4e4bb8d17a1d3ac21f5d.pdf",
+    "bytes": 551444,
+    "sha256": "c9725835feac1a9ab31686c432bc23278936d8a7209d5ee008788c07f37c70e7",
+    "status": "downloaded",
+    "attempt": "Mozilla UA; validate signature",
+    "pages": 14
+  },
+  {
+    "file": "eheals-original-2006.pdf",
+    "url": "https://www.jmir.org/2006/4/e27/PDF",
+    "status": "failed",
+    "error": "Invalid PDF: 0 bytes, text/html; charset=UTF-8"
+  },
+  {
+    "file": "eheals-original-landing.html",
+    "url": "https://www.jmir.org/2006/4/e27/",
+    "status": "failed",
+    "error": "Invalid HTML: 0 bytes"
+  },
+  {
+    "file": "osss3-data-2018.xls",
+    "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2Fs40359-018-0249-9/MediaObjects/40359_2018_249_MOESM1_ESM.xls",
+    "status": "failed",
+    "error": "Invalid spreadsheet: 1337545 bytes, application/octet-stream"
+  },
+  {
+    "file": "osss3-data-2018.xls",
+    "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2Fs40359-018-0249-9/MediaObjects/40359_2018_249_MOESM1_ESM.xls",
+    "bytes": 1337545,
+    "sha256": "0c07cc1d7cad1bac0ad90c45d741a5aca8ba8469d9aa2bd9a553b11742c0e839",
+    "status": "downloaded",
+    "format": "Legacy BIFF2 record stream; complete record lengths and BOF/EOF validated; initial OLE-only check was too restrictive",
+    "contentReview": "No participant-level analysis performed; local only"
+  },
+  {
+    "file": "eheals-appendix-2006.doc",
+    "url": "https://www.jmir.org/api/download?alt_name=jmir_v8i4e27_app1.doc&filename=701a0d670f10d4a0a6eb434b24da3f77.doc",
+    "bytes": 52224,
+    "sha256": "1be20ad14af61daaf65d384ff495415dd553e6b554eea4dc140655d0fec0084a",
+    "status": "downloaded"
+  },
+  {
+    "file": "mmos8-2012.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4119888/fullTextXML",
+    "status": "failed",
+    "error": "HTTP Error 500: "
+  },
+  {
+    "file": "eheals-2006.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC1794004/fullTextXML",
+    "bytes": 55947,
+    "sha256": "cdbcf23f1e35cf2194a58833e56f3f81d990211139de7f8151fc4ee7e772d029",
+    "status": "fulltext_xml_downloaded"
+  },
+  {
+    "file": "hls19-q12-polytomous.pdf",
+    "url": "https://m-pohl.net/sites/m-pohl.net/files/inline-files/Factsheet_p%20HLS19-Q12_20250806.pdf",
+    "bytes": 172242,
+    "sha256": "49bd7bc3589faf06204a32a5dcb82645a0039bfa5d5acf49a80ac374246897b6",
+    "status": "downloaded",
+    "pages": 8
+  },
+  {
+    "file": "hls19-q12-dichotomous.pdf",
+    "url": "https://m-pohl.net/sites/m-pohl.net/files/inline-files/Factsheet_d%20HLS19-Q12%20250806.pdf",
+    "bytes": 228951,
+    "sha256": "9b471c3dec1f2d11cf6dc20aeb33e0e3c15737658719ea5349c6e38e0cd6bc4f",
+    "status": "downloaded",
+    "pages": 8
+  },
+  {
+    "file": "hls19-translations.pdf",
+    "url": "https://m-pohl.net/sites/m-pohl.net/files/inline-files/Overview%20on%20translated%20HLS19%20instruments_update%20202510.pdf",
+    "bytes": 104825,
+    "sha256": "416d4af3e4edb75cbc1538342c8e5d56492cb7257d0d8a47f8f987df38be356e",
+    "status": "downloaded",
+    "pages": 2
+  },
+  {
+    "file": "hls19-application.pdf",
+    "url": "https://m-pohl.net/sites/m-pohl.net/files/inline-files/HLS19%20Application%20template%20for%20the%20use%20of%20instruments.pdf",
+    "bytes": 644075,
+    "sha256": "43627ae78c39f207c6c9b84b8dc0b9d5348db3867674fd402ab6c7aa5722906f",
+    "status": "downloaded",
+    "pages": 3
+  },
+  {
+    "file": "hls-sf12-cn-2023.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9951431/fullTextXML",
+    "bytes": 91191,
+    "sha256": "cddeebb8af7b44c6b5ab10d6083e3ae0e1fbc894b656aa2a00dcf6209a0fbd85",
+    "status": "fulltext_xml_downloaded"
+  },
+  {
+    "file": "hls-sf12-2019.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6607763/fullTextXML",
+    "bytes": 142808,
+    "sha256": "09a4ac36ec2a56078ebcc6f3aceabd2f910076858ff93cd286c788a45927a8a2",
+    "status": "fulltext_xml_downloaded"
+  },
+  {
+    "file": "hls19-q12-2022.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9659295/fullTextXML",
+    "bytes": 397296,
+    "sha256": "98d19bea756c3fd33ce5e93126d433ec6370a7b87badcd431502e873c04c8f93",
+    "status": "fulltext_xml_downloaded"
+  },
+  {
+    "file": "hls-eu-dev-2013.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4016258/fullTextXML",
+    "bytes": 87248,
+    "sha256": "c394dc2c0d2af6428834ef9e707223486e52637972f8fa89f794dc2c082ed5e3",
+    "status": "fulltext_xml_downloaded"
+  },
+  {
+    "file": "hls-eu-q47-annex.pdf",
+    "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2F1471-2458-13-948/MediaObjects/12889_2012_5945_MOESM1_ESM.pdf",
+    "bytes": 18634,
+    "sha256": "d2e2e35682e9d0af25c7b546e8a16be23fbff0c4ac7b470b7b1c1ba6ea01b087",
+    "pages": 2,
+    "status": "downloaded"
+  },
+  {
+    "file": "hls-eu-q16-iceland-2020.pdf",
+    "url": "https://link.springer.com/content/pdf/10.1186/s12889-020-8162-6.pdf",
+    "bytes": 618250,
+    "sha256": "029db328d6ce79bc708138fef3040a70c2911d574e10cc5e1ca3d3e5fcf01dc1",
+    "pages": 11,
+    "status": "downloaded"
+  },
+  {
+    "file": "hls-sf12-cn-2023.pdf",
+    "url": "https://link.springer.com/content/pdf/10.1186/s12889-023-15237-2.pdf",
+    "bytes": 1232324,
+    "sha256": "5adebd597624233dd2ce1d02e4ec9f5b28c35eddb6f563c87fd5ef9974dab1d2",
+    "pages": 9,
+    "status": "downloaded"
+  },
+  {
+    "file": "hls19-q12-cn-2024.pdf",
+    "url": "https://link.springer.com/content/pdf/10.1186/s12889-024-17977-1.pdf",
+    "bytes": 1138442,
+    "sha256": "9b93453bffa1007f180835110221e9123ee305ecbecbef1b0d5c45c23b51bce9",
+    "pages": 10,
+    "status": "downloaded"
+  },
+  {
+    "file": "hls19-q12-cn-2024-supp.pdf",
+    "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2Fs12889-024-17977-1/MediaObjects/12889_2024_17977_MOESM1_ESM.pdf",
+    "bytes": 158610,
+    "sha256": "7abd86260226c291315af914f0f9377d2625b896f8c696ba5b43c89be9b265f6",
+    "pages": 7,
+    "status": "downloaded"
+  },
+  {
+    "file": "hls19-q12-2022-supplement",
+    "url": "https://www.mdpi.com/1660-4601/19/21/14129",
+    "status": "not_retrieved",
+    "error": "Publisher page returned HTTP 429 via web lookup; fulltext XML declares ijerph-19-14129-s001.zip but archive not obtained. No attachment download success claimed."
+  }
+]

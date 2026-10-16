@@ -1,0 +1,1502 @@
+{
+  "date": "2026-10-16",
+  "url": "http://127.0.0.1:5174/",
+  "method": "Each of the211 actual search-table record links navigated in Codex in-app browser; DOM snapshot checked for exact H1, metadata heading and administration/scoring section. Source-order IDs cross-referenced to211 visible selectable catalog records. Not screenshot or print approval.",
+  "checked": 211,
+  "headingFailures": [],
+  "metadataFailures": [],
+  "scoringFailures": [],
+  "observedBrowserErrors": [],
+  "snapshotLengthRange": [
+    4214,
+    7864
+  ],
+  "withoutExplicitScopeLabel": [
+    "VR-PH-001-001",
+    "VR-PH-001-002",
+    "VR-PH-001-004",
+    "VR-PH-002-005",
+    "VR-PH-003-007",
+    "VR-PH-003-008"
+  ],
+  "records": [
+    {
+      "id": "VR-PH-001-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PH-002-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PH-007-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HL-003-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HL-004-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HL-005-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SS-001-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SS-004-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HB-002-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HB-006-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MA-002-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MA-003-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MA-004-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MA-005-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-OH-002-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-OH-003-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-OH-004-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-AG-001-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-AG-002-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-AG-003-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-AG-005-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-001-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PE-001-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-KA-001-BASE",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PH-001-001",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": false
+    },
+    {
+      "id": "VR-PH-001-002",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": false
+    },
+    {
+      "id": "VR-PH-001-003",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PH-001-004",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": false
+    },
+    {
+      "id": "VR-PH-002-005",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": false
+    },
+    {
+      "id": "VR-PH-003-006",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PH-003-007",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": false
+    },
+    {
+      "id": "VR-PH-003-008",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": false
+    },
+    {
+      "id": "VR-PH-004-009",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PH-004-010",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PH-004-011",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PH-005-012",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PH-005-013",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PH-005-014",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PH-006-015",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PH-006-016",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PH-006-017",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PH-006-018",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PH-007-019",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PH-007-020",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PH-008-021",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PH-008-022",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PH-008-023",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PH-008-024",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PH-008-025",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SL-001-026",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SL-001-027",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SL-002-028",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SL-002-029",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SL-002-030",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SL-002-031",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SL-003-032",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SL-003-033",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SL-004-034",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SL-004-035",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SL-004-036",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-001-037",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-001-038",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-002-039",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-002-040",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-002-041",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-002-042",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-003-043",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-003-044",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-003-045",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-004-046",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-004-047",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-004-048",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-005-050",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-005-051",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-005-052",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-005-053",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-005-054",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-005-055",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-005-056",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-005-057",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-005-058",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-006-059",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-006-060",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HL-001-061",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HL-001-062",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HL-001-063",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HL-002-064",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SS-002-065",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SS-002-066",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SS-002-067",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SS-002-068",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SS-002-069",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SS-002-070",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SS-002-071",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SS-002-072",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SS-003-073",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SS-003-074",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SS-003-075",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SS-005-076",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SS-005-077",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HB-001-078",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HB-001-079",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HB-001-080",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HB-001-081",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HB-003-082",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HB-004-083",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HB-005-084",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HB-005-085",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HB-006-086",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MA-001-087",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MA-001-088",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-OH-001-089",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-OH-001-090",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-OH-001-091",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-OH-001-092",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-OH-005-093",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-OH-005-094",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-AG-004-095",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-AG-004-096",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-AG-004-097",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-AG-006-098",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-AG-006-099",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-AG-006-100",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-002-101",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-002-102",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-002-103",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-002-104",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-002-105",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-002-106",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-002-107",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-002-108",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-002-109",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-002-110",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-002-111",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-002-112",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-002-113",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-002-114",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-002-115",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-002-116",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-002-117",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-002-118",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-002-119",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-002-120",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-002-121",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-003-122",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-003-123",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-004-124",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-004-125",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-004-126",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-004-127",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-004-128",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-004-129",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-130",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-131",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PE-003-132",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PE-002-133",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PE-002-134",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PE-002-135",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PE-002-136",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PE-002-137",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PE-002-138",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PE-002-139",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PE-003-140",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-KA-002-141",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-KA-002-142",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-PH-006-143",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-SL-001-144",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HB-001-145",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HB-001-146",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HB-001-147",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HB-001-148",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-HB-002-149",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MA-002-150",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-OH-003-151",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-OH-002-152",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-OH-004-153",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-OH-004-154",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-AG-005-155",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-001-156",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-001-157",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-003-158",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-003-159",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-003-160",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-003-161",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-003-162",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-KA-001-163",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-KA-001-164",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-QL-004-165",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MA-004-166",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MA-004-167",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-168",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-169",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-170",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-171",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-172",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-173",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-174",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-175",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-176",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-177",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-178",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-179",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-180",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-181",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-182",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-183",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-184",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-185",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-186",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-187",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    },
+    {
+      "id": "VR-MC-005-188",
+      "heading": true,
+      "metadata": true,
+      "administrationScoring": true,
+      "explicitScopeLabel": true
+    }
+  ],
+  "limits": "No claim of full visual/scroll/mobile/print testing. The six missing scope labels retain prior source-boundary text; not blank detail pages. Later ULS-6 PDF scope addition awaits DOM recheck."
+}

@@ -10,5 +10,8 @@ export default function InstrumentForms({versionId}:{versionId:string}){
  {f.supplementaryItems?.map((item,i)=><div key={i}><h3>原表附加问题（不计入总分）</h3><p>{item.text}</p><ul>{item.options.map(option=><li key={option}>{option}</li>)}</ul></div>)}
  <p><a href={f.sourceUrl} target="_blank" rel="noreferrer">查看官方问卷原件 ↗</a> · <a href={f.scoringSource} target="_blank" rel="noreferrer">对应评分键 ↗</a></p>
  <p className="intro-evidence-note">{f.translationEvidence}</p><p className="intro-evidence-note">{f.usage}</p>
+ {f.studyEvidence?.length&&<><h3>本份题本与研究的对应</h3><ul>{f.studyEvidence.map(s=><li key={s.url}><a href={s.url} target="_blank" rel="noreferrer">{s.label} ↗</a><p><b>{s.status}</b>：{s.note}</p></li>)}</ul></>}
+ {f.audit&&<><h3>核验记录</h3><p>核验日期：{f.audit.date}</p><ul><li>来源原件：{f.audit.source}</li><li>题文与选项：{f.audit.items}</li><li>评分：{f.audit.scoring}</li><li>使用条件：{f.audit.rights}</li><li>文件输出：{f.audit.layout}</li></ul></>}
+ <p className="intro-evidence-note">配套文件：{f.exportReady?'可导出；不代表已在所有人群完成验证。':f.exportBlockReason||'尚未开放，需完成文件核验。'}</p>
  </details>)}</section>;
 }

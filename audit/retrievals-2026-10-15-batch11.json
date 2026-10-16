@@ -1,0 +1,72 @@
+[
+  {
+    "file": "isi-2011-pmc.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3079939/",
+    "bytes": 190004,
+    "sha256": "8d20153dca96082c99aa2224320d73531ec66af3344515f02216268c55cf9c2e",
+    "type": "text/html; charset=utf-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "isi-official.html",
+    "url": "https://eprovide.mapi-trust.org/isi-insomnia-severity-index/",
+    "bytes": 60593,
+    "sha256": "c06c9d19e44597fe2bbd830b5d0e928ecd7eab93b78ad007537f270c96d7e0cc",
+    "type": "text/html; charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "isi-2011.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3079939/fullTextXML",
+    "status": "failed",
+    "error": "HTTP Error 500: "
+  },
+  {
+    "file": "isi-2001-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:11438246%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 4354,
+    "sha256": "fb2085e9dd96227d1dbce7610b450741f4b01f8b71381583e98f89cbfb1f2be5",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "isi-cn-2011-metadata.json",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:21493134%20AND%20SRC:MED&format=json&resultType=core",
+    "bytes": 5627,
+    "sha256": "240f322f5423b333358d6ffdadd51b61c558913688cffe0dc6c6b20151e6c29b",
+    "type": "application/json;charset=UTF-8",
+    "status": "downloaded"
+  },
+  {
+    "file": "isi-2011.pdf",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3079939/pdf/aasm.34.5.601.pdf",
+    "status": "failed",
+    "error": "not PDF; browser challenge or HTML response"
+  },
+  {
+    "file": "isi-2001-author.html",
+    "url": "https://www.researchgate.net/publication/11903319_Validation_of_the_Insomnia_Severity_Index_ISI_as_an_outcome_measure_for_insomnia_research",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "source": "isi-2001-author-indexed",
+    "url": "https://www.researchgate.net/publication/11903319_Validation_of_the_Insomnia_Severity_Index_ISI_as_an_outcome_measure_for_insomnia_research",
+    "status": "public_index_text_checked",
+    "scope": "Author-uploaded text, sections2.1.2 and3, tables2/4, limitations. PDF download unavailable; Figure1 not visually checked."
+  },
+  {
+    "source": "isi-2011-review",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3079939/",
+    "status": "relevant_sections_checked",
+    "scope": "Full HTML obtained. Measures, participants, analyses, table2 and improvement discussion read. No independent supplementary-material link found in article HTML; does not prove all possible attachments obtained."
+  },
+  {
+    "source": "isi-mapi-catalog-shell",
+    "url": "https://eprovide.mapi-trust.org/instruments/insomnia-severity-index",
+    "status": "application_shell_only",
+    "bytes": 3132,
+    "sha256": "9fa07b96f987ac350a164af22e5fc91a2fc0d6a5de0ba00b095d05e88a7c509d",
+    "scope": "JavaScript shell, not actual instrument catalog text; dedicated official ISI page obtained separately."
+  }
+]

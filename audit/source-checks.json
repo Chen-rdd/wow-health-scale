@@ -1,0 +1,124 @@
+[
+  {
+    "id": "dass42-en",
+    "url": "https://dass.psy.unsw.edu.au/Download%20files/Dass42.pdf",
+    "sha256": "a801db4a593578ba866172b64258d8887ea86e613ea99a270bd1672c1996e0e9",
+    "matchesRegisteredHash": true,
+    "pages": 2
+  },
+  {
+    "id": "dass21-en",
+    "url": "https://dass.psy.unsw.edu.au/Download%20files/Dass21.pdf",
+    "sha256": "8644cc86534d397e371985d5b25422ba76c4cdae0a5aed8f1a4453c17a5cd393",
+    "matchesRegisteredHash": true,
+    "pages": 1
+  },
+  {
+    "id": "dass42-zh-zuo-chang",
+    "url": "https://dass.psy.unsw.edu.au/Chinese/DASS42%20simplified%20Chinese.pdf",
+    "sha256": "8df849cf3ebdfae104baf663c2b91efc5d4e2bfea205091d8079cfa20c2b6c9a",
+    "matchesRegisteredHash": true,
+    "pages": 2
+  },
+  {
+    "id": "dass21-zh-tm",
+    "url": "https://dass.psy.unsw.edu.au/Chinese/Chinese%20DASS21.pdf",
+    "sha256": "db522faf9743b4ccf9ba60c5f1740d3d3ca15cf1e153535350c440211311bc79",
+    "matchesRegisteredHash": true,
+    "pages": 1
+  },
+  {
+    "id": "dassy-en",
+    "url": "https://dass.psy.unsw.edu.au/Download%20files/DASS-Y.pdf",
+    "sha256": "437307a1dcc7eac78b3ff2aa4d307bc2ba4a002227320efb8620d9da31cd4799",
+    "matchesRegisteredHash": true,
+    "pages": 1
+  },
+  {
+    "id": "dassy-zh-luo-tian",
+    "url": "https://dass.psy.unsw.edu.au/DASS-Y%20Chinese%20(simplified)/DASS-Y-C.pdf",
+    "sha256": "c493370a7d0a1b9d2b379b136b354112ef0ee77777917f509b2106aa1ae37fdb",
+    "matchesRegisteredHash": true,
+    "pages": 1
+  },
+  {
+    "id": "dassy-zh-cao-chen",
+    "url": "https://dass.psy.unsw.edu.au/DASS-Y%20Chinese%20(simplified)/Dass-Y%20simplified%20Chinese%20Cao%20Chen.pdf",
+    "sha256": "e9ef2bc8ab32b338fde6504549ec599611e899fb67efec52344e01f32fb0c55a",
+    "matchesRegisteredHash": true,
+    "pages": 1
+  },
+  {
+    "id": "dassy-zh-hk",
+    "url": "https://dass.psy.unsw.edu.au/DASS-Y%20Chinese%20(traditional)/Hong%20Kong%20Health/DASS-Y%20(Traditional%20Chinese%20Characters).pdf",
+    "sha256": "a279282d300dc84893d1cada20ad195061d6a6bf141640cfd25880be782de319",
+    "matchesRegisteredHash": true,
+    "pages": 1
+  },
+  {
+    "id": "phq-9-en",
+    "url": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/PHQ-9_English.pdf",
+    "sha256": "e3fb5b8853e3530c9025c822b99fd4f4bc17da49eefda5ed689c49238c132a46",
+    "matchesRegisteredHash": true,
+    "pages": 1
+  },
+  {
+    "id": "phq-9-zh-mainland",
+    "url": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/PHQ9_Simplified%20Chinese%20for%20Mainland%20China.pdf",
+    "sha256": "09a8afdec1546b54162850faae7b9bc43d53879e9cbe8b8e1263e67ff254b095",
+    "matchesRegisteredHash": true,
+    "pages": 1
+  },
+  {
+    "id": "gad-7-en",
+    "url": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/GAD-7_English.pdf",
+    "sha256": "180538a8e3f2f3cb012f9991d1b307d3d14720e82bf0593f8853f4885740ce48",
+    "matchesRegisteredHash": true,
+    "pages": 1
+  },
+  {
+    "id": "gad-7-zh-mainland",
+    "url": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/GAD7_Simplified%20Chinese%20for%20Mainland%20China.pdf",
+    "sha256": "d5ce79b071f5648876bf23a5640236746bd567571c6c5095046a76806884557f",
+    "matchesRegisteredHash": true,
+    "pages": 1
+  },
+  {
+    "id": "k6-zh-mandarin-core",
+    "url": "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Chinese_Mandarin_K6.pdf",
+    "previousDirectError": "HTTP Error 403: Forbidden",
+    "retrievedAt": "2026-10-15",
+    "accessMode": "official_chrome_download",
+    "path": "audit/source-files/k6-mandarin-current.pdf",
+    "bytes": 175365,
+    "sha256": "704770d98ca5aee2621a7b7ccc032a16b9ab5c8792fb3260b0711a56597bd46d",
+    "matchesRegisteredHash": true,
+    "pages": 3
+  },
+  {
+    "id": "k10-zh-mandarin-core",
+    "url": "https://rckessler.scholars.harvard.edu/sites/g/files/omnuum8166/files/2026-03/Chinese_Mandarin_K10.pdf",
+    "previousDirectError": "HTTP Error 403: Forbidden",
+    "retrievedAt": "2026-10-15",
+    "accessMode": "official_chrome_download",
+    "path": "audit/source-files/k10-mandarin-current.pdf",
+    "bytes": 175937,
+    "sha256": "bb04e2b59dd949222aa89f49e87b6d3f83ede853d2d73e398f04fdef19ec730e",
+    "matchesRegisteredHash": true,
+    "pages": 3
+  },
+  {
+    "id": "phq8-zh-mainland",
+    "url": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/PHQ-8_Simplified%20Chinese-Mainland%20China.pdf",
+    "sha256": "f69ead7708e63dc46e8467bf9adef9ec8f18d745d3882f46f49f4347562c95df",
+    "matchesRegisteredHash": true,
+    "pages": 1
+  },
+  {
+    "id": "phq8-zh-taiwan",
+    "url": "https://www.phqscreeners.com/images/sites/g/files/g10060481/f/201412/PHQ-8_Traditional%20Chinese-Taiwan.pdf",
+    "sha256": "e0e768e9dee268df3e457bebf74743e3161e9c6ac038f394fda6eec2d7056192",
+    "matchesRegisteredHash": true,
+    "pages": 1
+  }
+]

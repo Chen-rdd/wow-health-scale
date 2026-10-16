@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-16",
+  "checks": [
+    {
+      "id": "VR-SS-002-065",
+      "expectedText": "239",
+      "present": true,
+      "metadata": true,
+      "scope": true
+    },
+    {
+      "id": "VR-SS-002-069",
+      "expectedText": "119",
+      "present": true,
+      "metadata": true,
+      "scope": true
+    },
+    {
+      "id": "VR-SS-002-072",
+      "expectedText": "350",
+      "present": true,
+      "metadata": true,
+      "scope": true
+    },
+    {
+      "id": "VR-MA-003-BASE",
+      "expectedText": "0.161",
+      "present": true,
+      "metadata": true,
+      "scope": true
+    },
+    {
+      "id": "VR-AG-004-096",
+      "expectedText": "Kendall",
+      "present": true,
+      "metadata": true,
+      "scope": true
+    },
+    {
+      "id": "VR-AG-001-BASE",
+      "expectedText": "Pearson",
+      "present": true,
+      "metadata": true,
+      "scope": true
+    },
+    {
+      "id": "VR-AG-002-BASE",
+      "expectedText": "独立DOCX在WPS",
+      "present": true,
+      "metadata": true,
+      "scope": true
+    },
+    {
+      "id": "VR-SL-003-033",
+      "expectedText": "过去两周／29人／XFA占位／21.2天／0.656／Sample Only",
+      "present": true,
+      "scope": true
+    }
+  ],
+  "scope": "Eight final source profiles DOM text checked; ESS-CHAD reloaded after final2022 changes and confirmed recall,21.2days,ageICC0.656,Sample Only and review scope. Not full visual,mobile or print.",
+  "browserLogBoundary": "Historical redirect error observed; final zero-error acceptance not claimed."
+}
