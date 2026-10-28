@@ -63,13 +63,19 @@
       "visual_verified": false
     }
   ],
-  "other_closeout": [
-    "aggregate GitHub upload authorized, not yet completed"
-  ],
+  "other_closeout": [],
   "unavailable_materials_block_closeout": false,
   "license_restrictions_waived": false,
   "publish_authorized": false,
   "upload_authorized": true,
   "closeout_status": "completed_under_user_gap_notice_policy",
-  "unverified_layout_material_groups": 2
+  "unverified_layout_material_groups": 2,
+  "upload": {
+    "status": "uploaded",
+    "pull_request": "https://github.com/Chen-rdd/wow-health-scale/pull/3",
+    "draft": true,
+    "merged": false,
+    "published": false
+  },
+  "overnight_automation": "PAUSED"
 }
