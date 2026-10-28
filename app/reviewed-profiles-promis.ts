@@ -275,8 +275,8 @@ export const promisProfiles:Record<string,ReviewedProfile>={
     ]
   },
   "VR-QL-005-057": {
-    "reviewed": "2026-10-15",
-    "reviewScope": "第14、17、26页规则及历史版本归属；第26页换算表尚未视觉逐格复核，具体中文原件和研究待补。",
+    "reviewed": "2026-10-28",
+    "reviewScope": "第14、17、26页规则及历史版本归属已核；第26页七题换算表全部29行及右侧两张单项表已视觉核对。具体中文原件和研究未取得，未作核验。",
     "definition": [
       {
         "text": "本记录明确为Parent Proxy Global Health 7 v1.0，属于家长代理历史版本，不应静默替换成GenPop v3.0。",
@@ -286,7 +286,7 @@ export const promisProfiles:Record<string,ReviewedProfile>={
     ],
     "scoring": [
       {
-        "text": "七题合计7—35并用v1.0家长代理专用换算表；历史表位于附录2。儿童自评及幼儿家长报告不是同一分数尺度。",
+        "text": "七题合计7—35，使用附录2第26页v1.0家长代理专用表换算T分及标准误；两端7与35对应T分14.7与66.1。右侧疲劳、疼痛干扰表属于7+2附加单项，不并入七题健康总分。儿童自评及幼儿家长报告分别使用对应表。",
         "source": "https://healthmeasures.net/wp-content/uploads/2026/05/PROMIS-Global-Health-Scoring-Manual_30Aug2024.pdf",
         "label": "官方评分手册（2024）"
       },

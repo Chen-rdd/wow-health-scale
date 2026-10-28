@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-21",
+  "id": "VR-SL-004-036",
+  "url": "http://127.0.0.1:5174/#/browse/SL/SL-004/VR-SL-004-036",
+  "method": "Native Chrome full AX after reload plus scoring/translation region screenshot",
+  "checks": [
+    "Page rendered after Vite restarted on127.0.0.1:5174(session98433)",
+    "Mean-scale1-5 new scoring and original source link shown",
+    "Independent English/German original supplement entry shown",
+    "TableS2 anomaly note and precise review scope present",
+    "Catalog scoring summary updated"
+  ],
+  "visual": "Observed scoring and translation region readable; no obvious overlap in content inspected. Chrome download bubble present above region. Not all widths, whole page or print review.",
+  "uploaded": false
+}

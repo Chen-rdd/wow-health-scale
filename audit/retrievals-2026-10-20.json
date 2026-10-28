@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-20",
+  "newFiles": [],
+  "attempts": [
+    {
+      "url": "https://diabetesjournals.org/care/article-pdf/23/7/943/450689/10895844.pdf",
+      "status": "publisher_blocked_waiting_user",
+      "response": "Web fetch403; no PDF acquired; not entitlement determination"
+    },
+    {
+      "surface": "native Chrome",
+      "status": "control_timeout",
+      "response": "getApp timed out; no browser page content or authentication status established"
+    }
+  ],
+  "si_authorized": true,
+  "uploaded": false
+}

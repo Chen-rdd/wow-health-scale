@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-21",
+  "doi": "10.1080/08870446.2021.1998498",
+  "newFiles": [],
+  "si_authorized": true,
+  "discovery": {
+    "repository": "https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/docId/91195",
+    "evidence": "University search-index record identifies matching title and Sattler/Seddig/Zerbini authors; lists91195.pdf(566KB,Postprint) and91195 Supplement.pdf. This is indexed metadata, not successful direct retrieval.",
+    "status": "available_not_downloaded"
+  },
+  "attempts": [
+    {
+      "url": "https://www.tandfonline.com/doi/full/10.1080/08870446.2021.1998498",
+      "status": "publisher_blocked_waiting_user",
+      "response": "Web403; search excerpt does not constitute full original read"
+    },
+    {
+      "url": "https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/docId/91195",
+      "status": "failed_after_retry",
+      "response": "Web fetch timeout; local restricted DNS failed; authorized escalated curl timed out25s with zero bytes"
+    },
+    {
+      "url": "https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/deliver/index/docId/91195/file/91195%20Supplement.pdf",
+      "status": "failed_after_retry",
+      "response": "Web inaccessible; curl requested max-time25 but returned connection timeout930566ms; no verified PDF acquired."
+    },
+    {
+      "surface": "native Chrome",
+      "status": "locked_screen",
+      "response": "Tool explicitly reported Mac locked; no password requested, no bypass attempted"
+    }
+  ],
+  "uploaded": false
+}

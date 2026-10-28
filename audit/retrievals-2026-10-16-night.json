@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-16",
+  "files": [
+    {
+      "role": "main_report",
+      "sourceUrl": "https://www.sozialversicherung.at/cdscontent/load?contentid=10008.715507&version=1395738807",
+      "path": "audit/source-files/hls-youth-2013/Rothlin_2013_HLS_Youth_Report.pdf",
+      "bytes": 2020387,
+      "sha256": "ddcfb7f31deb31c74314c1b19d2443216dd6b4b303ffedb92f523e8a12c15b0f",
+      "pages": 93,
+      "status": "open_access_downloaded",
+      "si_requested": true
+    },
+    {
+      "role": "independent_appendix",
+      "sourceUrl": "https://www.sozialversicherung.at/cdscontent/load?contentid=10008.715506&version=1395738801",
+      "path": "audit/source-files/hls-youth-2013-appendix/Rothlin_2013_HLS_Youth_Appendix.pdf",
+      "bytes": 846731,
+      "sha256": "b5e3d9fbed26df80836efff9782152efad14f119acda6865480b201959ddb9d3",
+      "pages": 77,
+      "status": "open_access_downloaded",
+      "si_requested": true
+    }
+  ],
+  "scope": "Main report pp13-14,70-89 and appendix pp67-71 relevant content read; main pp71,79,83,87-88 visually inspected; not all93/77 pages audited.",
+  "attempts": [
+    {
+      "source": "JAMA CAGE1984 institutional access",
+      "status": "carsi_waiting_user",
+      "detail": "JAMA offered Shanghai Jiao Tong University; visible authorization result: Web Login Service - Unsupported Request; application not registered. No purchase, credentials, or direct PDF retry."
+    },
+    {
+      "source": "WHO1996 Karger/OpenAthens",
+      "status": "carsi_waiting_user",
+      "detail": "Only abstract available; institution name entered but no selectable result. Mac later locked; no credentials requested."
+    },
+    {
+      "source": "TFI2024 university repository PDF",
+      "status": "pdf_fetch_failed",
+      "detail": "6170-byte HTML challenge returned; saved as tfi-gobbens-2024-chapter.html, not PDF."
+    },
+    {
+      "source": "HHCAHPS2026 manual DOCX and two crosswalk PDFs",
+      "status": "failed_after_retry",
+      "detail": "Each local curl request connection timed out after40sec. Online web retrieval allowed reading both4-page crosswalk PDFs, not a local download."
+    },
+    {
+      "source": "Neto1992 publisher",
+      "status": "available_not_downloaded",
+      "detail": "Publisher says subscription/purchase required. No purchase. Existing institutional scan ends at printed21 with reference ending/correspondence; missing22 not resolved."
+    },
+    {
+      "source": "SF36 acute1997 EuropePMC PDF link from official metadata",
+      "status": "pdf_fetch_failed",
+      "detail": "5498-byte HTML response, retained as sf36-acute-1997-europepmc.html, not PDF; PMC landing web tool showed browser check; no challenge interaction or attempt to solve it."
+    }
+  ],
+  "notes": [
+    "Bundled Node downloader fetch failed on both URLs; ordinary curl with system CA then succeeded; no TLS verification bypass.",
+    "Appendix labeled N517 in table heading but table body sums to522; retained discrepancy.",
+    "No complete questionnaire or raw literature added to public assets; no upload or publication."
+  ],
+  "followUpDate": "2026-10-17",
+  "onlineReadings": [
+    {
+      "url": "https://homehealthcahps.org/Portals/0/SurveyMaterials/HHCAHPS_Crosswalk_Updated_Survey.pdf",
+      "pages": 4,
+      "scope": "Text read; January2026 draft footnote retained; no local file or visual-review claim."
+    },
+    {
+      "url": "https://homehealthcahps.org/Portals/0/SurveyMaterials/HHCAHPS_Crosswalk_Reported_Measures.pdf",
+      "pages": 4,
+      "scope": "Text read all four pages; composition and global item mapping only; February2026 pending OMB footnote retained; not full scoring manual."
+    }
+  ],
+  "validation": {
+    "date": "2026-10-17",
+    "tests": {
+      "passed": 7,
+      "failed": 0
+    },
+    "typescript": "passed",
+    "catalog": {
+      "families": 60,
+      "records": 248,
+      "selectable": 213,
+      "sourceProfiles": 213
+    },
+    "registeredForms": 16,
+    "exportableForms": 4,
+    "blockedForms": 12,
+    "build": "passed",
+    "bundle": "index-iCfAYsMM.js",
+    "bundleBytes": 1086292,
+    "bundleSha256": "803f52dcb8ab0a33deb9948bb3a52a41f72f0eb427209a257cd3462bafe07248",
+    "warning": "Existing large chunk warning remains.",
+    "ui": "Not checked for new Q16 and HHCAHPS content; native Mac locked.",
+    "uploaded": false,
+    "published": false
+  }
+}

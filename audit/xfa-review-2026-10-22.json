@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-22",
+  "method": "Read-only PDF XFA datasets/template XML; no rendering, form modification, print, conversion, script execution or upload",
+  "records": [
+    {
+      "year": "2017",
+      "archive": "ess-chad-janssen-2017-coi.zip",
+      "member": "sleep_3301_coi_disclosure MWJ Sleep Med 2016.pdf",
+      "sha256": "d0a2d04d95c7f172e106b6d8a313f892467008c7660060ff037ba1a70878cc27",
+      "datasetsSha256": "de59a6eb53272d7a8c5139c020f3f013af7595fd4acca6234e518f7aff33c024",
+      "interestCodingVerified": true,
+      "substantiveTextReviewed": true,
+      "scope": "Filled datasets, narrative comments and generated disclosure statement read; no original XFA visual review."
+    },
+    {
+      "year": "2017",
+      "archive": "ess-chad-janssen-2017-coi.zip",
+      "member": "sleep_3301_coi_disclosure_JOConnor.pdf",
+      "sha256": "f7ba86dcf3aca7125a1fc5a2f4856a4229adc88abce21b775a5ebe26dab512ce",
+      "datasetsSha256": "3043755bd986c47d50d2644e1c40e74e84f93e9fd70fca2d3074f9eb1e09d542",
+      "interestCodingVerified": true,
+      "substantiveTextReviewed": true,
+      "scope": "Filled datasets, narrative comments and generated disclosure statement read; no original XFA visual review."
+    },
+    {
+      "year": "2017",
+      "archive": "ess-chad-janssen-2017-coi.zip",
+      "member": "sleep_3301_coi_disclosure_KJanssen.pdf",
+      "sha256": "bfd2597bb23be3b622ff17299927871de6846f22b928dc042a35651c87fd8c7b",
+      "datasetsSha256": "3fc5979b238067907a72ff638a8404bd7d54554d3cd806506016969cd1649242",
+      "interestCodingVerified": true,
+      "substantiveTextReviewed": true,
+      "scope": "Filled datasets, narrative comments and generated disclosure statement read; no original XFA visual review."
+    },
+    {
+      "year": "2017",
+      "archive": "ess-chad-janssen-2017-coi.zip",
+      "member": "sleep_3301_coi_disclosure_SPhillipson.pdf",
+      "sha256": "9d2b6e32185ac389b1090c4f0ebd1634862713f0a859d3ccfc9b3bd542ec87e9",
+      "datasetsSha256": "c8a215e01e2ac2346c7b0487787ec0e5987f3d48b36192882e7b77c2c4e092b7",
+      "interestCodingVerified": true,
+      "substantiveTextReviewed": true,
+      "scope": "Filled datasets, narrative comments and generated disclosure statement read; no original XFA visual review."
+    },
+    {
+      "year": "2022",
+      "archive": "ess-chad-wang-2022-coi.zip",
+      "member": "Johns_COI Disclosure Form.pdf",
+      "sha256": "456d75068b6ecfc81b548c9713ae8b47d3faf29a3aec9db031bfff1bcf4c175d",
+      "datasetsSha256": "1e8531e39dbec0ebfff1581ab0538e48ffed465685749a10f98348862642466f",
+      "interestCodingVerified": true,
+      "substantiveTextReviewed": true,
+      "scope": "Filled datasets, narrative comments and generated disclosure statement read; no original XFA visual review."
+    },
+    {
+      "year": "2022",
+      "archive": "ess-chad-wang-2022-coi.zip",
+      "member": "Menno_COI Disclosure Form.pdf",
+      "sha256": "9a999c30a2cf8d096161c2643bfd4f7b3fc997c94d114e67049ca27d4b4d8de7",
+      "datasetsSha256": "2db1a0afa99c17acbe57205692261ea590fce9ec2188dd85a64833076b29b126",
+      "interestCodingVerified": true,
+      "substantiveTextReviewed": true,
+      "scope": "Filled datasets, narrative comments and generated disclosure statement read; no original XFA visual review."
+    },
+    {
+      "year": "2022",
+      "archive": "ess-chad-wang-2022-coi.zip",
+      "member": "Morris_COI Disclosure Form.pdf",
+      "sha256": "716a93ce2434abaa74be3505c35b451010ee1317250b9fde8b4589024baaf1e4",
+      "datasetsSha256": "8475b793fa965b39909f6af92165432da92fe4cbf54f61d2d2e13d3b2ba56032",
+      "interestCodingVerified": true,
+      "substantiveTextReviewed": true,
+      "scope": "Filled datasets, narrative comments and generated disclosure statement read; no original XFA visual review."
+    },
+    {
+      "year": "2022",
+      "archive": "ess-chad-wang-2022-coi.zip",
+      "member": "Profant_COI Disclosure Form.pdf",
+      "sha256": "5474c0c907f9451e5ed0c5d9a5504d8ed239cf86ea3961f705ab9698d1c90fbd",
+      "datasetsSha256": "d3c6e834c0ac7cc2a495764e57da5aab30cecb4702884a9576d258eb971086cf",
+      "interestCodingVerified": true,
+      "substantiveTextReviewed": true,
+      "scope": "Filled datasets, narrative comments and generated disclosure statement read; no original XFA visual review."
+    },
+    {
+      "year": "2022",
+      "archive": "ess-chad-wang-2022-coi.zip",
+      "member": "Steininger_COI Disclosure Form.pdf",
+      "sha256": "ab80085a542bd19ef6e36a57fb3546eaa2d3b0f0eb1400d522b6c88686dc8937",
+      "datasetsSha256": "5d60db177ee697718e856370c745c7d66098e1e43ed5ff9ea2365c5cf0dc487b",
+      "interestCodingVerified": true,
+      "substantiveTextReviewed": true,
+      "scope": "Filled datasets, narrative comments and generated disclosure statement read; no original XFA visual review."
+    },
+    {
+      "year": "2022",
+      "archive": "ess-chad-wang-2022-coi.zip",
+      "member": "Wang_COI Disclosure Form.pdf",
+      "sha256": "9d98b134183f162a9c1a3f75d024119cac04b5ba64530cdf8ca352de33578920",
+      "datasetsSha256": "264fdcc4f4806dbbe38fe4db1c2030e548d520ee98c7eec2373b9d15a46a1bcd",
+      "interestCodingVerified": true,
+      "substantiveTextReviewed": true,
+      "scope": "Filled datasets, narrative comments and generated disclosure statement read; no original XFA visual review."
+    },
+    {
+      "year": "2022",
+      "archive": "ess-chad-wang-2022-coi.zip",
+      "member": "Black_COI Disclosure Form.pdf",
+      "sha256": "dbf2be324a18f39815580b2fa339dc2635294fd7f689c108d25bda015648ada3",
+      "datasetsSha256": "92a8e7504bad455ae549241a0ee01a8cfcc9458f3fca92216a9f3effac034069",
+      "interestCodingVerified": true,
+      "substantiveTextReviewed": true,
+      "scope": "Filled datasets, narrative comments and generated disclosure statement read; no original XFA visual review."
+    },
+    {
+      "year": "2022",
+      "archive": "ess-chad-wang-2022-coi.zip",
+      "member": "Chen_COI Disclosure Form.pdf",
+      "sha256": "a2851f31e9943596ea6f25bbf21471067369416f063e90ad8431156116b5c706",
+      "datasetsSha256": "223055aae42d7434bb94a45143c1ab477de9dba897d79fdfca73b5596aa6b396",
+      "interestCodingVerified": true,
+      "substantiveTextReviewed": true,
+      "scope": "Filled datasets, narrative comments and generated disclosure statement read; no original XFA visual review."
+    }
+  ],
+  "originalLayoutReviewed": false,
+  "rawXmlLocation": "ignored audit/source-files/ess-coi-xfa/",
+  "uploaded": false
+}

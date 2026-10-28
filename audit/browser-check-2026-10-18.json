@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-18",
+  "method": "Native Chrome accessibility and selected screenshots; local Vite127.0.0.1:5174. Final source changes additionally checked through actual page AX.",
+  "pages": [
+    {
+      "id": "VR-HL-001-062",
+      "url": "http://127.0.0.1:5174/#/browse/HL/HL-001/HLS-EU/VR-HL-001-062",
+      "checks": [
+        "Exact H1",
+        "2013 original report source",
+        "At least14 valid,1-2 missing scored0 text",
+        "522 versus517 evidence boundary",
+        "Reference role technical report"
+      ],
+      "visual": "Top/header and lower translation/limits/materials area screenshots inspected; no obvious overlap in observed regions. Not entire-page or responsive/print approval."
+    },
+    {
+      "id": "VR-PE-002-137",
+      "url": "http://127.0.0.1:5174/#/browse/PE/PE-002/home/VR-PE-002-137",
+      "checks": [
+        "Exact H1",
+        "Five-item care/communication groups",
+        "Three standalone measures",
+        "Q14/Q17 globals",
+        "Pending OMB footnote retained"
+      ],
+      "visual": "Scoring and translation section screenshot inspected; no obvious overlap. Not complete responsive or print review.",
+      "finalChecks": [
+        "V18 section9.6:16 denominator items Q1-15+17,8 required",
+        "Q16 and18-25 excluded from denominator, M not valid",
+        "2027 reporting versus April2026 implementation distinct",
+        "Final scope acquired manual plus two crosswalks"
+      ]
+    },
+    {
+      "id": "VR-AG-002-BASE",
+      "url": "http://127.0.0.1:5174/#/browse/AG/AG-002/VR-AG-002-BASE",
+      "checks": [
+        "Exact H1 TFI and full name Tilburg Frailty Indicator",
+        "University independent three-page PDF source and current acquired status",
+        "2024 chapter source",
+        "Missing Chinese/missing-data/redistribution boundaries preserved"
+      ],
+      "visual": "Final new text checked through native Chrome AX, no new page screenshot or responsive/print approval."
+    }
+  ],
+  "formsUnchanged": true,
+  "printBlockStillUnresolved": true,
+  "uploaded": false
+}

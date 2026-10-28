@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-28",
+  "server": "127.0.0.1:5174 only; Vite session89209",
+  "checks": [
+    {
+      "record": "VR-MA-001-087",
+      "ax": true,
+      "visual": "scoring/translation/limitations/review scope region screenshot inspected",
+      "verified": [
+        "updated acquired-PDF and visual scope",
+        "table/figure discrepancy",
+        "related-reference no longer says abstract only"
+      ],
+      "not_checked": [
+        "mobile layout",
+        "actual print/export"
+      ]
+    },
+    {
+      "record": "VR-SL-003-033",
+      "ax": true,
+      "visual": false,
+      "verified": [
+        "2017/2022 COI paragraphs and links present in actual Chrome accessibility tree"
+      ],
+      "not_checked": [
+        "screenshot of new COI paragraphs",
+        "original XFA layout"
+      ]
+    }
+  ],
+  "interruption": "two UI action batches interrupted by detected other input; asked user whether Chrome can be used for about10minutes; dependent UI paused pending reply"
+}

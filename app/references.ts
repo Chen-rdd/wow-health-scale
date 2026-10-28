@@ -1483,17 +1483,16 @@ export const versionReferences = {
     "metadataSource": "https://link.springer.com/article/10.1186/1471-2458-13-948"
   },
   "VR-HL-001-062": {
-    "title": "Translation and cross-cultural adaptation of the European Health Literacy Survey Questionnaire, HLS-EU-Q16: the Icelandic version.",
-    "authors": "Gustafsdottir SS, Sigurdardottir AK, Arnadottir SA, Heimisson GT, Mårtensson L",
-    "journal": "BMC public health",
-    "year": "2020",
-    "doi": "10.1186/s12889-020-8162-6",
-    "pmid": "31937293",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/31937293/",
-    "role": "冰岛译本与适配研究；非最早开发",
+    "title": "Die Gesundheitskompetenz von 15-jährigen Jugendlichen in Österreich. Abschlussbericht der österreichischen Gesundheitskompetenz Jugendstudie",
+    "authors": "Röthlin F, Pelikan JM, Ganahl K",
+    "journal": "Ludwig Boltzmann Institut Health Promotion Research (LBIHPR), Wien; Forschungsbericht",
+    "year": "2013",
+    "doi": "",
+    "pmid": "",
+    "url": "https://www.sozialversicherung.at/cdscontent/load?contentid=10008.715507&version=1395738807",
+    "role": "Q16早期原始技术报告与青少年验证；非期刊论文",
     "confidence": "version",
-    "matchScore": 12,
-    "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/31937293/"
+    "metadataSource": "https://www.sozialversicherung.gv.at/cdscontent/?contentid=10007.846166&portal=svportal"
   },
   "VR-HL-001-063": {
     "title": "Measuring Comprehensive, General Health Literacy in the General Adult Population: The Development and Validation of the HLS19-Q12 Instrument in Seventeen Countries.",
@@ -1801,7 +1800,7 @@ export const versionReferences = {
   "doi": "10.1097/00005650-198601000-00007",
   "pmid": "3945130",
   "url": "https://pubmed.ncbi.nlm.nih.gov/3945130/",
-  "role": "四项原始开发研究；本批仅摘要",
+  "role": "四项原始开发研究；原PDF相关正文及表1—3／图1已核",
   "confidence": "version",
   "metadataSource": "https://pubmed.ncbi.nlm.nih.gov/3945130/"
 },

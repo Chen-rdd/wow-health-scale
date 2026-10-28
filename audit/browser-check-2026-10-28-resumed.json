@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-28",
+  "user_ui_authorization": "user explicitly allowed continued Chrome use after input interruption question",
+  "checks": [
+    {
+      "record": "VR-SL-003-033",
+      "ax": true,
+      "visual_region": "2017/2022 COI paragraphs and links",
+      "scope": "actual Chrome local page; not all viewport sizes or printing"
+    },
+    {
+      "record": "VR-SL-004-034",
+      "ax": true,
+      "visual_region": "Chung2011 COI review-scope paragraph",
+      "scope": "actual Chrome local page; not all viewport sizes or printing"
+    },
+    {
+      "record": "VR-SL-002-029",
+      "ax": true,
+      "visual_region": "Chung2011 COI review-scope paragraph",
+      "scope": "actual Chrome local page; not all viewport sizes or printing"
+    },
+    {
+      "record": "VR-PE-002-133",
+      "ax": true,
+      "visual_region": "new score-target/response-type paragraph",
+      "scope": "actual Chrome local page; not all viewport sizes or printing"
+    },
+    {
+      "record": "VR-PE-002-135",
+      "ax": true,
+      "visual_region": "new score-target/response-type paragraph; content changes partly visible",
+      "scope": "actual Chrome local page; not all viewport sizes or printing"
+    }
+  ],
+  "post_update_ax_records": [
+    "VR-PE-002-133",
+    "VR-PE-002-134",
+    "VR-PE-002-135"
+  ],
+  "post_update_ax_verified": [
+    "download/visual-completion scope",
+    "32/40/33 numbered-item counts",
+    "Chinese material still pending"
+  ],
+  "original_vhs_docx": {
+    "file": "vhs-shapiro-2018-supplement.docx",
+    "sha256": "1b79cb821dce28f4ea3699445de1cc0340388110867b8ee90df26b5a2bfd03ca",
+    "reader": "native WPS Office",
+    "observed": "8 pages; original first-page introduction and upper TableA1 region viewed; missing-font warning remains",
+    "complete_visual": false,
+    "navigation_issue": "scroll/PageDown did not advance reliably; not marked complete",
+    "modified_or_converted": false
+  },
+  "no_pending_user_question": true
+}

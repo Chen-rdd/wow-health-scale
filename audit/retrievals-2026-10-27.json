@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-27",
+  "source": "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/cg-comparison-3-4.pdf",
+  "type": "AHRQ official adult version comparison PDF",
+  "pages": 4,
+  "online_text_read": true,
+  "local_download": "HTTP403; no valid PDF acquired",
+  "visual_verified": false,
+  "screenshot_attempt": "web screenshot returned a reference only; no image delivered to model, not visually inspected",
+  "cross_checked_forms": [
+    "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/adult-english-cg-3-1-2351a.pdf",
+    "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/adult-eng-cg40-3351a.pdf"
+  ],
+  "records_updated": [
+    "VR-PE-002-133",
+    "VR-PE-002-135"
+  ],
+  "child_comparison_applied": false,
+  "browser_status": "Mac locked; no UI actions completed",
+  "remaining": [
+    "local original PDF and visual verification",
+    "same-version complete Chinese forms and independent evidence",
+    "actual website preview",
+    "version-specific scoring/missing response guidance"
+  ],
+  "raw_questionnaire_added": false
+}

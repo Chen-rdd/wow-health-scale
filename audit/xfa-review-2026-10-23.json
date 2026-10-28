@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-23",
+  "archive": "isi-ais-chung-2011-disclosures.zip",
+  "archiveSha256": "74680f58012af0fb9b66d636fcb302b668929ed110cdad937196ae7c5456b5d0",
+  "records": [
+    {
+      "member": "COI form_WFY.pdf",
+      "sha256": "36b29709087ebfabb9bf4191fbd62bc69c48a8c0c9b8a7c898e621fbd5173966",
+      "datasetsSha256": "177405359ff05e77c3600954a8a1d1c6d6d3794cc540f73bfdff521bf27efc29",
+      "nonemptyLeafFields": 77,
+      "section2Rows": 7,
+      "section3Rows": 13,
+      "checkboxItemsVerified": [
+        1,
+        0,
+        2
+      ],
+      "section2and3NoChecked": true,
+      "section4NoChecked": true,
+      "scope": "Complete stored datasets and checkbox template/header mapping read. Original XFA appearance and signatures not visually reviewed."
+    },
+    {
+      "member": "coi_disclosure.pdf",
+      "sha256": "404925b47f16ce2088026dad3fe97cabb4f7613805a1a07a982bc0195197adb5",
+      "datasetsSha256": "cae60d0fb8ff6e2becdf98ce40876d07c82a07d9ebb6f7e142de85873b2adb7a",
+      "nonemptyLeafFields": 76,
+      "section2Rows": 7,
+      "section3Rows": 13,
+      "checkboxItemsVerified": [
+        1,
+        0,
+        2
+      ],
+      "section2and3NoChecked": true,
+      "section4NoChecked": true,
+      "scope": "Complete stored datasets and checkbox template/header mapping read. Original XFA appearance and signatures not visually reviewed."
+    },
+    {
+      "member": "COI form_KKK.pdf",
+      "sha256": "0a6084f24bdecd5d99e5a456d9d01e193ed6c2f8bda12af7aeda47ba8c0f1ef1",
+      "datasetsSha256": "97c019d7e4e26dd9b5e1c49b261020c6d961cd167d714fd934d66319e519a685",
+      "nonemptyLeafFields": 77,
+      "section2Rows": 7,
+      "section3Rows": 13,
+      "checkboxItemsVerified": [
+        1,
+        0,
+        2
+      ],
+      "section2and3NoChecked": true,
+      "section4NoChecked": true,
+      "scope": "Complete stored datasets and checkbox template/header mapping read. Original XFA appearance and signatures not visually reviewed."
+    }
+  ],
+  "method": "Read-only stored XFA datasets/template XML; no scripts run, no form editing/printing/conversion/upload",
+  "rawXmlLocation": "ignored audit/source-files/chung-2011-coi-xfa/",
+  "newDownloads": 0,
+  "uploaded": false
+}

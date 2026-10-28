@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-28",
+  "policy": "User explicitly allows closing unavailable-original verification with page-level unverified notices. This is a documented source gap, not verification success or permission to export.",
+  "remaining_material_groups": 0,
+  "affected_catalog_records": 0,
+  "affected_families": 0,
+  "groups": [
+    {
+      "id": "eheals",
+      "task": "eHEALS原DOC附件排版",
+      "records": [
+        "VR-HL-005-BASE"
+      ],
+      "status": "reviewed_existing_material",
+      "visual_verified": true
+    },
+    {
+      "id": "promis",
+      "task": "PROMIS家长代理七题v1.0换算表第26页",
+      "records": [
+        "VR-QL-005-057"
+      ],
+      "status": "reviewed_existing_material",
+      "visual_verified": true
+    },
+    {
+      "id": "vhs",
+      "task": "VHS英法DOCX完整题表排版",
+      "records": [
+        "VR-KA-001-BASE",
+        "VR-KA-001-163"
+      ],
+      "status": "reviewed_existing_material",
+      "visual_verified": true
+    },
+    {
+      "id": "five-c",
+      "task": "5C已取得的七份补充材料图表",
+      "records": [
+        "VR-KA-002-141",
+        "VR-KA-002-142"
+      ],
+      "status": "reviewed_existing_material",
+      "visual_verified": true
+    },
+    {
+      "id": "ess-chad",
+      "task": "ESS-CHAD十二份披露PDF原XFA排版",
+      "records": [
+        "VR-SL-003-033"
+      ],
+      "status": "closed_with_explicit_unverified_layout_limitation",
+      "visual_verified": false
+    },
+    {
+      "id": "chung",
+      "task": "Chung2011三份披露PDF原XFA排版，共用ISI／AIS",
+      "records": [
+        "VR-SL-002-029",
+        "VR-SL-004-034"
+      ],
+      "status": "closed_with_explicit_unverified_layout_limitation",
+      "visual_verified": false
+    }
+  ],
+  "other_closeout": [
+    "aggregate GitHub upload authorized, not yet completed"
+  ],
+  "unavailable_materials_block_closeout": false,
+  "license_restrictions_waived": false,
+  "publish_authorized": false,
+  "upload_authorized": true,
+  "closeout_status": "completed_under_user_gap_notice_policy",
+  "unverified_layout_material_groups": 2
+}

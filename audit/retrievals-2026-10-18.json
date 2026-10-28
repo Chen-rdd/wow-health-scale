@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-18",
+  "files": [
+    {
+      "file": "tfi-gobbens-2024-chapter.pdf",
+      "url": "https://repository.tilburguniversity.edu/server/api/core/bitstreams/ed84c476-e593-44c8-8bd3-55f8ec66c57b/content",
+      "bytes": 313058,
+      "sha256": "319722012d84489f92c3f8f9be84e2fb7206f978096ea968668b4313d20e1833",
+      "status": "downloaded",
+      "scope": "6 file pages including repository cover; full chapter text read; printed147-149 appendix and scoring visually verified.",
+      "accessMode": "authorized_native_chrome_download",
+      "si_requested": true
+    },
+    {
+      "file": "hhcahps-2026-protocol-manual.docx",
+      "url": "https://homehealthcahps.org/Portals/0/SurveyMaterials/HHCAHPS_PGManual.docx",
+      "bytes": 984048,
+      "sha256": "1c9c15163f05e6dd2b4528b090cb04b8f1e4b0c96323515ed0fe67e2bc9d2773",
+      "status": "downloaded",
+      "scope": "Version18.0 January2026; ZIP CRC checked; sections9.4-9.7,13.1-13.7 read as document XML text; WPS cover/title/version screenshot checked. Not entire manual or chapter tables layout review.",
+      "accessMode": "authorized_native_chrome_download",
+      "si_requested": true
+    },
+    {
+      "file": "HHCAHPS_Crosswalk_Reported_Measures.pdf",
+      "url": "https://homehealthcahps.org/Portals/0/SurveyMaterials/HHCAHPS_Crosswalk_Reported_Measures.pdf",
+      "status": "downloaded",
+      "bytes": 141114,
+      "sha256": "2c7e1f9225b2c784081dd58808ba5a52880adffb10885a1f512283e95906f602",
+      "pages": 4,
+      "scope": "All4 pages text extracted and checked against prior online reading; January/February2026 pending OMB note retained.",
+      "accessMode": "native_chrome_pdf_save",
+      "si_requested": true,
+      "visualReviewedPages": [
+        1,
+        4
+      ]
+    },
+    {
+      "file": "HHCAHPS_Crosswalk_Updated_Survey.pdf",
+      "url": "https://homehealthcahps.org/Portals/0/SurveyMaterials/HHCAHPS_Crosswalk_Updated_Survey.pdf",
+      "status": "downloaded",
+      "bytes": 122963,
+      "sha256": "68da9c79cd8ae119c4139e2cfe2db4fe88a00382e4ed61a248301b42dc9b6b92",
+      "pages": 4,
+      "scope": "All4 pages text extracted and checked against prior online reading; January/February2026 pending OMB note retained.",
+      "accessMode": "native_chrome_pdf_save",
+      "si_requested": true,
+      "visualReviewedPages": [
+        3,
+        4
+      ]
+    },
+    {
+      "file": "tfieng_2.pdf",
+      "url": "https://www.tilburguniversity.edu/sites/default/files/download/tfieng_2.pdf",
+      "bytes": 50893,
+      "sha256": "d609d344a3e130f83c5fceca55a1f824c676102907d161ccbf015d17e580c5af",
+      "pages": 3,
+      "status": "downloaded",
+      "scope": "All three original pages text and visual review: A background, B fifteen items, scoring key. English backtranslation; no Chinese or redistribution permission inference.",
+      "accessMode": "authorized_native_chrome_pdf_save",
+      "si_requested": true
+    }
+  ],
+  "notes": [
+    "TFI browser redirected from old research portal to new institutional repository. Prior6170-byte HTML retained separately, not counted PDF.",
+    "TFI browser save retained previous filename stem unexpectedly; actual six-page2024 PDF was checked and renamed correctly; existing2017DOCX not overwritten.",
+    "HHCAHPS manual was downloaded by browser after prior curl connection timeouts. No license application, login credentials, captcha or terms accepted.",
+    "No uploads or publication. No existing questionnaire text changes."
+  ],
+  "attempts": [
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1070196/pdf/hsresearch00035-0117.pdf",
+      "status": "publisher_verification_waiting_user",
+      "scope": "Chrome visibly displayed image CAPTCHA selecting cars; no interaction with verification and no PDF acquired. Per-action authorization not requested while user sleeping; retain as pending."
+    }
+  ]
+}

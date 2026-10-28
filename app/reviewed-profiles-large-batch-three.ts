@@ -159,34 +159,39 @@ export const largeBatchThreeProfiles:Record<string,ReviewedProfile>={
     ]
   },
   "VR-MA-001-087": {
-    "reviewed": "2026-10-15",
-    "reviewScope": "1986四项直接开发正式摘要及权利方许可页面核读；原始全文、许可评分键及中文原件未得。",
+    "reviewed": "2026-10-28",
+    "reviewScope": "1986原论文完整9页扫描PDF已取得（封面加67—74页）；相关方法、结果及讨论已核读，印刷69—72页表1—3及图1已视觉核对。图表人数差异保留；正式许可资料、中文原件及漏答规则仍待。",
     "definition": [
       {
-        "text": "四项Morisky-Green-Levine自报依从性工具，1986研究主要为高血压随访，摘要α0.61；2014综述不应作为其最初开发论文。",
-        "source": "https://pubmed.ncbi.nlm.nih.gov/3945130/",
-        "label": "Morisky等1986直接研究摘要"
+        "text": "四项Morisky-Green-Levine工具的1986直接研究来自高血压门诊；最初抽取400人，完整随访分析290人，α为0.61。2014综述不是最初开发论文。",
+        "source": "https://www.researchgate.net/profile/Donald_Morisky/publication/236626999_Concurrent_and_Predictive_Validity_of_a_Self-Reported_Measure_of_Medication_Adherence_and_Long-Term_Predictive_Validity_of_Blood_Pressure_Control/links/0deec537e4124920ff000000.pdf",
+        "label": "Morisky等1986原论文69—70页"
       }
     ],
     "scoring": [
       {
-        "text": "使用获许可的四项版本及配套方向／分类；本批不提供未获原件验证的完整专有键，不从八题算法删去一半构造四题分数。",
-        "source": "https://pubmed.ncbi.nlm.nih.gov/3945130/",
-        "label": "Morisky等1986直接研究摘要"
+        "text": "原论文表1采用是=0、否=1，合计0—4分，高分表示较好依从性；正文另讨论“是”回答计数，方向相反，不可混用。历史计分说明不能替代现行获许可版本的配套手册，也不从八题算法删题构造四题分数。",
+        "source": "https://www.researchgate.net/profile/Donald_Morisky/publication/236626999_Concurrent_and_Predictive_Validity_of_a_Self-Reported_Measure_of_Medication_Adherence_and_Long-Term_Predictive_Validity_of_Blood_Pressure_Control/links/0deec537e4124920ff000000.pdf",
+        "label": "Morisky等1986原论文表1及正文"
       }
     ],
     "translations": [
       {
         "label": "原件及语言对应",
         "url": "https://pubmed.ncbi.nlm.nih.gov/3945130/",
-        "note": "中文具体措辞、四项历史形式与许可版本对应及独立验证待补。"
+        "note": "中文具体措辞、历史四项形式与现行许可版本对应、独立中文验证及漏答规则仍待。"
       }
     ],
     "limits": [
       {
-        "text": "现行权利方提供按施测许可的获取路线；未购买、签约或申请，不因论文可读就公开完整题本。",
+        "text": "表3敏感度0.81、特异度0.44来自高低两组171人，排除中间119人，结局为历史血压控制；不能写成全290人的服药依从性诊断性能。失访者依从性和血压较差，外推须谨慎。图1高组印为126，而表2／3为125，原页差异未擅自修正。",
+        "source": "https://www.researchgate.net/profile/Donald_Morisky/publication/236626999_Concurrent_and_Predictive_Validity_of_a_Self-Reported_Measure_of_Medication_Adherence_and_Long-Term_Predictive_Validity_of_Blood_Pressure_Control/links/0deec537e4124920ff000000.pdf",
+        "label": "Morisky等1986原论文71—72页"
+      },
+      {
+        "text": "现行权利方提供按施测许可的获取路线；未购买、签约或申请，原论文在线可读不等于可公开完整题本、中文译本或开放网站施测。",
         "source": "https://pubmed.ncbi.nlm.nih.gov/3945130/",
-        "label": "Morisky等1986直接研究摘要"
+        "label": "许可材料仍待核对"
       }
     ]
   },
@@ -448,8 +453,8 @@ export const largeBatchThreeProfiles:Record<string,ReviewedProfile>={
     ]
   },
   "VR-PE-002-133": {
-    "reviewed": "2026-10-15",
-    "reviewScope": "AHRQ官方页面及对应英文3.1 PDF可读文字经检索工具核读；本地页面／PDF下载403，未保存有效原件或完成视觉核验。",
+    "reviewed": "2026-10-28",
+    "reviewScope": "2026-10-28经Chrome取得AHRQ官方成人3.1英文完整6页（封面加正文1—5页），32个编号项，封面更新2020-12-01。完整原表题号、锚点、跳转与排版逐页视觉核对。成人四页版本对照表亦已本地取得并全页视觉核对；同版本中文原件、独立中文验证及完整分析规范仍待，未开放新题本导出。",
     "definition": [
       {
         "text": "CG-CAHPS 3.1回顾近六个月门诊照护，纳入面诊、电话及视频。成人18岁及以上报告自身经历，不能把筛选和人口学题当经历量表分。",
@@ -462,13 +467,28 @@ export const largeBatchThreeProfiles:Record<string,ReviewedProfile>={
         "text": "按及时获得照护、沟通、协调、前台服务等官方复合指标及总体评分分开计算；跳答和不适用题不计0，不将整张问卷相加。题号须使用3.1对应成人／儿童版。",
         "source": "https://www.ahrq.gov/cahps/surveys-guidance/cg/index.html",
         "label": "AHRQ CG-CAHPS 3.1官方说明"
+      },
+      {
+        "text": "成人3.1的0—10总体评分第18题评价提供者；4.0第21题评价最近一次就诊，评价对象不同，不能仅改题号合并。成人3.1沟通题11／12／14／15使用四档频率，4.0对应14—17题改用三档肯定程度，不能直接沿用数值编码。",
+        "source": "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/cg-comparison-3-4.pdf",
+        "label": "AHRQ成人版本对照第3—4页及成人原表"
+      },
+      {
+        "text": "成人3.1第1题不确认提供者或第4题无就诊，均转第23题人口学部分；跳过经历题并非经历为零。第18题评价提供者，不能套儿童第25题或单次就诊第21题。",
+        "source": "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/adult-english-cg-3-1-2351a.pdf",
+        "label": "AHRQ对应英文原表指导与跳转"
       }
     ],
     "translations": [
       {
         "label": "原件及语言对应",
         "url": "https://www.ahrq.gov/cahps/surveys-guidance/cg/index.html",
-        "note": "已取得可读英文题文信息，但未取得此3.1完整中文表及独立中文验证；本批不把其他CAHPS中文表当同一版。"
+        "note": "官方完整英文PDF已取得并逐页视觉核对；同版本中文原件及独立验证仍未取得，不用其他CAHPS中文表替代。"
+      },
+      {
+        "label": "官方完整英文PDF（本地原件已核）",
+        "url": "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/adult-english-cg-3-1-2351a.pdf",
+        "note": "成人3.1英文完整6页（封面加正文1—5页），32个编号项，封面更新2020-12-01。编号项包括筛选、背景及辅助信息，不等于复合指标计分题数。"
       }
     ],
     "limits": [
@@ -480,8 +500,8 @@ export const largeBatchThreeProfiles:Record<string,ReviewedProfile>={
     ]
   },
   "VR-PE-002-134": {
-    "reviewed": "2026-10-15",
-    "reviewScope": "AHRQ官方页面及对应英文3.1 PDF可读文字经检索工具核读；本地页面／PDF下载403，未保存有效原件或完成视觉核验。",
+    "reviewed": "2026-10-28",
+    "reviewScope": "2026-10-28经Chrome取得AHRQ官方儿童3.1英文完整7页（封面加正文1—6页），40个编号项，封面更新2020-12-01。完整原表题号、锚点、跳转与排版逐页视觉核对。未套用成人版本对照结论；同版本中文原件、独立中文验证及完整分析规范仍待，未开放新题本导出。",
     "definition": [
       {
         "text": "CG-CAHPS 3.1回顾近六个月门诊照护，纳入面诊、电话及视频。儿童版由家长／监护人报告17岁及以下儿童经历，另有医患沟通和双方人口学题。",
@@ -494,13 +514,23 @@ export const largeBatchThreeProfiles:Record<string,ReviewedProfile>={
         "text": "按及时获得照护、沟通、协调、前台服务等官方复合指标及总体评分分开计算；跳答和不适用题不计0，不将整张问卷相加。题号须使用3.1对应成人／儿童版。",
         "source": "https://www.ahrq.gov/cahps/surveys-guidance/cg/index.html",
         "label": "AHRQ CG-CAHPS 3.1官方说明"
+      },
+      {
+        "text": "儿童版第1题不确认提供者或第4题无就诊，转第28题背景信息；第5—9题依家长是否在场、儿童能否交流分支。第25题为提供者0—10总体评分，不能按成人第18题套入。",
+        "source": "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/child-english-cg-3-1-2353a.pdf",
+        "label": "AHRQ对应英文原表指导与跳转"
       }
     ],
     "translations": [
       {
         "label": "原件及语言对应",
         "url": "https://www.ahrq.gov/cahps/surveys-guidance/cg/index.html",
-        "note": "已取得可读英文题文信息，但未取得此3.1完整中文表及独立中文验证；本批不把其他CAHPS中文表当同一版。"
+        "note": "官方完整英文PDF已取得并逐页视觉核对；同版本中文原件及独立验证仍未取得，不用其他CAHPS中文表替代。"
+      },
+      {
+        "label": "官方完整英文PDF（本地原件已核）",
+        "url": "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/child-english-cg-3-1-2353a.pdf",
+        "note": "儿童3.1英文完整7页（封面加正文1—6页），40个编号项，封面更新2020-12-01。编号项包括筛选、背景及辅助信息，不等于复合指标计分题数。"
       }
     ],
     "limits": [
@@ -512,8 +542,8 @@ export const largeBatchThreeProfiles:Record<string,ReviewedProfile>={
     ]
   },
   "VR-PE-002-135": {
-    "reviewed": "2026-10-15",
-    "reviewScope": "AHRQ当前官方4.0 beta说明及英文PDF文字核读；本地下载403，未取得有效原件或视觉核验。",
+    "reviewed": "2026-10-28",
+    "reviewScope": "2026-10-28经Chrome取得AHRQ官方成人Visit4.0 beta英文完整5页（封面加正文1—4页），33个编号项，封面更新2020-10-30。完整原表题号、锚点、跳转与排版逐页视觉核对。成人四页版本对照表亦已本地取得并全页视觉核对；同版本中文原件、独立中文验证及完整分析规范仍待，未开放新题本导出。",
     "definition": [
       {
         "text": "Visit 4.0 beta评价最近一次同步就诊，包括当面、电话、视频；不涵盖邮件、门户消息等异步照护，也不是近六个月多次就诊汇总。",
@@ -526,13 +556,28 @@ export const largeBatchThreeProfiles:Record<string,ReviewedProfile>={
         "text": "官方仍标beta：尚未由CAHPS Consortium完成现场测试或批准为正式CAHPS调查。最终指标依现场测试而定，不能直接套3.1复合指标、全国常模或宣称已充分验证。",
         "source": "https://www.ahrq.gov/cahps/surveys-guidance/cg/index.html",
         "label": "AHRQ 4.0 beta当前状态"
+      },
+      {
+        "text": "成人4.0的第21题0—10分评价最近一次就诊，区别于3.1第18题评价提供者；沟通题14—17为三档肯定程度，检验结果跟进第20题为是／否，不能把3.1的四档频率编码直接移植。",
+        "source": "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/cg-comparison-3-4.pdf",
+        "label": "AHRQ成人版本对照第3—4页及成人原表"
+      },
+      {
+        "text": "4.0原表按就诊模式跳转：面诊不回答视频／电话技术题，视频指导先问是否需要；未接触前台者跳过其体验题。这些结构性不适用不记作差评或零分，不能将33个编号项相加。",
+        "source": "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/adult-eng-cg40-3351a.pdf",
+        "label": "AHRQ对应英文原表指导与跳转"
       }
     ],
     "translations": [
       {
         "label": "原件及语言对应",
         "url": "https://www.ahrq.gov/cahps/surveys-guidance/cg/index.html",
-        "note": "当前入口提供成人英／西语；中文完整同版本原件及独立验证尚未取得。"
+        "note": "官方完整英文PDF已取得并逐页视觉核对；同版本中文原件及独立验证仍未取得，不用其他CAHPS中文表替代。"
+      },
+      {
+        "label": "官方完整英文PDF（本地原件已核）",
+        "url": "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/adult-eng-cg40-3351a.pdf",
+        "note": "成人Visit4.0 beta英文完整5页（封面加正文1—4页），33个编号项，封面更新2020-10-30。编号项包括筛选、背景及辅助信息，不等于复合指标计分题数。"
       }
     ],
     "limits": [
@@ -540,6 +585,11 @@ export const largeBatchThreeProfiles:Record<string,ReviewedProfile>={
         "text": "beta不是仅表示软件测试版；研究用途须如实报告测量证据不足，不能默认为成熟3.1的升级替代。",
         "source": "https://www.ahrq.gov/cahps/surveys-guidance/cg/index.html",
         "label": "AHRQ 4.0 beta当前状态"
+      },
+      {
+        "text": "官方对照表中，3.1的常规预约、当日答复医疗问题及药物讨论未纳入4.0；4.0另加视频使用、听清对方及按时开始等内容。部分内容改变，不能只缩短回顾期便声称两个版本等价。",
+        "source": "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/cg-comparison-3-4.pdf",
+        "label": "AHRQ成人版本对照第1—4页"
       }
     ]
   },
@@ -576,8 +626,8 @@ export const largeBatchThreeProfiles:Record<string,ReviewedProfile>={
     ]
   },
   "VR-PE-002-137": {
-    "reviewed": "2026-10-15",
-    "reviewScope": "CMS当前改版说明、官方材料页及2026年3月修订中英各五页PDF取得；简体封面2026年4月起使用标记视觉核对，正文题量／题号文字核读。",
+    "reviewed": "2026-10-19",
+    "reviewScope": "CMS改版说明、官方材料页及2026年3月中英各五页PDF已取得；简体封面使用日期视觉核对，正文题量／题号文字核读。2026年1月题号对照四页及2月指标对照四页独立PDF均已取得及文字核读，题号第3—4页、指标第1／4页视觉核对；2026年1月Version18.0官方完整DOCX现已取得，核读9.4—9.7及13.1—13.7相关正文和表格文字；已在WPS原生视图核对印刷89页第9.6节及Exhibit9.3、124—126页第13.1—13.4节及Table13.1。这里只完成所列段落／原表视觉检查，未验全手册、字体完整性或最终新版调整系数。",
     "definition": [
       {
         "text": "HHCAHPS针对Medicare认证居家健康护理服务经历，多数问题回顾近两个月。2026年4月样本月起由旧34题改为25题，不能继续以旧版题号解释新版。",
@@ -587,16 +637,26 @@ export const largeBatchThreeProfiles:Record<string,ReviewedProfile>={
     ],
     "scoring": [
       {
-        "text": "新版护理／沟通复合指标有改动，增加独立指标；总体评价现为第14题、推荐第17题。网站另链接两页旧指标PDF仍写总体Q20、推荐Q25，明确为旧版，不能直接套到25题新表。",
-        "source": "https://www.cms.gov/medicare/quality/home-health-quality-reporting-program/home-health-care-cahpsr-hhcahps-survey",
-        "label": "CMS 2026改版及官方原件"
+        "text": "官方2026指标对照将护理复合指标映射为新版Q6、Q7、Q10、Q11、Q13，沟通复合指标为Q5、Q8、Q9、Q12、Q16；部分题文改写或新增，不能只换题号。旧Specific Care Issues复合指标退役，家居安全Q2、用药核对Q3和药物副作用Q4分别成为独立指标。",
+        "source": "https://homehealthcahps.org/Portals/0/SurveyMaterials/HHCAHPS_Crosswalk_Reported_Measures.pdf",
+        "label": "官方2026年2月指标对照第1—3页"
+      },
+      {
+        "text": "总体评价为新版Q14（旧Q20），推荐为Q17（旧Q25）。Version18.0第13.3节列出新版题组并称计划沿用第13.2节的比例汇总过程；不能把旧34题数据直接当新版同尺度。第13章提示新版数据计划2027公开报告，须与2026年4月起施测日期分开；最终新版调整系数及发布技术材料仍待核。",
+        "source": "https://homehealthcahps.org/Portals/0/SurveyMaterials/HHCAHPS_PGManual.docx",
+        "label": "2026年1月V18第13.1—13.4节"
+      },
+      {
+        "text": "V18第9.6节以Q1—Q15及Q17共16项计算完成率，至少回答50%（即8项）才记为完成；Q16及Q18—Q25不进入此分母。不知道／拒答记缺失M，不计有效回答。这是整份问卷的完成状态门槛，不等于各复合指标可任意漏答一半后补零。",
+        "source": "https://homehealthcahps.org/Portals/0/SurveyMaterials/HHCAHPS_PGManual.docx",
+        "label": "2026年1月V18第9.6节及Exhibit9.3（印刷第89页）"
       }
     ],
     "translations": [
       {
         "label": "原件及语言对应",
         "url": "https://www.cms.gov/medicare/quality/home-health-quality-reporting-program/home-health-care-cahpsr-hhcahps-survey",
-        "note": "2026官方简体五页原件已取得，含25题及帮助／代理回答说明；官方翻译提供不等于本项目已完成独立中文信效度验证。"
+        "note": "2026年3月官方简体五页原件已取得，含25题及帮助／代理回答说明；1月／2月对照附件仍带pending OMB approval旧注，不能据此否定3月正式表或擅称附件已同步改注。官方翻译提供不等于独立中文信效度验证完成。"
       }
     ],
     "limits": [

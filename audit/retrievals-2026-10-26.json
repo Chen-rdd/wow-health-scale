@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-26",
+  "record": "VR-MA-001-087",
+  "citation": "Morisky DE, Green LW, Levine DM. Medical Care. 1986;24(1):67–74. doi:10.1097/00005650-198601000-00007",
+  "url": "https://www.researchgate.net/profile/Donald_Morisky/publication/236626999_Concurrent_and_Predictive_Validity_of_a_Self-Reported_Measure_of_Medication_Adherence_and_Long-Term_Predictive_Validity_of_Blood_Pressure_Control/links/0deec537e4124920ff000000.pdf",
+  "online_text_read": true,
+  "online_document_pages": 9,
+  "pagination": "JSTOR cover + journal pages 67–74",
+  "local_pdf_acquired": false,
+  "download_status": "HTTP 403 (curl attempt in preceding continuation)",
+  "visual_verified": false,
+  "web_screenshot_status": "cache miss for file pages 3, 5 and 6",
+  "browser_status": "native Chrome control timed out; no evidence establishing lock or VPN state",
+  "remaining": [
+    "local PDF and table/figure visual verification",
+    "Chinese exact form/version matching",
+    "formal licensed materials and missing-response rules"
+  ],
+  "questionnaire_or_export_changes": false,
+  "additional_attempts": [
+    {
+      "target": "SDSCA2000 publisher PDF",
+      "url": "https://diabetesjournals.org/care/article-pdf/23/7/943/450689/10895844.pdf",
+      "status": "web fetch HTTP403; previously read author full-text remains valid"
+    },
+    {
+      "target": "CAGE-AID1995 original135–140",
+      "status": "no original full text located; abstracts/reprints not substitutes"
+    },
+    {
+      "target": "WHO-10 1996 original183–190",
+      "url": "https://portal.findresearcher.sdu.dk/en/publications/the-who-ten-well-being-index-validation-in-diabetes/",
+      "status": "university metadata/DOI only; original full text remains pending"
+    }
+  ]
+}

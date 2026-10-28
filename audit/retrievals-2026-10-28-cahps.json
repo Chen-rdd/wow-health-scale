@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-28",
+  "files": [
+    {
+      "file": "cahps-cg-comparison-3-4.pdf",
+      "url": "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/cg-comparison-3-4.pdf",
+      "bytes": 157272,
+      "pages": 4,
+      "sha256": "35572bcf70fb425da06e5aae84c6f6643bf6a3ea27d0ecc604fe16b20ee590e5",
+      "visual": "all file pages inspected",
+      "acquired": "Chrome PDF download + native Save dialog; assistant confirmed Save",
+      "raw_distribution": "ignored local source-files only"
+    },
+    {
+      "file": "cahps-cg31-adult-en.pdf",
+      "url": "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/adult-english-cg-3-1-2351a.pdf",
+      "bytes": 501830,
+      "pages": 6,
+      "sha256": "0c4fc3c39e31cd100cd398d4a5263a5a9c46c334a74a8b028c3634d0cb81eaa6",
+      "visual": "all file pages inspected",
+      "acquired": "Chrome PDF download + native Save dialog; assistant confirmed Save",
+      "raw_distribution": "ignored local source-files only"
+    },
+    {
+      "file": "cahps-cg31-child-en.pdf",
+      "url": "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/child-english-cg-3-1-2353a.pdf",
+      "bytes": 449283,
+      "pages": 7,
+      "sha256": "1b5e463e8b48dbd83e0264f9a4b68938937605778448853e4643cc2fc0f15b08",
+      "visual": "all file pages inspected",
+      "acquired": "Chrome PDF download + native Save dialog; assistant confirmed Save",
+      "raw_distribution": "ignored local source-files only"
+    },
+    {
+      "file": "cahps-cg40-adult-en.pdf",
+      "url": "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/adult-eng-cg40-3351a.pdf",
+      "bytes": 230534,
+      "pages": 5,
+      "sha256": "3a5ca493ec26df12bb1f13233692154a43d62381a1f8949cf4ed7307ce9838d2",
+      "visual": "all file pages inspected",
+      "acquired": "Chrome PDF download + native Save dialog; assistant confirmed Save",
+      "raw_distribution": "ignored local source-files only"
+    }
+  ],
+  "forms_export_unlocked": false,
+  "remaining": [
+    "complete Chinese forms and independent validation",
+    "complete version-specific analysis and missing response guidance",
+    "project-specific use conditions"
+  ]
+}
