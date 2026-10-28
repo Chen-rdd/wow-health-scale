@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-28",
+  "citation": "Morisky DE, Green LW, Levine DM. Medical Care.1986;24(1):67–74. doi:10.1097/00005650-198601000-00007",
+  "file": "morisky-1986-author.pdf",
+  "bytes": 1331716,
+  "sha256": "6ba6a6aa50b84c559a86568de278c27ea8f306bb7846a856063a1eb7bca2ad8d",
+  "pages": 9,
+  "acquisition": "Chrome recent-downloads showed three completed JSTOR_MedCreMorisky1986 PDF copies; all verified identical, one copied into ignored source-files. ResearchGate later displayed a CAPTCHA; no CAPTCHA interaction performed.",
+  "local_pdf_acquired": true,
+  "text_scope": "relevant methods/results/discussion; original table text cross-checked",
+  "visual_pages": [
+    {
+      "file_page": 4,
+      "printed_page": 69,
+      "scope": "Table1 and methods"
+    },
+    {
+      "file_page": 5,
+      "printed_page": 70,
+      "scope": "Table2 and results"
+    },
+    {
+      "file_page": 6,
+      "printed_page": 71,
+      "scope": "Figure1 and results"
+    },
+    {
+      "file_page": 7,
+      "printed_page": 72,
+      "scope": "Table3 and sensitivity/specificity discussion"
+    }
+  ],
+  "discrepancy": "Figure1 high group N126; Tables2/3 high group N125. Confirmed visually, not silently repaired.",
+  "remaining": [
+    "formal licensed forms/manuals",
+    "Chinese exact wording and study matching",
+    "missing response rules"
+  ],
+  "raw_or_export_changes": false
+}

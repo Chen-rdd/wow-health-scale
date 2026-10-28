@@ -2745,10 +2745,10 @@ export const versions = [
     "parent": "AIS-8",
     "relation": "删改重验",
     "population": "原开发非临床；中文上海运动员／高中生",
-    "scoring": "1–5编码；原七题与中文六题分别报告",
+    "scoring": "原开发均值尺度1–5；中文六题独立报告",
     "chinese": "Tan2023删原第4项；确切中文原表待取",
     "copyrightRisk": "中",
-    "status": "英德说明与中文六题研究已核；完整译本待取"
+    "status": "原开发及英德独立附件已核；确切中文原表待取"
   },
   {
   "id": "VR-QL-001-037",
@@ -3216,7 +3216,7 @@ export const versions = [
     "scoring": "二分类0—16；漏答须绑定研究规则",
     "chinese": "中文证据存在",
     "copyrightRisk": "低至中",
-    "status": "冰岛译本研究已核；母版与中文原件待补"
+    "status": "2013原始报告及德文表已核；中文原件与许可待补"
   },
   {
     "id": "VR-HL-001-063",
@@ -4487,12 +4487,12 @@ export const versions = [
   "name": "CAHPS Clinician & Group Adult Survey 3.1",
   "abbreviation": "CG-CAHPS 3.1 Adult",
   "role": "成人门诊版",
-  "itemCount": "核心题+可选补充题",
+  "itemCount": "32个编号项（含筛选／背景；可加补充题）",
   "parent": "CAHPS",
   "relation": "调查/版本节点",
   "population": "18岁及以上门诊患者；过去6个月",
   "scoring": "按官方复合指标和总体评分规则",
-  "chinese": "暂无官方中文",
+  "chinese": "同版本中文原件及独立验证待取",
   "copyrightRisk": "低",
   "status": "已补充来源说明；原件与权限缺项见说明"
 },
@@ -4505,12 +4505,12 @@ export const versions = [
   "name": "CAHPS Clinician & Group Child Survey 3.1",
   "abbreviation": "CG-CAHPS 3.1 Child",
   "role": "儿童门诊家长代理版",
-  "itemCount": "核心题+可选补充题",
+  "itemCount": "40个编号项（含筛选／背景；可加补充题）",
   "parent": "CG-CAHPS 3.1 Adult",
   "relation": "年龄/报告者版本",
   "population": "17岁及以下儿童的家长/监护人",
   "scoring": "按儿童版官方复合指标",
-  "chinese": "暂无官方中文",
+  "chinese": "同版本中文原件及独立验证待取",
   "copyrightRisk": "低",
   "status": "已补充来源说明；原件与权限缺项见说明"
 },
@@ -4523,12 +4523,12 @@ export const versions = [
   "name": "CAHPS Clinician & Group Visit Survey 4.0 beta",
   "abbreviation": "CG-CAHPS Visit 4.0 beta",
   "role": "单次就诊测试版",
-  "itemCount": "版本定义题组",
+  "itemCount": "33个编号项（含筛选／背景）",
   "parent": "CG-CAHPS 3.1",
   "relation": "回顾期/场景修订",
   "population": "最近一次面诊、电话或视频就诊",
   "scoring": "beta版；不与3.1长期经历分数混用",
-  "chinese": "暂无官方中文",
+  "chinese": "同版本中文原件及独立验证待取",
   "copyrightRisk": "低",
   "status": "已补充来源说明；原件与权限缺项见说明"
 },

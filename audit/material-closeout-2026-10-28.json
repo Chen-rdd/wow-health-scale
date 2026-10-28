@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-28",
+  "method": "Read-only original DOC/DOCX rendered with bundled LibreOffice; original PDF page rendered with Poppler. No original edited, XFA scripts not executed.",
+  "files": [
+    {
+      "file": "eheals-appendix-2006.doc",
+      "sha256": "1be20ad14af61daaf65d384ff495415dd553e6b554eea4dc140655d0fec0084a"
+    },
+    {
+      "file": "promis-global-current.pdf",
+      "sha256": "2674270e39e339aeda18d33bd9d9c2ba7070875605ccf0376e58f39960883bb6"
+    },
+    {
+      "file": "vhs-shapiro-2018-supplement.docx",
+      "sha256": "1b79cb821dce28f4ea3699445de1cc0340388110867b8ee90df26b5a2bfd03ca"
+    },
+    {
+      "file": "5c-si-1.docx",
+      "sha256": "76f9fc1328b2db488f248cc96810724a992df6def9cd073243cc8136e66a2ce9"
+    },
+    {
+      "file": "5c-si-2.docx",
+      "sha256": "5daac7dd399749a56f71bf099b02eadb2fb29e033be355f6907d00cf03142fbc"
+    },
+    {
+      "file": "5c-si-3.docx",
+      "sha256": "ea43fd1e651a148f95b773ad344cfaf45c05ff152a5e28d94c0b3bc657510eab"
+    },
+    {
+      "file": "5c-si-4.docx",
+      "sha256": "7d10abbee232b08e847b2276028087c01af011dc0751a91aee0033fce74b58be"
+    },
+    {
+      "file": "5c-si-5.docx",
+      "sha256": "b0a61001f76776d6b95d6b99b41928f3017884e3d9fca1c6f5cef8221ffdda93"
+    },
+    {
+      "file": "5c-si-6.docx",
+      "sha256": "0b7c2d38878219513c53ecdf35fb92b527f4301438fc65f6395019816c1a77f3"
+    },
+    {
+      "file": "5c-si-7.docx",
+      "sha256": "0b888df313adf44c37ea40d4d9b37ffff241eb34a7311ae9e992b4db38b6211c"
+    }
+  ],
+  "visual_pages": {
+    "eheals": 2,
+    "promis": [
+      26
+    ],
+    "vhs": 8,
+    "5c": [
+      1,
+      10,
+      1,
+      1,
+      5,
+      1,
+      1
+    ]
+  },
+  "xfa_visual_verified": false
+}

@@ -450,8 +450,8 @@
       "name": "eHealth Literacy Scale",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "2006出版社HTML及Europe PMC正式全文XML的方法、结果、局限及题目表已核读；原附录DOC已下载并提取全部文字，未完成原DOC视觉排版核验；正文PDF本地请求为空，未记下载成功。",
+      "reviewDate": "2026-10-28",
+      "reviewScope": "2006出版社HTML及Europe PMC正式全文XML的方法、结果、局限及题目表已核读；原附录DOC已下载，全部文字及两页渲染视觉核对完成，确认前两问为补充问题、正式八题为原编号3—10；部分复选框字形在本地渲染中替换，不作为印刷样张。正文PDF本地请求为空，未记下载成功。",
       "sources": [
         "https://www.jmir.org/2006/4/e27/",
         "https://www.jmir.org/api/download?alt_name=jmir_v8i4e27_app1.doc&filename=701a0d670f10d4a0a6eb434b24da3f77.doc"
@@ -855,13 +855,16 @@
       "name": "Tilburg Frailty Indicator",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-16",
-      "reviewScope": "大学独立三页英文PDF本地获取及原页视觉仍待；其公开可读计分键已核。2010原PDF12页相关方法、信度、并存效度、讨论及Appendix 1文字核读，348／349／352／354／355视觉核对。2017大陆原PDF8页与独立中文DOCX已取得，方法、结果、局限及附件15项文字核读，22／24／27及表5视觉核对；独立DOCX在WPS中原生打开，全一页15项、列头及不适用“有时”格视觉核对。2021台湾正式XML相关章节已读，不等于台湾中文原件取得。",
+      "reviewDate": "2026-10-18",
+      "reviewScope": "大学独立三页英文PDF现已取得，全三页背景、B部分题文及计分键文字与原页视觉核对；开发者2024正式书章现从大学新仓储取得6文件页（封页及145—149），全章文字核读，147—149完整英文A／B表及计分键三页视觉核对。2010原PDF12页相关方法、信度、并存效度、讨论及Appendix 1文字核读，348／349／352／354／355视觉核对。2017大陆原PDF8页与独立中文DOCX已取得，方法、结果、局限及附件15项文字核读，22／24／27及表5视觉核对；独立DOCX在WPS中原生打开，全一页15项、列头及不适用“有时”格视觉核对。2021台湾正式XML相关章节已读，不等于台湾中文原件取得。",
       "sources": [
         "https://doi.org/10.1016/j.jamda.2009.11.003",
         "https://doi.org/10.1016/j.archger.2017.07.001",
         "https://doi.org/10.3390/healthcare9091193",
+        "https://doi.org/10.1007/978-3-031-57361-3_21",
         "https://www.tilburguniversity.edu/nl/onderzoek/instituten-en-researchgroepen/tranzo/academischewerkplaatsen/ouderen/praktijk-producten",
+        "https://www.tilburguniversity.edu/sites/default/files/download/tfieng_2.pdf",
+        "https://repository.tilburguniversity.edu/server/api/core/bitstreams/ed84c476-e593-44c8-8bd3-55f8ec66c57b/content",
         "https://ars.els-cdn.com/content/image/1-s2.0-S0167494316303193-mmc1.docx"
       ],
       "primaryReference": {
@@ -1811,8 +1814,8 @@
       "name": "ISI patient self-report, 1 month",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-16",
-      "reviewScope": "2011 PMC正文与本地UPenn八页原PDF（印刷页601—608）均已核；原页分两轮完成全八页视觉检查，含方法、缺失处理、Table 1—5及Figure 1—3。此前XML500／PMC PDF验证页失败保留。中文一月施测原件及用途许可仍未取得。 香港Chung2011八页全文相关方法、结果和表10已核，印刷页464／465／469视觉核对；独立DOC补充表文字核读，完整中文表仍待。",
+      "reviewDate": "2026-10-23",
+      "reviewScope": "2011 PMC正文与本地UPenn八页原PDF（印刷页601—608）均已核；原页分两轮完成全八页视觉检查，含方法、缺失处理、Table 1—5及Figure 1—3。此前XML500／PMC PDF验证页失败保留。中文一月施测原件及用途许可仍未取得。 香港Chung2011八页全文相关方法、结果和表10已核，印刷页464／465／469视觉核对；独立DOC补充表文字核读，完整中文表仍待。 香港Chung2011三份COI的XFA实际填写数据与表头／复选编码现已核读：所列研究支持、研究外财务关系及其他关系均勾选无，未完成原XFA排版视觉检查；披露表不是中文题本或本项目许可函。",
       "sources": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC3079939/",
         "https://www.med.upenn.edu/cbti/assets/user-content/documents/Morin2011_ISIindex-psychometricindicators.pdf",
@@ -1895,11 +1898,13 @@
       "name": "Epworth Sleepiness Scale for Children and Adolescents",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-16",
-      "reviewScope": "2017六页原PDF经交大ScienceDirect取得，方法、结果、讨论及局限文字核读，印刷31—34及表1—4／相关图视觉核对。另取得独立ZIP，四份文件名为COI披露表的PDF在当前阅读器只显示XFA占位页，未称内容视觉审核完成。2022一周临床研究七页PDF及另一COI ZIP亦取得，后者八份PDF只读到XFA占位，内容未审核；正文方法、结果、局限文字核读，79／82—84及Figure 1、表2—4视觉核对；图1完整英文研究样本表已核，现行正式许可题本、中文及报告者对应仍待。",
+      "reviewDate": "2026-10-22",
+      "reviewScope": "2017六页原PDF经交大ScienceDirect取得，方法、结果、讨论及局限文字核读，印刷31—34及表1—4／相关图视觉核对。另取得独立ZIP，四份COI PDF原阅读器仅显示XFA占位；现已读取其内嵌datasets及template，核对实际填写内容、披露陈述和选项编码，未完成原XFA表单视觉核查。2022一周临床研究七页PDF及另一COI ZIP亦取得，后者八份PDF现亦完成内嵌XFA填写数据与披露文字核读，未验原表视觉排版；正文方法、结果、局限文字核读，79／82—84及Figure 1、表2—4视觉核对；图1完整英文研究样本表已核，现行正式许可题本、中文及报告者对应仍待。",
       "sources": [
         "https://doi.org/10.1016/j.sleep.2017.01.014",
         "https://doi.org/10.1016/j.sleep.2021.11.003",
+        "https://ars.els-cdn.com/content/image/1-s2.0-S1389945717300497-mmc1.zip",
+        "https://ars.els-cdn.com/content/image/1-s2.0-S1389945721005529-mmc1.zip",
         "https://www.mapi-trust.org/news-events/events/webinars/epworth-sleepiness-scale",
         "https://eprovide.mapi-trust.org/instruments/epworth-sleepiness-scale-child-adolescent"
       ],
@@ -1916,8 +1921,8 @@
       "name": "Athens Insomnia Scale-8",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-16",
-      "reviewScope": "2000开发研究6页原PDF经交大机构权限取得，相关方法、结果、讨论及Appendix A文字核读，印刷页556／557／559视觉核对；2003五页界点原PDF亦已取得，方法、结果、讨论核读，印刷页264—266视觉核对。Canadian Sleep Society重印第25页亦已查看。另已取得香港Chung2011八页全文及独立DOC统计附件，方法、中文适配与表10核读，印刷页464／465／469视觉核对；完整中文题文仍待。",
+      "reviewDate": "2026-10-23",
+      "reviewScope": "2000开发研究6页原PDF经交大机构权限取得，相关方法、结果、讨论及Appendix A文字核读，印刷页556／557／559视觉核对；2003五页界点原PDF亦已取得，方法、结果、讨论核读，印刷页264—266视觉核对。Canadian Sleep Society重印第25页亦已查看。另已取得香港Chung2011八页全文及独立DOC统计附件，方法、中文适配与表10核读，印刷页464／465／469视觉核对；完整中文题文仍待。 香港Chung2011三份COI的XFA实际填写数据与表头／复选编码现已核读：所列研究支持、研究外财务关系及其他关系均勾选无，未完成原XFA排版视觉检查；披露表不是中文题本或本项目许可函。",
       "sources": [
         "https://pubmed.ncbi.nlm.nih.gov/11033374/",
         "https://doi.org/10.1016/S0022-3999(00)00095-7",
@@ -1957,11 +1962,13 @@
       "name": "AIS for Non-Clinical Application",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "作者GESIS 2022技术说明33页取得，前五页的英德题文、指导语、计分及许可相关原页核对；中文2023正文PDF／XML方法、结构、信度与局限已读，第6—7页删题与模型视觉查看。未称全部33页研究图表已复核。",
+      "reviewDate": "2026-10-21",
+      "reviewScope": "作者GESIS 2022技术说明33页取得，前五页的英德题文、指导语、计分及许可相关原页核对；中文2023正文PDF／XML方法、结构、信度与局限已读，第6—7页删题与模型视觉查看。原开发论文大学Postprint现已取得27文件页（封页及正文1—26），相关方法、结果、讨论、Table3／5／6文字核读，正文9／12／17／19原页视觉核对。独立补充8页已取得及文字核读，Figure S1完整英德七题及Table S2原页视觉核对。未称全部33页技术说明或全部原论文图表视觉复核。",
       "sources": [
         "https://access.gesis.org/zis/1308",
-        "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1183919/full"
+        "https://opus.bibliothek.uni-augsburg.de/opus4/frontdoor/index/index/docId/91195",
+        "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1183919/full",
+        "https://opus.bibliothek.uni-augsburg.de/opus4/files/91195/91195+Supplement.pdf"
       ],
       "primaryReference": {
         "title": "Assessing sleep problems and daytime functioning: a translation, adaption, and validation of the Athens Insomnia Scale for non-clinical application (AIS-NCA).",
@@ -2362,8 +2369,8 @@
       "name": "PROMIS Parent Proxy Global Health 7 v1.0",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "第14、17、26页规则及历史版本归属；第26页换算表尚未视觉逐格复核，具体中文原件和研究待补。",
+      "reviewDate": "2026-10-28",
+      "reviewScope": "第14、17、26页规则及历史版本归属已核；第26页七题换算表全部29行及右侧两张单项表已视觉核对。具体中文原件和研究未取得，未作核验。",
       "sources": [
         "https://healthmeasures.net/wp-content/uploads/2026/05/PROMIS-Global-Health-Scoring-Manual_30Aug2024.pdf",
         "https://healthmeasures.net/implement/scoring/manual-scoring-resources/",
@@ -2467,15 +2474,17 @@
       "name": "HLS-EU-Q16",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "2020冰岛Q16翻译研究全文与第3页原评分描述已核读和视觉检查；原始选题开发材料、正式英文／中文独立题本仍待取得，不称冰岛研究是最初开发。",
+      "reviewDate": "2026-10-16",
+      "reviewScope": "2013奥地利15岁青少年原始报告93页及独立附件77页已取得；正文第13—14、70—89页及附件第67—71页相关内容核读，正文第71、79、83、87—88页视觉核对。已核德文16项示范表、指导语、原始计分与漏答；2020冰岛研究另作译本适配证据，正式英文／中文独立题本及本项目使用条件仍待。",
       "sources": [
+        "https://www.sozialversicherung.at/cdscontent/load?contentid=10008.715507&version=1395738807",
+        "https://www.sozialversicherung.at/cdscontent/load?contentid=10008.715506&version=1395738801",
         "https://link.springer.com/article/10.1186/s12889-020-8162-6"
       ],
       "primaryReference": {
-        "title": "Translation and cross-cultural adaptation of the European Health Literacy Survey Questionnaire, HLS-EU-Q16: the Icelandic version.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/31937293/",
-        "role": "冰岛译本与适配研究；非最早开发"
+        "title": "Die Gesundheitskompetenz von 15-jährigen Jugendlichen in Österreich. Abschlussbericht der österreichischen Gesundheitskompetenz Jugendstudie",
+        "url": "https://www.sozialversicherung.at/cdscontent/load?contentid=10008.715507&version=1395738807",
+        "role": "Q16早期原始技术报告与青少年验证；非期刊论文"
       },
       "registeredForms": []
     },
@@ -2962,15 +2971,16 @@
       "name": "4-item Morisky scale",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "1986四项直接开发正式摘要及权利方许可页面核读；原始全文、许可评分键及中文原件未得。",
+      "reviewDate": "2026-10-28",
+      "reviewScope": "1986原论文完整9页扫描PDF已取得（封面加67—74页）；相关方法、结果及讨论已核读，印刷69—72页表1—3及图1已视觉核对。图表人数差异保留；正式许可资料、中文原件及漏答规则仍待。",
       "sources": [
+        "https://www.researchgate.net/profile/Donald_Morisky/publication/236626999_Concurrent_and_Predictive_Validity_of_a_Self-Reported_Measure_of_Medication_Adherence_and_Long-Term_Predictive_Validity_of_Blood_Pressure_Control/links/0deec537e4124920ff000000.pdf",
         "https://pubmed.ncbi.nlm.nih.gov/3945130/"
       ],
       "primaryReference": {
         "title": "Concurrent and predictive validity of a self-reported measure of medication adherence.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/3945130/",
-        "role": "四项原始开发研究；本批仅摘要"
+        "role": "四项原始开发研究；原PDF相关正文及表1—3／图1已核"
       },
       "registeredForms": []
     },
@@ -3935,10 +3945,12 @@
       "name": "CAHPS Clinician & Group Adult Survey 3.1",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "AHRQ官方页面及对应英文3.1 PDF可读文字经检索工具核读；本地页面／PDF下载403，未保存有效原件或完成视觉核验。",
+      "reviewDate": "2026-10-28",
+      "reviewScope": "2026-10-28经Chrome取得AHRQ官方成人3.1英文完整6页（封面加正文1—5页），32个编号项，封面更新2020-12-01。完整原表题号、锚点、跳转与排版逐页视觉核对。成人四页版本对照表亦已本地取得并全页视觉核对；同版本中文原件、独立中文验证及完整分析规范仍待，未开放新题本导出。",
       "sources": [
-        "https://www.ahrq.gov/cahps/surveys-guidance/cg/index.html"
+        "https://www.ahrq.gov/cahps/surveys-guidance/cg/index.html",
+        "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/cg-comparison-3-4.pdf",
+        "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/adult-english-cg-3-1-2351a.pdf"
       ],
       "primaryReference": {
         "title": "CAHPS Clinician & Group Adult Survey 3.1",
@@ -3953,10 +3965,11 @@
       "name": "CAHPS Clinician & Group Child Survey 3.1",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "AHRQ官方页面及对应英文3.1 PDF可读文字经检索工具核读；本地页面／PDF下载403，未保存有效原件或完成视觉核验。",
+      "reviewDate": "2026-10-28",
+      "reviewScope": "2026-10-28经Chrome取得AHRQ官方儿童3.1英文完整7页（封面加正文1—6页），40个编号项，封面更新2020-12-01。完整原表题号、锚点、跳转与排版逐页视觉核对。未套用成人版本对照结论；同版本中文原件、独立中文验证及完整分析规范仍待，未开放新题本导出。",
       "sources": [
-        "https://www.ahrq.gov/cahps/surveys-guidance/cg/index.html"
+        "https://www.ahrq.gov/cahps/surveys-guidance/cg/index.html",
+        "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/child-english-cg-3-1-2353a.pdf"
       ],
       "primaryReference": {
         "title": "CAHPS Clinician & Group Child Survey 3.1",
@@ -3971,10 +3984,12 @@
       "name": "CAHPS Clinician & Group Visit Survey 4.0 beta",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "AHRQ当前官方4.0 beta说明及英文PDF文字核读；本地下载403，未取得有效原件或视觉核验。",
+      "reviewDate": "2026-10-28",
+      "reviewScope": "2026-10-28经Chrome取得AHRQ官方成人Visit4.0 beta英文完整5页（封面加正文1—4页），33个编号项，封面更新2020-10-30。完整原表题号、锚点、跳转与排版逐页视觉核对。成人四页版本对照表亦已本地取得并全页视觉核对；同版本中文原件、独立中文验证及完整分析规范仍待，未开放新题本导出。",
       "sources": [
-        "https://www.ahrq.gov/cahps/surveys-guidance/cg/index.html"
+        "https://www.ahrq.gov/cahps/surveys-guidance/cg/index.html",
+        "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/cg-comparison-3-4.pdf",
+        "https://www.ahrq.gov/sites/default/files/wysiwyg/cahps/surveys-guidance/cg/adult-eng-cg40-3351a.pdf"
       ],
       "primaryReference": {
         "title": "CAHPS Clinician & Group Visit Survey 4.0 (beta)",
@@ -4007,10 +4022,12 @@
       "name": "CAHPS Home Health Care Survey",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "CMS当前改版说明、官方材料页及2026年3月修订中英各五页PDF取得；简体封面2026年4月起使用标记视觉核对，正文题量／题号文字核读。",
+      "reviewDate": "2026-10-19",
+      "reviewScope": "CMS改版说明、官方材料页及2026年3月中英各五页PDF已取得；简体封面使用日期视觉核对，正文题量／题号文字核读。2026年1月题号对照四页及2月指标对照四页独立PDF均已取得及文字核读，题号第3—4页、指标第1／4页视觉核对；2026年1月Version18.0官方完整DOCX现已取得，核读9.4—9.7及13.1—13.7相关正文和表格文字；已在WPS原生视图核对印刷89页第9.6节及Exhibit9.3、124—126页第13.1—13.4节及Table13.1。这里只完成所列段落／原表视觉检查，未验全手册、字体完整性或最终新版调整系数。",
       "sources": [
-        "https://www.cms.gov/medicare/quality/home-health-quality-reporting-program/home-health-care-cahpsr-hhcahps-survey"
+        "https://www.cms.gov/medicare/quality/home-health-quality-reporting-program/home-health-care-cahpsr-hhcahps-survey",
+        "https://homehealthcahps.org/Portals/0/SurveyMaterials/HHCAHPS_Crosswalk_Reported_Measures.pdf",
+        "https://homehealthcahps.org/Portals/0/SurveyMaterials/HHCAHPS_PGManual.docx"
       ],
       "primaryReference": {
         "title": "HHCAHPS revised survey effective April 2026",
@@ -4083,8 +4100,8 @@
       "name": "5C long form",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "2018原研究完整HTML及七份DOCX补充材料取得；正式最终版表格与相关计分文字、补充表研究设计核读；未声称全部附件图形视觉复核。",
+      "reviewDate": "2026-10-28",
+      "reviewScope": "2018原研究完整HTML及七份DOCX补充材料取得；正式最终版表格与相关计分文字已核读；七份DOCX只读渲染共20页，全部页图已查看，含S1—S6表与S1图。S4为明示不可施用的中间版本；S1图为既有量表经POMP转为0—100的均值及95%置信区间，不是5C临床界点。中文原件与独立验证未取得。",
       "sources": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC6285469/"
       ],
@@ -4101,8 +4118,8 @@
       "name": "5C short form",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-15",
-      "reviewScope": "2018原研究完整HTML及七份DOCX补充材料取得；正式最终版表格与相关计分文字、补充表研究设计核读；未声称全部附件图形视觉复核。",
+      "reviewDate": "2026-10-28",
+      "reviewScope": "2018原研究完整HTML及七份DOCX补充材料取得；正式最终版表格与相关计分文字已核读；七份DOCX只读渲染共20页，全部页图已查看，含S1—S6表与S1图。S4为明示不可施用的中间版本；S1图为既有量表经POMP转为0—100的均值及95%置信区间，不是5C临床界点。中文原件与独立验证未取得。",
       "sources": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC6285469/"
       ],
@@ -4496,8 +4513,8 @@
       "name": "Vaccine Hesitancy Scale parental version",
       "selectable": true,
       "status": "已补充来源说明；完整核验范围须读具体说明",
-      "reviewDate": "2026-10-16",
-      "reviewScope": "2015原十题附录已核；2018家长验证八页原PDF及独立DOCX补充材料现经交大机构权限取得。相关方法、结果、局限与补充表A1—A3、A10—A12文字核读，原文第661—664页视觉核对；DOCX核对包结构及表格文字，未称Word原排版视觉完成。中文原件与许可仍待。",
+      "reviewDate": "2026-10-28",
+      "reviewScope": "2015原十题附录已核；2018家长验证八页原PDF及独立DOCX补充材料现经交大机构权限取得。相关方法、结果、局限与补充表A1—A3、A10—A12文字核读，原文第661—664页视觉核对；独立DOCX已只读渲染并查看全部八页、表A1—A15，完整英法题表、编码及表注已视觉核对；渲染分页和字体不作为作者印刷样张。中文原件与许可仍未取得。",
       "sources": [
         "https://doi.org/10.1016/j.vaccine.2017.12.043",
         "https://ars.els-cdn.com/content/image/1-s2.0-S0264410X17317966-mmc1.docx",

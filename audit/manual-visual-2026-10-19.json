@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-19",
+  "sourceFile": "audit/source-files/hhcahps-2026-protocol-manual.docx",
+  "method": "Native WPS opened via Finder; Cmd+G page navigation and scrolling; screenshots inspected in tool output. No print, conversion, AI upload, document edit or Save action.",
+  "documentVersion": "18.0 January2026",
+  "checks": [
+    {
+      "printedPage": 89,
+      "wpsPage": 102,
+      "items": [
+        "Section9.6: Questions1-15 and17; Q16 and18-25 excluded",
+        "Do not know/refuse recoded M, not counted responses",
+        "Complete percentage R/16*100 >=50%; disposition110/120 otherwise310"
+      ],
+      "scope": "Section9.6 body and full Exhibit9.3 visually checked in two scroll regions."
+    },
+    {
+      "printedPage": 124,
+      "wpsPage": 137,
+      "items": [
+        "Section13.1 orange note: existing survey reported through2026; revised data/measures scheduled2027",
+        "Section13.2 old groups and proportion-per-answer then average across questions; only answered questions included"
+      ],
+      "scope": "Chapter intro box and section13.2 text visually checked."
+    },
+    {
+      "printedPage": 125,
+      "wpsPage": 138,
+      "items": [
+        "Section13.3 two composites,three individual,two global measures",
+        "New item numbers; footnote12 effectiveApril2026 sample month",
+        "Intends same calculation process, future information promised",
+        "Section13.4 describes2009 experiment and2010Q4-2011Q2 data"
+      ],
+      "scope": "New measure body and footnote plus historical adjustment text visually checked."
+    },
+    {
+      "printedPage": 126,
+      "wpsPage": 139,
+      "items": [
+        "Full Table13.1 still historical Q9/16/19/24 etc; globalsQ20/25",
+        "Not a table of final new case-mix coefficients"
+      ],
+      "scope": "Table13.1 full rows and headers visually checked."
+    }
+  ],
+  "limitations": [
+    "WPS missing-font indicator remains",
+    "Not all147pages reviewed",
+    "Not a browser actual-print or questionnaire export approval",
+    "Final revised coefficients remain pending"
+  ],
+  "uploaded": false,
+  "originalSha256Unchanged": "1c9c15163f05e6dd2b4528b090cb04b8f1e4b0c96323515ed0fe67e2bc9d2773"
+}

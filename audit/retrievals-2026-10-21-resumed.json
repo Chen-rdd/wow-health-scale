@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-21",
+  "si_authorized": true,
+  "files": [
+    {
+      "file": "91195.pdf",
+      "bytes": 1661389,
+      "pages": 27,
+      "sha256": "63c6123cb32db39e4f5ec6f9a5e1a54ca822ce6a0d6b17e2acd803cb642d9d78",
+      "status": "downloaded",
+      "accessMode": "authorized_native_chrome_pdf_save",
+      "scope": "27 pages repository postprint; selected methods/results/discussion and tables read; body9/12/17/19 visually reviewed",
+      "url": "https://opus.bibliothek.uni-augsburg.de/opus4/files/91195/91195.pdf"
+    },
+    {
+      "file": "91195 Supplement.pdf",
+      "bytes": 1274428,
+      "pages": 8,
+      "sha256": "c8b3e4341e1ad1a7cc3e099373202fa53ee8007d73b44e17e11dba94c3c1a3a0",
+      "status": "downloaded",
+      "accessMode": "authorized_native_chrome_pdf_save",
+      "scope": "8 pages; full text extracted/read; complete English/German FigureS1 and TableS2 visually reviewed",
+      "url": "https://opus.bibliothek.uni-augsburg.de/opus4/files/91195/91195+Supplement.pdf"
+    }
+  ],
+  "notes": [
+    "Actual repository page opened in unlocked Chrome; both files saved via PDF download control, not print.",
+    "Main27pages includes repository cover; not falsely described as journal26page exact layout.",
+    "Local curl connection timeout retained as history; successful browser downloads supersede availability failure.",
+    "Browser-saved file sizes differ from catalog display566/369KB; actual bytes, page counts,title/DOI and repository cover verified; not claimed byte-identical publisher originals.",
+    "No raw PDFs or full items added to public site; no uploads or publication."
+  ]
+}
